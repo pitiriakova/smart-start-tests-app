@@ -1,0 +1,728 @@
+
+{"lessonTitle": "День 46. Shall or Will",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Ты не мог бы, пожалуйста, открыть окно?",
+                "variantsToChose": [
+                  "Will you please open the window? ",
+                  "Shall you please open the window?",
+                  "Will be you please open the window?"
+                ],
+                "correctAnswer": "Will you please open the window?",
+                "timeout": 10
+              },
+              {
+                "title": "Не могли бы они, пожалуйста, закрыть дверь?",
+                "variantsToChose": [
+                  "Will they please close the door?",
+                  "Shall they please close the door?",
+                  "Will be they please close the door?"
+                ],
+                "correctAnswer": "Will they please close the door?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Мне открыть окно?",
+                "variantsToChose": [
+                  "Will I open the window?",
+                  "Shall I open the window?",
+                  "Will be I open the window?"
+                ],
+                "correctAnswer": "Shall I open the window?",
+                "timeout": 10
+              },
+              {
+                "title": "Мне выключить телевизор?",
+                "variantsToChose": [
+                  "Will I turn off the TV?",
+                  "Shall I turn off the TV?",
+                  "Will be I turn off the TV?"
+                ],
+                "correctAnswer": "Shall I turn off the TV?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "This time tomorrow he will be _",
+                "variantsToChose": [
+                  "study",
+                  "studies",
+                  "studying"
+                ],
+                "correctAnswer": "studying",
+                "timeout": 10
+              },
+              {
+                "title": "This time tomorrow she will be _",
+                "variantsToChose": [
+                  "work",
+                  "works",
+                  "working"
+                ],
+                "correctAnswer": "working",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Мне сделать торт?",
+                "variantsToChose": [
+                  "Will I make the cake?",
+                  "I shall make the cake?",
+                  "Shall I make the cake?"
+                ],
+                "correctAnswer": "Shall I make the cake?",
+                "timeout": 10
+              },
+              {
+                "title": "Мне проследовать за ним?",
+                "variantsToChose": [
+                  "Will I follow him?",
+                  "I shall follow him?",
+                  "Shall I follow him?"
+                ],
+                "correctAnswer": "Shall I follow him?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "By the time he gets there it will _",
+                "variantsToChose": [
+                  "rains",
+                  "raining",
+                  "be raining"
+                ],
+                "correctAnswer": "be raining",
+                "timeout": 10
+              },
+              {
+                "title": "By the time she gets there it will _",
+                "variantsToChose": [
+                  "snow",
+                  "snowing",
+                  "be snowing"
+                ],
+                "correctAnswer": "be snowing",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Мне закрыть окно?",
+                "variantsToChose": [
+                  "Shall I close the window?",
+                  "Shall`ll I close the window?",
+                  "I shall close the window?"
+                ],
+                "correctAnswer": "Shall I close the window?",
+                "timeout": 10
+              },
+              {
+                "title": "Нам включить музыку?",
+                "variantsToChose": [
+                  "Shall we turn on the music?",
+                  "Shall`ll we turn on the music?",
+                  "We shall turn on the music?"
+                ],
+                "correctAnswer": "Shall we turn on the music?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "open",
+                  "I",
+                  "Shall",
+                  "the box"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "I",
+                  "open",
+                  "the box"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "close",
+                  "we",
+                  "Shall",
+                  "the door"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "close",
+                  "the door"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will",
+                  "the doctor",
+                  "follow",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "follow",
+                  "the doctor"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "to the party",
+                  "go",
+                  "Will",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "go",
+                  "to the party"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Shall",
+                  "make",
+                  "the cake",
+                  "we"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "make",
+                  "the cake"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Shall",
+                  "we",
+                  "the dinner",
+                  "cook"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "cook",
+                  "the dinner"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will you",
+                  "me a ride",
+                  "give",
+                  "tonight"
+                ],
+                "correctSentence": [
+                  "Will you",
+                  "give",
+                  "me a ride",
+                  "tonight"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will you",
+                  "buy",
+                  "for me",
+                  "a snack"
+                ],
+                "correctSentence": [
+                  "Will you",
+                  "buy",
+                  "a snack",
+                  "for me"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "give",
+                  "Shall I",
+                  "a ride",
+                  "her"
+                ],
+                "correctSentence": [
+                  "Shall I",
+                  "give",
+                  "her",
+                  "a ride"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Shall we",
+                  "them",
+                  "help",
+                  "with it"
+                ],
+                "correctSentence": [
+                  "Shall we",
+                  "help",
+                  "them",
+                  "with it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will",
+                  "to fix it",
+                  "you",
+                  "help me"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "help me",
+                  "to fix it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will",
+                  "build",
+                  "you",
+                  "her a house"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "build",
+                  "her a house"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/9ZaeaVRf0pE",
+                  "sentence": [
+                    "Which, in case you're not", null," me clearly, I can easily turn ",null,"a felony that ",null, "go away."
+                  ],
+                  "correctAnswer": [
+                    "hearing",
+                    "into",
+                    "won't "
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hear in"
+                      },
+                      {
+                        "text": "hearing"
+                      },
+                      {
+                        "text": "hear it"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "into"
+                      },
+                      {
+                        "text": "it to"
+                      },
+                      {
+                        "text": "to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "don't"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/rK1TINm2264",
+                  "sentence": [
+                    "Now they will ", null, " me ",null," this solitude which I ",null
+                  ],
+                  "correctAnswer": [
+                    "turn to",
+                    "in",
+                    "preserve"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "turn to"
+                      },
+                      {
+                        "text": "turn into"
+                      },
+                      {
+                        "text": "turned"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "at"
+                      },
+                      {
+                        "text": "on"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "preserve"
+                      },
+                      {
+                        "text": "presser"
+                      },
+                      {
+                        "text": "preserves"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/yOOnuABd_SQ",
+                  "sentence": [
+                    "Not ",null," what happened",null," make it go",null
+                  ],
+                  "correctAnswer": [
+                    "addressing",
+                    "won't",
+                    "away"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "dressing"
+                      },
+                      {
+                        "text": "addressing"
+                      },
+                      {
+                        "text": "arresting"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "don't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "away"
+                      },
+                      {
+                        "text": "way"
+                      },
+                      {
+                        "text": "await"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/HAl5n3QiXJI",
+                  "sentence": [
+                    "We will ",null," your ",null,"to everything you ",null, "around you."
+                  ],
+                  "correctAnswer": [
+                    "open up",
+                    "mind",
+                    "missing"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "open up"
+                      },
+                      {
+                        "text": "opened"
+                      },
+                      {
+                        "text": "open out"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mind"
+                      },
+                      {
+                        "text": "mount"
+                      },
+                      {
+                        "text": "mint"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "miss in"
+                      },
+                      {
+                        "text": "miss into"
+                      },
+                      {
+                        "text": "missing"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/wBaq0Id0uWY",
+                  "sentence": [
+                    "Want to see if the ",null," stealer will let us watch ",null," show ",null,"his place."
+                  ],
+                  "correctAnswer": [
+                    "joke",
+                    "the",
+                    "at"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "jock"
+                      },
+                      {
+                        "text": "joke"
+                      },
+                      {
+                        "text": "yolk"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "the"
+                      },
+                      {
+                        "text": "a"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "into"
+                      },
+                      {
+                        "text": "at"
+                      },
+                      {
+                        "text": "in"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7ELrKrPRC4Q",
+                  "sentence": [
+                    "I guess ",null,"always hoping that your mom ",null," take me back, give me ",null,"chance."
+                  ],
+                  "correctAnswer": [
+                    "I'm",
+                    "will",
+                    "another"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "I've"
+                      },
+                      {
+                        "text": "I'm"
+                      },
+                      {
+                        "text": "I do"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "isn't"
+                      },
+                      {
+                        "text": "will"
+                      },
+                      {
+                        "text": "is"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "other"
+                      },
+                      {
+                        "text": "no other"
+                      },
+                      {
+                        "text": "another"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

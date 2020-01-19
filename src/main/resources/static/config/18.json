@@ -1,0 +1,759 @@
+
+{"lessonTitle": "День 18. Инфинитив ч2",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Сложно быть доктором",
+                "variantsToChose": [
+                  "it is difficult to is a doctor",
+                  "it is difficult to be a doctor",
+                  "it is difficult be a doctor"
+                ],
+                "correctAnswer": "it is difficult to be a doctor",
+                "timeout": 10
+              },
+              {
+                "title": "Легко быть студентом",
+                "variantsToChose": [
+                  "it is easy to be a student",
+                  "it is easy is a student",
+                  "it is easy be a student"
+                ],
+                "correctAnswer": "it is easy to be a student",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "It is a good idea to go __ train",
+                "variantsToChose": [
+                  "with",
+                  "on",
+                  "by"
+                ],
+                "correctAnswer": "by",
+                "timeout": 10
+              },
+              {
+                "title": "It is a bad idea to go __ bus",
+                "variantsToChose": [
+                  "on",
+                  "with",
+                  "by"
+                ],
+                "correctAnswer": "by",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "It is fun to go _ shopping",
+                "variantsToChose": [
+                  "to",
+                  "on",
+                  "_"
+                ],
+                "correctAnswer": "_",
+                "timeout": 10
+              },
+              {
+                "title": "It is a good idea to go __ foot",
+                "variantsToChose": [
+                  "by",
+                  "on",
+                  "with"
+                ],
+                "correctAnswer": "by",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Хорошо иметь много денег",
+                "variantsToChose": [
+                  "It good to have a lot of money",
+                  "It is good to have a lot of money",
+                  "It is good have a lot of money"
+                ],
+                "correctAnswer": "It is good to have a lot of money",
+                "timeout": 10
+              },
+              {
+                "title": "Хорошо иметь много друзей",
+                "variantsToChose": [
+                  "It good to have a lot of friends",
+                  "It is good to have a lot of friends",
+                  "It is good have a lot of friends"
+                ],
+                "correctAnswer": "It is good to have a lot of friends",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "It is a good idea _ there",
+                "variantsToChose": [
+                  "to go to",
+                  "to go",
+                  "go"
+                ],
+                "correctAnswer": "to go",
+                "timeout": 10
+              },
+              {
+                "title": "It is a bad idea _ home",
+                "variantsToChose": [
+                  "to",
+                  "to go",
+                  "to go to"
+                ],
+                "correctAnswer": "to go",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "He doesn't want to _ me",
+                "variantsToChose": [
+                  "apologizes to",
+                  "apologize to",
+                  "apologize for"
+                ],
+                "correctAnswer": "apologize to",
+                "timeout": 10
+              },
+              {
+                "title": "He doesn't want to __ me",
+                "variantsToChose": [
+                  "talks to",
+                  "talk",
+                  "talk to"
+                ],
+                "correctAnswer": "talk to",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "good",
+                  "it is",
+                  "rich",
+                  "to be"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "good",
+                  "to be",
+                  "rich"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "good",
+                  "strong",
+                  "to be",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "good",
+                  "to be",
+                  "strong"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "difficult",
+                  "it is",
+                  "to",
+                  "swim"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "difficult",
+                  "to",
+                  "swim"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "travel",
+                  "to",
+                  "expensive",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "expensive",
+                  "to",
+                  "travel"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "to have",
+                  "easy",
+                  "it is",
+                  "fun"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "easy",
+                  "to have",
+                  "fun"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "enemies",
+                  "to have",
+                  "easy",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "easy",
+                  "to have",
+                  "enemies"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "to be",
+                  "difficult",
+                  "a policeman",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "difficult",
+                  "to be",
+                  "a policeman"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a good idea",
+                  "it is",
+                  "a dentist",
+                  "to be"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "a good idea",
+                  "to be",
+                  "a dentist"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it's easy",
+                  "to",
+                  "him",
+                  "to listen"
+                ],
+                "correctSentence": [
+                  "it's easy",
+                  "to listen",
+                  "to",
+                  "him"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "to argue",
+                  "with him",
+                  "it's",
+                  "difficult"
+                ],
+                "correctSentence": [
+                  "it's",
+                  "difficult",
+                  "to argue",
+                  "with him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it's",
+                  "to be",
+                  "not good",
+                  "rich"
+                ],
+                "correctSentence": [
+                  "it's",
+                  "not good",
+                  "to be",
+                  "rich"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it's easy",
+                  "him",
+                  "hate",
+                  "to"
+                ],
+                "correctSentence": [
+                  "it's easy",
+                  "to",
+                  "hate",
+                  "him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EaYIpM1gbiw",
+                  "sentence": [
+                    "I realized that I was more",
+                    null,
+                    "on by",
+                    null,
+                    "gravy boat than by",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "turned",
+                    "this",
+                    "Bary"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "turned"
+                      },
+                      {
+                        "text": "tend"
+                      },
+                      {
+                        "text": "tuned"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Bary"
+                      },
+                      {
+                        "text": "Cheryl"
+                      },
+                      {
+                        "text": "boat"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/AgmwFTfEo7Y",
+                  "sentence": [
+                    "And then I got really",
+                    null,
+                    null,
+                    "and that's",
+                    null,
+                    "it hit me"
+                  ],
+                  "correctAnswer": [
+                    "freaked",
+                    "out",
+                    "when"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "dripped"
+                      },
+                      {
+                        "text": "freaked"
+                      },
+                      {
+                        "text": "fuck"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "our"
+                      },
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "hour"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sam"
+                      },
+                      {
+                        "text": "then"
+                      },
+                      {
+                        "text": "when"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SxjoA484Jso",
+                  "sentence": [
+                    "how much Barry",
+                    null,
+                    null,
+                    "Mr.",
+                    null,
+                    "Head"
+                  ],
+                  "correctAnswer": [
+                    "looks",
+                    "like",
+                    "potato"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "lose"
+                      },
+                      {
+                        "text": "glooms"
+                      },
+                      {
+                        "text": "looks"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "nike"
+                      },
+                      {
+                        "text": "like"
+                      },
+                      {
+                        "text": "hike"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "pork"
+                      },
+                      {
+                        "text": "tomato"
+                      },
+                      {
+                        "text": "potato"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/CJS85flUi54",
+                  "sentence": [
+                    "Y'know, I",
+                    null,
+                    "I",
+                    null,
+                    null,
+                    "he looked familiar, but"
+
+                  ],
+                  "correctAnswer": [
+                    "mean",
+                    "always",
+                    "knew"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "meal"
+                      },
+                      {
+                        "text": "mean"
+                      },
+                      {
+                        "text": "feel"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "always"
+                      },
+                      {
+                        "text": "almost"
+                      },
+                      {
+                        "text": "almond"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "nephew"
+                      },
+                      {
+                        "text": "few"
+                      },
+                      {
+                        "text": "knew"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/17rpU5Vq4-4",
+                  "sentence": [
+                    "Anyway, I",
+                    null,
+                    null,
+                    "to",
+                    null,
+                    "of there"
+                  ],
+                  "correctAnswer": [
+                    "just",
+                    "had",
+                    "get out"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fast"
+                      },
+                      {
+                        "text": "just"
+                      },
+                      {
+                        "text": "lust"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "had"
+                      },
+                      {
+                        "text": "rad"
+                      },
+                      {
+                        "text": "fed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fallout"
+                      },
+                      {
+                        "text": "get out"
+                      },
+                      {
+                        "text": "take out"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ObLMDkvm9gg",
+                  "sentence": [
+                    "I started",
+                    null,
+                    "why am I",
+                    null,
+                    null,
+                    "and who am I doing this for?"
+                  ],
+                  "correctAnswer": [
+                    "wondering",
+                    "doing",
+                    "this"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "wondering"
+                      },
+                      {
+                        "text": "mumbering"
+                      },
+                      {
+                        "text": "lumbering"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "doing"
+                      },
+                      {
+                        "text": "fueling"
+                      },
+                      {
+                        "text": "sueing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hiss"
+                      },
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "miss"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

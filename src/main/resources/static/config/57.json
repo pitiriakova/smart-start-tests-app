@@ -1,0 +1,754 @@
+
+{"lessonTitle": "День 57. MUST",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Должно быть, у тебя много друзей",
+                "variantsToChose": [
+                  "You must have a lot of friends",
+                  "You must has a lot of friends",
+                  "You must have had a lot of friends"
+                ],
+                "correctAnswer": "You must have a lot of friends",
+                "timeout": 10
+              },
+              {
+                "title": "Ты, должно быть, устал",
+                "variantsToChose": [
+                  "You must be tired",
+                  "You mustn't be tired",
+                  "You could be tired"
+                ],
+                "correctAnswer": "You must be tired",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "They __ earn a lot",
+                "variantsToChose": [
+                  "must be",
+                  "must",
+                  "must to"
+                ],
+                "correctAnswer": "must",
+                "timeout": 10
+              },
+              {
+                "title": "They must __ __ fun",
+                "variantsToChose": [
+                  "has had",
+                  "have had",
+                  "have has"
+                ],
+                "correctAnswer": "have had",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Это не может быть правдой",
+                "variantsToChose": [
+                  "It mustn't be true",
+                  "It can't be true",
+                  "It couldn't be true"
+                ],
+                "correctAnswer": "It can't be true",
+                "timeout": 10
+              },
+              {
+                "title": "You can't __ gone there",
+                "variantsToChose": [
+                  "has",
+                  "have",
+                  "must"
+                ],
+                "correctAnswer": "have",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Ты, должно быть, повеселился",
+                "variantsToChose": [
+                  "You must had fun",
+                  "You must have had fun",
+                  "You must have fun"
+                ],
+                "correctAnswer": "You must have had fun",
+                "timeout": 10
+              },
+              {
+                "title": "Ты не можешь быть уставшей",
+                "variantsToChose": [
+                  "You mustn't be tired",
+                  "You can't be tired",
+                  "You couldn't be tired"
+                ],
+                "correctAnswer": "You can't be tired",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Должно быть, она хорошо знает математику",
+                "variantsToChose": [
+                  "She must know math well",
+                  "She must have known math well",
+                  "She musts know math well"
+                ],
+                "correctAnswer": "She must know math well",
+                "timeout": 10
+              },
+              {
+                "title": "Должно быть, они ушли слишком далеко",
+                "variantsToChose": [
+                  "They must have to gone too far",
+                  "They must have gone too far",
+                  "They must gone too far"
+                ],
+                "correctAnswer": "They must have gone too far",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Должно быть, я его знаю",
+                "variantsToChose": [
+                  "I must been know him",
+                  "I must know him",
+                  "I must have been know him"
+                ],
+                "correctAnswer": "I must know him",
+                "timeout": 10
+              },
+              {
+                "title": "Ты, должно быть, шутишь",
+                "variantsToChose": [
+                  "You must have been joking",
+                  "You must be joking",
+                  "You must joking"
+                ],
+                "correctAnswer": "You must be joking",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "many problems",
+                  "can't",
+                  "she",
+                  "have"
+                ],
+                "correctSentence": [
+                  "She",
+                  "can't",
+                  "have",
+                  "many problems"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be",
+                  "must",
+                  "You",
+                  "bored"
+                ],
+                "correctSentence": [
+                  "You",
+                  "must",
+                  "be",
+                  "bored"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "have",
+                  "he",
+                  "must",
+                  "been asleep"
+                ],
+                "correctSentence": [
+                  "He",
+                  "must",
+                  "have",
+                  "been asleep"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hard",
+                  "must",
+                  "you",
+                  "work"
+                ],
+                "correctSentence": [
+                  "You",
+                  "must",
+                  "work",
+                  "hard"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be",
+                  "must",
+                  "It",
+                  "expensive"
+                ],
+                "correctSentence": [
+                  "It",
+                  "must",
+                  "be",
+                  "expensive" 
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "They",
+                  "be",
+                  "tired",
+                  "can't"
+                ],
+                "correctSentence": [
+                  "They",
+                  "can't",
+                  "be",
+                  "tired"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "A lot",
+                  "must",
+                  "she",
+                  "earn"
+                ],
+                "correctSentence": [
+                  "She",
+                  "must",
+                  "earn",
+                  "a lot"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "They",
+                  "been",
+                  "must have",
+                  "at work"
+                ],
+                "correctSentence": [
+                  "they",
+                  "must have",
+                  "been",
+                  "at work"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "joking",
+                  "must",
+                  "You",
+                  "be"
+                ],
+                "correctSentence": [
+                  "You",
+                  "must",
+                  "be",
+                  "joking"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "can't",
+                  "it",
+                  "true",
+                  "be"
+                ],
+                "correctSentence": [
+                  "It",
+                  "can't",
+                  "be",
+                  "true"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "know",
+                  "must",
+                  "a lot"
+                ],
+                "correctSentence": [
+                  "he",
+                  "must",
+                  "know",
+                  "a lot"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "had fun",
+                  "must",
+                  "you",
+                  "have"
+                ],
+                "correctSentence": [
+                  "You",
+                  "must",
+                  "have",
+                  "had fun"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/rNMcLLwau3k",
+                  "sentence": [
+                    "It's not on the",
+                    null,
+                    "yet, so you",
+                    null,
+                    "take it at",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "market",
+                    "must",
+                    "once"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "marked"
+                      },
+                      {
+                        "text": "market"
+                      },
+                      {
+                        "text": "marquette"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "must"
+                      },
+                      {
+                        "text": "might"
+                      },
+                      {
+                        "text": "may"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "once"
+                      },
+                      {
+                        "text": "ounce"
+                      },
+                      {
+                        "text": "one's"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/IyzBc-LnOfI",
+                  "sentence": [
+                    "She must",
+                    null,
+                    "before the sailboat",
+                    null,
+                    "the",
+                    null,
+                    "rock light"
+                  ],
+                  "correctAnswer": [
+                    "turn",
+                    "crosses",
+                    "lime"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "turn"
+                      },
+                      {
+                        "text": "term"
+                      },
+                      {
+                        "text": "tarn"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "caresses"
+                      },
+                      {
+                        "text": "creases"
+                      },
+                      {
+                        "text": "crosses"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "wine"
+                      },
+                      {
+                        "text": "lime"
+                      },
+                      {
+                        "text": "cline"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/qCu3Znimi5c",
+                  "sentence": [
+                    "Ok, but",
+                    null,
+                    null,
+                    "be good for the",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "this",
+                    "can't",
+                    "baby"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "miss"
+                      },
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "his"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "can"
+                      },
+                      {
+                        "text": "scam"
+                      },
+                      {
+                        "text": "can't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "baby"
+                      },
+                      {
+                        "text": "lady"
+                      },
+                      {
+                        "text": "bay"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/CYk-UjIgaDE",
+                  "sentence": [
+                    "Tell",
+                    null,
+                    "what I",
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "me",
+                    "must",
+                    "do"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "me"
+                      },
+                      {
+                        "text": "he"
+                      },
+                      {
+                        "text": "him"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "must to"
+                      },
+                      {
+                        "text": "must do"
+                      },
+                      {
+                        "text": "must"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "do"
+                      },
+                      {
+                        "text": "you"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/r-DVjLx-_y4",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "we",
+                    "can't be",
+                    "late"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "he"
+                      },
+                      {
+                        "text": "we"
+                      },
+                      {
+                        "text": "me"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "can"
+                      },
+                      {
+                        "text": "can't"
+                      },
+                      {
+                        "text": "can't be"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "late"
+                      },
+                      {
+                        "text": "fate"
+                      },
+                      {
+                        "text": "mate"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZOjSKxZ5Yv8",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "you",
+                    "can't be",
+                    "serious"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "you are"
+                      },
+                      {
+                        "text": "your"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "can't be"
+                      },
+                      {
+                        "text": "can be"
+                      },
+                      {
+                        "text": "can't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "serious"
+                      },
+                      {
+                        "text": "at CVS"
+                      },
+                      {
+                        "text": "mysterious"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+
+{"lessonTitle": "День 70. Passive",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "They have already discussed it",
+                "variantsToChose": [
+                  "It has already been discussed",
+                  "It has had already been discussed",
+                  "It has already discussed"
+                ],
+                "correctAnswer": "It has already been discussed",
+                "timeout": 10
+              },
+              {
+                "title": "They have just discussed it",
+                "variantsToChose": [
+                  "It has just been discussed",
+                  "It has had just been discussed",
+                  "It has just discussed"
+                ],
+                "correctAnswer": "It has just been discussed",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "He has built this house",
+                "variantsToChose": [
+                  "This house has built by him",
+                  "This house has been built by him",
+                  "This house was been built by him"
+                ],
+                "correctAnswer": "This house has been built by him",
+                "timeout": 10
+              },
+              {
+                "title": "He hasn't built this house",
+                "variantsToChose": [
+                  "This house hasn't built by him",
+                  "This house hasn't been built by him",
+                  "This house wasn't been built by him"
+                ],
+                "correctAnswer": "This house hasn't been built by him",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "We haven't seen him since 2007",
+                "variantsToChose": [
+                  "We hasn't been seen since 2007",
+                  "He hasn't seen since 2007",
+                  "He hasn't been seen since 2007"
+                ],
+                "correctAnswer": "He hasn't been seen since 2007",
+                "timeout": 10
+              },
+              {
+                "title": "They haven't invited him for 20 years",
+                "variantsToChose": [
+                  "He wasn't been invited for 20 years",
+                  "He hasn't invited for 20 years",
+                  "He hasn't been invited for 20 years"
+                ],
+                "correctAnswer": "He hasn't been invited for 20 years",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Его наконец-то пригласили",
+                "variantsToChose": [
+                  "He has finally been invited",
+                  "He has finally invited",
+                  "He had finally been invited"
+                ],
+                "correctAnswer": "He has finally been invited",
+                "timeout": 10
+              },
+              {
+                "title": "Ее наконец-то арестовали",
+                "variantsToChose": [
+                  "She has finally been arrested",
+                  "She had finally been arrested",
+                  "She has finally arrested"
+                ],
+                "correctAnswer": "She has finally been arrested",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Их не видели с понедельника",
+                "variantsToChose": [
+                  "They haven't been since Monday",
+                  "They haven't been seen since Monday",
+                  "They hadn't been seen since Monday"
+                ],
+                "correctAnswer": "They haven't been seen since Monday",
+                "timeout": 10
+              },
+              {
+                "title": "Ника не видели с понедельника",
+                "variantsToChose": [
+                  "Nick hasn't been since Monday",
+                  "Nick hasn't been seen since Monday",
+                  "Nick hasn't been seen since Monday"
+                ],
+                "correctAnswer": "Nick hasn't been seen since Monday",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Сколько домов у нас будет?",
+                "variantsToChose": [
+                  "How many houses will we be had?",
+                  "How many houses will be we have?",
+                  "How many houses will we have?"
+                ],
+                "correctAnswer": "How many houses will we have?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько машин у него будет?",
+                "variantsToChose": [
+                  "How many cars he have?",
+                  "How many cars will be he have?",
+                  "How many cars will he have?"
+                ],
+                "correctAnswer": "How many cars will he have?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "been cleaned",
+                  "yet",
+                  "the room"
+                ],
+                "correctSentence": [
+                  "the room",
+                  "hasn't",
+                  "been cleaned",
+                  "yet"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "has already",
+                  "been",
+                  "cleaned",
+                  "the room"
+                ],
+                "correctSentence": [
+                  "the room",
+                  "has already",
+                  "been",
+                  "cleaned"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "this question",
+                  "will",
+                  "be",
+                  "asked"
+                ],
+                "correctSentence": [
+                  "will",
+                  "this question",
+                  "be",
+                  "asked"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "when will",
+                  "this man",
+                  "be",
+                  "released"
+                ],
+                "correctSentence": [
+                  "when will",
+                  "this man",
+                  "be",
+                  "released"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "yet",
+                  "been signed",
+                  "it"
+                ],
+                "correctSentence": [
+                  "it",
+                  "hasn`t",
+                  "been signed",
+                  "yet"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "yet",
+                  "been discussed",
+                  "it"
+                ],
+                "correctSentence": [
+                  "it",
+                  "hasn`t",
+                  "been discussed",
+                  "yet"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "already",
+                  "has",
+                  "been done"
+                ],
+                "correctSentence": [
+                  "it",
+                  "has",
+                  "already",
+                  "been done"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "been done",
+                  "it",
+                  "yet"
+                ],
+                "correctSentence": [
+                  "it",
+                  "hasn't",
+                  "been done",
+                  "yet"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "been seen",
+                  "for 5 days",
+                  "Nick",
+                  "hasn't"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "been seen",
+                  "for 5 days"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "been arrested",
+                  "since 2015",
+                  "Nick",
+                  "hasn't"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "been arrested",
+                  "since 2015"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "warned",
+                  "haven't",
+                  "you",
+                  "been"
+                ],
+                "correctSentence": [
+                  "you",
+                  "haven't",
+                  "been",
+                  "warned"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "warned",
+                  "have",
+                  "you",
+                  "been"
+                ],
+                "correctSentence": [
+                  "you",
+                  "have",
+                  "been",
+                  "warned"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/h0T1VRkRBbM",
+                  "sentence": [
+                    "It is the",
+                    null,
+                    "that has been",
+                    null,
+                    "over your",
+                    null
+
+
+                  ],
+                  "correctAnswer": [
+                    "world",
+                    "pulled",
+                    "eyes"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "word"
+                      },
+                      {
+                        "text": "world"
+                      },
+                      {
+                        "text": "worked"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "polled"
+                      },
+                      {
+                        "text": "pooled"
+                      },
+                      {
+                        "text": "pulled"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "eyes"
+                      },
+                      {
+                        "text": "ais"
+                      },
+                      {
+                        "text": "ice"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EK4xj0Qd1-I",
+                  "sentence": [
+                    "One, the",
+                    null,
+                    "has been",
+                    null,
+                    "from the Ritz to a much",
+                    null,
+                    "venue"
+                  ],
+                  "correctAnswer": [
+                    "venue",
+                    "changed",
+                    "smaller"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "venu"
+                      },
+                      {
+                        "text": "venule"
+                      },
+                      {
+                        "text": "venue"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "changed"
+                      },
+                      {
+                        "text": "chained"
+                      },
+                      {
+                        "text": "change"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "smalls"
+                      },
+                      {
+                        "text": "small"
+                      },
+                      {
+                        "text": "smaller"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cLZ2-8u-pe4",
+                  "sentence": [
+                    "Turns out,",
+                    null,
+                    "too much has been",
+                    null,
+                    "about great men and not",
+                    null,
+                    "enough about morons"
+
+                  ],
+                  "correctAnswer": [
+                    "far",
+                    "written",
+                    "nearly"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "far"
+                      },
+                      {
+                        "text": "four"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "write"
+                      },
+                      {
+                        "text": "written"
+                      },
+                      {
+                        "text": "rite"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "nilly"
+                      },
+                      {
+                        "text": "merely"
+                      },
+                      {
+                        "text": "nearly"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_AIeC5ZbB4k",
+                  "sentence": [
+                    "I'm",
+                    null,
+                    "your friend has been",
+                    null,
+                    "of his",
+                    null,
+                    "of the City Watch"
+
+                  ],
+                  "correctAnswer": [
+                    "afraid",
+                    "relieved",
+                    "command"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "affirmed"
+                      },
+                      {
+                        "text": "affray"
+                      },
+                      {
+                        "text": "afraid"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "revealed"
+                      },
+                      {
+                        "text": "relieved"
+                      },
+                      {
+                        "text": "relived"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "command"
+                      },
+                      {
+                        "text": "combined"
+                      },
+                      {
+                        "text": "compound"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/f2QuYGH-k1c",
+                  "sentence": [
+                    "The",
+                    null,
+                    "has been",
+                    null,
+                    "for four",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "development",
+                    "underway",
+                    "years"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "envelopment"
+                      },
+                      {
+                        "text": "defilement"
+                      },
+                      {
+                        "text": "development"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "underlay"
+                      },
+                      {
+                        "text": "underway"
+                      },
+                      {
+                        "text": "underwear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "yours"
+                      },
+                      {
+                        "text": "jeers"
+                      },
+                      {
+                        "text": "years"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EtlZz5mRwm8",
+                  "sentence": [
+                    "Once again, my",
+                    null,
+                    "to",
+                    null,
+                    "the Headless Hunt has been",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "request",
+                    "join",
+                    "denied"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "recessed"
+                      },
+                      {
+                        "text": "regressed"
+                      },
+                      {
+                        "text": "request"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gene"
+                      },
+                      {
+                        "text": "joint"
+                      },
+                      {
+                        "text": "join"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "denied"
+                      },
+                      {
+                        "text": "denude"
+                      },
+                      {
+                        "text": "denote"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

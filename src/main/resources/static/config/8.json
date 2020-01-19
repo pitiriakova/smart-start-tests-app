@@ -1,0 +1,541 @@
+{
+  "lessonTitle": "День 8. Глагол to have. Исчисляемые",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "I have __ apples",
+                  "variantsToChose": [
+                    "an",
+                    "lot of",
+                    "a few"
+                  ],
+                  "correctAnswer": "a few",
+                  "timeout": 10
+                },
+                {
+                  "title": "He has __ tomatoes",
+                  "variantsToChose": [
+                    "few",
+                    "lot of",
+                    "a"
+                  ],
+                  "correctAnswer": "few",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "We have __ chair",
+                  "variantsToChose": [
+                    "a",
+                    "an",
+                    "__"
+                  ],
+                  "correctAnswer": "a",
+                  "timeout": 10
+                },
+                {
+                  "title": "They have __ desk",
+                  "variantsToChose": [
+                    "a",
+                    "an",
+                    "__"
+                  ],
+                  "correctAnswer": "a",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "У меня есть несколько бананов",
+                  "variantsToChose": [
+                    "I have a few bananas",
+                    "I have few bananas",
+                    "I have a lot of bananas"
+                  ],
+                  "correctAnswer": "I have a few bananas",
+                  "timeout": 10
+                },
+                {
+                  "title": "У неё есть несколько ананасов",
+                  "variantsToChose": [
+                    "she has few pineapples",
+                    "she has a few pineapples",
+                    "she has few pineapples"
+                  ],
+                  "correctAnswer": "she has a few pineapples",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "у тебя мало помидоров",
+                  "variantsToChose": [
+                    "you have a few tomatoes",
+                    "you have a lot of tomatoes",
+                    "you have few tomatoes"
+                  ],
+                  "correctAnswer": "you have few tomatoes",
+                  "timeout": 10
+                },
+                {
+                  "title": "у нас мало картошки",
+                  "variantsToChose": [
+                    "we have a few potatoes",
+                    "we have a lot of potatoes",
+                    "we have few potatoes"
+                  ],
+                  "correctAnswer": "we have few potatoes",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "She has a lot of peaches",
+                  "variantsToChose": [
+                    "у неё мало персиков",
+                    "У неё много персиков",
+                    "у неё несколько персиков"
+                  ],
+                  "correctAnswer": "У неё много персиков",
+                  "timeout": 10
+                },
+                {
+                  "title": "She has a few carrots",
+                  "variantsToChose": [
+                    "у неё много морковок",
+                    "у неё мало морковок",
+                    "у неё несколько морковок"
+                  ],
+                  "correctAnswer": "у неё несколько морковок",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "She has __ onion",
+                  "variantsToChose": [
+                    "a lot of",
+                    "an",
+                    "few"
+                  ],
+                  "correctAnswer": "an",
+                  "timeout": 10
+                },
+                {
+                  "title": "He has __ lemon",
+                  "variantsToChose": [
+                    "a lot of",
+                    "a",
+                    "a few"
+                  ],
+                  "correctAnswer": "a",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "few",
+                    "has",
+                    "apples",
+                    "he"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "few",
+                    "apples"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "bananas",
+                    "has",
+                    "a few"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "a few",
+                    "bananas"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "a lot of",
+                    "I",
+                    "pears",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "a lot of",
+                    "pears"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "a lot of",
+                    "have",
+                    "oranges"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "have",
+                    "a lot of",
+                    "oranges"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "has",
+                    "she",
+                    "carrot",
+                    "a"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "has",
+                    "a",
+                    "carrot"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "pineapple",
+                    "a",
+                    "has"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "a",
+                    "pineapple"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "bananas",
+                    "a few",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "have",
+                    "a few",
+                    "bananas"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "few",
+                    "you",
+                    "have",
+                    "peaches"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "have",
+                    "few",
+                    "peaches"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "a lot of",
+                    "strawberries",
+                    "have",
+                    "they"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "have",
+                    "a lot of",
+                    "strawberries"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "a lot of",
+                    "potatoes",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "have",
+                    "a lot of",
+                    "potatoes"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "a",
+                    "am",
+                    "doctor"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "a",
+                    "doctor"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "is",
+                    "a",
+                    "he",
+                    "waiter"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "is",
+                    "a",
+                    "waiter"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/hw-nfsQ_vbM",
+                  "sentence": [
+                    "Did you",
+                    null,
+                    "me strawberries"
+                  ],
+                  "correctAnswer": "bring",
+                  "possibleAnswers": [
+                    "get",
+                    "ring",
+                    "bring"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/9YQE_f9Tn8I",
+                  "sentence": [
+                    "I need to",
+                    null,
+                    "you a few questions"
+                  ],
+                  "correctAnswer": "ask",
+                  "possibleAnswers": [
+                    "answer",
+                    "alter",
+                    "ask"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/4ijrmdBtFFA",
+                  "sentence": [
+                    "I",
+                    null,
+                    "a lot of fancy words"
+                  ],
+                  "correctAnswer": "learned",
+                  "possibleAnswers": [
+                    "learned",
+                    "lack",
+                    "lot"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/YOwF7zxG538",
+                  "sentence": [
+                    "I guess I do have a few",
+                    null,
+                    "to feel good, but"
+                  ],
+                  "correctAnswer": "reasons",
+                  "possibleAnswers": [
+                    "rights",
+                    "reasons",
+                    "wizards"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/gT26pExqP9g",
+                  "sentence": [
+                    "I've been",
+                    null,
+                    "his potatoes"
+                  ],
+                  "correctAnswer": "eating",
+                  "possibleAnswers": [
+                    "needing",
+                    "eating",
+                    "sitting"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 1,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Im1kANB-Zjo",
+                  "sentence": [
+                    "Partridge in a",
+                    null,
+                    "tree missed it too"
+                  ],
+                  "correctAnswer": "pear",
+                  "characters": [
+                    "b",
+                    "u",
+                    "p",
+                    "m",
+                    "e",
+                    "r",
+                    "l",
+                    "a",
+                    "l"
+                  ],
+                  "timeout": 20
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

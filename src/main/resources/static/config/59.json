@@ -1,0 +1,758 @@
+
+{"lessonTitle": "День 59. Would",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "I __ like to have a house in France",
+                "variantsToChose": [
+                  "must",
+                  "should",
+                  "would"
+                ],
+                "correctAnswer": "would",
+                "timeout": 10
+              },
+              {
+                "title": "I __ like to rent an apartment in Chicago",
+                "variantsToChose": [
+                  "must",
+                  "should",
+                  "would"
+                ],
+                "correctAnswer": "would",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Why __ she try that?",
+                "variantsToChose": [
+                  "wouldn`t",
+                  "couldn`t",
+                  "wouldn`t not"
+                ],
+                "correctAnswer": "wouldn`t",
+                "timeout": 10
+              },
+              {
+                "title": "Why __ they go to his birthday?",
+                "variantsToChose": [
+                  "wouldn`t",
+                  "couldn`t",
+                  "wouldn`t not"
+                ],
+                "correctAnswer": "wouldn`t",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему бы тебе меня не нанять?",
+                "variantsToChose": [
+                  "Why would you hire me?",
+                  "Why wouldn't you hire me?",
+                  "Why couldn`t you hire me?"
+                ],
+                "correctAnswer": "Why wouldn't you hire me?",
+                "timeout": 10
+              },
+              {
+                "title": "Почему бы тебе мне не позвонить?",
+                "variantsToChose": [
+                  "Why would you call me?",
+                  "Why wouldn't you call me?",
+                  "Why couldn`t you call me?"
+                ],
+                "correctAnswer": "Why wouldn't you call me?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Я бы пошел посмотреть на выступление",
+                "variantsToChose": [
+                  "I would go to see the performance",
+                  "I go to see the performance",
+                  "I wouldn`t go to see the performance"
+                ],
+                "correctAnswer": "I would go to see the performance",
+                "timeout": 10
+              },
+              {
+                "title": "Я бы сходил в музей МОМА в Нью Йорке",
+                "variantsToChose": [
+                  "I would go to MOMA in New York",
+                  "I go to MOMA in New York",
+                  "I wouldn`t go to MOMAin New York"
+                ],
+                "correctAnswer": "I would go to MOMA in New York",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Почему бы ему не взять деньги?",
+                "variantsToChose": [
+                  "Why wouldn't he take money?",
+                  "Why would he not take money?",
+                  "Why would he take no money?"
+                ],
+                "correctAnswer": "Why would't he take money?",
+                "timeout": 10
+              },
+              {
+                "title": "Почему бы ему не дать денег?",
+                "variantsToChose": [
+                  "Why wouldn't he give money?",
+                  "Why would he not give money?",
+                  "Why would he give no money?"
+                ],
+                "correctAnswer": "Why wouldn't he give money?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Они бы выбрали эту книгу",
+                "variantsToChose": [
+                  "They would be choose this book",
+                  "They will choose this book",
+                  "They would choose this book"
+                ],
+                "correctAnswer": "They would choose this book",
+                "timeout": 10
+              },
+              {
+                "title": "Они бы выбрали эту сумку",
+                "variantsToChose": [
+                  "They would pick this bag",
+                  "They would pick this bag",
+                  "They would pick this bag"
+                ],
+                "correctAnswer": "They would pick this bag",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "We",
+                  "love",
+                  "would"
+                ],
+                "correctSentence": [
+                  "We",
+                  "would",
+                  "love",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "They",
+                  "would",
+                  "like"
+                ],
+                "correctSentence": [
+                  "They",
+                  "would",
+                  "like",
+                  "it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Why",
+                  "would",
+                  "you",
+                  "do it"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "would",
+                  "you",
+                  "do it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Why",
+                  "would",
+                  "he",
+                  "say it"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "would",
+                  "he",
+                  "say it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "report it",
+                  "Why",
+                  "we",
+                  "wouldn`t"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "wouldn`t",
+                  "we",
+                  "report it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "notice it",
+                  "Why",
+                  "we",
+                  "wouldn`t"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "wouldn`t",
+                  "we",
+                  "notice it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "would",
+                  "She",
+                  "drive",
+                  "a car"
+                ],
+                "correctSentence": [
+                  "She",
+                  "would",
+                  "drive",
+                  "a car"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "would",
+                  "She",
+                  "stop",
+                  "a car"
+                ],
+                "correctSentence": [
+                  "She",
+                  "would",
+                  "stop",
+                  "the bus"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "wouldn`t",
+                  "this song",
+                  "listen to"
+                ],
+                "correctSentence": [
+                  "He",
+                  "wouldn`t",
+                  "listen to",
+                  "this song"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "take",
+                  "wouldn`t",
+                  "this box",
+                  "He"
+                ],
+                "correctSentence": [
+                  "He",
+                  "wouldn`t",
+                  "take",
+                  "this box"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "they",
+                  "Why would",
+                  "regret",
+                  "it"
+                ],
+                "correctSentence": [
+                  "Why would",
+                  "they",
+                  "regret",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "believe",
+                  "they",
+                  "it",
+                  "Why would"
+                ],
+                "correctSentence": [
+                  "Why would",
+                  "they",
+                  "believe",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/B9gDJgBxj34",
+                  "sentence": [
+                    "Ned, I would",
+                    null,
+                    "to stand",
+                    null,
+                    " and",
+                    null,
+                    "with you"
+
+                  ],
+                  "correctAnswer": [
+                    "love",
+                    "here",
+                    "talk"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "like"
+                      },
+                      {
+                        "text": "rough"
+                      },
+                      {
+                        "text": "love"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in here"
+                      },
+                      {
+                        "text": "and hear"
+                      },
+                      {
+                        "text": "here"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rock"
+                      },
+                      {
+                        "text": "to talk"
+                      },
+                      {
+                        "text": "talk"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1u1O_qm3G2E",
+                  "sentence": [
+                    "i would like",
+                    null,
+                    null,
+                    "you",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "to know",
+                    "who",
+                    "are"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "know"
+                      },
+                      {
+                        "text": "to know"
+                      },
+                      {
+                        "text": "knowing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "how"
+                      },
+                      {
+                        "text": "who"
+                      },
+                      {
+                        "text": "who are"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "and I"
+                      },
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "art"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/aV7_gprr6Bo",
+                  "sentence": [
+                    "and why",
+                    null,
+                    null,
+                    "rescue",
+                    null,
+                    "from hell"
+                  ],
+                  "correctAnswer": [
+                    "would",
+                    "an angel",
+                    "me"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "would"
+                      },
+                      {
+                        "text": "wouldn't"
+                      },
+                      {
+                        "text": "would and"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "angel"
+                      },
+                      {
+                        "text": "an angel"
+                      },
+                      {
+                        "text": "and angel"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "me"
+                      },
+                      {
+                        "text": "him"
+                      },
+                      {
+                        "text": "he"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/e9WYI137c-Y",
+                  "sentence": [
+                    null,
+                    "would",
+                    null,
+                    "want",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "why",
+                    "anyone",
+                    "that"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Why"
+                      },
+                      {
+                        "text": "I"
+                      },
+                      {
+                        "text": "My"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "one"
+                      },
+                      {
+                        "text": "anyone"
+                      },
+                      {
+                        "text": "and one"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Mat"
+                      },
+                      {
+                        "text": "sad"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7RrrhbykJGs",
+                  "sentence": [
+                    "why",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "wouldn't",
+                    "I like",
+                    "it"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "would"
+                      },
+                      {
+                        "text": "wooden"
+                      },
+                      {
+                        "text": "wouldn't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Nike"
+                      },
+                      {
+                        "text": "I like"
+                      },
+                      {
+                        "text": "alike"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Pit"
+                      },
+                      {
+                        "text": "fit"
+                      },
+                      {
+                        "text": "it"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZnBTWPNFPY4",
+                  "sentence": [
+                    "so I ",
+                    null,
+                    "I would rather",
+                    null,
+                    "happy than ",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "decided",
+                    "be",
+                    "smart"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "decide"
+                      },
+                      {
+                        "text": "have decided"
+                      },
+                      {
+                        "text": "decided"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "been"
+                      },
+                      {
+                        "text": "bee"
+                      },
+                      {
+                        "text": "be"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "tart"
+                      },
+                      {
+                        "text": "start"
+                      },
+                      {
+                        "text": "smart"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

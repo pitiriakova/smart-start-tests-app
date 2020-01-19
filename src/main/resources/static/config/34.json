@@ -1,0 +1,748 @@
+
+{"lessonTitle": "День 34. Past Continuous",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я смотрел телевизор когда она пришла",
+                "variantsToChose": [
+                  "I was watching TV when she came",
+                  "I was watching TV while she came",
+                  "I was watching TV when she coming"
+                ],
+                "correctAnswer": "I was watching TV when she came",
+                "timeout": 10
+              },
+              {
+                "title": "Ты спала когда я ушел",
+                "variantsToChose": [
+                  "You were sleeping while I left",
+                  "You were sleeping when I left",
+                  "You were sleeping when I leave"
+                ],
+                "correctAnswer": "You were sleeping when I left",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Она читала когда я пришел?",
+                "variantsToChose": [
+                  "Was she reading when I came?",
+                  "Was she read while I came?",
+                  "Was she read when I came?"
+                ],
+                "correctAnswer": "Was she reading when I came?",
+                "timeout": 10
+              },
+              {
+                "title": "Лиза пела пока я смотрел телевизор",
+                "variantsToChose": [
+                  "Lisa was singing while I was watching TV",
+                  "Lisa were singing while I was watching TV",
+                  "Lisa was singing while I watched TV"
+                ],
+                "correctAnswer": "Lisa was singing while I was watching TV",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Джим играл в Xbox пока ты работал",
+                "variantsToChose": [
+                  "Jim was playing Xbox when you were working",
+                  "Jim played Xbox while you were working",
+                  "Jim was playing Xbox while you were working"
+                ],
+                "correctAnswer": "He was playing Xbox while you were working",
+                "timeout": 10
+              },
+              {
+                "title": "Ты спала когда Ник смотрел телевизор",
+                "variantsToChose": [
+                  "You was sleeping when Nick was watching TV",
+                  "You were sleeping while Nick watch TV",
+                  "You were sleeping while Nick was watching TV"
+                ],
+                "correctAnswer": "You were sleeping while Nick was watching TV",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Я пришел домой когда ты говорила по телефону",
+                "variantsToChose": [
+                  "I came home while you were talking on the phone",
+                  "I was coming home while you were talking on the phone",
+                  "I came home while you was talking on the phone"
+                ],
+                "correctAnswer": "I came home while you were talking on the phone",
+                "timeout": 10
+              },
+              {
+                "title": "Ты принимала ванну когда я спал?",
+                "variantsToChose": [
+                  "Were you taking the bath while I was sleeping?",
+                  "Were you taking the bath when I sleep",
+                  "Did you take the bath while I was sleeping?"
+                ],
+                "correctAnswer": "Were you taking the bath while I was sleeping?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Она не спала когда я пришел",
+                "variantsToChose": [
+                  "She wasn't sleeping when I came",
+                  "She didn't sleeping when I came",
+                  "She wasn't sleeping while I came"
+                ],
+                "correctAnswer": "She wasn't sleeping when I came",
+                "timeout": 10
+              },
+              {
+                "title": "Я не ел когда она смотрела фильм",
+                "variantsToChose": [
+                  "I wasn't eating while she watch the movie",
+                  "I wasn't eating while she was watching the movie",
+                  "I wasn't eating when she was watching the movie"
+                ],
+                "correctAnswer": "I wasn't eating while she was watching the movie",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Они говорили по-английски когда я их увидел",
+                "variantsToChose": [
+                  "They was speaking English when I saw them",
+                  "They were speaking English while I saw them",
+                  "They were speaking English when I saw them"
+                ],
+                "correctAnswer": "They were speaking English when I saw them",
+                "timeout": 10
+              },
+              {
+                "title": "Я читал когда позвонила Анна",
+                "variantsToChose": [
+                  "I was reading while Ann called",
+                  "I was reading when Ann was calling",
+                  "I was reading when Ann called"
+                ],
+                "correctAnswer": "I was reading when Ann called",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "while I",
+                  "was talking",
+                  "screaming",
+                  "you were"
+                ],
+                "correctSentence": [
+                  "you were",
+                  "screaming",
+                  "while I",
+                  "was talking"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "TV when",
+                  "I was",
+                  "watching",
+                  "you left"
+                ],
+                "correctSentence": [
+                  "I was",
+                  "watching",
+                  "TV when",
+                  "you left"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "were dancing",
+                  "while you",
+                  "swimming",
+                  "I was"
+                ],
+                "correctSentence": [
+                  "I was",
+                  "swimming",
+                  "while you",
+                  "were dancing"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "were working",
+                  "while you",
+                  "sleeping",
+                  "I was"
+                ],
+                "correctSentence": [
+                  "I was",
+                  "sleeping",
+                  "while you",
+                  "were working"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "was sleeping",
+                  "while I",
+                  "singling ",
+                  "you were"
+                ],
+                "correctSentence": [
+                  "you were",
+                  "singing",
+                  "while I",
+                  "sleeping"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "eating",
+                  "you were",
+                  "when I",
+                  "left"
+                ],
+                "correctSentence": [
+                  "you were",
+                  "eating",
+                  "when I",
+                  "left"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "was playing",
+                  "sleeping",
+                  "while I",
+                  "she wasn't"
+                ],
+                "correctSentence": [
+                  "she wasn't",
+                  "sleeping",
+                  "while I",
+                  "was playing"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she wasn't",
+                  "dancing",
+                  "left",
+                  "when I"
+                ],
+                "correctSentence": [
+                  "she wasn't",
+                  "dancing",
+                  "when I",
+                  "left"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "when I",
+                  "was she",
+                  "watching TV",
+                  "came"
+                ],
+                "correctSentence": [
+                  "was she",
+                  "watching TV",
+                  "when I",
+                  "came"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "they were",
+                  "when",
+                  "working",
+                  "I saw them"
+                ],
+                "correctSentence": [
+                  "they were",
+                  "working",
+                  "when",
+                  "I saw them"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I was",
+                  "reading",
+                  "while she",
+                  "was sleeping"
+                ],
+                "correctSentence": [
+                  "I was",
+                  "reading",
+                  "while she",
+                  "was sleeping"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "saw me",
+                  "I was",
+                  "eating",
+                  "when they"
+                ],
+                "correctSentence": [
+                  "I was",
+                  "eating",
+                  "when they",
+                  "saw me"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/FAEzQUQvqvY",
+                  "sentence": [
+                    "All right Rebecca, we know you may feel",
+                    null,
+                    "claustrophobic in there, but we need you to",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "a little",
+                    "remain",
+                    "still"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "little"
+                      },
+                      {
+                        "text": "a bit"
+                      },
+                      {
+                        "text": "a little"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "again"
+                      },
+                      {
+                        "text": "main"
+                      },
+                      {
+                        "text": "remain"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ill"
+                      },
+                      {
+                        "text": "feel"
+                      },
+                      {
+                        "text": "still"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/mLfoEzxlRjY",
+                  "sentence": [
+                    null,
+                    ", we’re",
+                    null,
+                    null,
+                    "."
+                  ],
+                  "correctAnswer": [
+                    "Ok",
+                    "gonna",
+                    "begin"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Ok"
+                      },
+                      {
+                        "text": "No"
+                      },
+                      {
+                        "text": "Oh"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gonna"
+                      },
+                      {
+                        "text": "wanna"
+                      },
+                      {
+                        "text": "on a"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "tween"
+                      },
+                      {
+                        "text": "win"
+                      },
+                      {
+                        "text": "begin"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KxxB3z7Ty3c",
+                  "sentence": [
+                    null,
+                    " her",
+                    null,
+                    "of",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Get",
+                    "out",
+                    "there"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Get"
+                      },
+                      {
+                        "text": "Set"
+                      },
+                      {
+                        "text": "Let"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "about"
+                      },
+                      {
+                        "text": "doubt"
+                      },
+                      {
+                        "text": "out"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "care"
+                      },
+                      {
+                        "text": "air"
+                      },
+                      {
+                        "text": "there"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/luSiwXy9ZgY",
+                  "sentence": [
+                    "She’s not",
+                    null,
+                    ". Epi ",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "breathing",
+                    "point",
+                    "five"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "feeling"
+                      },
+                      {
+                        "text": "seething"
+                      },
+                      {
+                        "text": "breathing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "joint"
+                      },
+                      {
+                        "text": "going"
+                      },
+                      {
+                        "text": "point"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "five"
+                      },
+                      {
+                        "text": "live"
+                      },
+                      {
+                        "text": "alive"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/yNBAa15sOEU",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "I",
+                    "can't",
+                    "ventilate"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "By"
+                      },
+                      {
+                        "text": "I"
+                      },
+                      {
+                        "text": "Why"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "can't"
+                      },
+                      {
+                        "text": "when"
+                      },
+                      {
+                        "text": "stand"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rental rate"
+                      },
+                      {
+                        "text": "ventilate"
+                      },
+                      {
+                        "text": "authenticate"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7OtSa_hQDAk",
+                  "sentence": [
+                    null,
+                    "you, can’t",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Told",
+                    "trust",
+                    "people"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Told"
+                      },
+                      {
+                        "text": "Old"
+                      },
+                      {
+                        "text": "Gold"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "just"
+                      },
+                      {
+                        "text": "past"
+                      },
+                      {
+                        "text": "trust"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "steeple"
+                      },
+                      {
+                        "text": "feeble"
+                      },
+                      {
+                        "text": "people"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

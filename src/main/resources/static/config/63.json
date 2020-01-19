@@ -1,0 +1,763 @@
+
+{"lessonTitle": "День 63. Условные предложения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Перед тем как я куплю машину, я пойду в автошколу",
+                "variantsToChose": [
+                  "Before I buy a car, I will go to a driving school",
+                  "Before I will buy a car, I go to a driving school",
+                  "Before I will buy a car, I will go to a driving school"
+                ],
+                "correctAnswer": "Before I buy a car, I will go to a driving school",
+                "timeout": 10
+              },
+              {
+                "title": "Перед тем как они купят дом, они продадут машину",
+                "variantsToChose": [
+                  "Before they buy a house, they will sell a car",
+                  "Before they will buy a house, they sell a car",
+                  "Before they will buy a house, they will sell a car"
+                ],
+                "correctAnswer": "Before they buy a house, they will sell a car",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "After we __ this project, we will go to Italy",
+                "variantsToChose": [
+                  "will finish",
+                  "be finish",
+                  "finish"
+                ],
+                "correctAnswer": "finish",
+                "timeout": 10
+              },
+              {
+                "title": "After we __ the marathon, we will go home",
+                "variantsToChose": [
+                  "will run",
+                  "be run",
+                  "run"
+                ],
+                "correctAnswer": "run",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Как только я получу паспорт, мы поедем в медовый месяц",
+                "variantsToChose": [
+                  "Before I get a passport, we will go on a honeymoon",
+                  "As soon as I get a passport, we will go on a honeymoon",
+                  "After I get a passport, we will go on a honeymoon"
+                ],
+                "correctAnswer": "As soon as I get a passport, we will go on a honeymoon",
+                "timeout": 10
+              },
+              {
+                "title": "Как только я получу визу, мы поедем в Маями",
+                "variantsToChose": [
+                  "Before I get a visa, we will go to Miami",
+                  "As soon as I get a visa, we will go to Miami",
+                  "After I get a visa, we will go to Miami"
+                ],
+                "correctAnswer": "As soon as I get a visa, we will go to Miami",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Как только я закончу школу, я начную строить карьеру",
+                "variantsToChose": [
+                  "Once I finish school, I will start a career",
+                  "If I finish school, will I start a career",
+                  "After I finish school, I will start a career"
+                ],
+                "correctAnswer": "Once I finish school, I will start a career",
+                "timeout": 10
+              },
+              {
+                "title": "Как только я закончу читать книгу, я напишу отзыв",
+                "variantsToChose": [
+                  "Once I finish to read the book, I will make a review",
+                  "If I finish to read the book, I will make a review",
+                  "After I finish to read the book, I will make a review"
+                ],
+                "correctAnswer": "Once I finish to read the book, I will make a review",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Как только я получу повышение, я позвоню ему",
+                "variantsToChose": [
+                  "As soon as I will get a promotion, I will call him",
+                  "As soon as I get a promotion, I will call him",
+                  "As soon as I get a promotion, I call him"
+                ],
+                "correctAnswer": "As soon as I get a promotion, I will call him",
+                "timeout": 10
+              },
+              {
+                "title": "Как только я получу их номер, я напишу им сообщение",
+                "variantsToChose": [
+                  "As soon as I will get their phone number, I will text them",
+                  "As soon as I get their phone number, I will text them",
+                  "As soon as I get their phone number, I text them"
+                ],
+                "correctAnswer": "As soon as I get their phone number, I will text them",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Как только я выйду на песнию, я буду учиться готовить",
+                "variantsToChose": [
+                  "Once I retire, I will learn how to cook",
+                  "Once I am retire, I will learn how to cook",
+                  "Once I will retire, I learn how to cook"
+                ],
+                "correctAnswer": "Once I retire, I will learn how to cook",
+                "timeout": 10
+              },
+              {
+                "title": "Как только они выйдут на песнию, они будут учиться плавать",
+                "variantsToChose": [
+                  "Ones they retire, they will learn how to swim",
+                  "Ones they are retire, they will learn how to swim",
+                  "Ones they will retire, they learn how to swim"
+                ],
+                "correctAnswer": "Ones they retire, they will learn how to swim",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "George",
+                  "cook",
+                  "likes",
+                  "to"
+                ],
+                "correctSentence": [
+                  "George",
+                  "likes",
+                  "to",
+                  "cook"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Nick",
+                  "to",
+                  "likes",
+                  "swim"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "likes",
+                  "to",
+                  "swim"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I`ve",
+                  "tried",
+                  "never",
+                  "it"
+                ],
+                "correctSentence": [
+                  "I`ve",
+                  "never",
+                  "tried",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "of it",
+                  "never",
+                  "heard",
+                  "I`ve"
+                ],
+                "correctSentence": [
+                  "I`ve",
+                  "never",
+                  "heard",
+                  "of it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "We",
+                  "cooking",
+                  "now",
+                  "are"
+                ],
+                "correctSentence": [
+                  "We",
+                  "are",
+                  "cooking",
+                  "now"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She",
+                  "swimming",
+                  "now",
+                  "is"
+                ],
+                "correctSentence": [
+                  "She",
+                  "is",
+                  "swimming",
+                  "now"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "are",
+                  "you",
+                  "going",
+                  "Where"
+                ],
+                "correctSentence": [
+                  "Where",
+                  "are",
+                  "you",
+                  "going"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "are",
+                  "you",
+                  "doing",
+                  "What"
+                ],
+                "correctSentence": [
+                  "What",
+                  "are",
+                  "you",
+                  "doing"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How",
+                  "far",
+                  "is",
+                  "it"
+                ],
+                "correctSentence": [
+                  "How",
+                  "far",
+                  "is",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How",
+                  "close",
+                  "is",
+                  "it"
+                ],
+                "correctSentence": [
+                  "How",
+                  "close",
+                  "is",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "report it",
+                  "Why",
+                  "we",
+                  "wouldn`t"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "wouldn`t",
+                  "we",
+                  "report it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "notice it",
+                  "Why",
+                  "we",
+                  "wouldn`t"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "wouldn`t",
+                  "we",
+                  "notice it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/FXAtK3_LCe0",
+                  "sentence": [
+                    "It'll be a lot",
+                    null,
+                    "once he gets well",
+                    null,
+                    "to",
+                    null,
+                    "out"
+
+                  ],
+                  "correctAnswer": [
+                    "easier",
+                    "enough",
+                    "move"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "eases"
+                      },
+                      {
+                        "text": "busier"
+                      },
+                      {
+                        "text": "easier"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "inna of"
+                      },
+                      {
+                        "text": "in half"
+                      },
+                      {
+                        "text": "enough"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "move"
+                      },
+                      {
+                        "text": "mauve"
+                      },
+                      {
+                        "text": "mover"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/HwHlETb6Lo8",
+                  "sentence": [
+                    "We shall",
+                    null,
+                    "as planned, and as soon as we",
+                    null,
+                    "to 1985, we'll destroy this",
+                    null,
+                    "machine"
+                  ],
+                  "correctAnswer": [
+                    "proceed",
+                    "return",
+                    "infernal"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "preside"
+                      },
+                      {
+                        "text": "pro seed"
+                      },
+                      {
+                        "text": "proceed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "written"
+                      },
+                      {
+                        "text": "return"
+                      },
+                      {
+                        "text": "retry"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "infernal"
+                      },
+                      {
+                        "text": "internal"
+                      },
+                      {
+                        "text": "infantile"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/-RVj0o05eQs",
+                  "sentence": [
+                    "Before I",
+                    null,
+                    "my",
+                    null,
+                    ", I'll be",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "reach",
+                    "hotel",
+                    "assassinated"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "reach"
+                      },
+                      {
+                        "text": "rich"
+                      },
+                      {
+                        "text": "retch"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hot"
+                      },
+                      {
+                        "text": "hotel"
+                      },
+                      {
+                        "text": "motel"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "assonated"
+                      },
+                      {
+                        "text": "associated"
+                      },
+                      {
+                        "text": "assassinated"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/DZU8nkm9NRY",
+                  "sentence": [
+                    "But then",
+                    null,
+                    "is not always",
+                    null,
+                    "as long as one knows the",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "grace",
+                    "required",
+                    "steps"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "grace"
+                      },
+                      {
+                        "text": "grass"
+                      },
+                      {
+                        "text": "graze"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "require"
+                      },
+                      {
+                        "text": "rehire"
+                      },
+                      {
+                        "text": "required"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "steps"
+                      },
+                      {
+                        "text": "stops"
+                      },
+                      {
+                        "text": "stoops"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/XPDoroj0vhY",
+                  "sentence": [
+                    "report back to ",
+                    null,
+                    "soon as",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "us as",
+                    "it's",
+                    "done"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "us"
+                      },
+                      {
+                        "text": "as us"
+                      },
+                      {
+                        "text": "us as"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "it's"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fun"
+                      },
+                      {
+                        "text": "Ann"
+                      },
+                      {
+                        "text": "done"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/X_t933WeZrI",
+                  "sentence": [
+                    "We",
+                    null,
+                    "talk",
+                    null,
+                    "once I get it",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "can",
+                    "money",
+                    "right"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "then"
+                      },
+                      {
+                        "text": "can"
+                      },
+                      {
+                        "text": "canned"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "honey"
+                      },
+                      {
+                        "text": "funny"
+                      },
+                      {
+                        "text": "money"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fight"
+                      },
+                      {
+                        "text": "night"
+                      },
+                      {
+                        "text": "right"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

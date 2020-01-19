@@ -1,0 +1,87 @@
+// Lesson
+//      |
+//      |-> task
+//      |      |
+//      |      |-> tester
+//      |      |-> tester
+//      |-> task
+//      |      |
+//      |      |-> tester
+//      |      |-> tester
+// This file is configuration of lesson number <FILENAME>, where this file name should be <FILENAME>.json
+{
+  "lessonTitle": "День 1. Глагол to be. Знакомство",
+  // Array means different types of tasks. For the moment or event forever there will be two elements: grammary and listening
+  // Logically there should be up to two elements, and there should be no duplication
+  "lessonTasks": [
+    // Objet means concrete task. For the momen it could be grammary or listening
+    {
+      // Task id just to differentiate tasks between each other
+      "taskId": 0,
+      // Title that will be used on lesson screen
+      "title": "грамматика",
+      // Pool of testers that are bound to this particular task within this lesson
+      // In this object key means tester type, and value array of different concrete testers of that type
+      "testers": {
+        // Array of `ru-en` concrete testers
+        "ru-en": [
+          // Concrete `ru-en` tester within enclosed task within given lesson
+          {
+            // Group of similar concrete testers are aggregated into one array
+            // Further only one `alternative` should be picked
+            "alternatives": [
+              {
+                // Alternative id in order to differentiate alternatives
+                "alternativeId": 0,
+                // Title which for `ru-en` means given sentence for which we have to choose correct translation
+                "title": "He is happy",
+                // Possible answer variants
+                "variantsToChose": [
+                  "Я счастливый",
+                  "Он счастливый",
+                  "Она счастливая"
+                ],
+                // Correct answer
+                "correctAnswer": "Он счастливый",
+                // Timeout until tester will be failed automatically. Kind of timeout override for this concrete alternative
+                "timeout": "11"
+              },
+              {
+                "alternativeId": 1,
+                "title": "He is not sad",
+                "variantsToChose": [
+                  "Я не несчастный",
+                  "Он не несчастный",
+                  "Она не несчастная"
+                ],
+                "correctAnswer": "Он не несчастный"
+                // Timeout is not defined. Use timeout from `alternatives` level
+              }
+            ],
+            // In theory we should have one timeout amoung alternatives, but technically we can do any
+            "timeout": 10
+          },
+          {
+            "alternatives": [
+              {
+                "alternativeId": 0,
+                "title": "Two chairs",
+                "variantsToChose": [
+                  "Два стула",
+                  "Два дивана",
+                  "Две подушки"
+                ],
+                "correctAnswer": "Два стула"
+              }
+            ],
+            "timeout": "10"
+          }
+        ],
+        // Array of `dnd` concrete testers
+        "dnd": [
+          //        ....
+        ]
+      }
+    }
+  ]
+}

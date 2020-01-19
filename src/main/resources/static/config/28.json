@@ -1,0 +1,755 @@
+
+{"lessonTitle": "День 28. Present Continuous",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я всегда всех критикую",
+                "variantsToChose": [
+                  "I am criticizing always everybody",
+                  "I am always criticizing everybody",
+                  "I am always everybody criticizing"
+                ],
+                "correctAnswer": "I am always criticizing everybody",
+                "timeout": 10
+              },
+              {
+                "title": "Ты всегда теряешь свой паспорт",
+                "variantsToChose": [
+                  "You are always loosing your passport",
+                  "You are always your passport loosing",
+                  "Your passport you are always loosing"
+                ],
+                "correctAnswer": "You are always loosing your passport",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Are you always lying to your parents?",
+                "variantsToChose": [
+                  "Yes, I am lying always to my parents",
+                  "Yes, to my parents I am always lying",
+                  "Yes, I am always lying to my parents"
+                ],
+                "correctAnswer": "Yes, I am always lying to my parents",
+                "timeout": 10
+              },
+              {
+                "title": "Is he always grumbling?",
+                "variantsToChose": [
+                  "Yes, he is always grumbling",
+                  "Yes, is he always grumbling",
+                  "Yes, he is grumbling always"
+                ],
+                "correctAnswer": "Yes, he is always grumbling",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему они всегда пропускают уроки?",
+                "variantsToChose": [
+                  "Why they are classes always missing?",
+                  "Why are they always missing classes?",
+                  "Why are they missing always classes?"
+                ],
+                "correctAnswer": "Why are they always missing classes?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты всегда приходишь поздно?",
+                "variantsToChose": [
+                  "Are you always coming late?",
+                  "Are you coming always late?",
+                  "Are you late always coming?"
+                ],
+                "correctAnswer": "Are you always coming late?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Они всегда жалуются родителям",
+                "variantsToChose": [
+                  "They are always to their parents complaining",
+                  "They are to their parents always complaining",
+                  "They are always complaining to their parents"
+                ],
+                "correctAnswer": "They are always complaining to their parents",
+                "timeout": 10
+              },
+              {
+                "title": "Он всегда забывает свою фамилию",
+                "variantsToChose": [
+                  "He is last always forgetting his name",
+                  "He is always forgetting his last name",
+                  "He is always forgetting last his name"
+                ],
+                "correctAnswer": "He is always forgetting his last name",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Мы всегда приходим последними",
+                "variantsToChose": [
+                  "We are always coming the last",
+                  "We are always the last coming",
+                  "We are the last always coming"
+                ],
+                "correctAnswer": "We are always coming the last",
+                "timeout": 10
+              },
+              {
+                "title": "Они всегда ворчат",
+                "variantsToChose": [
+                  "They always are grumbling",
+                  "They are grumbling always",
+                  "They are always grumbling"
+                ],
+                "correctAnswer": "They are always grumbling",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Она всегда теряет ключи?",
+                "variantsToChose": [
+                  "Is she the keys always loosing?",
+                  "Is she always loosing the keys?",
+                  "Is she always the keys loosing?"
+                ],
+                "correctAnswer": "Is she always loosing the keys?",
+                "timeout": 10
+              },
+              {
+                "title": "Я всегда всех критикую?",
+                "variantsToChose": [
+                  "Am I always criticizing everyone?",
+                  "Am I criticizing always everyone?",
+                  "Am I always everyone criticizing?"
+                ],
+                "correctAnswer": "Am I always criticizing everyone?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "you",
+                  "lying",
+                  "always"
+                ],
+                "correctSentence": [
+                  "you",
+                  "are",
+                  "always",
+                  "lying"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "loosing documents",
+                  "are",
+                  "always",
+                  "they"
+                ],
+                "correctSentence": [
+                  "they",
+                  "are",
+                  "always",
+                  "loosing documents"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is",
+                  "he",
+                  "always",
+                  "missing the train"
+                ],
+                "correctSentence": [
+                  "he",
+                  "is",
+                  "always",
+                  "missing the train"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is always",
+                  "she",
+                  "of her personality",
+                  "lying because"
+                ],
+                "correctSentence": [
+                  "she",
+                  "is always",
+                  "lying because",
+                  "of her personality"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he is on time",
+                  "late but today",
+                  "always coming",
+                  "he is"
+                ],
+                "correctSentence": [
+                  "he is",
+                  "always coming",
+                  "late but today",
+                  "he is on time"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "not lying",
+                  "however you are",
+                  "you are always",
+                  "complaining"
+                ],
+                "correctSentence": [
+                  "you are always",
+                  "complaining",
+                  "however you are",
+                  "not lying"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the class",
+                  "is",
+                  "nobody",
+                  "missing"
+                ],
+                "correctSentence": [
+                  "nobody",
+                  "is",
+                  "missing",
+                  "the class"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "and",
+                  "she",
+                  "is always complaining",
+                  "criticizing"
+                ],
+                "correctSentence": [
+                  "she",
+                  "is always complaining",
+                  "and",
+                  "criticizing"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "remember the floor",
+                  "nevertheless we",
+                  "forgetting the room number",
+                  "we are always"
+                ],
+                "correctSentence": [
+                  "we are always",
+                  "forgetting the room number",
+                  "nevertheless we",
+                  "remember the floor"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the boss",
+                  "they are",
+                  "always",
+                  "criticizing"
+                ],
+                "correctSentence": [
+                  "they are",
+                  "always",
+                  "criticizing",
+                  "the boss"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "to me",
+                  "lying",
+                  "always",
+                  "you are"
+                ],
+                "correctSentence": [
+                  "you are",
+                  "always",
+                  "lying",
+                  "to me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are always",
+                  "we",
+                  "everything",
+                  "grumbling about"
+                ],
+                "correctSentence": [
+                  "we",
+                  "are always",
+                  "grumbling about",
+                  "everything"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/t0Ms4kfFKrw",
+                  "sentence": [
+                    "You",
+                    null,
+                    "you",
+                    null,
+                    "Okay? I am ",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "sure",
+                    "are",
+                    "fine"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "pure"
+                      },
+                      {
+                        "text": "sure"
+                      },
+                      {
+                        "text": "assure"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "is"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fine"
+                      },
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "file"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/qpn2sU3XPNE",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Fine",
+                    "is",
+                    "bad"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Fine"
+                      },
+                      {
+                        "text": "Dine"
+                      },
+                      {
+                        "text": "Airline"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "miss"
+                      },
+                      {
+                        "text": "lease"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bad"
+                      },
+                      {
+                        "text": "bed"
+                      },
+                      {
+                        "text": "glad"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/aMKsmTb1dt8",
+                  "sentence": [
+                    "What is",
+                    null,
+                    "what's",
+                    null,
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "it",
+                    "the",
+                    "matter"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "it"
+                      },
+                      {
+                        "text": "eat"
+                      },
+                      {
+                        "text": "lead"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "the"
+                      },
+                      {
+                        "text": "an"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "matter"
+                      },
+                      {
+                        "text": "mother"
+                      },
+                      {
+                        "text": "batter"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/rFwYKjd4XWY",
+                  "sentence": [
+                    "It's",
+                    null,
+                    ". Nothing. Nothing",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "nothing",
+                    "is",
+                    "worse"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "no sing"
+                      },
+                      {
+                        "text": "no thing"
+                      },
+                      {
+                        "text": "nothing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "with"
+                      },
+                      {
+                        "text": "please"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "wear"
+                      },
+                      {
+                        "text": "worth"
+                      },
+                      {
+                        "text": "worse"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/5Dmb-traiIk",
+                  "sentence": [
+                    "Hello, ",
+                    null,
+                    null,
+                    null,
+                    "my office, Mom?"
+
+                  ],
+                  "correctAnswer": [
+                    "dears",
+                    "Were you",
+                    "in"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "bears"
+                      },
+                      {
+                        "text": "dairs"
+                      },
+                      {
+                        "text": "dears"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Where you"
+                      },
+                      {
+                        "text": "We you"
+                      },
+                      {
+                        "text": "Were you"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "a"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/8x6txZLFN94",
+                  "sentence": [
+                    "Yeah. I was",
+                    null,
+                    "to",
+                    null,
+                    "a pen to",
+                    null,
+                    "the crosswords."
+
+                  ],
+                  "correctAnswer": [
+                    "trying",
+                    "get",
+                    "do"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "crying"
+                      },
+                      {
+                        "text": "trying"
+                      },
+                      {
+                        "text": "tried"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "get"
+                      },
+                      {
+                        "text": "let"
+                      },
+                      {
+                        "text": "met"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "do"
+                      },
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "too"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

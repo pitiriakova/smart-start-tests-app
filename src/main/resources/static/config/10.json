@@ -1,0 +1,545 @@
+{
+  "lessonTitle": "День 10. Неисчисляемые и исчисляемые",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "I have __ experience",
+                  "variantsToChose": [
+                    "some",
+                    "few",
+                    "an"
+                  ],
+                  "correctAnswer": "some",
+                  "timeout": 10
+                },
+                {
+                  "title": "He has __ money",
+                  "variantsToChose": [
+                    "few",
+                    "a",
+                    "some"
+                  ],
+                  "correctAnswer": "some",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "We have __ friends",
+                  "variantsToChose": [
+                    "a few",
+                    "little",
+                    "a"
+                  ],
+                  "correctAnswer": "a few",
+                  "timeout": 10
+                },
+                {
+                  "title": "They have __ vegetables",
+                  "variantsToChose": [
+                    "a",
+                    "a little",
+                    "a few"
+                  ],
+                  "correctAnswer": "a few",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "У меня мало фруктов",
+                  "variantsToChose": [
+                    "I have few fruits",
+                    "I have little fruit",
+                    "I have some fruits"
+                  ],
+                  "correctAnswer": "I have little fruit",
+                  "timeout": 10
+                },
+                {
+                  "title": "У неё мало еды",
+                  "variantsToChose": [
+                    "she has little food",
+                    "she has few food",
+                    "she has some food"
+                  ],
+                  "correctAnswer": "she has little food",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "у меня мало друзей",
+                  "variantsToChose": [
+                    "I have few friends",
+                    "I have little friends",
+                    "I have a few friends"
+                  ],
+                  "correctAnswer": "I have few friends",
+                  "timeout": 10
+                },
+                {
+                  "title": "у тебя мало врагов",
+                  "variantsToChose": [
+                    "you have few enemies",
+                    "you have a few enemies",
+                    "you have little enemies"
+                  ],
+                  "correctAnswer": "you have few enemies",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "She has a little experience",
+                  "variantsToChose": [
+                    "у неё есть немного опыта",
+                    "У неё мало опыта",
+                    "у неё есть опыт"
+                  ],
+                  "correctAnswer": "у неё есть немного опыта",
+                  "timeout": 10
+                },
+                {
+                  "title": "I have a little work",
+                  "variantsToChose": [
+                    "у меня есть немного работы",
+                    "у меня мало работы",
+                    "у меня много работы"
+                  ],
+                  "correctAnswer": "у меня есть немного работы",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "They have a lot of friends",
+                  "variantsToChose": [
+                    "У них мало друзей",
+                    "у них много друзей",
+                    "У них есть друзья"
+                  ],
+                  "correctAnswer": "у них много друзей",
+                  "timeout": 10
+                },
+                {
+                  "title": "He has a lot of money",
+                  "variantsToChose": [
+                    "у него много денег",
+                    "у него мало денег",
+                    "у него есть деньги"
+                  ],
+                  "correctAnswer": "у него много денег",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "little",
+                    "has",
+                    "time",
+                    "he"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "little",
+                    "time"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "fruit",
+                    "has",
+                    "a little"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "has",
+                    "a little",
+                    "fruit"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "a lot of",
+                    "I",
+                    "vegetables",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "a lot of",
+                    "vegetables"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "a lot of",
+                    "have",
+                    "ideas"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "have",
+                    "a lot of",
+                    "ideas"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "has",
+                    "she",
+                    "work",
+                    "some"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "has",
+                    "some",
+                    "work"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "money",
+                    "a little",
+                    "has"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "a little",
+                    "money"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "enemies",
+                    "a few",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "have",
+                    "a few",
+                    "enemies"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "few",
+                    "you",
+                    "have",
+                    "thoughts"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "have",
+                    "few",
+                    "thoughts"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "some",
+                    "experience",
+                    "have",
+                    "they"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "have",
+                    "some",
+                    "experience"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "some",
+                    "vegetables",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "have",
+                    "some",
+                    "vegetables"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "have",
+                    "thought",
+                    "a"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "a",
+                    "thought"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "has",
+                    "an",
+                    "he",
+                    "enemy"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "an",
+                    "enemy"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/TYp_3tdKhjo",
+                  "sentence": [
+                    "You know, fish, chips, cup of tea… bad food, worse",
+                    null,
+                    "Mary fucking Poppins."
+                  ],
+                  "correctAnswer": "weather",
+                  "possibleAnswers": [
+                    "heather",
+                    "razor",
+                    "weather"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/88kaka6WZzY",
+                  "sentence": [
+                    "She wants a saddle of lamb and all the",
+                    null,
+                    "and vegetables we can muster."
+                  ],
+                  "correctAnswer": "fruit",
+                  "possibleAnswers": [
+                    "root",
+                    "food",
+                    "fruit"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/zUm2T7LeK0I",
+                  "sentence": [
+                    "Wanna put",
+                    null,
+                    "money on it"
+                  ],
+                  "correctAnswer": "some",
+                  "possibleAnswers": [
+                    "son's",
+                    "some",
+                    "the"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/3zfoXtwC8Js",
+                  "sentence": [
+                    null,
+                    "wasn't really my experience"
+                  ],
+                  "correctAnswer": "this",
+                  "possibleAnswers": [
+                    "his",
+                    "this",
+                    "miss"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/BKRxZSCOTP0",
+                  "sentence": [
+                    "Fredo, I am going to buy some",
+                    null
+                  ],
+                  "correctAnswer": "fruit",
+                  "characters": [
+                    "t",
+                    "f",
+                    "p",
+                    "h",
+                    "e",
+                    "r",
+                    "u",
+                    "i",
+                    "l"
+                  ],
+                  "timeout": 20
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/y4pp54e4oZs",
+                  "sentence": [
+                    "He was",
+                    null,
+                    "enemy and I'm glad he's dead"
+                  ],
+                  "correctAnswer": "our",
+                  "characters": [
+                    "o",
+                    "v",
+                    "p",
+                    "s",
+                    "e",
+                    "r",
+                    "u",
+                    "a",
+                    "l"
+                  ],
+                  "timeout": 20
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

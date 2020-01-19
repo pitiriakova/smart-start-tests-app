@@ -1,0 +1,766 @@
+
+{"lessonTitle": "День 39. Present Perfect",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я дважды был в США",
+                "variantsToChose": [
+                  "I have been in the USA twice",
+                  "I have been to the USA twice",
+                  "I was to the USA twice"
+                ],
+                "correctAnswer": "I have been to the USA twice",
+                "timeout": 10
+              },
+              {
+                "title": "Он дважды был в России",
+                "variantsToChose": [
+                  "He has been to Russia twice",
+                  "He has been in Russia twice",
+                  "He was to Russia twice"
+                ],
+                "correctAnswer": "He has been to Russia twice",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Я не видел Джона в последнее время",
+                "variantsToChose": [
+                  "I not seen John lately",
+                  "I didn't see John lately",
+                  "I haven't seen John lately"
+                ],
+                "correctAnswer": "I haven't seen John lately",
+                "timeout": 10
+              },
+              {
+                "title": "Мэри не видела её в последнее время",
+                "variantsToChose": [
+                  "Mary hasn't see her lately",
+                  "Mary has seen her lately",
+                  "Mary hasn't seen her lately"
+                ],
+                "correctAnswer": "Mary hasn't seen her lately",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Ты слышал от него в последнее время?",
+                "variantsToChose": [
+                  "Have you heard from him lately?",
+                  "Did have you heard from him lately?",
+                  "Had you heard from him lately"
+                ],
+                "correctAnswer": "Have you heard from him lately",
+                "timeout": 10
+              },
+              {
+                "title": "Ты получал от Ника новости в последнее время?",
+                "variantsToChose": [
+                  "Have you received any news from Nick lately?",
+                  "Did you received any news from Nick lately?",
+                  "Had you received any news from Nick lately?"
+                ],
+                "correctAnswer": "Have you received any news from Nick lately?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Вы посещали рим в этом месяце?",
+                "variantsToChose": [
+                  "Have you already checked in?",
+                  "Did you already checked in?",
+                  "Have you already check in?"
+                ],
+                "correctAnswer": "Have you already checked in?",
+                "timeout": 10
+              },
+              {
+                "title": "Вы сегодня хорошо повеселились?",
+                "variantsToChose": [
+                  "Have you had a lot of fun today?",
+                  "Have you have a lot of fun today?",
+                  "Had you a lot of fun today?"
+                ],
+                "correctAnswer": "Have you had a lot of fun today?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я недавно выполнил это задание",
+                "variantsToChose": [
+                  "I had completed this task recently",
+                  "I completed this task recently",
+                  "I have completed this task recently"
+                ],
+                "correctAnswer": "I have completed this task recently",
+                "timeout": 10
+              },
+              {
+                "title": "Я недавно купил машину",
+                "variantsToChose": [
+                  "I had purchased a car recently",
+                  "I have had purchased a car recently",
+                  "I have purchased a car recently"
+                ],
+                "correctAnswer": "I have purchased a car recently",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я не был в России в последнее время",
+                "variantsToChose": [
+                  "I hadn't been in Russia lately",
+                  "I haven't been in Russia lately",
+                  "I haven't been to Russia lately"
+                ],
+                "correctAnswer": "I haven't been to Russia lately",
+                "timeout": 10
+              },
+              {
+                "title": "Она не была в Риме в последнее время",
+                "variantsToChose": [
+                  "She hasn't been to Rome recently",
+                  "She hasn't wasn't to Rome recently",
+                  "She hasn't been in Rome recently"
+                ],
+                "correctAnswer": "She hasn't been to Rome recently",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I have",
+                  "Nick",
+                  "seen",
+                  "recently"
+                ],
+                "correctSentence": [
+                  "I have",
+                  "seen",
+                  "Nick",
+                  "recently"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Jane",
+                  "she has",
+                  "recently",
+                  "seen"
+                ],
+                "correctSentence": [
+                  "she has",
+                  "seen",
+                  "Jane",
+                  "recently"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "lately",
+                  "done it",
+                  "hasn't",
+                  "Mike"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "hasn't",
+                  "done it",
+                  "lately"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "had it",
+                  "lately",
+                  "haven't"
+                ],
+                "correctSentence": [
+                  "I",
+                  "haven't",
+                  "had it",
+                  "lately"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mary",
+                  "seen it",
+                  "today",
+                  "has"
+                ],
+                "correctSentence": [
+                  "Mary",
+                  "has",
+                  "seen it",
+                  "today"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "done it",
+                  "Nick",
+                  "hasn't",
+                  "lately"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "done it",
+                  "lately"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "seen it",
+                  "lately",
+                  "they",
+                  "have"
+                ],
+                "correctSentence": [
+                  "have",
+                  "they",
+                  "seen it",
+                  "lately"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "John",
+                  "done it",
+                  "this month",
+                  "has"
+                ],
+                "correctSentence": [
+                  "has",
+                  "john",
+                  "done it",
+                  "this month"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "off",
+                  "they",
+                  "have",
+                  "taken"
+                ],
+                "correctSentence": [
+                  "have",
+                  "they",
+                  "taken",
+                  "off"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "has",
+                  "she",
+                  "booked",
+                  "the tickets"
+                ],
+                "correctSentence": [
+                  "has",
+                  "she",
+                  "booked",
+                  "the tickets"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "visited me",
+                  "lately",
+                  "Nick"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "visited me",
+                  "lately"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "lately",
+                  "haven't",
+                  "seen her"
+                ],
+                "correctSentence": [
+                  "you",
+                  "haven't",
+                  "seen her",
+                  "lately"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/l7uD_6Th8n8",
+                  "sentence": [
+                    "How",
+                    null,
+                    null,
+                    null,
+                    "feeling lately?"
+                  ],
+                  "correctAnswer": [
+                    "have",
+                    "you",
+                    "been"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "had"
+                      }
+
+                    ],
+                    [
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "new"
+                      },
+                      {
+                        "text": "you"
+                      }
+
+                    ],
+                    [
+                      {
+                        "text": "been"
+                      },
+                      {
+                        "text": "be"
+                      },
+                      {
+                        "text": "thin"
+                      }
+
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/yZbaab5jd9A",
+                  "sentence": [
+                    "I",
+                    null,
+                    "watched any",
+                    null,
+                    "movies",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "haven't",
+                    "scary",
+                    "recently"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "haven't"
+                      },
+                      {
+                        "text": "hasn't"
+                      },
+                      {
+                        "text": "have"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "scary"
+                      },
+                      {
+                        "text": "merry"
+                      },
+                      {
+                        "text": "airy"
+                      }
+
+                    ],
+                    [
+                      {
+                        "text": "recently"
+                      },
+                      {
+                        "text": "reasonly"
+                      },
+                      {
+                        "text": "decently"
+                      }
+
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/F7o89iy30qs",
+                  "sentence": [
+                    "I know I",
+                    null,
+                    null,
+                    "the easiest to live ",
+                    null,
+                    "lately"
+                  ],
+                  "correctAnswer": [
+                    "haven't",
+                    "been",
+                    "with"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "haven't"
+                      },
+                      {
+                        "text": "hasn't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "be"
+                      },
+                      {
+                        "text": "seen"
+                      },
+                      {
+                        "text": "been"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "with"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "in"
+                      }
+
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/I2Qo7taxM8s",
+                  "sentence": [
+                    "And I have recently put it",
+                    null,
+                    "good use,",
+                    null,
+                    "weapons for your",
+                    null,", sire."
+                  ],
+                  "correctAnswer": [
+                    "to",
+                    "securing",
+                    "army"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "into"
+                      },
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "is to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "curing"
+                      },
+                      {
+                        "text": "persuading"
+                      },
+                      {
+                        "text": "securing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "arny"
+                      },
+                      {
+                        "text": "amy"
+                      },
+                      {
+                        "text": "army"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/mKNiNgft8dY",
+                  "sentence": [
+                    "It turns",
+                    null,
+                    "she's recently divorced, and I",
+                    null,
+                    "to ask",
+                    null,
+                    "out."
+                  ],
+                  "correctAnswer": [
+                    "out",
+                    "wanted",
+                    "her"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "ought"
+                      },
+                      {
+                        "text": "out it"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "want it"
+                      },
+                      {
+                        "text": "wanted"
+                      }
+
+                    ],
+                    [
+                      {
+                        "text": "him"
+                      },
+                      {
+                        "text": "her"
+                      },
+                      {
+                        "text": "sir"
+                      }
+
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/91wHkHGrD4U",
+                  "sentence": [
+                    "Have you",
+                    null,
+                    "how much pain he's",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "noticed",
+                    "been in",
+                    "lately"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "notice it"
+                      },
+                      {
+                        "text": "noticed"
+                      },
+                      {
+                        "text": "notice"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "been in"
+                      },
+                      {
+                        "text": "being"
+                      },
+                      {
+                        "text": "been"
+                      }
+
+                    ],
+                    [
+                      {
+                        "text": "greatly"
+                      },
+                      {
+                        "text": "stately"
+                      },
+                      {
+                        "text": "lately"
+                      }
+
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

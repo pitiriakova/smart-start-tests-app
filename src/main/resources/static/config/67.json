@@ -1,0 +1,764 @@
+
+{"lessonTitle": "День 67. Passive",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "People speak Spanish in many countries",
+                "variantsToChose": [
+                  "Spanish is spoken in many countries",
+                  "People are spoken Spanish in many countries",
+                  "Spanish speaks by people in many countries"
+                ],
+                "correctAnswer": "Spanish is spoken in many countries",
+                "timeout": 10
+              },
+              {
+                "title": "Russian is spoken in many countries",
+                "variantsToChose": [
+                  "Russian is spoken in many countries",
+                  "People are spoken Russian in many countries",
+                  "Russian speaks by people in many countries"
+                ],
+                "correctAnswer": "Russian is spoken in many countries",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "People ask questions every day",
+                "variantsToChose": [
+                  "People are asked questions every day",
+                  "Questions are asked every day",
+                  "Questions are asking every day"
+                ],
+                "correctAnswer": "People are asked questions every day",
+                "timeout": 10
+              },
+              {
+                "title": "People drive millions of cars every day",
+                "variantsToChose": [
+                  "People are driven cars every day",
+                  "Millions of cars are driven every day",
+                  "Millions of cars drive every day"
+                ],
+                "correctAnswer": "People are driven cars every day",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему его всегда спрашивают об этом?",
+                "variantsToChose": [
+                  "Why does he always asked about it?",
+                  "Why he always asks about it?",
+                  "Why is he always asked about it?"
+                ],
+                "correctAnswer": "Why is he always asked about it??",
+                "timeout": 10
+              },
+              {
+                "title": "Почему ей всегда это говорят?",
+                "variantsToChose": [
+                  "Why does she always told that?",
+                  "Why she always tells that?",
+                  "Why is she always told that?"
+                ],
+                "correctAnswer": "Why is she always told that?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Почему Ника всегда критикуют?",
+                "variantsToChose": [
+                  "Why is Nick always criticized?",
+                  "Why does Nick always criticize?",
+                  "Why Nick always criticized?"
+                ],
+                "correctAnswer": "Why is Nick always criticized?",
+                "timeout": 10
+              },
+              {
+                "title": "Почему Аню всегда в этом обвиняют?",
+                "variantsToChose": [
+                  "Why is Ann always blamed for that?",
+                  "Why does Ann always blame for that?",
+                  "Why Ann always blamed for that?"
+                ],
+                "correctAnswer": "Why is Ann always blamed for that?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Почему бы ему не взять деньги?",
+                "variantsToChose": [
+                  "Why would not he take the money?",
+                  "Why isn't he taken the money?",
+                  "Why doesn't he taken no the money?"
+                ],
+                "correctAnswer": "Why would not he take the money?",
+                "timeout": 10
+              },
+              {
+                "title": "Почему бы ему не дать тебе денег?",
+                "variantsToChose": [
+                  "Why would not he give you the money?",
+                  "Why isn't he given you the money?",
+                  "Why doesn't he given you the money?"
+                ],
+                "correctAnswer": "Why would not he give you the money?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Они бы выбрали эту книгу",
+                "variantsToChose": [
+                  "The book is chosen by them",
+                  "They are chosen by this book",
+                  "They would choose this book"
+                ],
+                "correctAnswer": "They would choose this book",
+                "timeout": 10
+              },
+              {
+                "title": "Они бы выбрали эту машину",
+                "variantsToChose": [
+                  "This car is picked by them",
+                  "They are picked by this car",
+                  "They would pick this car"
+                ],
+                "correctAnswer": "They would pick this car",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "English",
+                  "taught",
+                  "at school",
+                  "is"
+                ],
+                "correctSentence": [
+                  "English",
+                  "is",
+                  "taught",
+                  "at school"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "used",
+                  "every day",
+                  "Cellphones",
+                  "are"
+                ],
+                "correctSentence": [
+                  "Cellphones",
+                  "are",
+                  "used",
+                  "every day"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "cars",
+                  "every day",
+                  "stolen",
+                  "are"
+                ],
+                "correctSentence": [
+                  "Are",
+                  "cars",
+                  "stolen",
+                  "every day"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "every day",
+                  "houses",
+                  "built",
+                  "are"
+                ],
+                "correctSentence": [
+                  "are",
+                  "houses",
+                  "built",
+                  "every day"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "are",
+                  "questions",
+                  "asked",
+                  "all the time"
+                ],
+                "correctSentence": [
+                  "are",
+                  "questions",
+                  "asked",
+                  "all the time"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "are",
+                  "lessons",
+                  "taught",
+                  "all the time"
+                ],
+                "correctSentence": [
+                  "are",
+                  "lessons",
+                  "taught",
+                  "all the time"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "can't",
+                  "She",
+                  "drive",
+                  "a car"
+                ],
+                "correctSentence": [
+                  "She",
+                  "can't",
+                  "drive",
+                  "a car"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "couldn't",
+                  "She",
+                  "stop",
+                  "the bus"
+                ],
+                "correctSentence": [
+                  "She",
+                  "couldn't",
+                  "stop",
+                  "the bus"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "always",
+                  "this song",
+                  "listens to"
+                ],
+                "correctSentence": [
+                  "He",
+                  "always",
+                  "listens to",
+                  "this song"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "didn't",
+                  "this box",
+                  "take"
+                ],
+                "correctSentence": [
+                  "He",
+                  "didn't",
+                  "take",
+                  "this box"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "they",
+                  "Why would",
+                  "regret",
+                  "it"
+                ],
+                "correctSentence": [
+                  "Why would",
+                  "they",
+                  "regret",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "believe",
+                  "him",
+                  "Why would",
+                  "they"
+                ],
+                "correctSentence": [
+                  "Why would",
+                  "they",
+                  "believe",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SMm-kxxDdKM",
+                  "sentence": [
+                    "This is a",
+                    null,
+                    "where",
+                    null,
+                    "is",
+                    null
+
+
+                  ],
+                  "correctAnswer": [
+                    "world",
+                    "nothing",
+                    "solved"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "word"
+                      },
+                      {
+                        "text": "world"
+                      },
+                      {
+                        "text": "worked"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "nothing"
+                      },
+                      {
+                        "text": "naughty"
+                      },
+                      {
+                        "text": "thing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "southed"
+                      },
+                      {
+                        "text": "sealed"
+                      },
+                      {
+                        "text": "solved"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SCAvI5CHB8Y",
+                  "sentence": [
+                    "The",
+                    null,
+                    "is made",
+                    null,
+                    "by your",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "city",
+                    "brighter",
+                    "presence"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "see tea"
+                      },
+                      {
+                        "text": "city"
+                      },
+                      {
+                        "text": "seat"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "brought"
+                      },
+                      {
+                        "text": "brighter"
+                      },
+                      {
+                        "text": "prider"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "preface"
+                      },
+                      {
+                        "text": "priest"
+                      },
+                      {
+                        "text": "presence"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/iXVOCszhrig",
+                  "sentence": [
+                    "Of course, when that much",
+                    null,
+                    "is",
+                    null,
+                    ", the mind is",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "force",
+                    "used",
+                    "emptied"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "force"
+                      },
+                      {
+                        "text": "fores"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "used"
+                      },
+                      {
+                        "text": "use it"
+                      },
+                      {
+                        "text": "use"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "empty"
+                      },
+                      {
+                        "text": "am tired"
+                      },
+                      {
+                        "text": "emptied"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/x1_w31WBEX8",
+                  "sentence": [
+                    "It is",
+                    null,
+                    "that the men of the mountain",
+                    null,
+                    "are great",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "said",
+                    "clans",
+                    "warriors"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "set"
+                      },
+                      {
+                        "text": "said"
+                      },
+                      {
+                        "text": "seed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "clans"
+                      },
+                      {
+                        "text": "clones"
+                      },
+                      {
+                        "text": "clams"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "warmers"
+                      },
+                      {
+                        "text": "warners"
+                      },
+                      {
+                        "text": "warriors"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/0CXKEOOvrUw",
+                  "sentence": [
+                    "Silence will",
+                    null,
+                    "when the",
+                    null,
+                    "is",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "fall",
+                    "question",
+                    "asked"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fail"
+                      },
+                      {
+                        "text": "fall"
+                      },
+                      {
+                        "text": "fold"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "questing"
+                      },
+                      {
+                        "text": "question"
+                      },
+                      {
+                        "text": "questioned"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "asked"
+                      },
+                      {
+                        "text": "tasked"
+                      },
+                      {
+                        "text": "masked"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/lycuHoeJTgo",
+                  "sentence": [
+                    "Do you",
+                    null,
+                    "anyone here is",
+                    null,
+                    "enough to take that",
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "think",
+                    "paid",
+                    "chance"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "thank"
+                      },
+                      {
+                        "text": "think"
+                      },
+                      {
+                        "text": "thick"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "payed"
+                      },
+                      {
+                        "text": "paid"
+                      },
+                      {
+                        "text": "pate"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "chants"
+                      },
+                      {
+                        "text": "chains"
+                      },
+                      {
+                        "text": "chance"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+
+{"lessonTitle": "День 23. Специальные вопросы ч.2",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Сколько у тебя денег?",
+                "variantsToChose": [
+                  "How many money do you have?",
+                  "How much money have you?",
+                  "How much money do you have?"
+                ],
+                "correctAnswer": "How much money do you have?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько у тебя молока?",
+                "variantsToChose": [
+                  "How many milk do you have?",
+                  "How many milk have you?",
+                  "How much milk do you have?"
+                ],
+                "correctAnswer": "How much milk do you have?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Сколько у нее друзей?",
+                "variantsToChose": [
+                  "how many friends does she have?",
+                  "how much friends does she have?",
+                  "how many friend does she has?"
+                ],
+                "correctAnswer": "how many friends does she have?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько у него тарелок?",
+                "variantsToChose": [
+                  "how many plates does he have?",
+                  "how many plates does he has?",
+                  "how much plates does he has?"
+                ],
+                "correctAnswer": "how many plates does he have?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Во сколько они обычно отдыхают?",
+                "variantsToChose": [
+                  "What time does he usually have a rest?",
+                  "What time do he usually has a rest?",
+                  "what time he does usually have a rest?"
+                ],
+                "correctAnswer": "What time does he usually have a rest?",
+                "timeout": 10
+              },
+              {
+                "title": "Во сколько они обычно обедают?",
+                "variantsToChose": [
+                  "What time does they usually have lunch?",
+                  "What time they do usually have lunch",
+                  "What time do they usually have lunch?"
+                ],
+                "correctAnswer": "What time do they usually have lunch?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Почему ты так рано завтракаешь?",
+                "variantsToChose": [
+                  "Why do you so early breakfast?",
+                  "Why do you have breakfast so early?",
+                  "Why do you have so early breakfast?"
+                ],
+                "correctAnswer": "Why do you have breakfast so early?",
+                "timeout": 10
+              },
+              {
+                "title": "Почему она так рано ужинает?",
+                "variantsToChose": [
+                  "Why does she have dinner so early?",
+                  "Why she have dinner so early",
+                  "Why does she has dinner so early?"
+                ],
+                "correctAnswer": "Why does she have dinner so early?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "When does she usually have a shower?",
+                "variantsToChose": [
+                  "She has a shower usually at 7 am",
+                  "She usually has a shower at 7 am",
+                  "She usually have a shower at 7 am"
+                ],
+                "correctAnswer": "She usually has a shower at 7 am",
+                "timeout": 10
+              },
+              {
+                "title": "Why does she wake up so early?",
+                "variantsToChose": [
+                  "Because she has a lot of work",
+                  "Because she have much work",
+                  "Because she has much work"
+                ],
+                "correctAnswer": "Because she has a lot of work",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "How many spoons do you have?",
+                "variantsToChose": [
+                  "I have many spoons",
+                  "I have a lot of spoons",
+                  "I have much spoons"
+                ],
+                "correctAnswer": "I have a lot of spoons",
+                "timeout": 10
+              },
+              {
+                "title": "How much time do you have?",
+                "variantsToChose": [
+                  "I have a lot of time",
+                  "I have many time",
+                  "I have much time"
+                ],
+                "correctAnswer": "I have a lot of time",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "how much",
+                  "time",
+                  "do you",
+                  "have"
+                ],
+                "correctSentence": [
+                  "how much",
+                  "time",
+                  "do you",
+                  "have"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "does she",
+                  "have",
+                  "money",
+                  "how much"
+                ],
+                "correctSentence": [
+                  "how much",
+                  "money",
+                  "does she",
+                  "have"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "how many",
+                  "do we",
+                  "have",
+                  "friends"
+                ],
+                "correctSentence": [
+                  "how many",
+                  "friends",
+                  "do we",
+                  "have"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "forks",
+                  "have",
+                  "do they",
+                  "how many"
+                ],
+                "correctSentence": [
+                  "how many",
+                  "forks",
+                  "do they",
+                  "have"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "have",
+                  "breakfast",
+                  "does he",
+                  "when"
+                ],
+                "correctSentence": [
+                  "when",
+                  "does he",
+                  "have",
+                  "breakfast"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "have",
+                  "does he",
+                  "lunch",
+                  "when"
+                ],
+                "correctSentence": [
+                  "when",
+                  "does he",
+                  "have",
+                  "lunch"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "when",
+                  "do you",
+                  "a rest",
+                  "have"
+                ],
+                "correctSentence": [
+                  "when",
+                  "do you",
+                  "have",
+                  "a rest"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do we",
+                  "when",
+                  "a snack",
+                  "have"
+                ],
+                "correctSentence": [
+                  "when",
+                  "do we",
+                  "have",
+                  "a snack"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "a party",
+                  "does he",
+                  "have",
+                  "when"
+                ],
+                "correctSentence": [
+                  "when",
+                  "does he",
+                  "have",
+                  "a party"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do you",
+                  "have",
+                  "fun",
+                  "when"
+                ],
+                "correctSentence": [
+                  "when",
+                  "do you",
+                  "have",
+                  "fun"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/YuNmDC09l0M",
+                  "sentence": [
+                    "we didn’t get a",
+                    null,
+                    "to",
+                    null,
+                    "at Mary Alice’s wake. How are you",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "chance",
+                    "talk",
+                    "doing"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fence"
+                      },
+                      {
+                        "text": "chat"
+                      },
+                      {
+                        "text": "chance"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rock"
+                      },
+                      {
+                        "text": "talk"
+                      },
+                      {
+                        "text": "lock"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "do"
+                      },
+                      {
+                        "text": "doing"
+                      },
+                      {
+                        "text": "ruined"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZkUzX3H8oY4",
+                  "sentence": [
+                    "Bree",
+                    null,
+                    "to share the",
+                    null,
+                    "about her husband’s painful",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "longed",
+                    "truth",
+                    "betrayal"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "longed"
+                      },
+                      {
+                        "text": "wrong"
+                      },
+                      {
+                        "text": "launched"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "true"
+                      },
+                      {
+                        "text": "truth"
+                      },
+                      {
+                        "text": "transport"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bingo"
+                      },
+                      {
+                        "text": "betrayal"
+                      },
+                      {
+                        "text": "beneath"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/dhuYZbjBW5U",
+                  "sentence": [
+                    "but sadly for Bree,",
+                    null,
+                    null,
+                    "was not an",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "admitting",
+                    "defeat",
+                    "option"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "meeting"
+                      },
+                      {
+                        "text": "beating"
+                      },
+                      {
+                        "text": "admitting"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "defeat"
+                      },
+                      {
+                        "text": "two feet"
+                      },
+                      {
+                        "text": "feet"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ocean"
+                      },
+                      {
+                        "text": "option"
+                      },
+                      {
+                        "text": "auction"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/L_00BDaJ1S8",
+                  "sentence": [
+                    "Okay, well I got you the",
+                    null,
+                    null,
+                    "dressing; the",
+                    null,
+                    "looked just a little bit suspect."
+                  ],
+                  "correctAnswer": [
+                    "honey",
+                    "mustard",
+                    "ranch"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "lonely"
+                      },
+                      {
+                        "text": "funny"
+                      },
+                      {
+                        "text": "honey"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lobster"
+                      },
+                      {
+                        "text": "mustard"
+                      },
+                      {
+                        "text": "nicer"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ranch"
+                      },
+                      {
+                        "text": "drench"
+                      },
+                      {
+                        "text": "lunch"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/zu5nwLvy1wM",
+                  "sentence": [
+                    "Are we",
+                    null,
+                    null,
+                    "about what I just",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "gonna",
+                    "talk",
+                    "said"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "going"
+                      },
+                      {
+                        "text": "gonna"
+                      },
+                      {
+                        "text": "go"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "talk"
+                      },
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "lord"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sad"
+                      },
+                      {
+                        "text": "said"
+                      },
+                      {
+                        "text": "sam"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/XdnJ2ArIKmw",
+                  "sentence": [
+                    "If you think I’m gonna discuss the dissolution of my marriage in a place where the restrooms are labelled",
+                    null,
+                    "and",
+                    null,
+                    "you’re out of your",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "chicks",
+                    "dudes",
+                    "mind"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "clicks"
+                      },
+                      {
+                        "text": "chicks"
+                      },
+                      {
+                        "text": "chins"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dudes"
+                      },
+                      {
+                        "text": "dunes"
+                      },
+                      {
+                        "text": "dulls"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "find"
+                      },
+                      {
+                        "text": "line"
+                      },
+                      {
+                        "text": "mind"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

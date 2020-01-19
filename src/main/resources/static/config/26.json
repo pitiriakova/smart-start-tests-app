@@ -1,0 +1,755 @@
+
+{"lessonTitle": "День 26. Present Continuous",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я сейчас работаю",
+                "variantsToChose": [
+                  "I am working now",
+                  "I working now",
+                  "I am now working"
+                ],
+                "correctAnswer": "I am working now",
+                "timeout": 10
+              },
+              {
+                "title": "В данный момент она работает",
+                "variantsToChose": [
+                  "She is at the moment working ",
+                  "She is working at the moment",
+                  "She working at the moment"
+                ],
+                "correctAnswer": "She is working at the moment",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "What are you cooking now?",
+                "variantsToChose": [
+                  "Now a soup I am cooking",
+                  "I am a soup cooking now",
+                  "I am cooking a soup now"
+                ],
+                "correctAnswer": "I am cooking a soup now",
+                "timeout": 10
+              },
+              {
+                "title": "What is she doing right now?",
+                "variantsToChose": [
+                  "Right now she is sleeping",
+                  "She is sleeping right now",
+                  "Sleeping right now she is"
+                ],
+                "correctAnswer": "She is sleeping right now",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Что ты сейчас  делаешь?",
+                "variantsToChose": [
+                  "What doing right now?",
+                  "What right now are you doing?",
+                  "What are you doing right now?"
+                ],
+                "correctAnswer": "What are you doing right now?",
+                "timeout": 10
+              },
+              {
+                "title": "Кого они ждут сейчас?",
+                "variantsToChose": [
+                  "Who are they waiting for now?",
+                  "Who they waiting for now?",
+                  "Who are waiting they for now?"
+                ],
+                "correctAnswer": "Who are they waiting for now?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Мы сейчас идем в мой гараж",
+                "variantsToChose": [
+                  "We going to now my garage",
+                  "Now we going to my garage",
+                  "We are going to my garage now"
+                ],
+                "correctAnswer": "We are going to my garage now",
+                "timeout": 10
+              },
+              {
+                "title": "В данный момент я развлекаюсь со своими друзьями в гостиной",
+                "variantsToChose": [
+                  "I am have fun with my friends at the moment in the living room",
+                  "I am having fun with my friends in the living room at the moment",
+                  "I am having fun at the moment in the living room with my friends"
+                ],
+                "correctAnswer": "I am having fun with my friends in the living room at the moment",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "В данный момент она готовит на кухне",
+                "variantsToChose": [
+                  "She is cooking in the kitchen at the moment",
+                  "She is in the kitchen at the moment cooking",
+                  "She is at the moment cooking in the kitchen"
+                ],
+                "correctAnswer": "She is cooking in the kitchen at the moment",
+                "timeout": 10
+              },
+              {
+                "title": "Он не читает книгу прямо сейчас",
+                "variantsToChose": [
+                  "He is not a book reading right now",
+                  "He is not right now a book reading",
+                  "He is not reading a book right now"
+                ],
+                "correctAnswer": "He is not reading a book right now",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Вы читаете газету или журнал сейчас?",
+                "variantsToChose": [
+                  "Are you reading a newspaper or a magazine now?",
+                  "Are you a magazine or a newspaper reading now?",
+                  "Are you a magazine or a newspaper now reading?"
+                ],
+                "correctAnswer": "Are you reading a newspaper or a magazine now?",
+                "timeout": 10
+              },
+              {
+                "title": "Прямо сейчас вы собираетесь веселиться?",
+                "variantsToChose": [
+                  "Are you have to going fun right now?",
+                  "Are you going to have fun right now?",
+                  "Are you going to fun have right now?"
+                ],
+                "correctAnswer": "Are you going to have fun right now?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "is reading",
+                  "in the kitchen",
+                  "at the moment"
+                ],
+                "correctSentence": [
+                  "he",
+                  "is reading",
+                  "in the kitchen",
+                  "at the moment"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "now",
+                  "is working",
+                  "she",
+                  "on her homework"
+                ],
+                "correctSentence": [
+                  "she",
+                  "is working",
+                  "on her homework",
+                  "now"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "together at the moment",
+                  "they",
+                  "are",
+                  "cooking"
+                ],
+                "correctSentence": [
+                  "they",
+                  "are",
+                  "cooking",
+                  "together at the moment"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "much",
+                  "how",
+                  "are you",
+                  "planning to spend"
+                ],
+                "correctSentence": [
+                  "how",
+                  "much",
+                  "are you",
+                  "planning to spend"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "what are",
+                  "you",
+                  "studying",
+                  "now"
+                ],
+                "correctSentence": [
+                  "what are",
+                  "you",
+                  "studying",
+                  "now"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "what",
+                  "working on",
+                  "you",
+                  "are"
+                ],
+                "correctSentence": [
+                  "what",
+                  "are",
+                  "you",
+                  "working on"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "how much",
+                  "for you",
+                  "is he",
+                  "going to wait"
+                ],
+                "correctSentence": [
+                  "how much",
+                  "is he",
+                  "going to wait",
+                  "for you"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "how much",
+                  "daily",
+                  "reading",
+                  "are they"
+                ],
+                "correctSentence": [
+                  "how much",
+                  "are they",
+                  "reading",
+                  "daily"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is he",
+                  "sitting",
+                  "now",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "is he",
+                  "sitting",
+                  "now"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be working",
+                  "later",
+                  "planning to",
+                  "are you"
+                ],
+                "correctSentence": [
+                  "are you",
+                  "planning to",
+                  "be working",
+                  "later"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "what",
+                  "he doing",
+                  "is",
+                  "now"
+                ],
+                "correctSentence": [
+                  "what",
+                  "is",
+                  "he doing",
+                  "now"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "so many problems",
+                  "this life",
+                  "is giving me",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "this life",
+                  "is giving me",
+                  "so many problems"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/m_5KC7w7HCA",
+                  "sentence": [
+                    "Hi, I'm Ray, and I ",
+                    null,
+                    null,
+                    "in Long Island with my",
+                    null,
+                    "Debra"
+
+                  ],
+                  "correctAnswer": [
+                    "live",
+                    "here",
+                    "wife"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "live"
+                      },
+                      {
+                        "text": "leave"
+                      },
+                      {
+                        "text": "leaf"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "near"
+                      },
+                      {
+                        "text": "hear"
+                      },
+                      {
+                        "text": "here"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "life"
+                      },
+                      {
+                        "text": "wife"
+                      },
+                      {
+                        "text": "knife"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/b95vPmzkz18",
+                  "sentence": [
+                    "She's",
+                    null,
+                    "with the",
+                    null,
+                    "the house,",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "great",
+                    "kids",
+                    "everything"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "blade"
+                      },
+                      {
+                        "text": "grate"
+                      },
+                      {
+                        "text": "great"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "kids"
+                      },
+                      {
+                        "text": "bits"
+                      },
+                      {
+                        "text": "needs"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "every thing"
+                      },
+                      {
+                        "text": "ever thing"
+                      },
+                      {
+                        "text": "everything"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Hn-2SW_YyU4",
+                  "sentence": [
+                    null,
+                    "a daughter Ally and",
+                    null,
+                    null,
+                    "boys."
+                  ],
+                  "correctAnswer": [
+                    "We've got",
+                    "twin",
+                    "two-year-old"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "We'd got"
+                      },
+                      {
+                        "text": "We've bought"
+                      },
+                      {
+                        "text": "We've got"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "teen"
+                      },
+                      {
+                        "text": "queen"
+                      },
+                      {
+                        "text": "twin"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "two-year-old"
+                      },
+                      {
+                        "text": "two-years-old"
+                      },
+                      {
+                        "text": "two-year cold"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/qiqwdjbpnzI",
+                  "sentence": [
+                    null,
+                    "really",
+                    null,
+                    null,
+                    "kids."
+                  ],
+                  "correctAnswer": [
+                    "It's not",
+                    "about",
+                    "the"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "It's hot"
+                      },
+                      {
+                        "text": "We don't"
+                      },
+                      {
+                        "text": "It's not"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "about"
+                      },
+                      {
+                        "text": "a boat"
+                      },
+                      {
+                        "text": "abroad"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "the"
+                      },
+                      {
+                        "text": "for"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cJn4XrKLhwg",
+                  "sentence": [
+                    "My parents live",
+                    null,
+                    "the",
+                    null,
+                    "That's",
+                    null
+                ],
+                  "correctAnswer": [
+                    "across",
+                    "street",
+                    "right"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "own cross"
+                      },
+                      {
+                        "text": "a gross"
+                      },
+                      {
+                        "text": "across"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sweet"
+                      },
+                      {
+                        "text": "street"
+                      },
+                      {
+                        "text": "strit"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fight"
+                      },
+                      {
+                        "text": "light"
+                      },
+                      {
+                        "text": "right"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/MOy9R_MSEjE",
+                  "sentence": [
+                    "And",
+                    null,
+                    null,
+                    "lives with",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "my",
+                    "brother",
+                    "them"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "me"
+                      },
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "my"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "brother"
+                      },
+                      {
+                        "text": "father"
+                      },
+                      {
+                        "text": "bother"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "jam"
+                      },
+                      {
+                        "text": "them"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+
+{"lessonTitle": "День 20. Общие вопросы ч.2",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Do you have a headache?",
+                "variantsToChose": [
+                  "yes, I am",
+                  "yes, I do",
+                  "yes, I don't"
+                ],
+                "correctAnswer": "yes, I do",
+                "timeout": 10
+              },
+              {
+                "title": "Do you have much time?",
+                "variantsToChose": [
+                  "no, I don't",
+                  "no, I am not",
+                  "no, I aren't"
+                ],
+                "correctAnswer": "no, I don't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Does he have any questions?",
+                "variantsToChose": [
+                  "no, he don't",
+                  "no, he doesn't",
+                  "no, he isn't"
+                ],
+                "correctAnswer": "no, he doesn't",
+                "timeout": 10
+              },
+              {
+                "title": "Does she have many friends?",
+                "variantsToChose": [
+                  "yes, she do",
+                  "yes, she is",
+                  "yes, she does"
+                ],
+                "correctAnswer": "yes, she does",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "У него проблемы?",
+                "variantsToChose": [
+                  "Does he have any problems?",
+                  "Does he have some problems?",
+                  "Does he has any problems?"
+                ],
+                "correctAnswer": "Does he have any problems?",
+                "timeout": 10
+              },
+              {
+                "title": "У неё жар?",
+                "variantsToChose": [
+                  "Does she has a fever?",
+                  "Does she have a fever?",
+                  "Does she have fever?"
+                ],
+                "correctAnswer": "Does she have a fever?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "У тебя много времени?",
+                "variantsToChose": [
+                  "Do you have many time?",
+                  "Do you have much time?",
+                  "Do you have a lot of time?"
+                ],
+                "correctAnswer": "Do you have much time?",
+                "timeout": 10
+              },
+              {
+                "title": "У нас много денег?",
+                "variantsToChose": [
+                  "Do we have many money?",
+                  "Do we have much money?",
+                  "Do we have a lot of money?"
+                ],
+                "correctAnswer": "Do we have much money?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "У них много сомнений?",
+                "variantsToChose": [
+                  "Do they have a lot of doubts?",
+                  "Do they have many doubts?",
+                  "Do they have much doubts?"
+                ],
+                "correctAnswer": "Do they have many doubts?",
+                "timeout": 10
+              },
+              {
+                "title": "У нее много опций?",
+                "variantsToChose": [
+                  "Does she has many options?",
+                  "Does she has much options?",
+                  "Does she has a lot of options?"
+                ],
+                "correctAnswer": "Does she has many options?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "У него есть вопрос?",
+                "variantsToChose": [
+                  "Does he has a question?",
+                  "Does he have a question?",
+                  "Does he have any questions?"
+                ],
+                "correctAnswer": "Does he have a question?",
+                "timeout": 10
+              },
+              {
+                "title": "У тебя есть апельсин?",
+                "variantsToChose": [
+                  "Do you have a orange?",
+                  "Do you has a orange?",
+                  "Do you have an orange?"
+                ],
+                "correctAnswer": "Do you have an orange?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you",
+                  "have",
+                  "do",
+                  "any money"
+                ],
+                "correctSentence": [
+                  "do",
+                  "you",
+                  "have",
+                  "any money"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you",
+                  "have",
+                  "any doubts",
+                  "do"
+                ],
+                "correctSentence": [
+                  "do",
+                  "you",
+                  "have",
+                  "any doubts"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "he",
+                  "a fever",
+                  "does",
+                  "have"
+                ],
+                "correctSentence": [
+                  "does",
+                  "he",
+                  "have",
+                  "a fever"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "she",
+                  "a problem",
+                  "does",
+                  "have"
+                ],
+                "correctSentence": [
+                  "does",
+                  "she",
+                  "have",
+                  "a problem"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "have",
+                  "wealth",
+                  "does he",
+                  "much"
+                ],
+                "correctSentence": [
+                  "does he",
+                  "have",
+                  "much",
+                  "wealth"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "have",
+                  "much",
+                  "do I",
+                  "anger"
+                ],
+                "correctSentence": [
+                  "do I",
+                  "have",
+                  "much",
+                  "anger"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do they",
+                  "doubts",
+                  "have",
+                  "many"
+                ],
+                "correctSentence": [
+                  "do they",
+                  "have",
+                  "many",
+                  "doubts"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "many",
+                  "do we",
+                  "have",
+                  "questions"
+                ],
+                "correctSentence": [
+                  "do we",
+                  "have",
+                  "many",
+                  "questions"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "a pain",
+                  "do",
+                  "have",
+                  "you"
+                ],
+                "correctSentence": [
+                  "do",
+                  "you",
+                  "have",
+                  "a pain"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "have",
+                  "she",
+                  "a backache",
+                  "does"
+                ],
+                "correctSentence": [
+                  "does",
+                  "she",
+                  "have",
+                  "a backache"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте ответ",
+                "firstLineWords": [
+                  "don't",
+                  "I",
+                  "no"
+                ],
+                "correctSentence": [
+                  "no",
+                  "I",
+                  "don't"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте ответ",
+                "firstLineWords": [
+                  "does",
+                  "he",
+                  "yes"
+                ],
+                "correctSentence": [
+                  "yes",
+                  "he",
+                  "does"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/OtyeEho-Veg",
+                  "sentence": [
+                    "Lynette Scavo?",
+                    null,
+                    "Natalie Klein, I",
+                    null,
+                    null,
+                    "it!"
+                  ],
+                  "correctAnswer": [
+                    "crap",
+                    "don’t",
+                    "believe"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "rap"
+                      },
+                      {
+                        "text": "crap"
+                      },
+                      {
+                        "text": "cap"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hope"
+                      },
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "don't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "forgive"
+                      },
+                      {
+                        "text": "believe"
+                      },
+                      {
+                        "text": "agreed"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/JOvgD8PcesE",
+                  "sentence": [
+                    "Lynette! How long has",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "it",
+                    "been",
+                    "years"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "it"
+                      },
+                      {
+                        "text": "we"
+                      },
+                      {
+                        "text": "bee"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "been"
+                      },
+                      {
+                        "text": "be"
+                      },
+                      {
+                        "text": "build"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "years"
+                      },
+                      {
+                        "text": "year"
+                      },
+                      {
+                        "text": "yeah"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/2f48ryPdAso",
+                  "sentence": [
+                    "How are you, how’s",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "the",
+                    "firm",
+                    "Good"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "house"
+                      },
+                      {
+                        "text": "the"
+                      },
+                      {
+                        "text": "a"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fur"
+                      },
+                      {
+                        "text": "firm"
+                      },
+                      {
+                        "text": "chrome"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rude"
+                      },
+                      {
+                        "text": "good"
+                      },
+                      {
+                        "text": "nude"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/G9ULeMUnnAc",
+                  "sentence": [
+                    "Everyone",
+                    null,
+                    "you. Yeah. We all say, if you hadn’t",
+                    null,
+                    "you’d be running the",
+                    null,
+                    "by now."
+
+                  ],
+                  "correctAnswer": [
+                    "misses",
+                    "quit",
+                    "place"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "misses"
+                      },
+                      {
+                        "text": "miss"
+                      },
+                      {
+                        "text": "kisses"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fruit"
+                      },
+                      {
+                        "text": "quit"
+                      },
+                      {
+                        "text": "suit"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "place"
+                      },
+                      {
+                        "text": "pace"
+                      },
+                      {
+                        "text": "paste"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/HDh1odT7VhU",
+                  "sentence": [
+                    "Yeah, well. So… how’s",
+                    null,
+                    null,
+                    "Don’t you just love being a",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "domestic",
+                    "life",
+                    "mom"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "dentist"
+                      },
+                      {
+                        "text": "hectic"
+                      },
+                      {
+                        "text": "domestic"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "line"
+                      },
+                      {
+                        "text": "life"
+                      },
+                      {
+                        "text": "lime"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bum"
+                      },
+                      {
+                        "text": "nun"
+                      },
+                      {
+                        "text": "mom"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_7yjwnwrZ7M",
+                  "sentence": [
+                    "And there it was - the question that Lynette",
+                    null,
+                    null,
+                    "Well, to be",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "always",
+                    "dreaded",
+                    "honest"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "almost"
+                      },
+                      {
+                        "text": "always"
+                      },
+                      {
+                        "text": "envy"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dreaded"
+                      },
+                      {
+                        "text": "shreded"
+                      },
+                      {
+                        "text": "freaded"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "honest"
+                      },
+                      {
+                        "text": "happy"
+                      },
+                      {
+                        "text": "feminist"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,731 @@
+
+{"lessonTitle": "День 48. Hope",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Надеюсь, что у неё все будет хорошо",
+                "variantsToChose": [
+                  "I hope everything goes well for her",
+                  "I hope everything will go well for her",
+                  "I hope everything is going well for her"
+                ],
+                "correctAnswer": "I hope everything goes well for her",
+                "timeout": 10
+              },
+              {
+                "title": "Надеюсь, что ты за ней присмотришь",
+                "variantsToChose": [
+                  "I hope you look after her",
+                  "I hope you will look after her",
+                  "I hope you are looking after her"
+                ],
+                "correctAnswer": "I hope you look after her",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Надеюсь, что ты о ней заботишься",
+                "variantsToChose": [
+                  "I hope you take care of her",
+                  "I hope you are taking care of her",
+                  "I hope you will take care of her"
+                ],
+                "correctAnswer": "I hope you are taking care of her",
+                "timeout": 10
+              },
+              {
+                "title": "Надеюсь, что вы ладите",
+                "variantsToChose": [
+                  "I hope you get along well",
+                  "I hope you're getting along well",
+                  "I hope you will get along well"
+                ],
+                "correctAnswer": "I hope you're getting along well",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Надеюсь, что у него не закончатся деньги",
+                "variantsToChose": [
+                  "I hope he won't run out of money",
+                  "I hope he isn't running out of money",
+                  "I hope he doesn't run out of money"
+                ],
+                "correctAnswer": "I hope he doesn't run out of money",
+                "timeout": 10
+              },
+              {
+                "title": "Надеюсь, что у неё не закончатся лекарства",
+                "variantsToChose": [
+                  "I hope she won't run out of medicine",
+                  "I hope she isn't running out of medicine",
+                  "I hope she doesn't run out of medicine"
+                ],
+                "correctAnswer": "I hope she doesn't run out of medicine",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "I hope everything is going well for you",
+                "variantsToChose": [
+                  "Я надеюсь у неё все будет хорошо",
+                  "Я надеюсь у неё всё хорошо",
+                  "Я надеюсь у неё все было хорошо"
+                ],
+                "correctAnswer": "Я надеюсь у неё всё хорошо",
+                "timeout": 10
+              },
+              {
+                "title": "We hope everything is going well for her",
+                "variantsToChose": [
+                  "Мы надеемся что у неё все будет хорошо",
+                  "Мы надеемся что у неё все хорошо",
+                  "Мы надеемся что у неё все было хорошо"
+                ],
+                "correctAnswer": "Мы надеемся что у неё все хорошо",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Did you send her an email yesterday?",
+                "variantsToChose": [
+                  "Oh, I forgot! I will do it tonight!",
+                  "Oh, I forgot! I am going to do it tonight!",
+                  "Oh, I forgot! I do it tonight!"
+                ],
+                "correctAnswer": "Oh, I forgot! I will do it tonight!",
+                "timeout": 10
+              },
+              {
+                "title": "Did you send him a letter yesterday?",
+                "variantsToChose": [
+                  "Oh, I forgot! I will do it tomorrow!",
+                  "Oh, I forgot! I am going to do it tomorrow!",
+                  "Oh, I forgot! I do it tomorrow!"
+                ],
+                "correctAnswer": "Oh, I forgot! I will do it tomorrow!",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Надеюсь, что они от него избавятся",
+                "variantsToChose": [
+                  "I hope they will get rid of him",
+                  "I hope they are getting rid of him",
+                  "I hope they get rid of him"
+                ],
+                "correctAnswer": "I hope they get rid of him",
+                "timeout": 10
+              },
+              {
+                "title": "Надеюсь ты что-то придумаешь",
+                "variantsToChose": [
+                  "I hope you will came up with an idea",
+                  "I hope you are coming up with an idea",
+                  "I hope you come up with an idea"
+                ],
+                "correctAnswer": "I hope you come up with an idea",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "well",
+                  "everything",
+                  "I hope",
+                  "goes"
+                ],
+                "correctSentence": [
+                  "I hope",
+                  "everything",
+                  "goes",
+                  "well"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I hope",
+                  "well",
+                  "is going",
+                  "everything"
+                ],
+                "correctSentence": [
+                  "I hope",
+                  "everything",
+                  "is going",
+                  "well"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you're",
+                  "taking care",
+                  "of her",
+                  "hope"
+                ],
+                "correctSentence": [
+                  "hope",
+                  "you're",
+                  "taking care",
+                  "of her"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "of her",
+                  "take care",
+                  "hope",
+                  "you"
+                ],
+                "correctSentence": [
+                  "hope",
+                  "you",
+                  "take care",
+                  "of her"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "like it",
+                  "he",
+                  "you",
+                  "hopes"
+                ],
+                "correctSentence": [
+                  "he",
+                  "hopes",
+                  "you",
+                  "like it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Shall",
+                  "we",
+                  "the dinner",
+                  "cook"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "cook",
+                  "the dinner"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be happy",
+                  "will",
+                  "he thinks",
+                  "you"
+                ],
+                "correctSentence": [
+                  "he thinks",
+                  "you",
+                  "will",
+                  "be happy"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she thinks",
+                  "buy",
+                  "a car",
+                  "you'll"
+                ],
+                "correctSentence": [
+                  "she thinks",
+                  "you'll",
+                  "buy",
+                  "a car"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hope",
+                  "you",
+                  "are",
+                  "lucky"
+                ],
+                "correctSentence": [
+                  "hope",
+                  "you",
+                  "are",
+                  "lucky"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "hope",
+                  "happy",
+                  "is"
+                ],
+                "correctSentence": [
+                  "hope",
+                  "she",
+                  "is",
+                  "happy"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "be rich",
+                  "will",
+                  "I think"
+                ],
+                "correctSentence": [
+                  "I think",
+                  "she",
+                  "will",
+                  "be rich"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "will be",
+                  "I think",
+                  "you",
+                  "fine"
+                ],
+                "correctSentence": [
+                  "I think",
+                  "you",
+                  "will be",
+                  "fine"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NdnTGICEqXs",
+                  "sentence": [
+                    "On the",null,"side, I don't think President Siebert will",null," making us go",null,"any more fund raisers."
+                  ],
+                  "correctAnswer": [
+                    "bright",
+                    "be",
+                    "to"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "right"
+                      },
+                      {
+                        "text": "bright"
+                      },
+                      {
+                        "text": "bride"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "he"
+                      },
+                      {
+                        "text": "be"
+                      },
+                      {
+                        "text": "in"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "for"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/qUqcxRatYio",
+                  "sentence": [
+                    "I am afraid we",null,"be",null,"each other", null, "some time, My Lord."
+                  ],
+                  "correctAnswer": [
+                    "won't",
+                    "seeing",
+                    "for"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "weren't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "saying"
+                      },
+                      {
+                        "text": "see in"
+                      },
+                      {
+                        "text": "seeing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "from"
+                      },
+                      {
+                        "text": "or"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/zKhHuvjksu0",
+                  "sentence": [
+                    "I'll be ",null," a dance of joy ",null," as soon as my leg is",null
+                  ],
+                  "correctAnswer": [
+                    "doing",
+                    "just",
+                    "healed"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "do in"
+                      },
+                      {
+                        "text": "doing"
+                      },
+                      {
+                        "text": "dueling"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ajust"
+                      },
+                      {
+                        "text": "geste"
+                      },
+                      {
+                        "text": "just"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "held"
+                      },
+                      {
+                        "text": "healed"
+                      },
+                      {
+                        "text": "heels"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/fQXokUVoMu8",
+                  "sentence": [
+                    "If you remember ",null," else,  ",null,"  be having a ",null, " inside."
+                  ],
+                  "correctAnswer": [
+                    "anything",
+                    "we'll",
+                    "burger"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "under seen"
+                      },
+                      {
+                        "text": "anything"
+                      },
+                      {
+                        "text": "something"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "they'll"
+                      },
+                      {
+                        "text": "I'll"
+                      },
+                      {
+                        "text": "we'll"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "burger"
+                      },
+                      {
+                        "text": "burglar"
+                      },
+                      {
+                        "text": "bigger"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/HtbZpjPtDcw",
+                  "sentence": [
+                    "Seriously, don't",null,"give",null,"to charity, you won't be",null,"anyone."
+                  ],
+                  "correctAnswer": [
+                    "even",
+                    "it",
+                    "helping"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "event"
+                      },
+                      {
+                        "text": "even"
+                      },
+                      {
+                        "text": "evens"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "it"
+                      },
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "on"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "help"
+                      },
+                      {
+                        "text": "helping"
+                      },
+                      {
+                        "text": "helped"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/PGCEt7uNyvM",
+                  "sentence": [
+                    "I won't be",null,"you a favour",null,"the long run if",null,"too much for you."
+
+                  ],
+                  "correctAnswer": [
+                    "doing",
+                    "in",
+                    "it's"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "bater"
+                      },
+                      {
+                        "text": "better"
+                      },
+                      {
+                        "text": "doing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "lin"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "it's"
+                      },
+                      {
+                        "text": "that's"
+                      },
+                      {
+                        "text": "its"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+

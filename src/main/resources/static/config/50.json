@@ -1,0 +1,750 @@
+
+{"lessonTitle": "День 50. Степени сравнения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Есть вариант хуже",
+                "variantsToChose": [
+                  "There is a better option",
+                  "There is a worse option",
+                  "There are a worse option"
+                ],
+                "correctAnswer": "There is a worse option",
+                "timeout": 10
+              },
+              {
+                "title": "Есть вариант лучше",
+                "variantsToChose": [
+                  "There is a worse option",
+                  "There is a better option",
+                  "There are a better option"
+                ],
+                "correctAnswer": "There is a better option",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Есть дома намного больше",
+                "variantsToChose": [
+                  "There are much bigger houses",
+                  "There is much bigger house",
+                  "There are many bigger house"
+                ],
+                "correctAnswer": "There are much bigger houses",
+                "timeout": 10
+              },
+              {
+                "title": "Есть дома намного дешевле",
+                "variantsToChose": [
+                  "There are much cheaper houses",
+                  "There is much cheaper house",
+                  "There are many cheaper houses"
+                ],
+                "correctAnswer": "There are much cheaper houses",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Есть машины намного быстрее",
+                "variantsToChose": [
+                  "There are far faster car",
+                  "There is far faster cars",
+                  "There are far faster cars"
+                ],
+                "correctAnswer": "There are far faster cars",
+                "timeout": 10
+              },
+              {
+                "title": "Есть машины намного медленее",
+                "variantsToChose": [
+                  "There are far slower car",
+                  "There is far slower cars",
+                  "There are far slower cars"
+                ],
+                "correctAnswer": "There are far slower cars",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Есть ли модель новее?",
+                "variantsToChose": [
+                  "Is there a newer model?",
+                  "There is a newer model?",
+                  "Is there a more newer model?"
+                ],
+                "correctAnswer": "Is there a newer model?",
+                "timeout": 10
+              },
+              {
+                "title": "Есть ли более добрый человек?",
+                "variantsToChose": [
+                  "Is there a kinder person?",
+                  "Are there a kinder person?",
+                  "Is there kinder persons?"
+                ],
+                "correctAnswer": "Is there a kinder person?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Есть ли более короткий путь?",
+                "variantsToChose": [
+                  "Are there shorter ways?",
+                  "Is there a shorter way?",
+                  "There is a shorter way?"
+                ],
+                "correctAnswer": "Is there a shorter way?",
+                "timeout": 10
+              },
+              {
+                "title": "Есть ли более простой путь?",
+                "variantsToChose": [
+                  "Are there simpler ways?",
+                  "Is there a simpler way?",
+                  "There is a simpler ways?"
+                ],
+                "correctAnswer": "Is there a simpler way?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Есть более высокие люди",
+                "variantsToChose": [
+                  "Are there much taller people",
+                  "There are much taller people",
+                  "There is many taller people"
+                ],
+                "correctAnswer": "There are much taller people",
+                "timeout": 10
+              },
+              {
+                "title": "Есть намного более низкие люди",
+                "variantsToChose": [
+                  "There are a much shorter people",
+                  "There are far shorter people",
+                  "There are shorter people"
+                ],
+                "correctAnswer": "There are far shorter people",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There are",
+                  "models",
+                  "slightly",
+                  "newer"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "slightly",
+                  "newer",
+                  "models"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There are",
+                  "older",
+                  "models",
+                  "slightly"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "slightly",
+                  "older",
+                  "models"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "person",
+                  "a taller",
+                  "Is",
+                  "there"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a taller",
+                  "person"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "Is",
+                  "a shorter",
+                  "way"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a shorter",
+                  "way"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "There",
+                  "faster computers",
+                  "far"
+                ],
+                "correctSentence": [
+                  "There",
+                  "are",
+                  "far",
+                  "faster computers"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "There",
+                  "slower trains",
+                  "far"
+                ],
+                "correctSentence": [
+                  "There",
+                  "are",
+                  "far",
+                  "slower trains"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "a",
+                  "simpler",
+                  "Is there",
+                  "choice"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "a",
+                  "simpler",
+                  "choice"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "a",
+                  "harder",
+                  "Is there",
+                  "choice"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "a",
+                  "harder",
+                  "choice"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "Is",
+                  "person",
+                  "a kinder"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a kinder",
+                  "person"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Is there",
+                  "a",
+                  "person",
+                  "smarter"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "a",
+                  "smarter",
+                  "person"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "much",
+                  "There are",
+                  "children",
+                  "nicer"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "much",
+                  "nicer",
+                  "children"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There are",
+                  "cakes",
+                  "much",
+                  "better"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "much",
+                  "better",
+                  "cakes"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/FfY9IWE6zsw",
+                  "sentence": [
+                    null,
+                    "is",
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "There",
+                    "another",
+                    "woman"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Here"
+                      },
+                      {
+                        "text": "They are"
+                      },
+                      {
+                        "text": "There"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "each other"
+                      },
+                      {
+                        "text": "another"
+                      },
+                      {
+                        "text": "the other"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "woolen"
+                      },
+                      {
+                        "text": "human"
+                      },
+                      {
+                        "text": "woman"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cGqik5PX6J4",
+                  "sentence": [
+                    null,
+                    "is",
+                    null,
+                    "me and",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "There",
+                    "no",
+                    "you"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "There"
+                      },
+                      {
+                        "text": "Their"
+                      },
+                      {
+                        "text": "THey are"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "know"
+                      },
+                      {
+                        "text": "no"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "yo"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ULmtwKvwaNs",
+                  "sentence": [
+                    null,
+                    "is",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "This",
+                    "much",
+                    "better"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "This"
+                      },
+                      {
+                        "text": "That"
+                      },
+                      {
+                        "text": "Those"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "latch"
+                      },
+                      {
+                        "text": "much"
+                      },
+                      {
+                        "text": "notch"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "butter"
+                      },
+                      {
+                        "text": "bitter"
+                      },
+                      {
+                        "text": "better"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/LyBxXNkcpWA",
+                  "sentence": [
+                    "You",
+                    null,
+                    null,
+                    "than",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "are",
+                    "worse",
+                    "humans"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "ur"
+                      },
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "a"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "herse"
+                      },
+                      {
+                        "text": "worse"
+                      },
+                      {
+                        "text": "coarse"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "humain"
+                      },
+                      {
+                        "text": "humanus"
+                      },
+                      {
+                        "text": "humans"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/tdmD9Pw4QyA",
+                  "sentence": [
+                    null,
+                    null,
+                    "is",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "This",
+                    "one",
+                    "cheaper"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "That"
+                      },
+                      {
+                        "text": "These"
+                      },
+                      {
+                        "text": "This"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gone"
+                      },
+                      {
+                        "text": "one"
+                      },
+                      {
+                        "text": "omen"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cheaper"
+                      },
+                      {
+                        "text": "chopper"
+                      },
+                      {
+                        "text": "chipper"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ytwGTzmwOkY",
+                  "sentence": [
+                    null,
+                    "is",
+                    null,
+                    "bigger than I",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "He",
+                    "much",
+                    "am"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "He"
+                      },
+                      {
+                        "text": "His"
+                      },
+                      {
+                        "text": "Hiss"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "latch"
+                      },
+                      {
+                        "text": "much"
+                      },
+                      {
+                        "text": "coach"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fan"
+                      },
+                      {
+                        "text": "ham"
+                      },
+                      {
+                        "text": "am"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+
+{"lessonTitle": "День 51. This That These Those",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Это более дорогая машина",
+                "variantsToChose": [
+                  "These is a more expensive car",
+                  "This are a more expensive car",
+                  "This is expensive car"
+                ],
+                "correctAnswer": "This is a more expensive car",
+                "timeout": 10
+              },
+              {
+                "title": "Это более практичная машина",
+                "variantsToChose": [
+                  "These is a more practical car",
+                  "This are a more practical car",
+                  "This is practical car"
+                ],
+                "correctAnswer": "This is a more practical car",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Это более важные задачи",
+                "variantsToChose": [
+                  "This is a more important tasks",
+                  "This are more important tasks",
+                  "These are more important tasks"
+                ],
+                "correctAnswer": "These are more important tasks",
+                "timeout": 10
+              },
+              {
+                "title": "Это более срочные дела",
+                "variantsToChose": [
+                  "These is a more urgent tasks",
+                  "This are more urgent tasks",
+                  "These are more urgent tasks"
+                ],
+                "correctAnswer": "These are more urgent tasks",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Тот предмет более интерсный",
+                "variantsToChose": [
+                  "That is interesting subject",
+                  "That is a more interesting subject",
+                  "That are a more interesting subject"
+                ],
+                "correctAnswer": "That is a more interesting subject",
+                "timeout": 10
+              },
+              {
+                "title": "Та информация более актуальная",
+                "variantsToChose": [
+                  "That is relevant information",
+                  "That information is more relevant",
+                  "That information is a more relevant"
+                ],
+                "correctAnswer": "That information is more relevant",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "То более забитые места",
+                "variantsToChose": [
+                  "This more crowded areas",
+                  "That is more crowded areas",
+                  "Those are more crowded areas"
+                ],
+                "correctAnswer": "Those are more crowded areas",
+                "timeout": 10
+              },
+              {
+                "title": "То более опасные районы",
+                "variantsToChose": [
+                  "This more dangerous areas",
+                  "That is more dangerous areas",
+                  "Those are more dangerous areas"
+                ],
+                "correctAnswer": "Those are more dangerous areas",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Есть ли более сложный механизм?",
+                "variantsToChose": [
+                  "Is there a more complex mechanism?",
+                  "Are there a more complex mechanism?",
+                  "Is this a more complex mechanism?"
+                ],
+                "correctAnswer": "Is there a more complex mechanism?",
+                "timeout": 10
+              },
+              {
+                "title": "Есть ли более полезный механизм?",
+                "variantsToChose": [
+                  "Is there a more useful mechanism?",
+                  "Are there a more useful mechanism?",
+                  "Is this a more useful mechanism?"
+                ],
+                "correctAnswer": "Is there a more useful mechanism?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Есть ли более ответственные учителя?",
+                "variantsToChose": [
+                  "There are more responsible teachers?",
+                  "Is there more responsible teachers?",
+                  "Are there more responsible teachers?"
+                ],
+                "correctAnswer": "Are there more responsible teachers?",
+                "timeout": 10
+              },
+              {
+                "title": "Есть ли более общительные учителя?",
+                "variantsToChose": [
+                  "There are more sociable teachers?",
+                  "Is there more sociable teachers?",
+                  "Are there more sociable teachers?"
+                ],
+                "correctAnswer": "Are there more sociable teachers?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "elegant",
+                  "This is",
+                  "a more",
+                  "way"
+                ],
+                "correctSentence": [
+                  "This is",
+                  "a more",
+                  "elegant",
+                  "way"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "effective",
+                  "team",
+                  "This is",
+                  "a more"
+                ],
+                "correctSentence": [
+                  "This is",
+                  "a more",
+                  "effective",
+                  "team"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "more serious",
+                  "These",
+                  "decisions"
+                ],
+                "correctSentence": [
+                  "These",
+                  "are",
+                  "more serious",
+                  "decisions"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "more comfortable",
+                  "These",
+                  "cars"
+                ],
+                "correctSentence": [
+                  "These",
+                  "are",
+                  "more comfortable",
+                  "cars"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a more",
+                  "crowded",
+                  "That is",
+                  "city"
+                ],
+                "correctSentence": [
+                  "That is",
+                  "a more",
+                  "crowded",
+                  "city"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a more",
+                  "That is",
+                  "talented",
+                  "girl"
+                ],
+                "correctSentence": [
+                  "That is",
+                  "a more",
+                  "talented",
+                  "girl"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "people",
+                  "more",
+                  "Are there",
+                  "responsible"
+                ],
+                "correctSentence": [
+                  "Are there",
+                  "more",
+                  "responsible",
+                  "people"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "more",
+                  "landscapes",
+                  "fascinating",
+                  "Are there"
+                ],
+                "correctSentence": [
+                  "Are there",
+                  "more",
+                  "fascinating",
+                  "landscapes"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "Is",
+                  "a more",
+                  "complex test"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a more",
+                  "complex test"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "girl",
+                  "a more",
+                  "Is there",
+                  "beautiful"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "a more",
+                  "beautiful",
+                  "girl"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "gift",
+                  "a more",
+                  "generous",
+                  "Is there"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "a more",
+                  "generous",
+                  "gift"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "useful",
+                  "a more",
+                  "book",
+                  "Is there"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "a more",
+                  "useful",
+                  "book"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/OCmO0hysM-s",
+                  "sentence": [
+                    null,
+                    "are no",
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "There",
+                    "more",
+                    "birthdays"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Here"
+                      },
+                      {
+                        "text": "They are"
+                      },
+                      {
+                        "text": "There"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bore"
+                      },
+                      {
+                        "text": "more"
+                      },
+                      {
+                        "text": "lore"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bright days"
+                      },
+                      {
+                        "text": "birth dates"
+                      },
+                      {
+                        "text": "birthdays"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/CA7D_a_2RY4",
+                  "sentence": [
+                    "There",
+                    null,
+                    "no",
+                    null,
+                    "in Johny's",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "are",
+                    "books",
+                    "room"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "ur"
+                      },
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "raw"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "looks"
+                      },
+                      {
+                        "text": "booms"
+                      },
+                      {
+                        "text": "books"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "room"
+                      },
+                      {
+                        "text": "boom"
+                      },
+                      {
+                        "text": "goom"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/AN4elMK7-WA",
+                  "sentence": [
+                    "I",
+                    null,
+                    "more",
+                    null,
+                    "and more",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "am",
+                    "clever",
+                    "devious"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "sam"
+                      },
+                      {
+                        "text": "am"
+                      },
+                      {
+                        "text": "ham"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cler"
+                      },
+                      {
+                        "text": "clover"
+                      },
+                      {
+                        "text": "clever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "devious"
+                      },
+                      {
+                        "text": "device"
+                      },
+                      {
+                        "text": "divorce"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/CncE1tcU0I0",
+                  "sentence": [
+                    "Michael",
+                    null,
+                    "much",
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "is",
+                    "more",
+                    "powerful"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "miss"
+                      },
+                      {
+                        "text": "kiss"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "core"
+                      },
+                      {
+                        "text": "more"
+                      },
+                      {
+                        "text": "bore"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "powerball"
+                      },
+                      {
+                        "text": "prayerful"
+                      },
+                      {
+                        "text": "powerful"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ls4M1Zlal8I",
+                  "sentence": [
+                    null,
+                    "you like",
+                    null,
+                    "more",
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "Would",
+                    "some",
+                    "potatoes"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Will"
+                      },
+                      {
+                        "text": "Would"
+                      },
+                      {
+                        "text": "Wood"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sam"
+                      },
+                      {
+                        "text": "some"
+                      },
+                      {
+                        "text": "soon"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "potatoes"
+                      },
+                      {
+                        "text": "pesetas"
+                      },
+                      {
+                        "text": "plateaus"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/c_isqcn03n4",
+                  "sentence": [
+                    null,
+                    "are a",
+                    null,
+                    "more",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Here",
+                    "few",
+                    "lessons"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Hare"
+                      },
+                      {
+                        "text": "Here"
+                      },
+                      {
+                        "text": "Heir"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "few"
+                      },
+                      {
+                        "text": "dew"
+                      },
+                      {
+                        "text": "fuel"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "loosens"
+                      },
+                      {
+                        "text": "listens"
+                      },
+                      {
+                        "text": "lessons"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

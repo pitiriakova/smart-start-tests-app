@@ -1,0 +1,763 @@
+
+{"lessonTitle": "День 69. Passive",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "They will cancel the meeting",
+                "variantsToChose": [
+                  "The meeting will be cancelled",
+                  "They will be cancelled by the meeting",
+                  "The meeting will cancelled them"
+                ],
+                "correctAnswer": "The meeting will be cancelled",
+                "timeout": 10
+              },
+              {
+                "title": "They won't cancel the meeting",
+                "variantsToChose": [
+                  "The meeting won't be cancelled",
+                  "They won't cancelled by the meeting",
+                  "The meeting won't cancelled them"
+                ],
+                "correctAnswer": "The meeting won't be cancelled",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "They will sign the contract in 2 days",
+                "variantsToChose": [
+                  "The contract will sign them in 2 days",
+                  "The contract will be signed in 2 days",
+                  "They will be signed by the contract in 2 days"
+                ],
+                "correctAnswer": "The contract will be signed in 2 days",
+                "timeout": 10
+              },
+              {
+                "title": "They won't sign the contract in 2 days",
+                "variantsToChose": [
+                  "The contract won't sign them in 2 days",
+                  "The contract won't be signed in 2 days",
+                  "They won't be signed by the contract in 2 days"
+                ],
+                "correctAnswer": "The contract won't be signed in 2 days",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "They will send him to prison",
+                "variantsToChose": [
+                  "The prison will be sent by him",
+                  "He will sent to prison by them",
+                  "He will be sent to prison"
+                ],
+                "correctAnswer": "He will be sent to prison",
+                "timeout": 10
+              },
+              {
+                "title": "They won't send him to prison",
+                "variantsToChose": [
+                  "The prison won't be sent by him",
+                  "He won't sent to prison by them",
+                  "He won't be sent to prison"
+                ],
+                "correctAnswer": "He won't be sent to prison",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Когда его изберут?",
+                "variantsToChose": [
+                  "When will he be elected?",
+                  "When he elected will be?",
+                  "When will elected be he?"
+                ],
+                "correctAnswer": "When you were born?",
+                "timeout": 10
+              },
+              {
+                "title": "Когда меня отпустят?",
+                "variantsToChose": [
+                  "When will I be released?",
+                  "When will released I?",
+                  "When released I will be?"
+                ],
+                "correctAnswer": "When will I be released?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "У тебя не будет много возможностей",
+                "variantsToChose": [
+                  "You won't be had many opportunities",
+                  "You won`t have many opportunities",
+                  "You not have many opportunities"
+                ],
+                "correctAnswer": "You won`t have many opportunities",
+                "timeout": 10
+              },
+              {
+                "title": "У них не будет много счастья",
+                "variantsToChose": [
+                  "They won't be had much happiness",
+                  "They won`t have much happiness",
+                  "They will have much happiness"
+                ],
+                "correctAnswer": "They won`t have much happiness",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Сколько домов у нас будет?",
+                "variantsToChose": [
+                  "How many houses will we be had?",
+                  "How many houses will be we have?",
+                  "How many houses will we have?"
+                ],
+                "correctAnswer": "How many houses will we have?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько машин у него будет?",
+                "variantsToChose": [
+                  "How many cars he have?",
+                  "How many cars will be he have?",
+                  "How many cars will he have?"
+                ],
+                "correctAnswer": "How many cars will he have?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "in 5 years",
+                  "She",
+                  "will be",
+                  "elected"
+                ],
+                "correctSentence": [
+                  "She",
+                  "will be",
+                  "elected",
+                  "in 5 years"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "tomorrow",
+                  "He",
+                  "arrested",
+                  "will be"
+                ],
+                "correctSentence": [
+                  "He",
+                  "will be",
+                  "arrested",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "this question",
+                  "will",
+                  "be",
+                  "asked"
+                ],
+                "correctSentence": [
+                  "will",
+                  "this question",
+                  "be",
+                  "asked"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "when will",
+                  "this man",
+                  "be",
+                  "released"
+                ],
+                "correctSentence": [
+                  "when will",
+                  "this man",
+                  "be",
+                  "released"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "have",
+                  "won`t",
+                  "much happiness"
+                ],
+                "correctSentence": [
+                  "He",
+                  "won`t",
+                  "have",
+                  "much happiness"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She",
+                  "have",
+                  "won`t",
+                  "any job"
+                ],
+                "correctSentence": [
+                  "She",
+                  "won`t",
+                  "have",
+                  "any job"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I won't",
+                  "tomorrow",
+                  "have",
+                  "any news"
+                ],
+                "correctSentence": [
+                  "I won`t",
+                  "have",
+                  "any news",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "probably have",
+                  "a good time",
+                  "You",
+                  "will"
+                ],
+                "correctSentence": [
+                  "You",
+                  "will",
+                  "probably have",
+                  "a good time"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "person",
+                  "a taller",
+                  "Is",
+                  "there"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a taller",
+                  "person"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "Is",
+                  "a shorter",
+                  "way"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a shorter",
+                  "way"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "much",
+                  "There are",
+                  "children",
+                  "nicer"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "much",
+                  "nicer",
+                  "children"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There are",
+                  "cakes",
+                  "much",
+                  "better"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "much",
+                  "better",
+                  "cakes"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/I-GCKZAbVy4",
+                  "sentence": [
+                    "Blood",
+                    null,
+                    "will be",
+                    null,
+                    null
+
+
+                  ],
+                  "correctAnswer": [
+                    "test",
+                    "done",
+                    "soon"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "test"
+                      },
+                      {
+                        "text": "tost"
+                      },
+                      {
+                        "text": "toast"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "done"
+                      },
+                      {
+                        "text": "down"
+                      },
+                      {
+                        "text": "dawn"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sooth"
+                      },
+                      {
+                        "text": "soon"
+                      },
+                      {
+                        "text": "sane"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/yueirTTz9JY",
+                  "sentence": [
+                    "You will be",
+                    null,
+                    "to know that I have",
+                    null,
+                    "a rescue",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "pleased",
+                    "requested",
+                    "team"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "please"
+                      },
+                      {
+                        "text": "plead"
+                      },
+                      {
+                        "text": "pleased"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "required"
+                      },
+                      {
+                        "text": "requested"
+                      },
+                      {
+                        "text": "request"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "team"
+                      },
+                      {
+                        "text": "teem"
+                      },
+                      {
+                        "text": "tim"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/0IyMdZYaevw",
+                  "sentence": [
+                    "The traffic and",
+                    null,
+                    "will be",
+                    null,
+                    ", but",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "drugs",
+                    "permitted",
+                    "controlled"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "drags"
+                      },
+                      {
+                        "text": "driggs"
+                      },
+                      {
+                        "text": "drugs"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "permitted"
+                      },
+                      {
+                        "text": "promoted"
+                      },
+                      {
+                        "text": "permeated"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "control"
+                      },
+                      {
+                        "text": "controlled"
+                      },
+                      {
+                        "text": "controls"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1WURWxqBF9k",
+                  "sentence": [
+                    "Execution will be",
+                    null,
+                    "out as",
+                    null,
+                    "one week",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "carried",
+                    "scheduled",
+                    "hence"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "curried"
+                      },
+                      {
+                        "text": "carried"
+                      },
+                      {
+                        "text": "cared"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "schedule"
+                      },
+                      {
+                        "text": "schedules"
+                      },
+                      {
+                        "text": "scheduled"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hence"
+                      },
+                      {
+                        "text": "hens"
+                      },
+                      {
+                        "text": "hanes"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1jKdqhnSrC8",
+                  "sentence": [
+                    "Anything you say",
+                    null,
+                    "and will be",
+                    null,
+                    "against you in a court of",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "can",
+                    "used",
+                    "law"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "cen"
+                      },
+                      {
+                        "text": "can"
+                      },
+                      {
+                        "text": "ken"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "youse"
+                      },
+                      {
+                        "text": "use"
+                      },
+                      {
+                        "text": "used"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "low"
+                      },
+                      {
+                        "text": "law"
+                      },
+                      {
+                        "text": "lowe"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/X3RqtuhmVoI",
+                  "sentence": [
+                    "You boy will be",
+                    null,
+                    "from your",
+                    null,
+                    "and given to the",
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "plucked",
+                    "breast",
+                    "dogs"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "blocked"
+                      },
+                      {
+                        "text": "plucked"
+                      },
+                      {
+                        "text": "plunked"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "breast"
+                      },
+                      {
+                        "text": "braced"
+                      },
+                      {
+                        "text": "pressed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "docks"
+                      },
+                      {
+                        "text": "dox"
+                      },
+                      {
+                        "text": "dogs"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

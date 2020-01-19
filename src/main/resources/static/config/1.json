@@ -1,0 +1,554 @@
+{
+  "lessonTitle": "День 1. Глагол to be. Знакомство",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "he is rich",
+                  "variantsToChose": [
+                    "он бедный",
+                    "он богатый",
+                    "она молодой"
+                  ],
+                  "correctAnswer": "он богатый",
+                  "timeout": 10
+                },
+                {
+                  "title": "he isn't poor",
+                  "variantsToChose": [
+                    "он бедный",
+                    "он не бедный",
+                    "он не богатый"
+                  ],
+                  "correctAnswer": "он не бедный",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "I am young",
+                  "variantsToChose": [
+                    "я молод",
+                    "я стар",
+                    "я не стар"
+                  ],
+                  "correctAnswer": "я молод",
+                  "timeout": 10
+                },
+                {
+                  "title": "I am not old",
+                  "variantsToChose": [
+                    "я не стар",
+                    "я не молод",
+                    "я молод"
+                  ],
+                  "correctAnswer": "я не стар",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "You are ill",
+                  "variantsToChose": [
+                    "ты здоров",
+                    "ты не здоров",
+                    "ты болен"
+                  ],
+                  "correctAnswer": "ты болен",
+                  "timeout": 10
+                },
+                {
+                  "title": "You aren't healthy",
+                  "variantsToChose": [
+                    "ты не болен",
+                    "ты здоров",
+                    "ты не здоров"
+                  ],
+                  "correctAnswer": "ты не здоров",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "They are not happy",
+                  "variantsToChose": [
+                    "они несчастливы",
+                    "они счастливы",
+                    "мы несчастливы"
+                  ],
+                  "correctAnswer": "они несчастливы",
+                  "timeout": 10
+                },
+                {
+                  "title": "They are sad",
+                  "variantsToChose": [
+                    "мы грустны",
+                    "они не грустны",
+                    "они грустны"
+                  ],
+                  "correctAnswer": "они грустны",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "She is tall",
+                  "variantsToChose": [
+                    "он высокий",
+                    "она высокая",
+                    "ты высокий"
+                  ],
+                  "correctAnswer": "она высокая",
+                  "timeout": 10
+                },
+                {
+                  "title": "She is short",
+                  "variantsToChose": [
+                    "он низкий",
+                    "она низкая",
+                    "ты низкий"
+                  ],
+                  "correctAnswer": "она низкая",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "We aren't silly",
+                  "variantsToChose": [
+                    "мы глупы",
+                    "мы не глупы",
+                    "мы правы"
+                  ],
+                  "correctAnswer": "мы не глупы",
+                  "timeout": 10
+                },
+                {
+                  "title": "We aren't clever",
+                  "variantsToChose": [
+                    "мы не умны",
+                    "мы глупы",
+                    "мы не глупы"
+                  ],
+                  "correctAnswer": "мы не умны",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "happy",
+                    "is",
+                    "he"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "is",
+                    "happy"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "not",
+                    "he",
+                    "is",
+                    "sad"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "is",
+                    "not",
+                    "sad"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "rich",
+                    "not",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "is",
+                    "not",
+                    "rich"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "poor",
+                    "she",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "is",
+                    "poor"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "tall",
+                    "am"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "tall"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "not",
+                    "short",
+                    "am"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "not",
+                    "short"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "are",
+                    "not",
+                    "old"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "are",
+                    "not",
+                    "old"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "are",
+                    "young"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "are",
+                    "young"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "wrong",
+                    "they",
+                    "are"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "are",
+                    "wrong"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "right",
+                    "they",
+                    "are"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "are",
+                    "right"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "strong",
+                    "are"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "are",
+                    "strong"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "not",
+                    "are",
+                    "weak"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "are",
+                    "not",
+                    "weak"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            }
+
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/x34beN4KgzU",
+                  "sentence": [
+                    "That you're a good boss, and you'll",
+                    null,
+                    "be happy"
+                  ],
+                  "correctAnswer": "never",
+                  "possibleAnswers": [
+                    "not",
+                    "neither",
+                    "never"
+                  ],
+                  "timeout": 150
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/woKF1aWpjoM",
+                  "sentence": [
+                    "So I am",
+                    null
+                  ],
+                  "correctAnswer": "wrong",
+                  "possibleAnswers": [
+                    "won",
+                    "wrong",
+                    "wall"
+                  ],
+                  "timeout": 150
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Rk4eHiwJTgI",
+                  "sentence": [
+                    "Except if",
+                    null,
+                    "is right"
+                  ],
+                  "correctAnswer": "he",
+                  "possibleAnswers": [
+                    "him",
+                    "she",
+                    "he"
+                  ],
+                  "timeout": 150
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/stvoHcpx_74",
+                  "sentence": [
+                    "She's right",
+                    null,
+                    "one thing"
+                  ],
+                  "correctAnswer": "about",
+                  "possibleAnswers": [
+                    "about",
+                    "above",
+                    "boat"
+                  ],
+                  "timeout": 150
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/a-ddq9Qc1Bs",
+                  "sentence": [
+                    "Your mom's tall, and you are a little",
+                    null,
+                    "for your age"
+                  ],
+                  "correctAnswer": "short",
+                  "possibleAnswers": [
+                    "shine",
+                    "short",
+                    "strong"
+                  ],
+                  "timeout": 150
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/hY0gYCdybak",
+                  "sentence": [
+                    "I am",
+                    null,
+                    "though, right?"
+                  ],
+                  "correctAnswer": "rich",
+                  "characters": [
+                    "c",
+                    "r",
+                    "f",
+                    "i",
+                    "v",
+                    "h"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Nbyh1dTcYv0",
+                  "sentence": [
+                    "She was a",
+                    null,
+                    "woman"
+                  ],
+                  "correctAnswer": "strong",
+                  "characters": [
+                    "s",
+                    "r",
+                    "e",
+                    "t",
+                    "d",
+                    "g",
+                    "o",
+                    "n"
+                  ],
+                  "timeout": 220
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

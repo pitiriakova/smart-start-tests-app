@@ -1,0 +1,757 @@
+
+{"lessonTitle": "День 30. Present Continuous",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Мы собираемся пожениться",
+                "variantsToChose": [
+                  "We are going to getting married",
+                  "We are going to get married",
+                  "We are go to getting married"
+                ],
+                "correctAnswer": "We are going to get married",
+                "timeout": 10
+              },
+              {
+                "title": "Я собираюсь играть в футбол сегодня вечером",
+                "variantsToChose": [
+                  "I am going to play football this evening",
+                  "I am going to playing football this evening",
+                  "I am go to playing football this evening"
+                ],
+                "correctAnswer": "I am going to play football this evening",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Он собирается пообедать сейчас?",
+                "variantsToChose": [
+                  "Is he go to getting lunch now?",
+                  "Is he going to getting lunch now?",
+                  "Is he going to get lunch now?"
+                ],
+                "correctAnswer": "Is he going to get lunch now?",
+                "timeout": 10
+              },
+              {
+                "title": "Она поедет в путешествие на следующей неделе?",
+                "variantsToChose": [
+                  "Is she going to travel next week?",
+                  "Is she go traveling next week?",
+                  "Is she going to traveling next week?"
+                ],
+                "correctAnswer": "Is she going to travel next week?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему ты собираешься играть с ним?",
+                "variantsToChose": [
+                  "Why are you going him to play with?",
+                  "Why are you going to play with him?",
+                  "Why are you going be play with him?"
+                ],
+                "correctAnswer": "Why are you going to play with him?",
+                "timeout": 10
+              },
+              {
+                "title": "Они собираются туда поехать на автобусе?",
+                "variantsToChose": [
+                  "Are they going to get there by bus?",
+                  "Are they going to getting there by bus?",
+                  "Are they going to get there bussing?"
+                ],
+                "correctAnswer": "Are they going to get there by bus?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Я еду в Маями завтра",
+                "variantsToChose": [
+                  "I am traveling Miami tomorrow",
+                  "I am travel Miami tomorrow",
+                  "I am traveling to Miami tomorrow"
+                ],
+                "correctAnswer": "I am traveling to Miami tomorrow",
+                "timeout": 10
+              },
+              {
+                "title": "Мы собираемся посетить мое любимое кафе завтра",
+                "variantsToChose": [
+                  "We are going to visit cafe my favorite tomorrow",
+                  "We are going to visiting cafe which is my favorite tomorrow",
+                  "We are going to visit my favorite cafe tomorrow"
+                ],
+                "correctAnswer": "We are going to visit my favorite cafe tomorrow",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Они едут кататься на лыжах этой зимой",
+                "variantsToChose": [
+                  "They are going to go skiing this winter",
+                  "They are going to be ski this winter",
+                  "They are going to this winter skiing"
+                ],
+                "correctAnswer": "They are going to go skiing this winter",
+                "timeout": 10
+              },
+              {
+                "title": "Я иду кататься на коньках через 10 минут",
+                "variantsToChose": [
+                  "I am going to skating in 10 minutes",
+                  "I go to skating in 10 minutes",
+                  "I am going to go skating in 10 minutes"
+                ],
+                "correctAnswer": "I am going to go skating in 10 minutes",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Когда у нас будет отпуск следующий раз?",
+                "variantsToChose": [
+                  "When are we going to have vacation next time?",
+                  "When are we going to vacate next time?",
+                  "When are we going to vacating next time?"
+                ],
+                "correctAnswer": "When are we going to have vacation next time?",
+                "timeout": 10
+              },
+              {
+                "title": "Твоя поездка будет длинной?",
+                "variantsToChose": [
+                  "Is your trip go to be long?",
+                  "Is your trip going to be long?",
+                  "Is your trip going to being long?"
+                ],
+                "correctAnswer": "Is your trip going to be long?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "later tonight",
+                  "we are",
+                  "eat out",
+                  "going to"
+                ],
+                "correctSentence": [
+                  "we are",
+                  "going to",
+                  "eat out",
+                  "later tonight"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "to play computer games",
+                  "is going",
+                  "this evening",
+                  "he"
+                ],
+                "correctSentence": [
+                  "he",
+                  "is going",
+                  "to play computer games",
+                  "this evening"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "going to get there",
+                  "you are",
+                  "late",
+                  "too"
+                ],
+                "correctSentence": [
+                  "you are",
+                  "going to get there",
+                  "too",
+                  "late"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the time",
+                  "all",
+                  "he is",
+                  "playing with her"
+                ],
+                "correctSentence": [
+                  "he is",
+                  "playing with her",
+                  "all",
+                  "the time"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a puppy",
+                  "for her birthday",
+                  "he is getting",
+                  "for her"
+                ],
+                "correctSentence": [
+                  "he is getting",
+                  "a puppy",
+                  "for her",
+                  "for her birthday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "opera concert",
+                  "going to",
+                  "visit",
+                  "they are"
+                ],
+                "correctSentence": [
+                  "they are",
+                  "going to",
+                  "visit",
+                  "opera concert"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "by car",
+                  "are traveling",
+                  "to my home town",
+                  "we"
+                ],
+                "correctSentence": [
+                  "we",
+                  "are traveling",
+                  "to my home town",
+                  "by car"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "two tickets",
+                  "for us",
+                  "is getting",
+                  "he"
+                ],
+                "correctSentence": [
+                  "he",
+                  "is getting",
+                  "two tickets",
+                  "for us"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "their own house",
+                  "going to",
+                  "they are",
+                  "build"
+                ],
+                "correctSentence": [
+                  "they are",
+                  "going to",
+                  "build",
+                  "their own house"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "New York",
+                  "is visiting",
+                  "tomorrow"
+                ],
+                "correctSentence": [
+                  "he",
+                  "is visiting",
+                  "New York",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "this Sunday",
+                  "getting",
+                  "married",
+                  "they are"
+                ],
+                "correctSentence": [
+                  "they are",
+                  "getting",
+                  "married",
+                  "this Sunday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "long",
+                  "their vacation",
+                  "is not",
+                  "going to be"
+                ],
+                "correctSentence": [
+                  "their vacation",
+                  "is not",
+                  "going to be",
+                  "long"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZId_CQ-x53g",
+                  "sentence": [
+                    "Seven days after my",
+                    null,
+                    null,
+                    "on Wisteria Lane finally",
+                    null,
+                    "to normal"
+                  ],
+                  "correctAnswer": [
+                    "funeral",
+                    "life",
+                    "returned"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "burial"
+                      },
+                      {
+                        "text": "funeral"
+                      },
+                      {
+                        "text": "boundary"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "life"
+                      },
+                      {
+                        "text": "knife"
+                      },
+                      {
+                        "text": "five"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "turned"
+                      },
+                      {
+                        "text": "lured"
+                      },
+                      {
+                        "text": "returned"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/8PcmwOiTOKE",
+                  "sentence": [
+                    "Which, for",
+                    null,
+                    "of my friends",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "some",
+                    "was",
+                    "unfortunate"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "some"
+                      },
+                      {
+                        "text": "numb"
+                      },
+                      {
+                        "text": "same"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "loss"
+                      },
+                      {
+                        "text": "cause"
+                      },
+                      {
+                        "text": "was"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fortunate"
+                      },
+                      {
+                        "text": "unfortunate"
+                      },
+                      {
+                        "text": "unnotable"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/wHnHK1A_rrQ",
+                  "sentence": [
+                    "Mommy, Mommy",
+                    null,
+                    null,
+                    "Daddy's",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "now",
+                    "what",
+                    "home"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "how"
+                      },
+                      {
+                        "text": "loud"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "pot"
+                      },
+                      {
+                        "text": "what"
+                      },
+                      {
+                        "text": "hot"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gone"
+                      },
+                      {
+                        "text": "wrong"
+                      },
+                      {
+                        "text": "home"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/dIchDSSbXbU",
+                  "sentence": [
+                    "Daddy,",
+                    null,
+                    "you buy us",
+                    null,
+                    "presents? Oh",
+                    null,
+                    "presents"
+                  ],
+                  "correctAnswer": [
+                    "did",
+                    "any",
+                    "god"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "did"
+                      },
+                      {
+                        "text": "read"
+                      },
+                      {
+                        "text": "feed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Lennie"
+                      },
+                      {
+                        "text": "any"
+                      },
+                      {
+                        "text": "many"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "god"
+                      },
+                      {
+                        "text": "good"
+                      },
+                      {
+                        "text": "great"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/pglZHh-XM1k",
+                  "sentence": [
+                    "I’m not",
+                    null,
+                    "it to you, unless you",
+                    null,
+                    "me that you’re gonna go outside right now and practice",
+                    null,
+                    "for 20 minutes, okay?"
+                  ],
+                  "correctAnswer": [
+                    "gonna give",
+                    "promise",
+                    "throwing"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "forgive"
+                      },
+                      {
+                        "text": "gonna give"
+                      },
+                      {
+                        "text": "going to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "voice"
+                      },
+                      {
+                        "text": "rose"
+                      },
+                      {
+                        "text": "promise"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "soring"
+                      },
+                      {
+                        "text": "throwing"
+                      },
+                      {
+                        "text": "sewing"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/QeuKisNVaJQ",
+                  "sentence": [
+                    "I can’t believe you",
+                    null,
+                    "tried to kill me. Yes, well, I feel",
+                    null,
+                    "about",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "tried",
+                    "badly",
+                    "that"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fried"
+                      },
+                      {
+                        "text": "aid"
+                      },
+                      {
+                        "text": "tried"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bad"
+                      },
+                      {
+                        "text": "badly"
+                      },
+                      {
+                        "text": "angry"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "dad"
+                      },
+                      {
+                        "text": "it"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

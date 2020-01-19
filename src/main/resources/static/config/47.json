@@ -1,0 +1,728 @@
+{"lessonTitle": "День 47. Will or Going to",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "We decided to have a party yesterday!",
+                "variantsToChose": [
+                  "We are going to invite a lot of people",
+                  "We will invite a lot of people",
+                  "We invite a lot of people"
+                ],
+                "correctAnswer": "We are going to invite a lot of people",
+                "timeout": 10
+              },
+              {
+                "title": "John is in hospital.",
+                "variantsToChose": [
+                  "I know, I am going to visit him tomorrow",
+                  "I know, I will visit him tomorrow",
+                  "I know, I visit him tomorrow"
+                ],
+                "correctAnswer": "I know, I am going to visit him tomorrow",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Let's have a party!",
+                "variantsToChose": [
+                  "Great idea! We will invite Jack and John!",
+                  "Great idea! We are going to invite Jack and John!",
+                  "Great idea! We going to invite Jack and John!"
+                ],
+                "correctAnswer": "Great idea! We will invite Jack and John!",
+                "timeout": 10
+              },
+              {
+                "title": "John is in hospital.",
+                "variantsToChose": [
+                  "Really? I am going to visit him tomorrow",
+                  "Really? I will visit him tomorrow",
+                  "Really? I am visit him tomorrow?"
+                ],
+                "correctAnswer": "Really? I will visit him tomorrow",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "I have run out of money!",
+                "variantsToChose": [
+                  "Don't worry! I give you some money!",
+                  "Don't worry! I am going to give you some money!",
+                  "Don't worry! I will give you some money!"
+                ],
+                "correctAnswer": "Don't worry! I will give you some money!",
+                "timeout": 10
+              },
+              {
+                "title": "Your father called you while you were out",
+                "variantsToChose": [
+                  "Really? I call him back",
+                  "Really? I am going to call him back",
+                  "Really? I will call him back"
+                ],
+                "correctAnswer": "Really? I will call him back",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Your father called you while you were out",
+                "variantsToChose": [
+                  "I know. I call him back",
+                  "I know. I am going to call him back",
+                  "I know. I will call him back"
+                ],
+                "correctAnswer": "I know. I am going to call him back",
+                "timeout": 10
+              },
+              {
+                "title": "I've decided to give her some money.",
+                "variantsToChose": [
+                  "Oh, how much money are you give her?",
+                  "Oh, how much money are you going to give her?",
+                  "Oh, how much money will you give her?"
+                ],
+                "correctAnswer": "Oh, how much money are you going to give her?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Did you send her an email yesterday?",
+                "variantsToChose": [
+                  "Oh, I forgot! I will do it tonight!",
+                  "Oh, I forgot! I am going to do it tonight!",
+                  "Oh, I forgot! I do it tonight!"
+                ],
+                "correctAnswer": "Oh, I forgot! I will do it tonight!",
+                "timeout": 10
+              },
+              {
+                "title": "Did you send him a letter yesterday?",
+                "variantsToChose": [
+                  "Oh, I forgot! I will do it tomorrow!",
+                  "Oh, I forgot! I am going to do it tomorrow!",
+                  "Oh, I forgot! I do it tomorrow!"
+                ],
+                "correctAnswer": "Oh, I forgot! I will do it tomorrow!",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "I don't know how to use this computer",
+                "variantsToChose": [
+                  "It's easy! I will be showing you!",
+                  "It's easy! I am going to show you!",
+                  "It's easy! I will show you!"
+                ],
+                "correctAnswer": "It's easy! I will show you!",
+                "timeout": 10
+              },
+              {
+                "title": "I've lost the keys!",
+                "variantsToChose": [
+                  "Oh, I will help you to find them",
+                  "Oh, I am going to help you to find them",
+                  "Oh, I will be helping you to find them"
+                ],
+                "correctAnswer": "Oh, I will help you to find them",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I am",
+                  "her",
+                  "invite",
+                  "going to"
+                ],
+                "correctSentence": [
+                  "I am",
+                  "going to",
+                  "invite",
+                  "her"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "close",
+                  "we",
+                  "Shall",
+                  "the door"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "close",
+                  "the door"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will",
+                  "the doctor",
+                  "follow",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "follow",
+                  "the doctor"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "to the party",
+                  "go",
+                  "Will",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "go",
+                  "to the party"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Shall",
+                  "make",
+                  "the cake",
+                  "we"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "make",
+                  "the cake"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Shall",
+                  "we",
+                  "the dinner",
+                  "cook"
+                ],
+                "correctSentence": [
+                  "Shall",
+                  "we",
+                  "cook",
+                  "the dinner"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will you",
+                  "me a ride",
+                  "give",
+                  "tonight"
+                ],
+                "correctSentence": [
+                  "Will you",
+                  "give",
+                  "me a ride",
+                  "tonight"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will you",
+                  "buy",
+                  "for me",
+                  "a snack"
+                ],
+                "correctSentence": [
+                  "Will you",
+                  "buy",
+                  "a snack",
+                  "for me"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "give",
+                  "Shall I",
+                  "a ride",
+                  "her"
+                ],
+                "correctSentence": [
+                  "Shall I",
+                  "give",
+                  "her",
+                  "a ride"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Shall we",
+                  "them",
+                  "help",
+                  "with it"
+                ],
+                "correctSentence": [
+                  "Shall we",
+                  "help",
+                  "them",
+                  "with it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will",
+                  "to fix it",
+                  "you",
+                  "help me"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "help me",
+                  "to fix it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will",
+                  "build",
+                  "you",
+                  "her a house"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you",
+                  "build",
+                  "her a house"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KkATbQnIwQc",
+                  "sentence": [
+                    "Maybe they fell in love ",null," him as a puppy and ",null," know how big he ",null," gonna be."
+
+                  ],
+                  "correctAnswer": [
+                    "with",
+                    "didn't",
+                    "is"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "when"
+                      },
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "with"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "isn't"
+                      },
+                      {
+                        "text": "didn't"
+                      },
+                      {
+                        "text": "don't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "was"
+                      },
+                      {
+                        "text": "will"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/niI6jqirgUk",
+                  "sentence": [
+                    "And you",null," going to hate him ",null,"  the ",null," of your life."
+                  ],
+                  "correctAnswer": [
+                    "were",
+                    "for",
+                    "rest"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "will"
+                      },
+                      {
+                        "text": "were"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "of"
+                      },
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "from"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "arrest"
+                      },
+                      {
+                        "text": "rest"
+                      },
+                      {
+                        "text": "wrest"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NrjFQppgBLM",
+                  "sentence": [
+                    "Appreciate the ",null," lesson, but 15 minutes give ",null," take ",null," gonna make a difference."
+                  ],
+                  "correctAnswer": [
+                    "life",
+                    "or",
+                    "isn't"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "love"
+                      },
+                      {
+                        "text": "life"
+                      },
+                      {
+                        "text": "laugh"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "or"
+                      },
+                      {
+                        "text": "in"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hasn't"
+                      },
+                      {
+                        "text": "wasn't"
+                      },
+                      {
+                        "text": "isn't"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZML5IdeMlUA",
+                  "sentence": [
+                    "And I thought this ",null," just gonna be another bunch of boring ",null," and ",null," billionaires."
+                  ],
+                  "correctAnswer": [
+                    "is",
+                    "bankers",
+                    "oil"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "was"
+                      },
+                      {
+                        "text": "will"
+                      },
+                      {
+                        "text": "is"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "brokers"
+                      },
+                      {
+                        "text": "bakers"
+                      },
+                      {
+                        "text": "bankers"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "all"
+                      },
+                      {
+                        "text": "foil"
+                      },
+                      {
+                        "text": "oil"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/OvtAJDtmjWQ",
+                  "sentence": [
+                    "I",null," loud and clear, if you didn't get your grades",null," , you ",null," going to the prom."
+                  ],
+                  "correctAnswer": [
+                    "said",
+                    "up",
+                    "weren't"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "say"
+                      },
+                      {
+                        "text": "sayed"
+                      },
+                      {
+                        "text": "said"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "up"
+                      },
+                      {
+                        "text": "in"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "weren't"
+                      },
+                      {
+                        "text": "wasn't"
+                      },
+                      {
+                        "text": "won't"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/qP7xryJ6ABA",
+                  "sentence": [
+                    "You are going to ",null,"to have one special woman ",null,", ",null," is beautiful"
+                  ],
+                  "correctAnswer": [
+                    "commit",
+                    "forever",
+                    "which"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "commit"
+                      },
+                      {
+                        "text": "come it"
+                      },
+                      {
+                        "text": "come at"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "forever"
+                      },
+                      {
+                        "text": "for favour"
+                      },
+                      {
+                        "text": "or ever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "what"
+                      },
+                      {
+                        "text": "which"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

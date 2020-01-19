@@ -1,0 +1,767 @@
+
+{"lessonTitle": "День 62. Условные предложения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Даже если они не надежные, она будет им доверять",
+                "variantsToChose": [
+                  "If they are unreliable, she will trust them",
+                  "Even if they will be unreliable, she trusts them",
+                  "Even if they are unreliable, she will trust them"
+                ],
+                "correctAnswer": "Even if they are unreliable, she will trust them",
+                "timeout": 10
+              },
+              {
+                "title": "Даже если они легкомысленные, он будет верить им",
+                "variantsToChose": [
+                  "If they are frivolous, he will believe them",
+                  "Even if they will be frivolous, he believes them",
+                  "Even if they are frivolous, he will believe them"
+                ],
+                "correctAnswer": "Even if they are frivolous, he will believe them",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Even if we don`t have a good memory, we __ it",
+                "variantsToChose": [
+                  "will remember",
+                  "remember",
+                  "would remember"
+                ],
+                "correctAnswer": "will remember",
+                "timeout": 10
+              },
+              {
+                "title": "Even if we don`t have a lot of money, we __ for it",
+                "variantsToChose": [
+                  "will pay",
+                  "pay",
+                  "would pay"
+                ],
+                "correctAnswer": "will pay",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Когда у тебя будет членство, они пригласят тебя",
+                "variantsToChose": [
+                  "When you will have a membership, they will invite you",
+                  "When you have a membership, they invite you",
+                  "When you have a membership, they will invite you"
+                ],
+                "correctAnswer": "When you have a membership, they will invite you",
+                "timeout": 10
+              },
+              {
+                "title": "Когда у тебя будет идея, они будут нуждаться в тебе",
+                "variantsToChose": [
+                  "When you will have an idea, they will need you",
+                  "When you will have an idea, they need you",
+                  "When you have an idea, they will need you"
+                ],
+                "correctAnswer": "When you have an idea, they will need you",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Если ты повысишь меня, я дам тебе подарок.",
+                "variantsToChose": [
+                  "If you promote me, I will give you a present",
+                  "When you promote me, I will give you a present",
+                  "Even if you promote me, I will give you a present"
+                ],
+                "correctAnswer": "If you promote me, I will give you a present",
+                "timeout": 10
+              },
+              {
+                "title": "Если ты меня уволишь, я тебя возненавижу",
+                "variantsToChose": [
+                  "If you fire me, I will hate you",
+                  "When you fire me, I will hate you",
+                  "Even if you fire me, I will hate you"
+                ],
+                "correctAnswer": "If you fire me, I will hate you",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Даже если он постареет, он будет много танцевать",
+                "variantsToChose": [
+                  "Even if he get old, he will dance a lot",
+                  "Even if he gets old, he will dance a lot",
+                  "Even if he will be old, he dance a lot"
+                ],
+                "correctAnswer": "Even if he gets old, he will dance a lot",
+                "timeout": 10
+              },
+              {
+                "title": "Даже если она будет ревнивая, он женится на ней",
+                "variantsToChose": [
+                  "Even if she jealous, he will marry her",
+                  "Even if she is jealous, he will marry her",
+                  "Even if she will be jealous, he marry her"
+                ],
+                "correctAnswer": "Even if she is jealous, he will marry her",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Когда я выйду на пенсию, я буду ходить в спортзал",
+                "variantsToChose": [
+                  "When I will be retire, I will go to gym",
+                  "When I be retire, I will go to gym",
+                  "When I retire, I will go to gym"
+                ],
+                "correctAnswer": "When I retire, I will go to gym",
+                "timeout": 10
+              },
+              {
+                "title": "Когда я найму его на работу, я возьму выходной",
+                "variantsToChose": [
+                  "When I will hire him, I will take a day off",
+                  "When I be hire him, I will take a day off",
+                  "When I hire him, I will take a day off"
+                ],
+                "correctAnswer": "When I hire him, I will take a day off",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "My parents",
+                  "the",
+                  "are at",
+                  "party"
+                ],
+                "correctSentence": [
+                  "My parents",
+                  "are at",
+                  "the",
+                  "party"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is",
+                  "sister",
+                  "My",
+                  "at home"
+                ],
+                "correctSentence": [
+                  "My",
+                  "sister",
+                  "is",
+                  "at home"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "had",
+                  "I",
+                  "a lot of",
+                  "friends"
+                ],
+                "correctSentence": [
+                  "I",
+                  "had",
+                  "a lot of",
+                  "friends"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "had",
+                  "She",
+                  "a lot of",
+                  "enemies"
+                ],
+                "correctSentence": [
+                  "She",
+                  "had",
+                  "a lot of",
+                  "enemies"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "more",
+                  "It",
+                  "is",
+                  "expensive"
+                ],
+                "correctSentence": [
+                  "It",
+                  "is",
+                  "more",
+                  "expensive"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "has",
+                  "more",
+                  "He",
+                  "experience"
+                ],
+                "correctSentence": [
+                  "He",
+                  "has",
+                  "more",
+                  "experience"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There",
+                  "a lot",
+                  "are",
+                  "of people"
+                ],
+                "correctSentence": [
+                  "There",
+                  "are",
+                  "a lot",
+                  "of people"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There",
+                  "a lot of",
+                  "are",
+                  "questions"
+                ],
+                "correctSentence": [
+                  "There",
+                  "are",
+                  "a lot of",
+                  "questions"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "yet",
+                  "you",
+                  "seen her",
+                  "Have"
+                ],
+                "correctSentence": [
+                  "Have",
+                  "you",
+                  "seen her",
+                  "yet"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "he",
+                  "tried it",
+                  "yet",
+                  "Has"
+                ],
+                "correctSentence": [
+                  "Has",
+                  "he",
+                  "tried it",
+                  "yet"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "would",
+                  "You",
+                  "love"
+                ],
+                "correctSentence": [
+                  "You",
+                  "would",
+                  "love",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "You",
+                  "like",
+                  "it",
+                  "would"
+                ],
+                "correctSentence": [
+                  "You",
+                  "would",
+                  "like",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KEW3VcivtAA",
+                  "sentence": [
+                    "If you",
+                    null,
+                    "get me a",
+                    null,
+                    ", I'll get one",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "ain't",
+                    "squirrel",
+                    "myself"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "ain't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "squirrel"
+                      },
+                      {
+                        "text": "squeal"
+                      },
+                      {
+                        "text": "squall"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mussel"
+                      },
+                      {
+                        "text": "missile"
+                      },
+                      {
+                        "text": "myself"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/rxsnFv2Kaj4",
+                  "sentence": [
+                    "If you tell us where the",
+                    null,
+                    "have been",
+                    null,
+                    ", we'll come back and take",
+                    null,
+                    "of them"
+                  ],
+                  "correctAnswer": [
+                    "keys",
+                    "moved",
+                    "care"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "kiss"
+                      },
+                      {
+                        "text": "keys"
+                      },
+                      {
+                        "text": "kees"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mood"
+                      },
+                      {
+                        "text": "moved"
+                      },
+                      {
+                        "text": "mover"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "care"
+                      },
+                      {
+                        "text": "keer"
+                      },
+                      {
+                        "text": "coir"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/gOU6yyor0zE",
+                  "sentence": [
+                    "If he",
+                    null,
+                    ", I",
+                    null,
+                    "I'll be in his",
+                    null,
+                    "for the rest of my life"
+
+                  ],
+                  "correctAnswer": [
+                    "wins",
+                    "expect",
+                    "debt"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "wings"
+                      },
+                      {
+                        "text": "wins"
+                      },
+                      {
+                        "text": "whims"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "expect"
+                      },
+                      {
+                        "text": "inspect"
+                      },
+                      {
+                        "text": "suspect"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "doubt"
+                      },
+                      {
+                        "text": "dead"
+                      },
+                      {
+                        "text": "debt"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/bvWE6PQTycc",
+                  "sentence": [
+                    "If we don't",
+                    null,
+                    "you over, everybody in this",
+                    null,
+                    "will be",
+                    null,
+                    "by morning"
+
+                  ],
+                  "correctAnswer": [
+                    "hand",
+                    "sector",
+                    "dead"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hand"
+                      },
+                      {
+                        "text": "hang"
+                      },
+                      {
+                        "text": "hind"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "secteur"
+                      },
+                      {
+                        "text": "specter"
+                      },
+                      {
+                        "text": "sector"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "did"
+                      },
+                      {
+                        "text": "dead"
+                      },
+                      {
+                        "text": "dad"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1_gtGGo5NM0",
+                  "sentence": [
+                    "If you don't",
+                    null,
+                    "the",
+                    null,
+                    ", you'll get a",
+                    null,
+                    "for the day"
+                  ],
+                  "correctAnswer": [
+                    "complete",
+                    "assignment",
+                    "zero"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "compete"
+                      },
+                      {
+                        "text": "complete"
+                      },
+                      {
+                        "text": "complied"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "assignment"
+                      },
+                      {
+                        "text": "consignment"
+                      },
+                      {
+                        "text": "alignment"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "syro"
+                      },
+                      {
+                        "text": "sero"
+                      },
+                      {
+                        "text": "zero"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/GysCvSGbG04",
+                  "sentence": [
+                    "And if you don't",
+                    null,
+                    "it, we",
+                    null,
+                    "move it",
+                    null,
+                    "you"
+                  ],
+                  "correctAnswer": [
+                    "move",
+                    "will",
+                    "for"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "prove"
+                      },
+                      {
+                        "text": "move"
+                      },
+                      {
+                        "text": "remove"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "will"
+                      },
+                      {
+                        "text": "will not"
+                      },
+                      {
+                        "text": "wheal"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "before"
+                      },
+                      {
+                        "text": "fore"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

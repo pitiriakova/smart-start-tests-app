@@ -1,0 +1,728 @@
+
+{"lessonTitle": "День 43. Future Simple",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я буду впорядке завтра",
+                "variantsToChose": [
+                  "I will be fine tomorrow",
+                  "I be fine tomorrow",
+                  "I will fine tomorrow"
+                ],
+                "correctAnswer": "I will be fine tomorrow",
+                "timeout": 10
+              },
+              {
+                "title": "Он будет удивлен сегодня ночью",
+                "variantsToChose": [
+                  "He will be surprised tonight",
+                  "He will surprised tonight",
+                  "He be surprised tonight"
+                ],
+                "correctAnswer": "He will be surprised tonight",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Они будут богатые следующей осенью?",
+                "variantsToChose": [
+                  "Be they will rich next fall?",
+                  "Will they be rich next fall?",
+                  "They will be rich next fall?"
+                ],
+                "correctAnswer": "Will they be rich next fall?",
+                "timeout": 10
+              },
+              {
+                "title": "Она вернется к понедельнику?",
+                "variantsToChose": [
+                  "Will be she back by Monady?",
+                  "Will she be back by Monday?",
+                  "She be will back by Monday?"
+                ],
+                "correctAnswer": "Will she be back by Monday?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Я не буду в Париже следующей осенью",
+                "variantsToChose": [
+                  "I will be in Paris next fall",
+                  "I will not in Paris next fall",
+                  "I won`t be in Paris next fall"
+                ],
+                "correctAnswer": "I won`t be in Paris next fall",
+                "timeout": 10
+              },
+              {
+                "title": "Мы не будем там этой ночью",
+                "variantsToChose": [
+                  "We will be there tonight",
+                  "We will not there tonight",
+                  "We won`t be there tonight"
+                ],
+                "correctAnswer": "We won`t be there tonight",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Завтра ты будешь впорядке",
+                "variantsToChose": [
+                  "You will be fine tomorrow",
+                  "You be fine tomorrow?",
+                  "Will you be fine tomorrow"
+                ],
+                "correctAnswer": "You will be fine tomorrow",
+                "timeout": 10
+              },
+              {
+                "title": "Этой ночью они будут удивлены",
+                "variantsToChose": [
+                  "They will be surprised tonight",
+                  "They be surprised tonight",
+                  "Will they be surprised tonight"
+                ],
+                "correctAnswer": "They will be surprised tonight",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Мы не будем богаты к понедельнику",
+                "variantsToChose": [
+                  "We won`t rich by Monday",
+                  "We won`t be rich by Monday",
+                  "We will not rich by Monday"
+                ],
+                "correctAnswer": "We won`t be rich by Monday",
+                "timeout": 10
+              },
+              {
+                "title": "Он не будет там завтра",
+                "variantsToChose": [
+                  "He won`t there tomorrow",
+                  "He won`t be there tomorrow",
+                  "He be there tomorrow"
+                ],
+                "correctAnswer": "He won`t be there tomorrow",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я буду шокирована этой ночью?",
+                "variantsToChose": [
+                  "Will I shocked tonight?",
+                  "Be I will shocked tonight?",
+                  "Will I be shocked tonight?"
+                ],
+                "correctAnswer": "Will I be shocked tonight?",
+                "timeout": 10
+              },
+              {
+                "title": "Она будет удивлена следующей осенью?",
+                "variantsToChose": [
+                  "Will she surprised next fall?",
+                  "Be she will surprised next fall?",
+                  "Will she be surprised next fall?"
+                ],
+                "correctAnswer": "Will she be surprised next fall?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be",
+                  "tonight",
+                  "I`ll",
+                  "fine"
+                ],
+                "correctSentence": [
+                  "I`ll",
+                  "be",
+                  "fine",
+                  "tonight"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "You",
+                  "be there",
+                  "won`t",
+                  "by Monday"
+                ],
+                "correctSentence": [
+                  "You",
+                  "won`t",
+                  "be there",
+                  "by Monday"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "next fall",
+                  "surprised",
+                  "will be",
+                  "We"
+                ],
+                "correctSentence": [
+                  "We",
+                  "will be",
+                  "surprised",
+                  "next fall"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "won`t be",
+                  "They",
+                  "tomorrow",
+                  "in Paris"
+                ],
+                "correctSentence": [
+                  "They",
+                  "won`t be",
+                  "in Paris",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He`ll",
+                  "amazed",
+                  "be",
+                  "next fall"
+                ],
+                "correctSentence": [
+                  "He`ll",
+                  "be",
+                  "amazed",
+                  "next fall"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "tonight",
+                  "She",
+                  "will be",
+                  "back"
+                ],
+                "correctSentence": [
+                  "She",
+                  "will be",
+                  "back",
+                  "tonight"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will I",
+                  "by Monday",
+                  "be",
+                  "rich"
+                ],
+                "correctSentence": [
+                  "Will I",
+                  "be",
+                  "rich",
+                  "by Monday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you be",
+                  "Will",
+                  "shocked",
+                  "next fall"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "you be",
+                  "shocked",
+                  "next fall"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "back",
+                  "Will we",
+                  "tonight",
+                  "be"
+                ],
+                "correctSentence": [
+                  "Will we",
+                  "be",
+                  "back",
+                  "tonight"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "tomorrow",
+                  "Will",
+                  "they",
+                  "be fine"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "they",
+                  "be fine",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will he",
+                  "by",
+                  "be there",
+                  "Monday"
+                ],
+                "correctSentence": [
+                  "Will he",
+                  "be there",
+                  "by",
+                  "Monday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "tonight",
+                  "in Paris",
+                  "Will",
+                  "she be"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "she be",
+                  "in Paris",
+                  "tonight"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/YaSNzAbVHNM",
+                  "sentence": [
+                    "A man ",null," age, working as hard as he does, ",null,"will be ", null
+                  ],
+                  "correctAnswer": [
+                    "his",
+                    "no one",
+                    "surprised"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "with his"
+                      },
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "of his"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "no one"
+                      },
+                      {
+                        "text": "noon"
+                      },
+                      {
+                        "text": "now one"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "surprise"
+                      },
+                      {
+                        "text": "surprise it"
+                      },
+                      {
+                        "text": "surprised"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/WGNKg9wVsfE",
+                  "sentence": [
+                    "So ",null," come with me ",null," the Paris ", null
+                  ],
+                  "correctAnswer": [
+                    "you'll",
+                    "on",
+                    "trip"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "you've"
+                      },
+                      {
+                        "text": "you'll"
+                      },
+                      {
+                        "text": "you're"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "at"
+                      },
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "on"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "strip"
+                      },
+                      {
+                        "text": "trip"
+                      },
+                      {
+                        "text": "drip"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NLXq9QKInrE",
+                  "sentence": [
+                    "Because your mother and brother ",null,"be ",null," and they'll ",null, " me for you."
+                  ],
+                  "correctAnswer": [
+                    "will",
+                    "there",
+                    "pay"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "they'll"
+                      },
+                      {
+                        "text": "veil"
+                      },
+                      {
+                        "text": "will"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "their"
+                      },
+                      {
+                        "text": "there"
+                      },
+                      {
+                        "text": "they're"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "pray"
+                      },
+                      {
+                        "text": "pay"
+                      },
+                      {
+                        "text": "paid"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/0P1TMiUUnh0",
+                  "sentence": [
+                    "Take the case, or you will ",null," the next month helping the",null,"team change",null
+                  ],
+                  "correctAnswer": [
+                    "spend",
+                    "collapse",
+                    "bandages"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "spent"
+                      },
+                      {
+                        "text": "spended"
+                      },
+                      {
+                        "text": "spend"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "collapse"
+                      },
+                      {
+                        "text": "claps"
+                      },
+                      {
+                        "text": "call up"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "banishes"
+                      },
+                      {
+                        "text": "bandages"
+                      },
+                      {
+                        "text": "band ages"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7QPEVSMoaIw",
+                  "sentence": [
+                    "Because I want you and your",null,"with us when we ride ",null," ",null,"the Wall tomorrow."
+
+                  ],
+                  "correctAnswer": [
+                    "wolf",
+                    "out",
+                    "beyond"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "wolf"
+                      },
+                      {
+                        "text": "wool"
+                      },
+                      {
+                        "text": "wealth"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "after"
+                      },
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "ought"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "beyond"
+                      },
+                      {
+                        "text": "been on"
+                      },
+                      {
+                        "text": "be on"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/gArU6kdS5-Y",
+                  "sentence": [
+                    "As for you, I",null," be back ",null," here ",null, "hour, so you better not be."
+                  ],
+                  "correctAnswer": [
+                    "'ll ",
+                    "up",
+                    "in an"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "'ve"
+                      },
+                      {
+                        "text": "'ll "
+                      },
+                      {
+                        "text": "'re"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "up"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in a"
+                      },
+                      {
+                        "text": "an in"
+                      },
+                      {
+                        "text": "in an"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

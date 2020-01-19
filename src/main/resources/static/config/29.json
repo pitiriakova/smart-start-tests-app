@@ -1,0 +1,752 @@
+
+{"lessonTitle": "День 29. Present Continuous",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Вечеринка начинается через 2 часа",
+                "variantsToChose": [
+                  "The party is start in 2 hours",
+                  "The party starts in 2 hours",
+                  "The party starting in 2 hours"
+                ],
+                "correctAnswer": "The party starts in 2 hours",
+                "timeout": 10
+              },
+              {
+                "title": "Поезд прибывает в 6:54",
+                "variantsToChose": [
+                  "The train arrives at 6:54",
+                  "The train is arrive at 6:54",
+                  "The train arrive at 6:54"
+                ],
+                "correctAnswer": "The train arrives at 6:54",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Does the plane depart in 2 hours?",
+                "variantsToChose": [
+                  "Yes, in 2 hours the plane departs",
+                  "Yes, the plane departing in 2 hours",
+                  "Yes, the plane departs in 2 hours"
+                ],
+                "correctAnswer": "Yes, the plane departs in 2 hours",
+                "timeout": 10
+              },
+              {
+                "title": "Does the show end in 2 hours?",
+                "variantsToChose": [
+                  "Yes, the show ends in 2 hours",
+                  "Yes, the show is ending in 2 hours",
+                  "Yes, the show end in 2 hours"
+                ],
+                "correctAnswer": "Yes, the show ends in 2 hours",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему вечеринка начинается в 10 утра?",
+                "variantsToChose": [
+                  "Why is the party start at 10 am?",
+                  "Why does the party starting at 10 am?",
+                  "Why does the party start at 10 am?"
+                ],
+                "correctAnswer": "Why does the party start at 10 am?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты понимаешь что поезд отправляется через 2 часа?",
+                "variantsToChose": [
+                  "Do you understand that the train departs in 2 hours?",
+                  "Do you understand that in 2 hours the train departs?",
+                  "Do you understand that the train depart 2 hours?"
+                ],
+                "correctAnswer": "Do you understand that the train departs in 2 hours?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Я предпочитаю поезда",
+                "variantsToChose": [
+                  "I am prefering trains",
+                  "I am prefer trains",
+                  "I prefer trains"
+                ],
+                "correctAnswer": "I prefer trains",
+                "timeout": 10
+              },
+              {
+                "title": "Мне не нравится как пахнет поезд",
+                "variantsToChose": [
+                  "I do not like how train smells",
+                  "I do not like how smelling the train",
+                  "I do not like how train is smelling"
+                ],
+                "correctAnswer": "I do not like how train smells",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я бы хотел попробовать торт на вечеринке завтра",
+                "variantsToChose": [
+                  "I would like to taste the cake in the party on tomorrow",
+                  "I would like to tasting the cake at the party tomorrow",
+                  "I would like to taste the cake at the party tomorrow"
+                ],
+                "correctAnswer": "I would like to taste the cake at the party tomorrow",
+                "timeout": 10
+              },
+              {
+                "title": "Самолет прибывает завтра",
+                "variantsToChose": [
+                  "The plane arrives tomorrow",
+                  "The plain arrive tomorrow",
+                  "The plain arriving tomorrow"
+                ],
+                "correctAnswer": "The plane arrives tomorrow",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Шоу начинается через 2 часа?",
+                "variantsToChose": [
+                  "Does the show starting in 2 hours?",
+                  "Does the show start in 2 hours?",
+                  "Does the show is start in 2 hours?"
+                ],
+                "correctAnswer": "Does the show start in 2 hours?",
+                "timeout": 10
+              },
+              {
+                "title": "Поезд прибывает в 2 часа ночи?",
+                "variantsToChose": [
+                  "Does the train arrive at 2 am?",
+                  "Does the train arriving at 2 am?",
+                  "Does the train is arriving at 2 am?"
+                ],
+                "correctAnswer": "Does the train arrive at 2 am?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "11 pm",
+                  "at",
+                  "the party",
+                  "ends"
+                ],
+                "correctSentence": [
+                  "the party",
+                  "ends",
+                  "at",
+                  "11 pm"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "closes",
+                  "the store",
+                  "at",
+                  "9 pm"
+                ],
+                "correctSentence": [
+                  "the store",
+                  "closes",
+                  "at",
+                  "9 pm"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "opens",
+                  "at",
+                  "10 am",
+                  "the supermarket"
+                ],
+                "correctSentence": [
+                  "the supermarket",
+                  "opens",
+                  "at",
+                  "10 am"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "at 2 am",
+                  "in London",
+                  "the plane",
+                  "arrives"
+                ],
+                "correctSentence": [
+                  "the plane",
+                  "arrives",
+                  "in London",
+                  "at 2 am"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the party",
+                  "before 6 pm",
+                  "does not",
+                  "start"
+                ],
+                "correctSentence": [
+                  "the party",
+                  "does not",
+                  "start",
+                  "before 6 pm"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the plane",
+                  "tomorrow",
+                  "arrive",
+                  "does not"
+                ],
+                "correctSentence": [
+                  "the plane",
+                  "does not",
+                  "arrive",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "prefer plains",
+                  "she",
+                  "understands",
+                  "that I"
+                ],
+                "correctSentence": [
+                  "she",
+                  "understands",
+                  "that I",
+                  "prefer plains"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "begins",
+                  "too",
+                  "early",
+                  "the first lesson"
+                ],
+                "correctSentence": [
+                  "the first lesson",
+                  "begins",
+                  "too",
+                  "early"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "in",
+                  "this room",
+                  "something",
+                  "smells good"
+                ],
+                "correctSentence": [
+                  "something",
+                  "smells good",
+                  "in",
+                  "this room"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "tastes",
+                  "lemon",
+                  "the way",
+                  "I like"
+                ],
+                "correctSentence": [
+                  "I like",
+                  "the way",
+                  "lemon",
+                  "tastes"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "for the class",
+                  "I prefer",
+                  "be late",
+                  "not to"
+                ],
+                "correctSentence": [
+                  "I prefer",
+                  "not to",
+                  "be late",
+                  "for the class"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is going",
+                  "to be closed",
+                  "at night",
+                  "the building"
+                ],
+                "correctSentence": [
+                  "the building",
+                  "is going",
+                  "to be closed",
+                  "at night"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ELFF333TZWw",
+                  "sentence": [
+                    "It's",
+                    null,
+                    null,
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "my",
+                    "brother",
+                    "right"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "my"
+                      },
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "I"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "brother"
+                      },
+                      {
+                        "text": "father"
+                      },
+                      {
+                        "text": "bother"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "light"
+                      },
+                      {
+                        "text": "might"
+                      },
+                      {
+                        "text": "right"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/6rtFM6MvpVw",
+                  "sentence": [
+                    "It's my",
+                    null,
+                    "yes.",
+                    null,
+                    "really",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "father",
+                    "He is",
+                    "annoying"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "brother"
+                      },
+                      {
+                        "text": "mother"
+                      },
+                      {
+                        "text": "father"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "He is"
+                      },
+                      {
+                        "text": "His"
+                      },
+                      {
+                        "text": "Him is"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "annoying"
+                      },
+                      {
+                        "text": "employing"
+                      },
+                      {
+                        "text": "join"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Xq9h8fcHJd0",
+                  "sentence": [
+                    "No, it's",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "not",
+                    "your",
+                    "father"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "hot"
+                      },
+                      {
+                        "text": "not"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "yours"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "father"
+                      },
+                      {
+                        "text": "brother"
+                      },
+                      {
+                        "text": "maison"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/gy6c1PCyINQ",
+                  "sentence": [
+                    "It's my",
+                    null,
+                    ", right? Yes, yes, she",
+                    null,
+                    "her",
+                    null,
+                    "!"
+                  ],
+                  "correctAnswer": [
+                    "mom",
+                    "broke",
+                    "knife"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "mom"
+                      },
+                      {
+                        "text": "son"
+                      },
+                      {
+                        "text": "prom"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "break"
+                      },
+                      {
+                        "text": "broke"
+                      },
+                      {
+                        "text": "broken"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "knife"
+                      },
+                      {
+                        "text": "life"
+                      },
+                      {
+                        "text": "wife"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/6FaDl2ZlPhs",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                   ],
+                  "correctAnswer": [
+                    "Let's",
+                    "kill",
+                    "her"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Pets"
+                      },
+                      {
+                        "text": "Gets"
+                      },
+                      {
+                        "text": "Let's"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bill"
+                      },
+                      {
+                        "text": "rill"
+                      },
+                      {
+                        "text": "kill"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hear"
+                      },
+                      {
+                        "text": "here"
+                      },
+                      {
+                        "text": "her"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/hNGypitiLhY",
+                  "sentence": [
+                    "Common! You're",
+                    null,
+                    null,
+                    "we don't do things",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "always",
+                    "saying",
+                    "together"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "all ways"
+                      },
+                      {
+                        "text": "only"
+                      },
+                      {
+                        "text": "always"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "saying"
+                      },
+                      {
+                        "text": "playing"
+                      },
+                      {
+                        "text": "staying"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "either"
+                      },
+                      {
+                        "text": "neither"
+                      },
+                      {
+                        "text": "together"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

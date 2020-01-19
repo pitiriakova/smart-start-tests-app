@@ -1,0 +1,755 @@
+
+{"lessonTitle": "День 16. Глаголы с предлогами",
+  "lessonTasks":[
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "He never listens __ me",
+                  "variantsToChose": [
+                    "at",
+                    "to",
+                    "with"
+                  ],
+                  "correctAnswer": "to",
+                  "timeout": 10
+                },
+                {
+                  "title": "She always complains __ me",
+                  "variantsToChose": [
+                    "with",
+                    "to",
+                    "at"
+                  ],
+                  "correctAnswer": "to",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "He always believes __ her",
+                  "variantsToChose": [
+                    "to",
+                    "at",
+                    "__"
+                  ],
+                  "correctAnswer": "__",
+                  "timeout": 10
+                },
+                {
+                  "title": "She never blames __ him",
+                  "variantsToChose": [
+                    "to",
+                    "at",
+                    "__"
+                  ],
+                  "correctAnswer": "__",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "You often dance __ her",
+                  "variantsToChose": [
+                    "for",
+                    "at",
+                    "with"
+                  ],
+                  "correctAnswer": "with",
+                  "timeout": 10
+                },
+                {
+                  "title": "She never argues __ us",
+                  "variantsToChose": [
+                    "to",
+                    "with",
+                    "for"
+                  ],
+                  "correctAnswer": "with",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "She never waits __ us",
+                  "variantsToChose": [
+                    "to",
+                    "at",
+                    "for"
+                  ],
+                  "correctAnswer": "for",
+                  "timeout": 10
+                },
+                {
+                  "title": "He always looks __ her",
+                  "variantsToChose": [
+                    "to",
+                    "with",
+                    "for"
+                  ],
+                  "correctAnswer": "for",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "You always shout __ me",
+                  "variantsToChose": [
+                    "at",
+                    "for",
+                    "to"
+                  ],
+                  "correctAnswer": "at",
+                  "timeout": 10
+                },
+                {
+                  "title": "We never laugh __ them",
+                  "variantsToChose": [
+                    "at",
+                    "for",
+                    "to"
+                  ],
+                  "correctAnswer": "at",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "She never apologizes __ me",
+                  "variantsToChose": [
+                    "to",
+                    "with",
+                    "at"
+                  ],
+                  "correctAnswer": "to",
+                  "timeout": 10
+                },
+                {
+                  "title": "He doesn't look __ me",
+                  "variantsToChose": [
+                    "to",
+                    "with",
+                    "at"
+                  ],
+                  "correctAnswer": "at",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "me",
+                    "lies",
+                    "to"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "lies",
+                    "to",
+                    "me"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "listen",
+                    "her",
+                    "to"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "listen",
+                    "to",
+                    "her"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "for",
+                    "looks",
+                    "him"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "looks",
+                    "for",
+                    "him"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "agree",
+                    "you",
+                    "I",
+                    "with"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "agree",
+                    "with",
+                    "you"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "quarrels",
+                    "often",
+                    "he",
+                    "with us"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "often",
+                    "quarrels",
+                    "with us"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "to him",
+                    "complain",
+                    "usually",
+                    "you"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "usually",
+                    "complain",
+                    "to him"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "like",
+                    "me",
+                    "doesn't"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "doesn't",
+                    "like",
+                    "me"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "doesn't",
+                    "she",
+                    "blame",
+                    "them"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "doesn't",
+                    "blame",
+                    "them"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "swims",
+                    "well",
+                    "she"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "swims",
+                    "well"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "well",
+                    "cooks",
+                    "he"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "cooks",
+                    "well"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "they",
+                    "have",
+                    "friends",
+                    "a few"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "have",
+                    "a few",
+                    "friends"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "often",
+                    "she",
+                    "a lot",
+                    "smokes"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "often",
+                    "smokes",
+                    "a lot"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            }
+
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_betLgIuQM8",
+                  "sentence": [
+                    null,
+                    "Ross,",
+                    null,
+                    "You",
+                    null,
+                    "a lot of pain right now."
+                  ],
+                  "correctAnswer": [
+                    "alright",
+                    "look",
+                    "feel"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "tonight"
+                      },
+                      {
+                        "text": "am right"
+                      },
+                      {
+                        "text": "alright"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "look"
+                      },
+                      {
+                        "text": "hook"
+                      },
+                      {
+                        "text": "took"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "feel"
+                      },
+                      {
+                        "text": "heal"
+                      },
+                      {
+                        "text": "peel"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ptNSPiaANFQ",
+                  "sentence": [
+                    "Can I tell you what the",
+                    null,
+                    "is?",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "answer",
+                    "strip",
+                    "joint"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "anker"
+                      },
+                      {
+                        "text": "answer"
+                      },
+                      {
+                        "text": "mentor"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "stew"
+                      },
+                      {
+                        "text": "shrimp"
+                      },
+                      {
+                        "text": "strip"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "joint"
+                      },
+                      {
+                        "text": "joy"
+                      },
+                      {
+                        "text": "jelly"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/-j6Ymbhscvo",
+                  "sentence": [
+                    "C'mon, you're",
+                    null,
+                    "Have some",
+                    null,
+                    "I don't",
+                    null,
+                    "to be single, okay?"
+
+                  ],
+                  "correctAnswer": [
+                    "single",
+                    "hormones",
+                    "want"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "simple"
+                      },
+                      {
+                        "text": "fin"
+                      },
+                      {
+                        "text": "single"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "heroes"
+                      },
+                      {
+                        "text": "hormones"
+                      },
+                      {
+                        "text": "henry"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "swamp"
+                      },
+                      {
+                        "text": "wanna"
+                      },
+                      {
+                        "text": "want"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/35h82EZpRwE",
+                  "sentence": [
+                    "I just- I just",
+                    null,
+                    null,
+                    null,
+                    "again!"
+                  ],
+                  "correctAnswer": [
+                    "wanna",
+                    "be",
+                    "married"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "wanna"
+                      },
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "want to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "feel"
+                      },
+                      {
+                        "text": "be"
+                      },
+                      {
+                        "text": "fee"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ferry"
+                      },
+                      {
+                        "text": "marry"
+                      },
+                      {
+                        "text": "married"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/kBVmYMZFqnA",
+                  "sentence": [
+                    "Rachel?! Oh",
+                    null,
+                    "Monica",
+                    null,
+                    null,
+                    "God!"
+
+                  ],
+                  "correctAnswer": [
+                    "god",
+                    "hi",
+                    "thank"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "god"
+                      },
+                      {
+                        "text": "rod"
+                      },
+                      {
+                        "text": "lord"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fly"
+                      },
+                      {
+                        "text": "hi"
+                      },
+                      {
+                        "text": "fry"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rank"
+                      },
+                      {
+                        "text": "thank"
+                      },
+                      {
+                        "text": "tank"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7gFRGxN1O_Q",
+                  "sentence": [
+                    "I just went to your building and you weren't",
+                    null,
+                    "and then this guy with a big",
+                    null,
+                    null,
+                    "you might be here and you are, you are!"
+
+                  ],
+                  "correctAnswer": [
+                    "there",
+                    "hammer",
+                    "said"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "where"
+                      },
+                      {
+                        "text": "there"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bummer"
+                      },
+                      {
+                        "text": "hammer"
+                      },
+                      {
+                        "text": "scammer"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "made"
+                      },
+                      {
+                        "text": "laid"
+                      },
+                      {
+                        "text": "said"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,734 @@
+
+{"lessonTitle": "День 19. Общие вопросы ч.1",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Are you happy?",
+                "variantsToChose": [
+                  "yes, I are",
+                  "no, I am",
+                  "yes, I am"
+                ],
+                "correctAnswer": "yes, I am",
+                "timeout": 10
+              },
+              {
+                "title": "Are you busy?",
+                "variantsToChose": [
+                  "yes, I are",
+                  "no, I am",
+                  "yes, I am"
+                ],
+                "correctAnswer": "yes, I am",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Is he available?",
+                "variantsToChose": [
+                  "no, he isn't",
+                  "no, he is",
+                  "yes, he isn't"
+                ],
+                "correctAnswer": "no, he isn't",
+                "timeout": 10
+              },
+              {
+                "title": "Is she rich?",
+                "variantsToChose": [
+                  "no, she isn't",
+                  "no, she is",
+                  "yes, she isn't"
+                ],
+                "correctAnswer": "no, she isn't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Are they here?",
+                "variantsToChose": [
+                  "yes, they is",
+                  "yes, they are",
+                  "yes, are they"
+                ],
+                "correctAnswer": "yes, they are",
+                "timeout": 10
+              },
+              {
+                "title": "Are we in a hurry?",
+                "variantsToChose": [
+                  "no, we isn't",
+                  "no, we aren't",
+                  "no, we not"
+                ],
+                "correctAnswer": "no, we aren't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Ты расстроена?",
+                "variantsToChose": [
+                  "is you upset?",
+                  "you are upset?",
+                  "are you upset?"
+                ],
+                "correctAnswer": "are you upset?",
+                "timeout": 10
+              },
+              {
+                "title": "Они голодные?",
+                "variantsToChose": [
+                  "are they hungry?",
+                  "is they hungry?",
+                  "they are hungry?"
+                ],
+                "correctAnswer": "are they hungry?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Он злой?",
+                "variantsToChose": [
+                  "are he angry?",
+                  "he is angry?",
+                  "is he angry?"
+                ],
+                "correctAnswer": "is he angry?",
+                "timeout": 10
+              },
+              {
+                "title": "Она симпатичная?",
+                "variantsToChose": [
+                  "she is pretty?",
+                  "is she pretty?",
+                  "are she pretty?"
+                ],
+                "correctAnswer": "is she pretty?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я влюблен?",
+                "variantsToChose": [
+                  "am I in love?",
+                  "are I in love?",
+                  "I am in love?"
+                ],
+                "correctAnswer": "am I in love?",
+                "timeout": 10
+              },
+              {
+                "title": "Я красив?",
+                "variantsToChose": [
+                  "I am handsome?",
+                  "am I handsome?",
+                  "are I handsome?"
+                ],
+                "correctAnswer": "am I handsome?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you",
+                  "are",
+                  "in trouble"
+                ],
+                "correctSentence": [
+                  "are",
+                  "you",
+                  "in trouble"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you",
+                  "in debt",
+                  "are"
+                ],
+                "correctSentence": [
+                  "are",
+                  "you",
+                  "in debt"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "am",
+                  "upset",
+                  "I"
+                ],
+                "correctSentence": [
+                  "I",
+                  "am",
+                  "upset"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "am",
+                  "thirsty",
+                  "I"
+                ],
+                "correctSentence": [
+                  "am",
+                  "I",
+                  "thirsty"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "is",
+                  "she",
+                  "pretty"
+                ],
+                "correctSentence": [
+                  "is",
+                  "she",
+                  "pretty"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "is",
+                  "he",
+                  "young"
+                ],
+                "correctSentence": [
+                  "is",
+                  "he",
+                  "young"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "they",
+                  "are",
+                  "in love"
+                ],
+                "correctSentence": [
+                  "are",
+                  "they",
+                  "in love"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "we",
+                  "are",
+                  "friends"
+                ],
+                "correctSentence": [
+                  "are",
+                  "we",
+                  "friends"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "available",
+                  "is",
+                  "he"
+                ],
+                "correctSentence": [
+                  "is",
+                  "he",
+                  "available"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "tall",
+                  "she",
+                  "is"
+                ],
+                "correctSentence": [
+                  "is",
+                  "she",
+                  "tall"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте ответ",
+                "firstLineWords": [
+                  "not",
+                  "I",
+                  "am",
+                  "no"
+                ],
+                "correctSentence": [
+                  "no",
+                  "I",
+                  "am",
+                  "not"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте ответ",
+                "firstLineWords": [
+                  "is",
+                  "he",
+                  "yes"
+                ],
+                "correctSentence": [
+                  "yes",
+                  "he",
+                  "is"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/aamm1Av49FI",
+                  "sentence": [
+                    "Tom, this is my",
+                    null,
+                    "message and you",
+                    null,
+                    "haven’t",
+                    null,
+                    "me back"
+
+                  ],
+                  "correctAnswer": [
+                    "fifth",
+                    "still",
+                    "called"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "last"
+                      },
+                      {
+                        "text": "miss"
+                      },
+                      {
+                        "text": "fifth"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mill"
+                      },
+                      {
+                        "text": "still"
+                      },
+                      {
+                        "text": "feel"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "called"
+                      },
+                      {
+                        "text": "told"
+                      },
+                      {
+                        "text": "mold"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/FUtL8ozf6sU",
+                  "sentence": [
+                    "Well, you must be",
+                    null,
+                    "a lot of fun on",
+                    null,
+                    "business trip. I can only",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "having",
+                    "your",
+                    "imagine"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "having"
+                      },
+                      {
+                        "text": "waving"
+                      },
+                      {
+                        "text": "hearing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "our"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "intending"
+                      },
+                      {
+                        "text": "image"
+                      },
+                      {
+                        "text": "imagine"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/bQWdx_dFLg8",
+                  "sentence": [
+                    "Well, guess what, the kids and I",
+                    null,
+                    "have some fun too, so unless you call me back by",
+                    null,
+                    "we are getting on a",
+                    null,
+                    "and joining you"
+                  ],
+                  "correctAnswer": [
+                    "wanna",
+                    "noon",
+                    "plane"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "wanna"
+                      },
+                      {
+                        "text": "want to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "moon"
+                      },
+                      {
+                        "text": "noon"
+                      },
+                      {
+                        "text": "nul"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cane"
+                      },
+                      {
+                        "text": "plone"
+                      },
+                      {
+                        "text": "plane"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/DpMyeFpYv2c",
+                  "sentence": [
+                    "Mom! Not now,",
+                    null,
+                    "Mommy’s",
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "honey",
+                    "threatening",
+                    "daddy"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "funny"
+                      },
+                      {
+                        "text": "money"
+                      },
+                      {
+                        "text": "honey"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "threatening"
+                      },
+                      {
+                        "text": "sitting for"
+                      },
+                      {
+                        "text": "reaping"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lady"
+                      },
+                      {
+                        "text": "daddy"
+                      },
+                      {
+                        "text": "caddy"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7nMfmFD-eIQ",
+                  "sentence": [
+                    "No, I am ... ",
+                    null,
+                    null,
+                    null,
+                    "brothers?"
+                  ],
+                  "correctAnswer": [
+                    "where",
+                    "are",
+                    "your"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "here"
+                      },
+                      {
+                        "text": "there"
+                      },
+                      {
+                        "text": "where"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "far"
+                      },
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "am"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "too"
+                      },
+                      {
+                        "text": "your"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/oSJsL5B2xpI",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "noodles",
+                    "my",
+                    "favourite"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "noodles"
+                      },
+                      {
+                        "text": "rudle"
+                      },
+                      {
+                        "text": "needless"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hi"
+                      },
+                      {
+                        "text": "night"
+                      },
+                      {
+                        "text": "my"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "finger"
+                      },
+                      {
+                        "text": "fear"
+                      },
+                      {
+                        "text": "favourite"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

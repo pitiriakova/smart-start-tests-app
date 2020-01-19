@@ -1,0 +1,753 @@
+
+{"lessonTitle": "День 25. Present Simple",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я всегда сплю 8 часов в день",
+                "variantsToChose": [
+                  "I always sleep 8 hours a day",
+                  "I sleep always 8 hours a day",
+                  "I always sleep 8 hours in a day"
+                ],
+                "correctAnswer": "I always sleep 8 hours a day",
+                "timeout": 10
+              },
+              {
+                "title": "Он всегда просыпается в 8 утра",
+                "variantsToChose": [
+                  "He wakes up always at 8 am",
+                  "He always wakes up at 8 am",
+                  "He always wakes up in 8 am"
+                ],
+                "correctAnswer": "He always wakes up at 8 am",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "When does she usually get up?",
+                "variantsToChose": [
+                  "She gets up usually at 7 am",
+                  "She usually get up at 7 am",
+                  "She usually gets up at 7 am"
+                ],
+                "correctAnswer": "She usually gets up at 7 am",
+                "timeout": 10
+              },
+              {
+                "title": "Why does she get up so early?",
+                "variantsToChose": [
+                  "Because she has a lot of work",
+                  "Because she have much work",
+                  "Because she has much work"
+                ],
+                "correctAnswer": "Because she has a lot of work",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему она ходит туда каждый день?",
+                "variantsToChose": [
+                  "Why does she goes there every day?",
+                  "Why she goes there every day?",
+                  "Why does she go there every day?"
+                ],
+                "correctAnswer": "Why does she go there every day?",
+                "timeout": 10
+              },
+              {
+                "title": "Почему она тебя любит?",
+                "variantsToChose": [
+                  "Why does she love you?",
+                  "Why do she love you?",
+                  "Why she loves you?"
+                ],
+                "correctAnswer": "Why does she love you?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "По вторникам мы ходим в кино",
+                "variantsToChose": [
+                  "We go to the movies on Tuesdays",
+                  "We on Tuesdays go to the movies",
+                  "We go to the movies at Tuesdays"
+                ],
+                "correctAnswer": "We go to the movies on Tuesdays",
+                "timeout": 10
+              },
+              {
+                "title": "По субботам она ходит за покупками",
+                "variantsToChose": [
+                  "She on Saturdays goes shopping",
+                  "She goes for shopping on Saturdays",
+                  "She goes shopping on Saturdays"
+                ],
+                "correctAnswer": "She goes shopping on Saturdays",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Он читает газету каждый день",
+                "variantsToChose": [
+                  "He reads a newspaper every day",
+                  "He reads every day a newspaper",
+                  "He reads a newspaper by every day"
+                ],
+                "correctAnswer": "He reads a newspaper every day",
+                "timeout": 10
+              },
+              {
+                "title": "Она никогда не читает журналы",
+                "variantsToChose": [
+                  "She doesn't read magazines",
+                  "She never reads magazines",
+                  "She reads magazines never"
+                ],
+                "correctAnswer": "She never reads magazines",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Он часто ходит в школу?",
+                "variantsToChose": [
+                  "Does often he go to school?",
+                  "Does he often goes to school?",
+                  "Does he often go to school?"
+                ],
+                "correctAnswer": "Does he often go to school?",
+                "timeout": 10
+              },
+              {
+                "title": "Он часто ходит на вечеринки?",
+                "variantsToChose": [
+                  "Does often he goes to parties?",
+                  "Does he often goes to parties?",
+                  "Does he often go to parties?"
+                ],
+                "correctAnswer": "Does he often go to parties?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "often",
+                  "goes",
+                  "to parties"
+                ],
+                "correctSentence": [
+                  "he",
+                  "often",
+                  "goes",
+                  "to parties"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "often",
+                  "she",
+                  "to school",
+                  "goes"
+                ],
+                "correctSentence": [
+                  "she",
+                  "often",
+                  "goes",
+                  "to school"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "how",
+                  "do you",
+                  "much",
+                  "earn"
+                ],
+                "correctSentence": [
+                  "how",
+                  "much",
+                  "do you",
+                  "earn"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "much",
+                  "how",
+                  "spend",
+                  "does he"
+                ],
+                "correctSentence": [
+                  "how",
+                  "much",
+                  "does he",
+                  "spend"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "study",
+                  "do",
+                  "you",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "do",
+                  "you",
+                  "study"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "work",
+                  "why",
+                  "she",
+                  "does"
+                ],
+                "correctSentence": [
+                  "why",
+                  "does",
+                  "she",
+                  "work"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "how much",
+                  "she",
+                  "want",
+                  "does"
+                ],
+                "correctSentence": [
+                  "how much",
+                  "does",
+                  "she",
+                  "want"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "how much",
+                  "spend",
+                  "she",
+                  "does"
+                ],
+                "correctSentence": [
+                  "how much",
+                  "does",
+                  "she",
+                  "spend"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "us",
+                  "does he",
+                  "hate",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "does he",
+                  "hate",
+                  "us"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "do you",
+                  "envy",
+                  "him",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "do you",
+                  "envy",
+                  "him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Why",
+                  "she",
+                  "happy",
+                  "is"
+                ],
+                "correctSentence": [
+                  "why",
+                  "is",
+                  "she",
+                  "happy"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "you",
+                  "jealous",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "are",
+                  "you",
+                  "jealous"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/925sW2dciX8",
+                  "sentence": [
+                    "I",
+                    null,
+                    "thank you for",
+                    null,
+                    null,
+                    "Mr. Lasorda."
+                  ],
+                  "correctAnswer": [
+                    "wanna",
+                    "your",
+                    "time"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "gonna"
+                      },
+                      {
+                        "text": "want to"
+                      },
+                      {
+                        "text": "wanna"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "our"
+                      },
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "the"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "time"
+                      },
+                      {
+                        "text": "tiny"
+                      },
+                      {
+                        "text": "lime"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Rmanj-aEYMs",
+                  "sentence": [
+                    "I really appreciate",
+                    null,
+                    "interview. This",
+                    null,
+                    "be real",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "this",
+                    "will",
+                    "quick"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "nice"
+                      },
+                      {
+                        "text": "this"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "will"
+                      },
+                      {
+                        "text": "he"
+                      },
+                      {
+                        "text": "kill"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rick"
+                      },
+                      {
+                        "text": "leak"
+                      },
+                      {
+                        "text": "quick"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/BISQbbsCOb0",
+                  "sentence": [
+                    "Now that you're",
+                    null,
+                    "I was",
+                    null,
+                    "where do you think you're going with that",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "retired",
+                    "wondering",
+                    "cookie"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "retired"
+                      },
+                      {
+                        "text": "inspired"
+                      },
+                      {
+                        "text": "retarded"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "laundering"
+                      },
+                      {
+                        "text": "wondering"
+                      },
+                      {
+                        "text": "worrying"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cooler"
+                      },
+                      {
+                        "text": "rookie"
+                      },
+                      {
+                        "text": "cookie"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/nVgv_ulbqdo",
+                  "sentence": [
+                    null,
+                    null,
+                    "cookie",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "put",
+                    "that",
+                    "down"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "root"
+                      },
+                      {
+                        "text": "loot"
+                      },
+                      {
+                        "text": "put"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "fat"
+                      },
+                      {
+                        "text": "mad"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "round"
+                      },
+                      {
+                        "text": "found"
+                      },
+                      {
+                        "text": "down"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/HTqJvhKNGo4",
+                  "sentence": [
+                    "No, not you, Mr.Lasorda.",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "I",
+                    "scared",
+                    "you"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hi"
+                      },
+                      {
+                        "text": "I"
+                      },
+                      {
+                        "text": "my"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "merit"
+                      },
+                      {
+                        "text": "fare"
+                      },
+                      {
+                        "text": "scared"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "new"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KiBkRcK1Cb0",
+                  "sentence": [
+                    "I didn't",
+                    null,
+                    "you",
+                    null,
+                    null,
+                    "a cookie."
+                  ],
+                  "correctAnswer": [
+                    "know",
+                    "were",
+                    "eating"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "know"
+                      },
+                      {
+                        "text": "through"
+                      },
+                      {
+                        "text": "flow"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "was"
+                      },
+                      {
+                        "text": "were"
+                      },
+                      {
+                        "text": "mere"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "meeting"
+                      },
+                      {
+                        "text": "eating"
+                      },
+                      {
+                        "text": "heating"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+
+{"lessonTitle": "День 53. Еще немного сравнений",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Он счастливее её",
+                "variantsToChose": [
+                  "She is happier than he is",
+                  "He is happier than she",
+                  "He is happier than she is"
+                ],
+                "correctAnswer": "He is happier than she is",
+                "timeout": 10
+              },
+              {
+                "title": "Она удачливее меня",
+                "variantsToChose": [
+                  "He is luckier than I am",
+                  "She is luckier than I",
+                  "She is luckier than I am"
+                ],
+                "correctAnswer": "She is luckier than I am",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "У тебя меньше апартаменты, чем у нас",
+                "variantsToChose": [
+                  "You have a smaller apartment than us",
+                  "You have a smaller apartment than we",
+                  "You have a smaller apartment than us are"
+                ],
+                "correctAnswer": "You have a smaller apartment than us",
+                "timeout": 10
+              },
+              {
+                "title": "У тебя комната больше, чем у них",
+                "variantsToChose": [
+                  "You have a bigger room than them",
+                  "You have a bigger room than they",
+                  "You have a bigger room than them are"
+                ],
+                "correctAnswer": "You have a bigger room than them",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Катя поет лучше его",
+                "variantsToChose": [
+                  "Kate sing better than him",
+                  "Kate sings better than him",
+                  "Kate is sings better than him"
+                ],
+                "correctAnswer": "Kate sings better than him",
+                "timeout": 10
+              },
+              {
+                "title": "Ник бегает быстрее меня",
+                "variantsToChose": [
+                  "Nick run faster than me",
+                  "Nick runs faster than me",
+                  "Nick is runs faster than me"
+                ],
+                "correctAnswer": "Nick runs faster than me",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Я работаю так же тяжело, как и его друг",
+                "variantsToChose": [
+                  "I work as hard as his friend",
+                  "I work as hard than hir friend",
+                  "I work hard as his friend"
+                ],
+                "correctAnswer": "I work as hard as his friend",
+                "timeout": 10
+              },
+              {
+                "title": "Ты зарабатываешь столько же, сколько и ее отец",
+                "variantsToChose": [
+                  "You earn as much as her dad",
+                  "You earn much as her dad",
+                  "You earn as much than his dad"
+                ],
+                "correctAnswer": "You earn as much as her dad",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Мы не такие умные, как они",
+                "variantsToChose": [
+                  "We are not as smart as them",
+                  "We are as smart as them",
+                  "We are not smart as them"
+                ],
+                "correctAnswer": "We are not as smart as them",
+                "timeout": 10
+              },
+              {
+                "title": "Они не такие бедные, как мы",
+                "variantsToChose": [
+                  "They are not as poor as us",
+                  "They are as poor as us",
+                  "They are not poor as us"
+                ],
+                "correctAnswer": "They are not as poor as us",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я выше тебя",
+                "variantsToChose": [
+                  "I taller than you are",
+                  "I am taller than you are",
+                  "I am taller as you are"
+                ],
+                "correctAnswer": "I am taller than you are",
+                "timeout": 10
+              },
+              {
+                "title": "Я ниже тебя",
+                "variantsToChose": [
+                  "I shorter than you are",
+                  "I am shorter than you are",
+                  "I am shorter as you are"
+                ],
+                "correctAnswer": "I am shorter than you are",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "richer",
+                  "I am",
+                  "him",
+                  "than"
+                ],
+                "correctSentence": [
+                  "I am",
+                  "richer",
+                  "than",
+                  "him"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "better",
+                  "I am",
+                  "than",
+                  "her"
+                ],
+                "correctSentence": [
+                  "I am",
+                  "better",
+                  "than",
+                  "her"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "is",
+                  "happier than",
+                  "her",
+                  "he"
+                ],
+                "correctSentence": [
+                  "is",
+                  "he",
+                  "happier than",
+                  "her"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "is",
+                  "luckier than",
+                  "him",
+                  "she"
+                ],
+                "correctSentence": [
+                  "is",
+                  "she",
+                  "luckier than",
+                  "him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He has a",
+                  "more",
+                  "comfortable car",
+                  "than her"
+                ],
+                "correctSentence": [
+                  "He has a",
+                  "more",
+                  "comfortable car",
+                  "than her"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She has a",
+                  "more",
+                  "expensive car",
+                  "than him"
+                ],
+                "correctSentence": [
+                  "She has a",
+                  "more",
+                  "expensive car",
+                  "than him"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "than her",
+                  "You",
+                  "bigger house",
+                  "have a"
+                ],
+                "correctSentence": [
+                  "You",
+                  "have a",
+                  "bigger house",
+                  "than her"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "than him",
+                  "You",
+                  "smaller house",
+                  "have a"
+                ],
+                "correctSentence": [
+                  "You",
+                  "have a",
+                  "smaller house",
+                  "than him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "than me",
+                  "runs",
+                  "faster",
+                  "She"
+                ],
+                "correctSentence": [
+                  "She",
+                  "runs",
+                  "faster",
+                  "than me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "works",
+                  "than me",
+                  "less",
+                  "He"
+                ],
+                "correctSentence": [
+                  "He",
+                  "works",
+                  "less",
+                  "than me"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "They are",
+                  "as us",
+                  "as rich",
+                  "not"
+                ],
+                "correctSentence": [
+                  "They are",
+                  "not",
+                  "as rich",
+                  "as us"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "They are",
+                  "not",
+                  "as us",
+                  "as young"
+                ],
+                "correctSentence": [
+                  "They are",
+                  "not",
+                  "as young",
+                  "as us"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/nwq_8QB5npk",
+                  "sentence": [
+                    null,
+                    null,
+                    "are better than",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "Planetary",
+                    "defenses",
+                    "ever"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Planet area"
+                      },
+                      {
+                        "text": "Planetary"
+                      },
+                      {
+                        "text": "Plane tree"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "defensor"
+                      },
+                      {
+                        "text": "defensive"
+                      },
+                      {
+                        "text": "defenses"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ever"
+                      },
+                      {
+                        "text": "ago"
+                      },
+                      {
+                        "text": "a war"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/-4VcWSTRUXI",
+                  "sentence": [
+                    null,
+                    "than",
+                    null,
+                    "I",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Longer",
+                    "that",
+                    "think"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Lorder"
+                      },
+                      {
+                        "text": "Longer"
+                      },
+                      {
+                        "text": "Linger"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "those"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "kink"
+                      },
+                      {
+                        "text": "sink"
+                      },
+                      {
+                        "text": "think"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/CQCfgl8hky4",
+                  "sentence": [
+                    "You make me",
+                    null,
+                    "than I ever",
+                    null,
+                    "I could",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "happier",
+                    "thought",
+                    "be"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hyper"
+                      },
+                      {
+                        "text": "happier"
+                      },
+                      {
+                        "text": "as happy"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "thought"
+                      },
+                      {
+                        "text": "though"
+                      },
+                      {
+                        "text": "through"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "we"
+                      },
+                      {
+                        "text": "be"
+                      },
+                      {
+                        "text": "been"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/jVfENOPlhfQ",
+                  "sentence": [
+                    "It's cleaner",
+                    null,
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "than",
+                    "my",
+                    "couch"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "then"
+                      },
+                      {
+                        "text": "than"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "my"
+                      },
+                      {
+                        "text": "me"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "couch"
+                      },
+                      {
+                        "text": "coach"
+                      },
+                      {
+                        "text": "how much"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/UdS9FWDfi88",
+                  "sentence": [
+                    null,
+                    "are",
+                    null,
+                    "than",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "You",
+                    "faster",
+                    "this"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Your"
+                      },
+                      {
+                        "text": "You"
+                      },
+                      {
+                        "text": "Hugh"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "plaster"
+                      },
+                      {
+                        "text": "faster"
+                      },
+                      {
+                        "text": "fast ear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cO1nmySCSXQ",
+                  "sentence": [
+                    "No",
+                    null,
+                    "is",
+                    null,
+                    "than we",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "one",
+                    "hotter",
+                    "are"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "one"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "ann"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "botter"
+                      },
+                      {
+                        "text": "hotter"
+                      },
+                      {
+                        "text": "hottest"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "am"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

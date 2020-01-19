@@ -1,0 +1,761 @@
+
+{"lessonTitle": "День 65. Условные предложения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Что бы не случилось, мы будем готовы",
+                "variantsToChose": [
+                  "Whatever happens, we will be ready",
+                  "Whatever happen, we will be ready",
+                  "Whatever will happen, we be ready"
+                ],
+                "correctAnswer": "Whatever happens, we will be ready",
+                "timeout": 10
+              },
+              {
+                "title": "Что бы не случилось, ты будешь сильным",
+                "variantsToChose": [
+                  "Whatever happens, you will be strong",
+                  "Whatever happen, you will be strong",
+                  "Whatever will happen, you be strong"
+                ],
+                "correctAnswer": "Whatever happens, you will be strong",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Whenever Nick __ me, I will always help him",
+                "variantsToChose": [
+                  "asks",
+                  "will ask",
+                  "don't ask"
+                ],
+                "correctAnswer": "asks",
+                "timeout": 10
+              },
+              {
+                "title": "Whenever Brad __ me, I will always be there",
+                "variantsToChose": [
+                  "needs",
+                  "will need",
+                  "don't need"
+                ],
+                "correctAnswer": "needs",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Куда бы мы не пошли, мы всегда будем скучать за ней",
+                "variantsToChose": [
+                  "Whatever we go, we will always miss her",
+                  "Wherever we will go, we will always miss her",
+                  "Whenever we go, we always miss her"
+                ],
+                "correctAnswer": "Wherever we go, we will always miss her",
+                "timeout": 10
+              },
+              {
+                "title": "Куда бы я не пошел, я всегда буду думать о нем",
+                "variantsToChose": [
+                  "Whatever I go, I will always think about him",
+                  "Wherever I will go, I will always think about him",
+                  "Whenever I go, I always think about him"
+                ],
+                "correctAnswer": "Wherever I go, I will always think about him",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Кто бы это не сделал, будет жалеть об этом",
+                "variantsToChose": [
+                  "Whoever does it, will regret it",
+                  "Whatever does it, will regret it",
+                  "Whoever do it, will regret it"
+                ],
+                "correctAnswer": "Whoever does it, will regret it",
+                "timeout": 10
+              },
+              {
+                "title": "Кто бы это не сделал, будет помнить это",
+                "variantsToChose": [
+                  "Whoever does it, will remember it",
+                  "Whatever does it, will remember it",
+                  "Whoever do it, will remember it"
+                ],
+                "correctAnswer": "Whoever does it, will remember it",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Чтобы Нина не сказала, Майк никогда не поверит ей",
+                "variantsToChose": [
+                  "Whatever Nina says, Mike never believes her",
+                  "Whatever Nina says, Mike will never believe her",
+                  "Whatever Nina say, Mike will never believe her"
+                ],
+                "correctAnswer": "Whatever Nina says, Mike will never believe her",
+                "timeout": 10
+              },
+              {
+                "title": "Что бы Эбби не сделала, ее мать никогда ей не будет доверять",
+                "variantsToChose": [
+                  "Whatever Abby does, her mother never trust her",
+                  "Whatever Abby does, her mother will never trust her",
+                  "Whatever Abby do, her mother will never trust her"
+                ],
+                "correctAnswer": "Whatever Abby does, her mother will never trust her",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Когда бы ты не нуждался в нас, мы всегда тебе поможем",
+                "variantsToChose": [
+                  "Whenever you need us, we always help you",
+                  "Whenever you need us, we will always helps you",
+                  "Whenever you will need us, we will always help you"
+                ],
+                "correctAnswer": "Whenever you need us, we will always help you",
+                "timeout": 10
+              },
+              {
+                "title": "Когда бы они не говорили про нас, мы всегда узнаем",
+                "variantsToChose": [
+                  "Whenever they talk about us, we will always find out",
+                  "Whenever they will talk about us, we will always find out",
+                  "Whenever they talks about us, we will always find out"
+                ],
+                "correctAnswer": "Whenever they talk about us, we will always find out",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Maria",
+                  "school",
+                  "at",
+                  "isn`t"
+                ],
+                "correctSentence": [
+                  "Maria",
+                  "isn`t",
+                  "at",
+                  "school"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "John",
+                  "home",
+                  "at",
+                  "isn`t"
+                ],
+                "correctSentence": [
+                  "John",
+                  "isn`t",
+                  "at",
+                  "home"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "John",
+                  "to",
+                  "church",
+                  "went"
+                ],
+                "correctSentence": [
+                  "John",
+                  "went",
+                  "to",
+                  "church"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mike",
+                  "to",
+                  "hospital",
+                  "went"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "went",
+                  "to",
+                  "hospital"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "already",
+                  "done",
+                  "I`ve"
+                ],
+                "correctSentence": [
+                  "I`ve",
+                  "already",
+                  "done",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "already",
+                  "booked",
+                  "I`ve"
+                ],
+                "correctSentence": [
+                  "I`ve",
+                  "already",
+                  "booked",
+                  "it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "enough",
+                  "money",
+                  "Mike",
+                  "has"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "has",
+                  "enough",
+                  "money"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "enough",
+                  "time",
+                  "John",
+                  "has"
+                ],
+                "correctSentence": [
+                  "John",
+                  "has",
+                  "enough",
+                  "time"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "time",
+                  "Do you",
+                  "have",
+                  "any"
+                ],
+                "correctSentence": [
+                  "Do you",
+                  "have",
+                  "any",
+                  "time"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "experience",
+                  "Does he",
+                  "have",
+                  "any"
+                ],
+                "correctSentence": [
+                  "Does he",
+                  "have",
+                  "any",
+                  "experience"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "will",
+                  "probably",
+                  "do it"
+                ],
+                "correctSentence": [
+                  "He",
+                  "will",
+                  "probably",
+                  "do it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "go there",
+                  "probably",
+                  "won't",
+                  "He"
+                ],
+                "correctSentence": [
+                  "He",
+                  "won't",
+                  "probably",
+                  "go there"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NE1qvuKEDVs",
+                  "sentence": [
+                    null,
+                    "killed Nate",
+                    null,
+                    " that Niebaum",
+                    null,
+                    " something"
+
+                  ],
+                  "correctAnswer": [
+                    "Whoever",
+                    "is frightened",
+                    "might know"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Wherever"
+                      },
+                      {
+                        "text": "Whoever"
+                      },
+                      {
+                        "text": "Whenever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "frightened"
+                      },
+                      {
+                        "text": "is fighting"
+                      },
+                      {
+                        "text": "is frightened"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "might know"
+                      },
+                      {
+                        "text": "might no"
+                      },
+                      {
+                        "text": "mightn't"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/pXe-3T8EFDA",
+                  "sentence": [
+                    null,
+                    " I try to ",
+                    null,
+                    "access,",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Whenever",
+                    "gain",
+                    "it changes"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Whenever"
+                      },
+                      {
+                        "text": "Wherever"
+                      },
+                      {
+                        "text": "Whoever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "get"
+                      },
+                      {
+                        "text": "gone"
+                      },
+                      {
+                        "text": "gain"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "it changed"
+                      },
+                      {
+                        "text": "changes"
+                      },
+                      {
+                        "text": "it changes"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_ZMZ-TCVcME",
+                  "sentence": [
+                    null,
+                    "I can't sleep, I  ",
+                    null,
+                    "him to tell me",
+                    null,
+                    "day"
+
+                  ],
+                  "correctAnswer": [
+                    "Whenever",
+                    "just ask",
+                    "about his"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Wherever"
+                      },
+                      {
+                        "text": "Whenever"
+                      },
+                      {
+                        "text": "Whatever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this task"
+                      },
+                      {
+                        "text": "just ask"
+                      },
+                      {
+                        "text": "just to ask"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "about this"
+                      },
+                      {
+                        "text": "about his"
+                      },
+                      {
+                        "text": "about missed"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/F41fdUbBECk",
+                  "sentence": [
+                    "Whatever",
+                    null,
+                    "kill you",
+                    null,
+                    "stronger,",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "doesn't",
+                    "makes you",
+                    "brother"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "does not"
+                      },
+                      {
+                        "text": "does"
+                      },
+                      {
+                        "text": "doesn't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "makes Sew"
+                      },
+                      {
+                        "text": "makes you"
+                      },
+                      {
+                        "text": "makes few"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "father"
+                      },
+                      {
+                        "text": "bother"
+                      },
+                      {
+                        "text": "brother"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/C7GJNkhEPJs",
+                  "sentence": [
+                    "And",
+                    null,
+                    "this key",
+                    null,
+                    ", inside there's something",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "whatever",
+                    "unlocks",
+                    "valuable"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "whichever"
+                      },
+                      {
+                        "text": "whatever"
+                      },
+                      {
+                        "text": "whenever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "unlike"
+                      },
+                      {
+                        "text": "unlocks"
+                      },
+                      {
+                        "text": "annex"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "valuable"
+                      },
+                      {
+                        "text": "voluble"
+                      },
+                      {
+                        "text": "soluble"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/U9o4dWWBXJk",
+                  "sentence": [
+                    "Whenever you look at this",
+                    null,
+                    ", I want you to",
+                    null,
+                    "your",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "knight",
+                    "remember",
+                    "father"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "night"
+                      },
+                      {
+                        "text": "nite"
+                      },
+                      {
+                        "text": "knight"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "remember"
+                      },
+                      {
+                        "text": "real number"
+                      },
+                      {
+                        "text": "real member"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "further"
+                      },
+                      {
+                        "text": "feather"
+                      },
+                      {
+                        "text": "father"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

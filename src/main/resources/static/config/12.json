@@ -1,0 +1,546 @@
+{
+  "lessonTitle": "День 12. Отрицание",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "I don't have __ news",
+                  "variantsToChose": [
+                    "a",
+                    "some",
+                    "any"
+                  ],
+                  "correctAnswer": "any",
+                  "timeout": 10
+                },
+                {
+                  "title": "He doesn't have __ luck",
+                  "variantsToChose": [
+                    "a",
+                    "some",
+                    "any"
+                  ],
+                  "correctAnswer": "any",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "We don't have __ laptops",
+                  "variantsToChose": [
+                    "some",
+                    "many",
+                    "much"
+                  ],
+                  "correctAnswer": "many",
+                  "timeout": 10
+                },
+                {
+                  "title": "They don't have __ computers",
+                  "variantsToChose": [
+                    "some",
+                    "many",
+                    "much"
+                  ],
+                  "correctAnswer": "many",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "I don't have __ joy",
+                  "variantsToChose": [
+                    "much",
+                    "some",
+                    "many"
+                  ],
+                  "correctAnswer": "much",
+                  "timeout": 10
+                },
+                {
+                  "title": "He doesn't have __ happiness",
+                  "variantsToChose": [
+                    "many",
+                    "much",
+                    "a"
+                  ],
+                  "correctAnswer": "much",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "У нее не много планшетов",
+                  "variantsToChose": [
+                    "She doesn't have much tablets",
+                    "She doesn't have many tablets",
+                    "She doesn't have any tablets"
+                  ],
+                  "correctAnswer": "She doesn't have many tablets",
+                  "timeout": 10
+                },
+                {
+                  "title": "У тебя не много компьютеров",
+                  "variantsToChose": [
+                    "You don't have much computers",
+                    "You don't have many computers",
+                    "You don't have any computers"
+                  ],
+                  "correctAnswer": "You don't have many computers",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "У меня нет радости",
+                  "variantsToChose": [
+                    "I don't have joy",
+                    "I don't have a joy",
+                    "I don't have any joy"
+                  ],
+                  "correctAnswer": "I don't have any joy",
+                  "timeout": 10
+                },
+                {
+                  "title": "У него нет новостей",
+                  "variantsToChose": [
+                    "He doesn't have news",
+                    "He doesn't have enough news",
+                    "He doesn't have any news"
+                  ],
+                  "correctAnswer": "He doesn't have any news",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "У нее нет ноутбука",
+                  "variantsToChose": [
+                    "She doesn't have any laptops",
+                    "She doesn't have a laptop",
+                    "She doesn't have an laptop"
+                  ],
+                  "correctAnswer": "She doesn't have a laptop",
+                  "timeout": 10
+                },
+                {
+                  "title": "У него не достаточно телефонов",
+                  "variantsToChose": [
+                    "He don't have enough cell phones",
+                    "He doesn't have enough cell phones",
+                    "He doesn't have any cell phones"
+                  ],
+                  "correctAnswer": "He doesn't have enough cell phones",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "no",
+                    "have",
+                    "I",
+                    "news"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "no",
+                    "news"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "happiness",
+                    "has",
+                    "no"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "has",
+                    "no",
+                    "happiness"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "don't",
+                    "I",
+                    "any joy",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "don't",
+                    "have",
+                    "any joy"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "have",
+                    "a tablet",
+                    "don't"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "don't",
+                    "have",
+                    "a tablet"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "they",
+                    "don't have",
+                    "many",
+                    "computers"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "don't have",
+                    "many",
+                    "computers"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "don't have",
+                    "many",
+                    "tablets"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "don't have",
+                    "many",
+                    "tablets"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he doesn't",
+                    "have",
+                    "luck",
+                    "much"
+                  ],
+                  "correctSentence": [
+                    "he doesn't",
+                    "have",
+                    "much",
+                    "luck"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "have",
+                    "she doesn't",
+                    "news",
+                    "much"
+                  ],
+                  "correctSentence": [
+                    "she doesn't",
+                    "have",
+                    "much",
+                    "news"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "doesn't",
+                    "have",
+                    "she",
+                    "a tablet"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "doesn't",
+                    "have",
+                    "a tablet"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "don't",
+                    "any joy",
+                    "have",
+                    "we"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "don't",
+                    "have",
+                    "any joy"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "no",
+                    "time",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "no",
+                    "time"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "has",
+                    "he",
+                    "no",
+                    "friends"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "no",
+                    "friends"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/TsGPKs2mzjs",
+                  "sentence": [
+                    "Do not put it through a computer this",
+                    null
+                  ],
+                  "correctAnswer": "time",
+                  "possibleAnswers": [
+                    "mine",
+                    "I am",
+                    "time"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/8UplLgYe5ds",
+                  "sentence": [
+                    "Well,",
+                    null,
+                    "luck with that."
+                  ],
+                  "correctAnswer": "good",
+                  "possibleAnswers": [
+                    "go",
+                    "cool",
+                    "good"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KRd_-EwB690",
+                  "sentence": [
+                    "A day will come when you think you are safe and happy and your",
+                    null,
+                    "will turn to ashes in your mouth and you will know the debt is paid."
+                  ],
+                  "correctAnswer": "joy",
+                  "possibleAnswers": [
+                    "ray",
+                    "jar",
+                    "joy"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/lJFlAvuo7rk",
+                  "sentence": [
+                    "You're not a big fan of",
+                    null,
+                    "people's happiness, either."
+                  ],
+                  "correctAnswer": "other",
+                  "possibleAnswers": [
+                    "our",
+                    "over",
+                    "other"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/PaidB4f2XGs",
+                  "sentence": [
+                    "She didn't have a",
+                    null,
+                    "which means she did her business on her phone"
+                  ],
+                  "correctAnswer": "laptop",
+                  "characters": [
+                    "a",
+                    "t",
+                    "p",
+                    "h",
+                    "o",
+                    "r",
+                    "p",
+                    "i",
+                    "l"
+                  ],
+                  "timeout": 20
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/2gBITx019P0",
+                  "sentence": [
+                    "That's incredible",
+                    null,
+                    "Carly"
+                  ],
+                  "correctAnswer": "news",
+                  "characters": [
+                    "w",
+                    "v",
+                    "p",
+                    "s",
+                    "e",
+                    "r",
+                    "u",
+                    "n",
+                    "l"
+                  ],
+                  "timeout": 20
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

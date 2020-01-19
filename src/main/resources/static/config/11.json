@@ -1,0 +1,552 @@
+
+{"lessonTitle": "День 11. Устойчивые выражения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "I __ have lunch at 6 pm",
+                "variantsToChose": [
+                  "always",
+                  "in winter",
+                  "in the evening"
+                ],
+                "correctAnswer": "always",
+                "timeout": 10
+              },
+              {
+                "title": "He __ has a rest",
+                "variantsToChose": [
+                  "at 1 pm",
+                  "never",
+                  "in the morning"
+                ],
+                "correctAnswer": "never",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "We always have __ at 5 pm",
+                "variantsToChose": [
+                  "a dinner",
+                  "a party",
+                  "snack"
+                ],
+                "correctAnswer": "a party",
+                "timeout": 10
+              },
+              {
+                "title": "They often have __ in the evening",
+                "variantsToChose": [
+                  "a shower",
+                  "a dinner",
+                  "rest"
+                ],
+                "correctAnswer": "a shower",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Я всегда завтракаю утром",
+                "variantsToChose": [
+                  "I always in the morning have breakfast",
+                  "I have always breakfast in the morning",
+                  "I always have breakfast in the morning"
+                ],
+                "correctAnswer": "I always have breakfast in the morning",
+                "timeout": 10
+              },
+              {
+                "title": "Он никогда не ужинает вечером",
+                "variantsToChose": [
+                  "he never have dinner in the evening",
+                  "he has never dinner in the evening",
+                  "he never has dinner in the evening"
+                ],
+                "correctAnswer": "he never has dinner in the evening",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "У меня обычно перекус в 2 часа дня",
+                "variantsToChose": [
+                  "I usually have a snack at 2 pm",
+                  "I have usually a snack at 2 pm",
+                  "I at 2 pm usually have a snack"
+                ],
+                "correctAnswer": "I usually have a snack at 2 pm",
+                "timeout": 10
+              },
+              {
+                "title": "я никогда не простываю зимой",
+                "variantsToChose": [
+                  "I never have a cold in winter",
+                  "I have never a cold in winter",
+                  "I never have in winter a cold"
+                ],
+                "correctAnswer": "I never have a cold in winter",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "I never have a party in winter",
+                "variantsToChose": [
+                  "я часто устраиваю вечеринку зимой",
+                  "я всегда устраиваю вечеринку зимой",
+                  "я никогда не устраиваю вечеринку зимой"
+                ],
+                "correctAnswer": "я никогда не устраиваю вечеринку зимой",
+                "timeout": 10
+              },
+              {
+                "title": "I often have dinner at 4pm",
+                "variantsToChose": [
+                  "я редко ужинаю в 4 вечера",
+                  "я часто обедаю в 4 вечера",
+                  "я часто ужинаю в 4 вечера"
+                ],
+                "correctAnswer": "я часто ужинаю в 4 вечера",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Он никогда не отдыхает",
+                "variantsToChose": [
+                  "He has a rest never",
+                  "He never has a rest",
+                  "He never has rest"
+                ],
+                "correctAnswer": "He never has a rest",
+                "timeout": 10
+              },
+              {
+                "title": "Она никогда не обедает",
+                "variantsToChose": [
+                  "She never have lunch",
+                  "She has never lunch",
+                  "She never has lunch"
+                ],
+                "correctAnswer": "She never has lunch",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a party",
+                  "has",
+                  "always",
+                  "he"
+                ],
+                "correctSentence": [
+                  "he",
+                  "always",
+                  "has",
+                  "a party"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "a cold",
+                  "has",
+                  "always"
+                ],
+                "correctSentence": [
+                  "she",
+                  "always",
+                  "has",
+                  "a cold"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "always",
+                  "I",
+                  "at 3 pm",
+                  "have lunch"
+                ],
+                "correctSentence": [
+                  "I",
+                  "always",
+                  "have lunch",
+                  "at 3 pm"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "has a rest",
+                  "usually",
+                  "at 1 pm"
+                ],
+                "correctSentence": [
+                  "he",
+                  "usually",
+                  "has a rest",
+                  "at 1 pm"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "we",
+                  "never",
+                  "have",
+                  "breakfast"
+                ],
+                "correctSentence": [
+                  "we",
+                  "never",
+                  "have",
+                  "breakfast"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "has",
+                  "never",
+                  "lunch"
+                ],
+                "correctSentence": [
+                  "he",
+                  "never",
+                  "has",
+                  "lunch"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "a",
+                  "isn't",
+                  "doctor"
+                ],
+                "correctSentence": [
+                  "he",
+                  "isn't",
+                  "a",
+                  "doctor"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "you",
+                  "a",
+                  "teacher"
+                ],
+                "correctSentence": [
+                  "you",
+                  "are",
+                  "a",
+                  "teacher"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "little",
+                  "time",
+                  "have",
+                  "they"
+                ],
+                "correctSentence": [
+                  "they",
+                  "have",
+                  "little",
+                  "time"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "we",
+                  "a few",
+                  "vegetables",
+                  "have"
+                ],
+                "correctSentence": [
+                  "we",
+                  "have",
+                  "a few",
+                  "vegetables"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "have tea",
+                  "always",
+                  "in the morning"
+                ],
+                "correctSentence": [
+                  "I",
+                  "always",
+                  "have tea",
+                  "in the morning"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "has coffee",
+                  "in the evening",
+                  "he",
+                  "never"
+                ],
+                "correctSentence": [
+                  "he",
+                  "never",
+                  "has coffee",
+                  "in the evening"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+  {
+    "taskId": 1,
+    "title": "аудирование",
+    "testers": {
+      "listening1": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/AsDO8KsOmJI",
+                "sentence": [
+                  "We need to stabilize her isolate her from all possible allergens give her system",
+                  null
+
+                ],
+                "correctAnswer": "a rest",
+                "possibleAnswers": [
+                  "some rest",
+                  "arrest",
+                  "a rest"
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/JJjZYDHPBM8",
+                "sentence": [
+                  "You know, Dick, it's",
+                  null,
+                  "to my lunch hour.."
+                ],
+                "correctAnswer": "close",
+                "possibleAnswers": [
+                  "close",
+                  "lost",
+                  "closet"
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/toF1Gqfh0KM",
+                "sentence": [
+                  "You think you guys can have a party as soon as the parents are gone, and I won't hear",
+                  null,
+                  "it?"
+                ],
+                "correctAnswer": "about",
+                "possibleAnswers": [
+                  "without",
+                  "about",
+                  "dad"
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/PbWCjUS4Jio",
+                "sentence": [
+                  "He's got a",
+                  null
+                ],
+                "correctAnswer": "cold",
+                "possibleAnswers": [
+                  "mold",
+                  "call",
+                  "cold"
+              ],
+                "timeout": 15
+              }
+            ]
+          }
+        ]
+      },
+      "listening2": {
+        "numberOfTestersToPick": 2,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Listen and type word correctly",
+                "videoUrl": "https://www.youtube.com/embed/3b49fQogybo",
+                "sentence": [
+                  "Dear 'House' boys, a",
+                  null,
+                  "for your highly illegal search"
+                ],
+                "correctAnswer": "snack",
+                "characters": [
+                  "k",
+                  "a",
+                  "p",
+                  "n",
+                  "c",
+                  "r",
+                  "u",
+                  "i",
+                  "s"
+                ],
+                "timeout": 20
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Listen and type word correctly",
+                "videoUrl": "https://www.youtube.com/embed/KxLglqhLeLY",
+                "sentence": [
+                  "She's a married woman now so she can have",
+                  null,
+                  "in bed."
+                ],
+                "correctAnswer": "breakfast",
+                "characters": [
+                  "a",
+                  "k",
+                  "p",
+                  "s",
+                  "e",
+                  "r",
+                  "b",
+                  "a",
+                  "f",
+                  "t"
+                ],
+                "timeout": 20
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
+}

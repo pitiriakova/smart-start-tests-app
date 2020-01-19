@@ -1,0 +1,756 @@
+
+{"lessonTitle": "День 36. Past Tenses",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я продал свою машину неделю назад",
+                "variantsToChose": [
+                  "I sold my car a week ago",
+                  "I selling my car a week ago",
+                  "I selled my car a week ago"
+                ],
+                "correctAnswer": "I sold my car a week ago",
+                "timeout": 10
+              },
+              {
+                "title": "Она потратила все деньги месяц назад",
+                "variantsToChose": [
+                  "She spended all the money a month ago",
+                  "She has spent all the money a month ago",
+                  "She spent all the money a month ago"
+                ],
+                "correctAnswer": "She spent all the money a month ago",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Мы учились, когда она пришла",
+                "variantsToChose": [
+                  "We studied when she was coming",
+                  "We are studying when she came",
+                  "We were studying when she came"
+                ],
+                "correctAnswer": "We were studying when she came",
+                "timeout": 10
+              },
+              {
+                "title": "Мы смотрели кино, когда она пришла",
+                "variantsToChose": [
+                  "We watched the movie when she came",
+                  "We watched the movie when she was coming",
+                  "We were watching the movie when she came"
+                ],
+                "correctAnswer": "We were watching the movie when she came",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Он отправил ей письмо месяц назад",
+                "variantsToChose": [
+                  "He sending her the letter a month ago",
+                  "He sent her the letter a month ago",
+                  "He sended her the letter a month ago"
+                ],
+                "correctAnswer": "He sent her the letter a month ago",
+                "timeout": 10
+              },
+              {
+                "title": "Они стояли здесь вчера",
+                "variantsToChose": [
+                  "They stood here yesterday",
+                  "They stooded here yesterday",
+                  "They standed here yesterday"
+                ],
+                "correctAnswer": "They stood here yesterday",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Мы учились пока он работал",
+                "variantsToChose": [
+                  "We were studying while he was working",
+                  "We studied while he was working",
+                  "We were studying while he worked"
+                ],
+                "correctAnswer": "We were studying while he was working",
+                "timeout": 10
+              },
+              {
+                "title": "Они спали пока мы играли в футбол",
+                "variantsToChose": [
+                  "They were sleeping while we were playing football",
+                  "They were sleeping while we played football",
+                  "They sleeping while we playing football"
+                ],
+                "correctAnswer": "They were sleeping while we were playing football",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Он не бегал вчера",
+                "variantsToChose": [
+                  "He didn't run yesterday",
+                  "He didn't runing yesterday",
+                  "He didn't ran yesterday"
+                ],
+                "correctAnswer": "He didn't run yesterday",
+                "timeout": 10
+              },
+              {
+                "title": "Я не отправил им письмо 3 дня назад",
+                "variantsToChose": [
+                  "I didn't sent them the letter 3 days ago",
+                  "I didn't send them the letter 3 days ago",
+                  "I didn't sending them the letter 3 days ago"
+                ],
+                "correctAnswer": "I didn't send them the letter 3 days ago",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Он вчера много съел",
+                "variantsToChose": [
+                  "He eated a lot yesterday",
+                  "He ate a lot yesterday",
+                  "He was eating a lot yesterday"
+                ],
+                "correctAnswer": "He ate a lot yesterday",
+                "timeout": 10
+              },
+              {
+                "title": "Он много спал вчера",
+                "variantsToChose": [
+                  "He sleeped a lot yesterday",
+                  "He slept a lot yesterday",
+                  "He slepted a lot yesterday"
+                ],
+                "correctAnswer": "He slept a lot yesterday",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "sang the",
+                  "I",
+                  "song",
+                  "yesterday"
+                ],
+                "correctSentence": [
+                  "I",
+                  "sang the",
+                  "song",
+                  "yesterday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "2 years ago",
+                  "the car",
+                  "sold"
+                ],
+                "correctSentence": [
+                  "she",
+                  "sold",
+                  "the car",
+                  "2 years ago"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "very well",
+                  "Russian",
+                  "speak",
+                  "I"
+                ],
+                "correctSentence": [
+                  "I",
+                  "speak",
+                  "Russian",
+                  "very well"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "yesterday",
+                  "studied",
+                  "a lot",
+                  "I"
+                ],
+                "correctSentence": [
+                  "I",
+                  "studied",
+                  "a lot",
+                  "yesterday"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "they didn't",
+                  "the house",
+                  "yesterday",
+                  "sell me"
+                ],
+                "correctSentence": [
+                  "they didn't",
+                  "sell me",
+                  "the house",
+                  "yesterday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "for me",
+                  "didn't",
+                  "she",
+                  "sing the song"
+                ],
+                "correctSentence": [
+                  "she",
+                  "didn't",
+                  "sing the song",
+                  "for me"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "see my car",
+                  "did",
+                  "you",
+                  "yesterday"
+                ],
+                "correctSentence": [
+                  "did",
+                  "you",
+                  "see my car",
+                  "yesterday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "were you",
+                  "working",
+                  "when",
+                  "she came"
+                ],
+                "correctSentence": [
+                  "were you",
+                  "working",
+                  "when",
+                  "she came"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "last week",
+                  "I",
+                  "everything",
+                  "sold"
+                ],
+                "correctSentence": [
+                  "I",
+                  "sold",
+                  "everything",
+                  "last week"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "we were",
+                  "came when",
+                  "she",
+                  "dancing"
+                ],
+                "correctSentence": [
+                  "she",
+                  "came when",
+                  "we were",
+                  "dancing"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "away",
+                  "she",
+                  "ran",
+                  "yesterday"
+                ],
+                "correctSentence": [
+                  "she",
+                  "ran",
+                  "away",
+                  "yesterday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "five",
+                  "I sang",
+                  "at the party",
+                  "songs"
+                ],
+                "correctSentence": [
+                  "I sang",
+                  "five",
+                  "songs",
+                  "at the party"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/e-YaG1Ljfbs",
+                  "sentence": [
+                    "So, because you",
+                    null,
+                    "me to",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "want",
+                    "treat",
+                    "patients"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "don't"
+                      },
+                      {
+                        "text": "haunt"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "treat"
+                      },
+                      {
+                        "text": "eat"
+                      },
+                      {
+                        "text": "beat"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "creations"
+                      },
+                      {
+                        "text": "agents"
+                      },
+                      {
+                        "text": "patients"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZjC5gXz9qOM",
+                  "sentence": [
+                    "You",
+                    null,
+                    null,
+                    "me",
+                    null,
+                    "patients"
+                  ],
+                  "correctAnswer": [
+                    "aren’t",
+                    "letting",
+                    "treat"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "aren’t"
+                      },
+                      {
+                        "text": "ain’t"
+                      },
+                      {
+                        "text": "aired"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "getting"
+                      },
+                      {
+                        "text": "letting"
+                      },
+                      {
+                        "text": "setting"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "feet"
+                      },
+                      {
+                        "text": "repeat"
+                      },
+                      {
+                        "text": "treat"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/AMuL87MbpEA",
+                  "sentence": [
+                    "I", null,
+                    "you",
+                    null,
+                    "do your",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "need",
+                    "to",
+                    "job"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "did"
+                      },
+                      {
+                        "text": "need"
+                      },
+                      {
+                        "text": "feed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "do"
+                      },
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "too"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "job"
+                      },
+                      {
+                        "text": "gob"
+                      },
+                      {
+                        "text": "jog"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/O19tMnvaUP0",
+                  "sentence": [
+                    "I’ve",
+                    null,
+                    "do four",
+                    null,
+                    "a week in this",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "gotta",
+                    "hours",
+                    "clinic"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "bottom"
+                      },
+                      {
+                        "text": "water"
+                      },
+                      {
+                        "text": "gotta"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "powers"
+                      },
+                      {
+                        "text": "horse"
+                      },
+                      {
+                        "text": "hours"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mimic"
+                      },
+                      {
+                        "text": "cynic"
+                      },
+                      {
+                        "text": "clinic"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Sm1ydUSg7js",
+                  "sentence": [
+                    "Until I",
+                    null,
+                    "the",
+                    null,
+                    "I’ve",
+                    null,
+                    "."
+                  ],
+                  "correctAnswer": [
+                    "make up",
+                    "time",
+                    "missed"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "take up"
+                      },
+                      {
+                        "text": "wake up"
+                      },
+                      {
+                        "text": "make up"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rhyme"
+                      },
+                      {
+                        "text": "crime"
+                      },
+                      {
+                        "text": "time"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "insist"
+                      },
+                      {
+                        "text": "list"
+                      },
+                      {
+                        "text": "missed"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZNFUGUvqFbQ",
+                  "sentence": [
+                    "You",
+                    null,
+                    "love this",
+                    null,
+                    "a whole",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "better",
+                    "cousin",
+                    "lot"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "bater"
+                      },
+                      {
+                        "text": "better"
+                      },
+                      {
+                        "text": "matter"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "russian"
+                      },
+                      {
+                        "text": "dozen"
+                      },
+                      {
+                        "text": "cousin"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "got"
+                      },
+                      {
+                        "text": "por"
+                      },
+                      {
+                        "text": "lot"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

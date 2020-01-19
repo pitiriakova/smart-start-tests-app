@@ -1,0 +1,763 @@
+
+{"lessonTitle": "День 64. Условные предложения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "При условии, что будет солнечно, мы пойдем на пляж",
+                "variantsToChose": [
+                  "We go to the beach as soon as it is sunny",
+                  "As long as it is sunny we go to the beach",
+                  "We will go to the beach as long as it is sunny"
+                ],
+                "correctAnswer": "We will go to the beach as long as it is sunny",
+                "timeout": 10
+              },
+              {
+                "title": "При условии, что будет тепло, мы поедем в центр города",
+                "variantsToChose": [
+                  "We go to the downtown as soon as it is warm",
+                  "As long as it is warm we go to the downtown",
+                  "We will go to the downtown as long as it is warm"
+                ],
+                "correctAnswer": "We will go to the downtown as long as it is warm",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "I will stay at this hotel __ it is affordable",
+                "variantsToChose": [
+                  "as long as",
+                  "before",
+                  "even if"
+                ],
+                "correctAnswer": "as long as",
+                "timeout": 10
+              },
+              {
+                "title": "I will stay at this apartment __ it is cheap",
+                "variantsToChose": [
+                  "as long as",
+                  "before",
+                  "even if"
+                ],
+                "correctAnswer": "as long as",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Я не покину страну, если она не поедет со мной",
+                "variantsToChose": [
+                  "I won't leave the country unless she comes with me",
+                  "I will leave the country unless she comes with me",
+                  "I will not leave the country unless she come with me"
+                ],
+                "correctAnswer": "I won't leave the country unless she comes with me",
+                "timeout": 10
+              },
+              {
+                "title": "Я не покину этот город, если он не поедет со мной",
+                "variantsToChose": [
+                  "I won't leave the city unless he comes with me",
+                  "I will leave the city unless he comes with me",
+                  "I will not leave the city unless he come with me"
+                ],
+                "correctAnswer": "I won't leave the city unless he comes with me",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Мы будем здесь, пока он не позвонит мне",
+                "variantsToChose": [
+                  "We will be here until he calls me",
+                  "We will here until he calls me",
+                  "We will be here after he calls me"
+                ],
+                "correctAnswer": "We will be here until he calls me",
+                "timeout": 10
+              },
+              {
+                "title": "Я буду на вечеринке, пока она не поцелует меня",
+                "variantsToChose": [
+                  "I will be at the party until she kisses me",
+                  "I will at the party until she kisses me",
+                  "I will be at the party until she kiss me"
+                ],
+                "correctAnswer": "I will be at the party until she kisses me",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я не буду делать это, пока не поговорю с ними",
+                "variantsToChose": [
+                  "I will not does it until I talk to them",
+                  "I will do it until I talk to them",
+                  "I won't do it until I talk to them"
+                ],
+                "correctAnswer": "I won't do it until I talk to them",
+                "timeout": 10
+              },
+              {
+                "title": "Я не подпишу это до тех пор, пока не увижу тебя",
+                "variantsToChose": [
+                  "I will not sign it until I see you",
+                  "I will sign it until I see you",
+                  "I won't signs it until I see you"
+                ],
+                "correctAnswer": "I will not sign it until I see you",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Джон не пойдет в горы, если не будет хорошей погоды",
+                "variantsToChose": [
+                  "John won`t go to the mountains as soon as the weather is good",
+                  "John will not go to the mountains unless the weather is good",
+                  "John won`t go to the mountains unless the weather will be good"
+                ],
+                "correctAnswer": "John will not go to the mountains unless the weather is good",
+                "timeout": 10
+              },
+              {
+                "title": "Кейт не пойдет на озеро, если не будет тепло",
+                "variantsToChose": [
+                  "Kate won`t go to the lake as soon as it's warm",
+                  "Kate will not go to the lake unless it's warm",
+                  "Kate will not go to the lake unless it will be warm"
+                ],
+                "correctAnswer": "Kate will not go to the lake unless it's warm",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There",
+                  "are",
+                  "better",
+                  "options"
+                ],
+                "correctSentence": [
+                  "There",
+                  "are",
+                  "better",
+                  "options"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There",
+                  "are",
+                  "cheaper",
+                  "cars"
+                ],
+                "correctSentence": [
+                  "There",
+                  "are",
+                  "cheaper",
+                  "cars"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "arrived",
+                  "I",
+                  "have",
+                  "just"
+                ],
+                "correctSentence": [
+                  "I",
+                  "have",
+                  "just",
+                  "arrived"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "has",
+                  "She",
+                  "just",
+                  "arrived"
+                ],
+                "correctSentence": [
+                  "She",
+                  "has",
+                  "just",
+                  "arrived"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "at 5 pm",
+                  "I`ll",
+                  "see",
+                  "you"
+                ],
+                "correctSentence": [
+                  "I`ll",
+                  "see",
+                  "you",
+                  "at 5 pm"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "We`ll",
+                  "at 3 pm",
+                  "be",
+                  "there"
+                ],
+                "correctSentence": [
+                  "We`ll",
+                  "be",
+                  "there",
+                  "at 3 pm"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "don`t",
+                  "have",
+                  "much time"
+                ],
+                "correctSentence": [
+                  "I",
+                  "don`t",
+                  "have",
+                  "much time"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "doesn`t",
+                  "have",
+                  "many enemies"
+                ],
+                "correctSentence": [
+                  "He",
+                  "doesn`t",
+                  "have",
+                  "many enemies"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do",
+                  "Why",
+                  "you",
+                  "like me"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "do",
+                  "you",
+                  "like me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do",
+                  "Why",
+                  "you",
+                  "want it"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "do",
+                  "you",
+                  "want it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "would",
+                  "She",
+                  "drive",
+                  "a bus"
+                ],
+                "correctSentence": [
+                  "She",
+                  "would",
+                  "drive",
+                  "a bus"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "would",
+                  "She",
+                  "stop",
+                  "a taxi"
+                ],
+                "correctSentence": [
+                  "She",
+                  "would",
+                  "stop",
+                  "a taxi"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NjadV-T_VPA",
+                  "sentence": [
+                    "But",
+                    null,
+                    "I'm",
+                    null,
+                    ", there's no",
+                    null,
+                    "in these parts"
+
+                  ],
+                  "correctAnswer": [
+                    "unless",
+                    "mistaken",
+                    "crossing"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "unless"
+                      },
+                      {
+                        "text": "alas"
+                      },
+                      {
+                        "text": "aimless"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mistook"
+                      },
+                      {
+                        "text": "mystical"
+                      },
+                      {
+                        "text": "mistaken"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cropping"
+                      },
+                      {
+                        "text": "cross wing"
+                      },
+                      {
+                        "text": "crossing"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/V-rEtetw66s",
+                  "sentence": [
+                    "I",
+                    null,
+                    "I wouldn't call you unless you",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "swore",
+                    "turned",
+                    "around"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "swear"
+                      },
+                      {
+                        "text": "swore"
+                      },
+                      {
+                        "text": "sore"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "turn"
+                      },
+                      {
+                        "text": "turned"
+                      },
+                      {
+                        "text": "termed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "around"
+                      },
+                      {
+                        "text": "abound"
+                      },
+                      {
+                        "text": "a round"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/jU9gr8BW430",
+                  "sentence": [
+                    "And unless you",
+                    null,
+                    "my assistance, I have no",
+                    null,
+                    "she will",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "accept",
+                    "doubt",
+                    "succeed"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "accept"
+                      },
+                      {
+                        "text": "except"
+                      },
+                      {
+                        "text": "accessed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "doubt"
+                      },
+                      {
+                        "text": "draught"
+                      },
+                      {
+                        "text": "debt"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "succumb"
+                      },
+                      {
+                        "text": "succeed"
+                      },
+                      {
+                        "text": "sack seed"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/mpPIcwGlM5A",
+                  "sentence": [
+                    "Until you lay down the seventh",
+                    null,
+                    ",",
+                    null,
+                    "has the",
+                    null,
+                    "hand"
+
+                  ],
+                  "correctAnswer": [
+                    "sword",
+                    "evil",
+                    "upper"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "sored"
+                      },
+                      {
+                        "text": "sword"
+                      },
+                      {
+                        "text": "soured"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "eval"
+                      },
+                      {
+                        "text": "evil"
+                      },
+                      {
+                        "text": "oval"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "appar"
+                      },
+                      {
+                        "text": "appear"
+                      },
+                      {
+                        "text": "upper"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/kZxc0Xo_Pkg",
+                  "sentence": [
+                    "We won't take",
+                    null,
+                    "on the",
+                    null,
+                    "until you get the",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "delivery",
+                    "drugs",
+                    "cash"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "deliver"
+                      },
+                      {
+                        "text": "delivered"
+                      },
+                      {
+                        "text": "delivery"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dregs"
+                      },
+                      {
+                        "text": "drugs"
+                      },
+                      {
+                        "text": "drag"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cash"
+                      },
+                      {
+                        "text": "cache"
+                      },
+                      {
+                        "text": "clash"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/q5purwaNXHY",
+                  "sentence": [
+                    null,
+                    "sign of any side effect, we stop and you're",
+                    null,
+                    "team until you",
+                    null,
+                    "out"
+                  ],
+                  "correctAnswer": [
+                    "First",
+                    "off",
+                    "straighten"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Fist"
+                      },
+                      {
+                        "text": "First"
+                      },
+                      {
+                        "text": "Feast"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "off"
+                      },
+                      {
+                        "text": "of"
+                      },
+                      {
+                        "text": "aught"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "strutting"
+                      },
+                      {
+                        "text": "straight on"
+                      },
+                      {
+                        "text": "straighten"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

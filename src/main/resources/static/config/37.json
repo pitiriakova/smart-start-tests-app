@@ -1,0 +1,759 @@
+
+{"lessonTitle": "День 37. Present Perfect",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я забронировал билеты на самолет",
+                "variantsToChose": [
+                  "I booked the flight",
+                  "I have booked the flight",
+                  "I has booked the flight"
+                ],
+                "correctAnswer": "I have booked the flight",
+                "timeout": 10
+              },
+              {
+                "title": "Mери забронировала билеты на самолет",
+                "variantsToChose": [
+                  "Mary has book the flight",
+                  "Mary have booked the flight",
+                  "Mary has booked the flight"
+                ],
+                "correctAnswer": "Mary has booked the flight",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Вы повредили мой багаж",
+                "variantsToChose": [
+                  "You have damaged my baggage",
+                  "You has damaged my baggage",
+                  "You damaged my baggage"
+                ],
+                "correctAnswer": "You have damaged my baggage",
+                "timeout": 10
+              },
+              {
+                "title": "Они потеряли мой багаж",
+                "variantsToChose": [
+                  "They've lost my baggage",
+                  "They lost my baggage",
+                  "They has lost my baggage"
+                ],
+                "correctAnswer": "They've lost my baggage",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Ник потерял посадочный талон",
+                "variantsToChose": [
+                  "Nick lost a boarding pass",
+                  "Nick have lost a boarding pass",
+                  "Nick has lost a boarding pass"
+                ],
+                "correctAnswer": "Nick has lost a boarding pass",
+                "timeout": 10
+              },
+              {
+                "title": "Они приземлились",
+                "variantsToChose": [
+                  "They've landed",
+                  "They landed",
+                  "They has landed"
+                ],
+                "correctAnswer": "They've landed",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Вы зарегистрировались на рейс?",
+                "variantsToChose": [
+                  "Have you checked in?",
+                  "Did you checked in?",
+                  "Have you check in?"
+                ],
+                "correctAnswer": "Have you checked in?",
+                "timeout": 10
+              },
+              {
+                "title": "Они потеряли билеты?",
+                "variantsToChose": [
+                  "Have they lost the tickets?",
+                  "Has they lost the tickets?",
+                  "Did have they lost the tickets?"
+                ],
+                "correctAnswer": "Have they lost the tickets?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Он еще не купил билеты",
+                "variantsToChose": [
+                  "He didn't buy the tickets yet",
+                  "He hasn't buy the tickets yet",
+                  "He hasn't bought the tickets yet"
+                ],
+                "correctAnswer": "He hasn't bought the tickets yet",
+                "timeout": 10
+              },
+              {
+                "title": "Я еще не зарегистрировался на рейс",
+                "variantsToChose": [
+                  "I haven't checked in yet",
+                  "I didn't check in yet",
+                  "I haven't check in yet"
+                ],
+                "correctAnswer": "I haven't checked in yet",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я вчера был в школе",
+                "variantsToChose": [
+                  "I was at school yesterday",
+                  "I have been at school yesterday",
+                  "I did at school yesterday"
+                ],
+                "correctAnswer": "I was at school yesterday",
+                "timeout": 10
+              },
+              {
+                "title": "Он вчера много пил",
+                "variantsToChose": [
+                  "He drank a lot yesterday",
+                  "He has drunk a lot yesterday",
+                  "He was drinking a lot yesterday"
+                ],
+                "correctAnswer": "He drank a lot yesterday",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "booked",
+                  "has",
+                  "Nick",
+                  "the flight"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "has",
+                  "booked",
+                  "the flight"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Jane",
+                  "the keys",
+                  "has",
+                  "lost"
+                ],
+                "correctSentence": [
+                  "Jane",
+                  "has",
+                  "lost",
+                  "the keys"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "checked",
+                  "in",
+                  "Mike"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "hasn't",
+                  "checked",
+                  "in"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "checked",
+                  "in",
+                  "haven't"
+                ],
+                "correctSentence": [
+                  "I",
+                  "haven't",
+                  "checked",
+                  "in"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mary",
+                  "lost",
+                  "it",
+                  "has"
+                ],
+                "correctSentence": [
+                  "Mary",
+                  "has",
+                  "lost",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "done",
+                  "Nick",
+                  "hasn't",
+                  "it"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "done",
+                  "it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you",
+                  "fastened",
+                  "the belt",
+                  "have"
+                ],
+                "correctSentence": [
+                  "have",
+                  "you",
+                  "fastened",
+                  "the belt"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "John",
+                  "the flight",
+                  "missed",
+                  "has"
+                ],
+                "correctSentence": [
+                  "has",
+                  "john",
+                  "missed",
+                  "the flight"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "off",
+                  "they",
+                  "have",
+                  "taken"
+                ],
+                "correctSentence": [
+                  "have",
+                  "they",
+                  "taken",
+                  "off"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "has",
+                  "she",
+                  "booked",
+                  "the tickets"
+                ],
+                "correctSentence": [
+                  "has",
+                  "she",
+                  "booked",
+                  "the tickets"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "haven't",
+                  "seen",
+                  "him",
+                  "I"
+                ],
+                "correctSentence": [
+                  "I",
+                  "haven't",
+                  "seen",
+                  "him"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "it",
+                  "haven't",
+                  "ordered"
+                ],
+                "correctSentence": [
+                  "you",
+                  "haven't",
+                  "ordered",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/E5890cdQ7xE",
+                  "sentence": [
+                    "So I",
+                    null,
+                    "my",
+                    null,
+                    "and that's",
+                    null,
+                    "it happened."
+
+                  ],
+                  "correctAnswer": [
+                    "take off",
+                    "glasses",
+                    "when"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "drop off"
+                      },
+                      {
+                        "text": "take off"
+                      },
+                      {
+                        "text": "bake off"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "glasses"
+                      },
+                      {
+                        "text": "classes"
+                      },
+                      {
+                        "text": "glass is"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "again"
+                      },
+                      {
+                        "text": "when"
+                      },
+                      {
+                        "text": "yen"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/vfhSIn0jE9I",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "it",
+                    "has",
+                    "landed"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "it"
+                      },
+                      {
+                        "text": "hit"
+                      },
+                      {
+                        "text": "meat"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "says"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "banded"
+                      },
+                      {
+                        "text": "lend it"
+                      },
+                      {
+                        "text": "landed"
+                      }
+
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/2b2oNDx7D2s",
+                  "sentence": [
+                    "I haven't",
+                    null,
+                    "the",
+                    null,
+                    "to tell you how sorry I was to hear about your",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "had",
+                    "opportunity",
+                    "brother"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "dad"
+                      },
+                      {
+                        "text": "had"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "immunity"
+                      },
+                      {
+                        "text": "opportunity"
+                      },
+                      {
+                        "text": "community"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "brother"
+                      },
+                      {
+                        "text": "another"
+                      },
+                      {
+                        "text": "rather"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/81uJZ9uol58",
+                  "sentence": [
+                    "Okay, I may",
+                    null,
+                    null,
+                    "something in the",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "have",
+                    "seen",
+                    "fridge"
+
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "had"
+                      },
+                      {
+                        "text": "may"
+                      },
+                      {
+                        "text": "have"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sin"
+                      },
+                      {
+                        "text": "seen"
+                      },
+                      {
+                        "text": "scene"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "powers"
+                      },
+                      {
+                        "text": "bridge"
+                      },
+                      {
+                        "text": "fridge"
+                      }
+                    ]
+
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1fGZH-5vcF8",
+                  "sentence": [
+                    null,
+                    "you traveled",
+                    null,
+                    "of the",
+                    null,
+                    "lately?"
+                  ],
+                  "correctAnswer": [
+                    "have",
+                    "out",
+                    "country"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "halve"
+                      },
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "has"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "doubt"
+                      },
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "out"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "country"
+                      },
+                      {
+                        "text": "abruptly"
+                      },
+                      {
+                        "text": "chunky"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/qdyd2J8cPF4",
+                  "sentence": [
+                    "He",
+                    null,
+                    "so you",
+                    null,
+                    "find what you",
+                    null,
+                    "lost"
+                  ],
+                  "correctAnswer": [
+                    "died",
+                    "could",
+                    "have"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "diet"
+                      },
+                      {
+                        "text": "died"
+                      },
+                      {
+                        "text": "dialed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "should"
+                      },
+                      {
+                        "text": "could"
+                      },
+                      {
+                        "text": "cloud"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "half"
+                      },
+                      {
+                        "text": "have"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

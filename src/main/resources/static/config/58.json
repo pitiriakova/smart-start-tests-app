@@ -1,0 +1,752 @@
+{
+  "lessonTitle": "День 58. Should and Ought to",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "You __ invite her",
+                  "variantsToChose": [
+                    "must",
+                    "should",
+                    "may"
+                  ],
+                  "correctAnswer": "should",
+                  "timeout": 10
+                },
+                {
+                  "title": "You __ call her",
+                  "variantsToChose": [
+                    "must",
+                    "should",
+                    "may"
+                  ],
+                  "correctAnswer": "should",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "__ I apologize to him?",
+                  "variantsToChose": [
+                    "Should",
+                    "Must",
+                    "May"
+                  ],
+                  "correctAnswer": "Should",
+                  "timeout": 10
+                },
+                {
+                  "title": "__ I go to his birthday party?",
+                  "variantsToChose": [
+                    "Should",
+                    "Must",
+                    "May"
+                  ],
+                  "correctAnswer": "Should",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Она не должна быть грубая с друзьями",
+                  "variantsToChose": [
+                    "She must not be rude with friends",
+                    "She should not rude with friends",
+                    "She shouldn`t be rude with friends"
+                  ],
+                  "correctAnswer": "She shouldn`t be rude with friends",
+                  "timeout": 10
+                },
+                {
+                  "title": "Она не должна быть легкомысленна со своим парнем",
+                  "variantsToChose": [
+                    "She must not be frivolous with her boyfriend",
+                    "She should not frivolous with her boyfriend",
+                    "She shouldn`t be frivolous with her boyfriend"
+                  ],
+                  "correctAnswer": "She shouldn`t be frivolous with her boyfriend",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Тебе не стоит об этом беспокоиться",
+                  "variantsToChose": [
+                    "You should worry about that",
+                    "You shouldn`t worry about that",
+                    "You may worry about that"
+                  ],
+                  "correctAnswer": "You shouldn`t worry about that",
+                  "timeout": 10
+                },
+                {
+                  "title": "Тебе не стоит идти в ночной клуб",
+                  "variantsToChose": [
+                    "You should go to the nightclub",
+                    "You shouldn`t go to the nightclub",
+                    "You may go to the nightclub"
+                  ],
+                  "correctAnswer": "You shouldn`t go to the nightclub",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Ей надо было сделать это раньше",
+                  "variantsToChose": [
+                    "She should do it earlier",
+                    "She should have done it earlier",
+                    "She should have do it earlier"
+                  ],
+                  "correctAnswer": "She should have done it earlier",
+                  "timeout": 10
+                },
+                {
+                  "title": "Ей надо было прочитать это раньше",
+                  "variantsToChose": [
+                    "She should read it earlier",
+                    "She should have read it earlier",
+                    "She should had read it earlier"
+                  ],
+                  "correctAnswer": "She should have read it earlier",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Ему нужно следовать за мной",
+                  "variantsToChose": [
+                    "He must follow me",
+                    "He should not follow me",
+                    "He should follow me"
+                  ],
+                  "correctAnswer": "He should follow me",
+                  "timeout": 10
+                },
+                {
+                  "title": "Ему нужно посетить врача",
+                  "variantsToChose": [
+                    "He must visit a doctor",
+                    "He should not visit a doctor",
+                    "He should visit a doctor"
+                  ],
+                  "correctAnswer": "He should visit a doctor",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "kind",
+                    "be",
+                    "You",
+                    "should"
+                  ],
+                  "correctSentence": [
+                    "You",
+                    "should",
+                    "be",
+                    "kind"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "You",
+                    "be",
+                    "should",
+                    "careful"
+                  ],
+                  "correctSentence": [
+                    "You",
+                    "should",
+                    "be",
+                    "careful"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "to us",
+                    "apologize",
+                    "should",
+                    "They"
+                  ],
+                  "correctSentence": [
+                    "They",
+                    "should",
+                    "apologize",
+                    "to us"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "us",
+                    "follow",
+                    "should",
+                    "They"
+                  ],
+                  "correctSentence": [
+                    "They",
+                    "should",
+                    "follow",
+                    "us"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "have",
+                    "come",
+                    "You",
+                    "should not"
+                  ],
+                  "correctSentence": [
+                    "You",
+                    "should not",
+                    "have",
+                    "come"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "have",
+                    "should not",
+                    "You",
+                    "cried"
+                  ],
+                  "correctSentence": [
+                    "You",
+                    "should not",
+                    "have",
+                    "cried"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "should",
+                    "be",
+                    "nice",
+                    "She"
+                  ],
+                  "correctSentence": [
+                    "She",
+                    "should",
+                    "be",
+                    "nice"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "should",
+                    "be",
+                    "clever",
+                    "She"
+                  ],
+                  "correctSentence": [
+                    "She",
+                    "should",
+                    "be",
+                    "clever"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "it",
+                    "not accept",
+                    "should",
+                    "He"
+                  ],
+                  "correctSentence": [
+                    "He",
+                    "should",
+                    "not accept",
+                    "it"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "her",
+                    "should",
+                    "not miss",
+                    "He"
+                  ],
+                  "correctSentence": [
+                    "He",
+                    "should",
+                    "not miss",
+                    "her"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "to him",
+                    "should not",
+                    "listen",
+                    "We"
+                  ],
+                  "correctSentence": [
+                    "We",
+                    "should not",
+                    "listen",
+                    "to him"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "believe",
+                    "him",
+                    "should not",
+                    "We"
+                  ],
+                  "correctSentence": [
+                    "We",
+                    "should not",
+                    "believe",
+                    "him"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/oOs9crtJ5MA",
+                  "sentence": [
+                    "I",
+                    null,
+                    null,
+                    "back now that she is",
+                    null
+                ],
+                  "correctAnswer": [
+                    "shouldn't",
+                    "come",
+                    "dead"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "should"
+                      },
+                      {
+                        "text": "shouldn't"
+                      },
+                      {
+                        "text": "should have"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "come"
+                      },
+                      {
+                        "text": "came"
+                      },
+                      {
+                        "text": "look"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "there"
+                      },
+                      {
+                        "text": "not"
+                      },
+                      {
+                        "text": "dead"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/UcNzO5S22yg",
+                  "sentence": [
+                    "You",
+                    null,
+                    "have",
+                    null,
+                    null,
+                    "honey"
+                  ],
+                  "correctAnswer": [
+                    "shouldn't",
+                    "done",
+                    "that"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "should"
+                      },
+                      {
+                        "text": "should've"
+                      },
+                      {
+                        "text": "shouldn't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "done"
+                      },
+                      {
+                        "text": "come"
+                      },
+                      {
+                        "text": "dumb"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "them"
+                      },
+                      {
+                        "text": "dad"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/-ej4Ztg37NU",
+                  "sentence": [
+                    "Just to",
+                    null,
+                    ", you",
+                    null,
+                    "do that when you're",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "clarify",
+                    "should",
+                    "right"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "classify"
+                      },
+                      {
+                        "text": "glorify"
+                      },
+                      {
+                        "text": "clarify"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "shouldn't"
+                      },
+                      {
+                        "text": "should"
+                      },
+                      {
+                        "text": "shall"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "right"
+                      },
+                      {
+                        "text": "wright"
+                      },
+                      {
+                        "text": "rite"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/epGxROpb6Nc",
+                  "sentence": [
+                    "I don't",
+                    null,
+                    "we should do it",
+                    null,
+                    "we're",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "think",
+                    "until",
+                    "sure"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "sink"
+                      },
+                      {
+                        "text": "thing"
+                      },
+                      {
+                        "text": "think"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "until"
+                      },
+                      {
+                        "text": "ant hill"
+                      },
+                      {
+                        "text": "entail"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "shear"
+                      },
+                      {
+                        "text": "sure"
+                      },
+                      {
+                        "text": "share"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SW7vyKM743g",
+                  "sentence": [
+                    "It's only 15",
+                    null,
+                    "but that",
+                    null,
+                    "to do for the lights, TV, and the",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "amps",
+                    "ought",
+                    "freezer"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "amps"
+                      },
+                      {
+                        "text": "lamps"
+                      },
+                      {
+                        "text": "apps"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "out to"
+                      },
+                      {
+                        "text": "ought"
+                      },
+                      {
+                        "text": "outer"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "freer"
+                      },
+                      {
+                        "text": "free air"
+                      },
+                      {
+                        "text": "freezer"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/8Zqu3SJofes",
+                  "sentence": [
+                    "Before we decide to",
+                    null,
+                    "our lives",
+                    null,
+                    ", we ought to",
+                    null,
+                    "to know one another"
+                  ],
+                  "correctAnswer": [
+                    "spend",
+                    "together",
+                    "get"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "spined"
+                      },
+                      {
+                        "text": "spent"
+                      },
+                      {
+                        "text": "spend"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "altogether"
+                      },
+                      {
+                        "text": "to lather"
+                      },
+                      {
+                        "text": "together"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "let"
+                      },
+                      {
+                        "text": "get"
+                      },
+                      {
+                        "text": "ged"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

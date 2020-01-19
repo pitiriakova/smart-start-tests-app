@@ -1,0 +1,2 @@
+// List of listening testers. Needed in order to disable shuffling for listening testers, since some of them in scope of some task will be ordered.
+var LISTENING_TESTERS = ["listening1", "listening2", "listening3"];

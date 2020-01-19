@@ -1,0 +1,561 @@
+{
+  "lessonTitle": "День 4. Глагол to be. Местоположение",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Я на работе",
+                  "variantsToChose": [
+                    "I am on work",
+                    "I am in work",
+                    "I am at work"
+                  ],
+                  "correctAnswer": "I am at work",
+                  "timeout": 10
+                },
+                {
+                  "title": "Я в очереди",
+                  "variantsToChose": [
+                    "I am at a line",
+                    "I am in line",
+                    "I am in a line"
+                  ],
+                  "correctAnswer": "I am in line",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "John is __",
+                  "variantsToChose": [
+                    "at the airport",
+                    "in the airport",
+                    "in airport"
+                  ],
+                  "correctAnswer": "at the airport",
+                  "timeout": 10
+                },
+                {
+                  "title": "Mary is __",
+                  "variantsToChose": [
+                    "at the station",
+                    "in station",
+                    "in the station"
+                  ],
+                  "correctAnswer": "at the station",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "They at the party",
+                  "variantsToChose": [
+                    "они на остановке",
+                    "они на вечеринке",
+                    "они на работе"
+                  ],
+                  "correctAnswer": "они на вечеринке",
+                  "timeout": 10
+                },
+                {
+                  "title": "We are at the stop",
+                  "variantsToChose": [
+                    "мы в очереди",
+                    "мы на остановке",
+                    "мы на вокзале"
+                  ],
+                  "correctAnswer": "мы на остановке",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "ты в школе",
+                  "variantsToChose": [
+                    "you are at school",
+                    "you are in school",
+                    "you are at the school"
+                  ],
+                  "correctAnswer": "you are at school",
+                  "timeout": 10
+                },
+                {
+                  "title": "Ты на работе",
+                  "variantsToChose": [
+                    "you are at work",
+                    "you are in work",
+                    "you are at the work"
+                  ],
+                  "correctAnswer": "you are at work",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Kim is __ Moscow",
+                  "variantsToChose": [
+                    "at",
+                    "in the",
+                    "in"
+                  ],
+                  "correctAnswer": "in",
+                  "timeout": 10
+                },
+                {
+                  "title": "Alex is __ bed",
+                  "variantsToChose": [
+                    "in the",
+                    "at",
+                    "in"
+                  ],
+                  "correctAnswer": "in",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "He isn't at school",
+                  "variantsToChose": [
+                    "он в школе",
+                    "он не в школе",
+                    "он у школы"
+                  ],
+                  "correctAnswer": "он не в школе",
+                  "timeout": 10
+                },
+                {
+                  "title": "I am at the station",
+                  "variantsToChose": [
+                    "я на остановке",
+                    "я на вокзале",
+                    "я в очереди"
+                  ],
+                  "correctAnswer": "я на вокзале",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "in",
+                    "hospital",
+                    "am"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "in",
+                    "hospital"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "bed",
+                    "am",
+                    "in",
+                    "I"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "in",
+                    "bed"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "line",
+                    "John",
+                    "in",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "John",
+                    "is",
+                    "in",
+                    "line"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "Jack",
+                    "the USA",
+                    "is",
+                    "in"
+                  ],
+                  "correctSentence": [
+                    "Jack",
+                    "is",
+                    "in",
+                    "the"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "are",
+                    "the browns",
+                    "we",
+                    "at"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "are",
+                    "at",
+                    "the browns"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "the Smiths",
+                    "at",
+                    "they",
+                    "are"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "are",
+                    "at",
+                    "the Smiths"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "home",
+                    "is",
+                    "at",
+                    "she"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "is",
+                    "at",
+                    "home"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "work",
+                    "is",
+                    "at"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "is",
+                    "at",
+                    "work"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "is",
+                    "not",
+                    "Mary",
+                    "at school"
+                  ],
+                  "correctSentence": [
+                    "Mary",
+                    "is",
+                    "not",
+                    "at school"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "Nick",
+                    "in prison",
+                    "not",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "Nick",
+                    "is",
+                    "not",
+                    "in prison"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "the party",
+                    "aren't",
+                    "at"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "aren't",
+                    "at",
+                    "the party"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "in",
+                    "you",
+                    "aren't",
+                    "the office"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "aren't",
+                    "in",
+                    "the office"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SG6QvbSok0Q",
+                  "sentence": [
+                    "Actually, she's probably at home,",
+                    null,
+                    "right now"
+                  ],
+                  "correctAnswer": "naked",
+                  "possibleAnswers": [
+                    "nike",
+                    "naked",
+                    "nephew"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/a_56LL4Qwmk",
+                  "sentence": [
+                    "On the one hand, you should be",
+                    null
+                  ],
+                  "correctAnswer": "in bed",
+                  "possibleAnswers": [
+                    "bad",
+                    "very bad",
+                    "in bed"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NzM8PbShZOQ",
+                  "sentence": [
+                    "I am at work",
+                    null,
+                    "now"
+                  ],
+                  "correctAnswer": "right",
+                  "possibleAnswers": [
+                    "right",
+                    "write",
+                    "at"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/znBmennZgNU",
+                  "sentence": [
+                    "No one's in the",
+                    null
+                  ],
+                  "correctAnswer": "office",
+                  "possibleAnswers": [
+                    "oscar",
+                    "office",
+                    "Austin"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/h7k4Ib2DBt8",
+                  "sentence": [
+                    "Slept it",
+                    null,
+                    "at the station"
+                  ],
+                  "correctAnswer": "off",
+                  "possibleAnswers": [
+                    "on",
+                    "or",
+                    "off"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/tJqOx7wePfs",
+                  "sentence": [
+                    "He was at",
+                    null,
+                    "with us"
+                  ],
+                  "correctAnswer": "school",
+                  "characters": [
+                    "s",
+                    "o",
+                    "h",
+                    "l",
+                    "e",
+                    "c"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/glVWWyH7cic",
+                  "sentence": [
+                    "Yeah, the other day I was at the bus",
+                    null
+                  ],
+                  "correctAnswer": "stop",
+                  "characters": [
+                    "p",
+                    "s",
+                    "e",
+                    "t",
+                    "a",
+                    "r",
+                    "o",
+                    "z"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

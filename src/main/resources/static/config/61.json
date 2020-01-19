@@ -1,0 +1,763 @@
+
+{"lessonTitle": "День 61. Условные предложения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Когда я опаздываю, я всегда звоню своему начальнику",
+                "variantsToChose": [
+                  "When I am late, I will always call my boss",
+                  "When I late, I always call my boss",
+                  "When I am late, I always call my boss"
+                ],
+                "correctAnswer": "When I am late, I always call my boss",
+                "timeout": 10
+              },
+              {
+                "title": "Когда я устаю, я всегда слушаю музыку",
+                "variantsToChose": [
+                  "When I am tired, I will always listen to music",
+                  "When I tired, I always listen to music",
+                  "When I am tired, I always listen to music"
+                ],
+                "correctAnswer": "When I am tired, I always listen to music",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "If you cut a finger __ a bandage on it",
+                "variantsToChose": [
+                  "put",
+                  "will put",
+                  "should put"
+                ],
+                "correctAnswer": "put",
+                "timeout": 10
+              },
+              {
+                "title": "If you __ a leg, a doctor puts a cast on it",
+                "variantsToChose": [
+                  "break",
+                  "will break",
+                  "are break"
+                ],
+                "correctAnswer": "break",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Если у тебя возникают проблемы, звони мне",
+                "variantsToChose": [
+                  "If you will have any problems, give me a call",
+                  "If you have any problems, give me a call",
+                  "If you have any problems, will give me a call"
+                ],
+                "correctAnswer": "If you have any problems, give me a call",
+                "timeout": 10
+              },
+              {
+                "title": "Если у тебя возникают любые вопросы, спрашивай учителя",
+                "variantsToChose": [
+                  "If you will have any questions, ask a teacher",
+                  "If you have any questions, ask a teacher",
+                  "If you have any questions, will ask a teacher"
+                ],
+                "correctAnswer": "If you have any questions, ask a teacher",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Если на улице жарко, я пью много воды",
+                "variantsToChose": [
+                  "If it hot outside, I drink a lot of water",
+                  "If it is hot outside, I drink a lot of water",
+                  "If it will be hot outside, I drink a lot of water"
+                ],
+                "correctAnswer": "If it is hot outside, I drink a lot of water",
+                "timeout": 10
+              },
+              {
+                "title": "Если на улице пасмурно, я беру зонт",
+                "variantsToChose": [
+                  "If it cloudy outside, I take an umbrella",
+                  "If it is cloudy outside, I take an umbrella",
+                  "If it will be cloudy outside, I take an umbrella"
+                ],
+                "correctAnswer": "If it is cloudy outside, I take an umbrella",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Когда ты подворачивашь лодыжку, бегать тяжело",
+                "variantsToChose": [
+                  "When you twist an ankle, it is hard to run",
+                  "If you twist an ankle, it is hard to run",
+                  "When you twist an ankle, is hard to run"
+                ],
+                "correctAnswer": "When you twist an ankle, it is hard to run",
+                "timeout": 10
+              },
+              {
+                "title": "Когда у тебя голованя боль, сложно сконцентрироваться",
+                "variantsToChose": [
+                  "When you have a headache, it is difficult to concentrate",
+                  "If you have a headache, it is difficult to concentrate",
+                  "When you have a headache, is difficult to concentrate"
+                ],
+                "correctAnswer": "When you have a headache, it is difficult to concentrate",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Если у него вечеринка, она всегда там",
+                "variantsToChose": [
+                  "If he have a party, she is always there",
+                  "When he has a party, she is always there",
+                  "If he has a party, she is always there"
+                ],
+                "correctAnswer": "If he has a party, she is always there",
+                "timeout": 10
+              },
+              {
+                "title": "Если он встает рано, у него всегда плохой день",
+                "variantsToChose": [
+                  "If he wake ups early, he always has a bad day",
+                  "When he wakes up, early he always has a bad day",
+                  "If he wakes up, early he always has a bad day"
+                ],
+                "correctAnswer": "If he wakes up early, he always has a bad day",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "never",
+                  "I`ve",
+                  "here",
+                  "been"
+                ],
+                "correctSentence": [
+                  "I`ve",
+                  "never",
+                  "been",
+                  "here"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "never",
+                  "He`s",
+                  "that",
+                  "done"
+                ],
+                "correctSentence": [
+                  "He`s",
+                  "never",
+                  "done",
+                  "that"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "doesn`t",
+                  "Mike",
+                  "like",
+                  "him"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "doesn`t",
+                  "like",
+                  "him"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Nina",
+                  "love",
+                  "me",
+                  "doesn`t"
+                ],
+                "correctSentence": [
+                  "Nina",
+                  "doesn`t",
+                  "love",
+                  "me"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a",
+                  "I bought",
+                  "yesterday",
+                  "house"
+                ],
+                "correctSentence": [
+                  "I bought",
+                  "a",
+                  "house",
+                  "yesterday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She",
+                  "it",
+                  "found",
+                  "yesterday"
+                ],
+                "correctSentence": [
+                  "She",
+                  "found",
+                  "it",
+                  "yesterday"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "John is",
+                  "me",
+                  "than",
+                  "richer"
+                ],
+                "correctSentence": [
+                  "John is",
+                  "richer",
+                  "than",
+                  "me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Tim is",
+                  "her",
+                  "than",
+                  "happier"
+                ],
+                "correctSentence": [
+                  "Tim is",
+                  "happier",
+                  "than",
+                  "her"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "does",
+                  "she",
+                  "want it",
+                  "Why"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "does",
+                  "she",
+                  "want it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "does",
+                  "Why",
+                  "she",
+                  "live there"
+                ],
+                "correctSentence": [
+                  "Why",
+                  "does",
+                  "she",
+                  "live there"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He is",
+                  "man",
+                  "richest",
+                  "the"
+                ],
+                "correctSentence": [
+                  "He is",
+                  "the",
+                  "richest",
+                  "man"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She is",
+                  "the",
+                  "girl",
+                  "tallest"
+                ],
+                "correctSentence": [
+                  "She is",
+                  "the",
+                  "tallest",
+                  "girl"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/lvNuo_CJJhI",
+                  "sentence": [
+                    "If you do not",
+                    null,
+                    "your",
+                    null,
+                    ", the",
+                    null,
+                    "is off"
+
+                  ],
+                  "correctAnswer": [
+                    "complete",
+                    "mission",
+                    "deal"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "compete"
+                      },
+                      {
+                        "text": "complete"
+                      },
+                      {
+                        "text": "comply"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mission"
+                      },
+                      {
+                        "text": "motion"
+                      },
+                      {
+                        "text": "omission"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dill"
+                      },
+                      {
+                        "text": "deal"
+                      },
+                      {
+                        "text": "till"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/pVlPcu8oQO4",
+                  "sentence": [
+                    "If you",
+                    null,
+                    "not",
+                    null,
+                    ", she",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "do",
+                    "pay",
+                    "dies"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "does"
+                      },
+                      {
+                        "text": "to"
+                      },
+                      {
+                        "text": "do"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lay"
+                      },
+                      {
+                        "text": "pay"
+                      },
+                      {
+                        "text": "way"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lies"
+                      },
+                      {
+                        "text": "does"
+                      },
+                      {
+                        "text": "dies"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NJ-DsYHu_xk",
+                  "sentence": [
+                    "If he",
+                    null,
+                    "that,",
+                    null,
+                    "in",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "understands",
+                    "you're",
+                    "trouble"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "understand"
+                      },
+                      {
+                        "text": "understood"
+                      },
+                      {
+                        "text": "understands"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "you're"
+                      },
+                      {
+                        "text": "you aren't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "trouble"
+                      },
+                      {
+                        "text": "treble"
+                      },
+                      {
+                        "text": "triple"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/XwrA0Sdj8l8",
+                  "sentence": [
+                    "If she",
+                    null,
+                    "you",
+                    null,
+                    "animal",
+                    null,
+                    ", you take it"
+
+                  ],
+                  "correctAnswer": [
+                    "offers",
+                    "mangled",
+                    "carcass"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "authors"
+                      },
+                      {
+                        "text": "offers"
+                      },
+                      {
+                        "text": "office"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mingled"
+                      },
+                      {
+                        "text": "mangled"
+                      },
+                      {
+                        "text": "mangel"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "carcase"
+                      },
+                      {
+                        "text": "carcass"
+                      },
+                      {
+                        "text": "caucus"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/bNuNXwgH4-o",
+                  "sentence": [
+                    "But if she doesn't",
+                    null,
+                    ", it is",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "call",
+                    "definitely",
+                    "over"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "call"
+                      },
+                      {
+                        "text": "caul"
+                      },
+                      {
+                        "text": "coll"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "defiantly"
+                      },
+                      {
+                        "text": "infinitely"
+                      },
+                      {
+                        "text": "definitely"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "over"
+                      },
+                      {
+                        "text": "rover"
+                      },
+                      {
+                        "text": "overt"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_n8l05OkYNc",
+                  "sentence": [
+                    "If they can't",
+                    null,
+                    "a home for",
+                    null,
+                    ", they",
+                    null,
+                    "her"
+                  ],
+                  "correctAnswer": [
+                    "find",
+                    "her",
+                    "kill"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "found"
+                      },
+                      {
+                        "text": "find"
+                      },
+                      {
+                        "text": "fined"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "here"
+                      },
+                      {
+                        "text": "her"
+                      },
+                      {
+                        "text": "hair"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "call"
+                      },
+                      {
+                        "text": "kill"
+                      },
+                      {
+                        "text": "keel"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

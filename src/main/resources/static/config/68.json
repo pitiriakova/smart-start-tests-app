@@ -1,0 +1,766 @@
+
+{"lessonTitle": "День 68. Passive",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "The earthquake destroyed many buildings",
+                "variantsToChose": [
+                  "Many buildings were destroyed by the earthquake",
+                  "Earthquake was destroyed by many buildings",
+                  "Many buildings destroyed the earthquake"
+                ],
+                "correctAnswer": "Many buildings were destroyed by the earthquake",
+                "timeout": 10
+              },
+              {
+                "title": "The hurricane destroyed many buildings",
+                "variantsToChose": [
+                  "Many buildings were destroyed by the hurricane",
+                  "The hurricane was destroyed by many buildings",
+                  "Many buildings destroyed the hurricane"
+                ],
+                "correctAnswer": "Many buildings were destroyed by the hurricane",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "They taught him a good lesson",
+                "variantsToChose": [
+                  "A good lesson taught to him",
+                  "A good lesson was taught to him",
+                  "He taught a good lesson"
+                ],
+                "correctAnswer": "A good lesson was taught to him",
+                "timeout": 10
+              },
+              {
+                "title": "They gave him enough time",
+                "variantsToChose": [
+                  "Enough time he given",
+                  "He was given enough time",
+                  "He gave enough time"
+                ],
+                "correctAnswer": "He was given enough time",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "They answered many questions",
+                "variantsToChose": [
+                  "They were answered many questions",
+                  "Many questions answered them",
+                  "Many questions were answered"
+                ],
+                "correctAnswer": "Many questions were answered",
+                "timeout": 10
+              },
+              {
+                "title": "They asked many questions",
+                "variantsToChose": [
+                  "They were asked many questions",
+                  "Many questions asked them",
+                  "Many questions were asked"
+                ],
+                "correctAnswer": "Many questions were asked",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Когда ты был рожден?",
+                "variantsToChose": [
+                  "When you were born?",
+                  "When you born?",
+                  "When born you were?"
+                ],
+                "correctAnswer": "When you were born?",
+                "timeout": 10
+              },
+              {
+                "title": "Когда тебя видели в последний раз?",
+                "variantsToChose": [
+                  "When were you last seen?",
+                  "When you last seen?",
+                  "When you last saw?"
+                ],
+                "correctAnswer": "When were you last seen?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Мы смогли предоставить информацию",
+                "variantsToChose": [
+                  "We were provided the information",
+                  "We did be able to provide the information",
+                  "We were able to provide the information"
+                ],
+                "correctAnswer": "We were able to provide the information",
+                "timeout": 10
+              },
+              {
+                "title": "Мы смогли связаться с офисом",
+                "variantsToChose": [
+                  "We were contacted by the office",
+                  "We did be able to contact the office",
+                  "We were able to contact the office"
+                ],
+                "correctAnswer": "We were able to contact the office",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Она не должна была это обьяснять",
+                "variantsToChose": [
+                  "She was not explained it",
+                  "She was not had to explained it",
+                  "She didn`t have to explain it"
+                ],
+                "correctAnswer": "She didn`t have to explain it",
+                "timeout": 10
+              },
+              {
+                "title": "Она не должна была водить машину",
+                "variantsToChose": [
+                  "She were not driven a car",
+                  "She weren't had to driven a car",
+                  "She didn`t have to drive a car"
+                ],
+                "correctAnswer": "She didn`t have to drive a car",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "in 1994",
+                  "She",
+                  "born",
+                  "was"
+                ],
+                "correctSentence": [
+                  "She",
+                  "was",
+                  "born",
+                  "in 1994"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "in 1993",
+                  "I",
+                  "born",
+                  "was"
+                ],
+                "correctSentence": [
+                  "I",
+                  "was",
+                  "born",
+                  "in 1993"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "seen",
+                  "was",
+                  "Where",
+                  "she"
+                ],
+                "correctSentence": [
+                  "Where",
+                  "was",
+                  "she",
+                  "seen"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "when",
+                  "was he",
+                  "told",
+                  "that"
+                ],
+                "correctSentence": [
+                  "when",
+                  "was he",
+                  "told",
+                  "that"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "when",
+                  "was",
+                  "it",
+                  "found"
+                ],
+                "correctSentence": [
+                  "when",
+                  "was",
+                  "it",
+                  "found"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "why were",
+                  "lessons",
+                  "taught",
+                  "all the time"
+                ],
+                "correctSentence": [
+                  "why were",
+                  "lessons",
+                  "taught",
+                  "all the time"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "were",
+                  "we",
+                  "offered",
+                  "a job"
+                ],
+                "correctSentence": [
+                  "we",
+                  "were",
+                  "offered",
+                  "a job"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "weren't",
+                  "we",
+                  "offered",
+                  "a job"
+                ],
+                "correctSentence": [
+                  "we",
+                  "weren't",
+                  "offered",
+                  "a job"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "wasn't",
+                  "that",
+                  "told"
+                ],
+                "correctSentence": [
+                  "He",
+                  "wasn't",
+                  "told",
+                  "that"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "answered",
+                  "that",
+                  "wasn't",
+                  "question"
+                ],
+                "correctSentence": [
+                  "that",
+                  "question",
+                  "wasn't",
+                  "answered"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "he",
+                  "was",
+                  "made",
+                  "to do it"
+                ],
+                "correctSentence": [
+                  "was",
+                  "he",
+                  "made",
+                  "to do it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "shown",
+                  "were",
+                  "the evidence",
+                  "they"
+                ],
+                "correctSentence": [
+                  "Were",
+                  "they",
+                  "shown",
+                  "the evidence"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/wBs3cRkqe3U",
+                  "sentence": [
+                    "The foolishness of my",
+                    null,
+                    "had me",
+                    null,
+                    "where no offence was",
+                    null
+
+
+                  ],
+                  "correctAnswer": [
+                    "century",
+                    "apologizing",
+                    "given"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "sentry"
+                      },
+                      {
+                        "text": "century"
+                      },
+                      {
+                        "text": "censure"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "apologizing"
+                      },
+                      {
+                        "text": "apologize"
+                      },
+                      {
+                        "text": "apologized"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "giving"
+                      },
+                      {
+                        "text": "given"
+                      },
+                      {
+                        "text": "give in"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EKpT1PUFq0Q",
+                  "sentence": [
+                    "It will be",
+                    null,
+                    "to know that",
+                    null,
+                    "was",
+                    null,
+                    ",My Lord."
+                  ],
+                  "correctAnswer": [
+                    "enough",
+                    "justice",
+                    "done"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "enough"
+                      },
+                      {
+                        "text": "in half"
+                      },
+                      {
+                        "text": "in off"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "just us"
+                      },
+                      {
+                        "text": "justness"
+                      },
+                      {
+                        "text": "justice"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "down"
+                      },
+                      {
+                        "text": "dawn"
+                      },
+                      {
+                        "text": "done"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/XZxbX8NnlQE",
+                  "sentence": [
+                    "If I remember",
+                    null,
+                    ", that would",
+                    null,
+                    "you in what was",
+                    null,
+                    "the fast draw."
+
+                  ],
+                  "correctAnswer": [
+                    "correctly",
+                    "involve",
+                    "called"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "correctly"
+                      },
+                      {
+                        "text": "corrective"
+                      },
+                      {
+                        "text": "correcting"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "evolve"
+                      },
+                      {
+                        "text": "involve"
+                      },
+                      {
+                        "text": "devolve"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cold"
+                      },
+                      {
+                        "text": "called"
+                      },
+                      {
+                        "text": "coiled"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/PtS3hm3unMI",
+                  "sentence": [
+                    "When this",
+                    null,
+                    "was",
+                    null,
+                    ", this woman was already",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "cut",
+                    "made",
+                    "dead"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "cat"
+                      },
+                      {
+                        "text": "coat"
+                      },
+                      {
+                        "text": "cut"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "maid"
+                      },
+                      {
+                        "text": "made"
+                      },
+                      {
+                        "text": "mate"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dead"
+                      },
+                      {
+                        "text": "died"
+                      },
+                      {
+                        "text": "deed"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/GD8ZkDk6a_0",
+                  "sentence": [
+                    "From the day she was",
+                    null,
+                    ", she's been",
+                    null,
+                    "for",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "born",
+                    "prepared",
+                    "this"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "bourn"
+                      },
+                      {
+                        "text": "borne"
+                      },
+                      {
+                        "text": "born"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "prepared"
+                      },
+                      {
+                        "text": "prepaid"
+                      },
+                      {
+                        "text": "repaired"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "these"
+                      },
+                      {
+                        "text": "thus"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/JGAdTUVhSi0",
+                  "sentence": [
+                    "Sir, your",
+                    null,
+                    "were",
+                    null,
+                    "at a crime",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "fingerprints",
+                    "found",
+                    "scene"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fingerprinted"
+                      },
+                      {
+                        "text": "fingerprints"
+                      },
+                      {
+                        "text": "fingerprinting"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "find"
+                      },
+                      {
+                        "text": "found"
+                      },
+                      {
+                        "text": "fond"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "seem"
+                      },
+                      {
+                        "text": "seen"
+                      },
+                      {
+                        "text": "scene"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

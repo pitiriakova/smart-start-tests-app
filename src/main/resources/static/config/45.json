@@ -1,0 +1,728 @@
+
+{"lessonTitle": "День 45. Future Simple",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я наверное сдам экзамены",
+                "variantsToChose": [
+                  "I will probably pass the exams",
+                  "I probably will the exams",
+                  "I will be probably pass the exams"
+                ],
+                "correctAnswer": "I will probably pass the exams",
+                "timeout": 10
+              },
+              {
+                "title": "Ты точно позвонишь в полицию",
+                "variantsToChose": [
+                  "You will definitely call the police",
+                  "You definitely call the police",
+                  "You will be definitely call the police"
+                ],
+                "correctAnswer": "You will definitely call the police",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Нам не понравится торт",
+                "variantsToChose": [
+                  "We will like the cake",
+                  "We won`t like the cake",
+                  "We will not be like the cake"
+                ],
+                "correctAnswer": "We won`t like the cake",
+                "timeout": 10
+              },
+              {
+                "title": "Они не пойдут домой",
+                "variantsToChose": [
+                  "They will go home",
+                  "They won`t go home",
+                  "They will not be go home"
+                ],
+                "correctAnswer": "They won`t go home",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Он встретит ее?",
+                "variantsToChose": [
+                  "He will meet her?",
+                  "Will be he meet her?",
+                  "Will he meet her?"
+                ],
+                "correctAnswer": "Will he meet her?",
+                "timeout": 10
+              },
+              {
+                "title": "Она поможет ему?",
+                "variantsToChose": [
+                  "She will help him?",
+                  "Will be she help him?",
+                  "Will she help him?"
+                ],
+                "correctAnswer": "Will she help him?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Я без сомнения сохраню этот секрет",
+                "variantsToChose": [
+                  "I will undoubtedly keep the secret",
+                  "I undoubtedly keep the secret",
+                  "I be undoubtedly keep the secret"
+                ],
+                "correctAnswer": "I will undoubtedly keep the secret",
+                "timeout": 10
+              },
+              {
+                "title": "Ты наверняка увидешь это",
+                "variantsToChose": [
+                  "You will certainly see it",
+                  "You certainly see it",
+                  "You be certainly see it"
+                ],
+                "correctAnswer": "You will certainly see it",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Мы поедем в США в следующем году?",
+                "variantsToChose": [
+                  "Will go we to the USA next year?",
+                  "We be go to the USA next year?",
+                  "Will we go to the USA next year?"
+                ],
+                "correctAnswer": "Will we go to the USA next year?",
+                "timeout": 10
+              },
+              {
+                "title": "Они увидят картину на следующей неделе?",
+                "variantsToChose": [
+                  "Will see they the picture next week?",
+                  "They be see the picture next week?",
+                  "Will they see the picture next week?"
+                ],
+                "correctAnswer": "Will they see the picture next week?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Ему понравится эта идея",
+                "variantsToChose": [
+                  "He will like the idea",
+                  "He will be like the idea",
+                  "He be will like the idea"
+                ],
+                "correctAnswer": "He will like the idea",
+                "timeout": 10
+              },
+              {
+                "title": "Она оставит свет включенным",
+                "variantsToChose": [
+                  "She will keep the light on",
+                  "She will be keep the light on",
+                  "She be will keep the light on"
+                ],
+                "correctAnswer": "She will keep the light on",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "call",
+                  "definitely",
+                  "I will",
+                  "my mom"
+                ],
+                "correctSentence": [
+                  "I will",
+                  "definitely",
+                  "call",
+                  "my mom"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "You will",
+                  "like",
+                  "him",
+                  "certainly"
+                ],
+                "correctSentence": [
+                  "You will",
+                  "certainly",
+                  "like",
+                  "him"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "tomorrow",
+                  "help you",
+                  "won't",
+                  "We"
+                ],
+                "correctSentence": [
+                  "We",
+                  "won't",
+                  "help you",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "won't",
+                  "They",
+                  "next Monday",
+                  "go there"
+                ],
+                "correctSentence": [
+                  "They",
+                  "won't",
+                  "go there",
+                  "next Monday"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He'll",
+                  "the exams",
+                  "pass",
+                  "next fall"
+                ],
+                "correctSentence": [
+                  "He'll",
+                  "pass",
+                  "the exams",
+                  "next fall"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "tonight",
+                  "She'll",
+                  "meet",
+                  "his friend"
+                ],
+                "correctSentence": [
+                  "She'll",
+                  "meet",
+                  "his friend",
+                  "tonight"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will you",
+                  "Miami",
+                  "go to",
+                  "next summer"
+                ],
+                "correctSentence": [
+                  "Will you",
+                  "go to",
+                  "Miami",
+                  "next summer"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "help",
+                  "Will he",
+                  "them",
+                  "next fall"
+                ],
+                "correctSentence": [
+                  "Will he",
+                  "help",
+                  "them",
+                  "next fall"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "the party",
+                  "Will",
+                  "next Sunday",
+                  "we like"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "we like",
+                  "the party",
+                  "next Sunday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "tomorrow",
+                  "Will",
+                  "they",
+                  "see sunset"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "they",
+                  "see sunset",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Will he",
+                  "pass",
+                  "the test",
+                  "next month"
+                ],
+                "correctSentence": [
+                  "Will he",
+                  "the test",
+                  "pass",
+                  "next month"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "tonight",
+                  "see me",
+                  "Will",
+                  "she"
+                ],
+                "correctSentence": [
+                  "Will",
+                  "she",
+                  "see me",
+                  "tonight"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZPWMzIGlewc",
+                  "sentence": [
+                    "If you let him appear ",null,"those ",null,", the whole world will see what ",null," become."
+                  ],
+                  "correctAnswer": [
+                    "at",
+                    "hearings",
+                    "he's"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "at"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "herrings"
+                      },
+                      {
+                        "text": "hearings"
+                      },
+                      {
+                        "text": "earings"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "he has"
+                      },
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "he's"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_CSeP91_0gc",
+                  "sentence": [
+                    "I'll keep an eye ",null," ",null," you ",null,"the chessboard ready."
+                  ],
+                  "correctAnswer": [
+                    "out",
+                    "for",
+                    "and"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "at"
+                      },
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "on"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "four"
+                      },
+                      {
+                        "text": "from"
+                      },
+                      {
+                        "text": "for"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "and"
+                      },
+                      {
+                        "text": "when"
+                      },
+                      {
+                        "text": "at"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/VuQAuJ_r8DM",
+                  "sentence": [
+                    "And you think my ",null," ",null," help with ",null,"?"
+                  ],
+                  "correctAnswer": [
+                    "presence",
+                    "will",
+                    "that"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "presents"
+                      },
+                      {
+                        "text": "prisons"
+                      },
+                      {
+                        "text": "presence"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "will"
+                      },
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "want"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "thought"
+                      },
+                      {
+                        "text": "that's"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/gPqXVS1jQDo",
+                  "sentence": [
+                    "And two trains, even if ",null," ", null ," the same track, they will not ",null
+                  ],
+                  "correctAnswer": [
+                    "they're",
+                    "on",
+                    "meet"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "they're"
+                      },
+                      {
+                        "text": "there are"
+                      },
+                      {
+                        "text": "theirs"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "at"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "meet"
+                      },
+                      {
+                        "text": "meat"
+                      },
+                      {
+                        "text": "meets"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/JvP1uCj_YTA",
+                  "sentence": [
+                    "After ",null," divorce, ",null," probably ask me to ",null," again."
+                  ],
+                  "correctAnswer": [
+                    "the",
+                    "he'll",
+                    "move in"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "the"
+                      },
+                      {
+                        "text": "a"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "he'll"
+                      },
+                      {
+                        "text": "he've"
+                      },
+                      {
+                        "text": "he's"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "moving"
+                      },
+                      {
+                        "text": "move in"
+                      },
+                      {
+                        "text": "movie"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/s-DNJrXuFtU",
+                  "sentence": [
+                    "Okay, look, if Leonard ",null," that I ",null,", I will absolutely ",null," of embarrassment."
+                  ],
+                  "correctAnswer": [
+                    "finds",
+                    "lied",
+                    "die"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "find"
+                      },
+                      {
+                        "text": "finds"
+                      },
+                      {
+                        "text": "find is"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lied"
+                      },
+                      {
+                        "text": "laid"
+                      },
+                      {
+                        "text": "lie"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "died"
+                      },
+                      {
+                        "text": "die"
+                      },
+                      {
+                        "text": "dye"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

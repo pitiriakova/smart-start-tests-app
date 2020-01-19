@@ -1,0 +1,760 @@
+
+{"lessonTitle": "День 41. Present Perfect",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Вы когда-нибудь были в Нью Йорке?",
+                "variantsToChose": [
+                  "Have you ever been to New York?",
+                  "Have you ever been in New York?",
+                  "Were you ever been to New York?"
+                ],
+                "correctAnswer": "Have you ever been to New York?",
+                "timeout": 10
+              },
+              {
+                "title": "Они когда-нибудь пробовали сделать это?",
+                "variantsToChose": [
+                  "Have they ever tried to do this?",
+                  "Have ever they tried to do this?",
+                  "Have they tried to do this ever?"
+                ],
+                "correctAnswer": "Have they ever tried to do this?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Джон когда-нибудь с тобой разговаривал?",
+                "variantsToChose": [
+                  "Has John ever had talked to you?",
+                  "Has John ever talked to you?",
+                  "Did John ever talked to you?"
+                ],
+                "correctAnswer": "Has John ever talked to you?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты когда-нибудь видел так много машин?",
+                "variantsToChose": [
+                  "Did you ever have seen so many cars?",
+                  "Have you ever so many cars?",
+                  "Have you ever seen so many cars?"
+                ],
+                "correctAnswer": "Have you ever seen so many cars?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Я никогда раньше не видел такую красивую девушку",
+                "variantsToChose": [
+                  "I never seen such a beautiful girl before",
+                  "I have never seen such a beautiful girl before",
+                  "I have never saw such a beautiful girl before"
+                ],
+                "correctAnswer": "I have never seen such a beautiful girl before",
+                "timeout": 10
+              },
+              {
+                "title": "У Ника никогда раньше не было такого плохо дня",
+                "variantsToChose": [
+                  "Nick has never had so bad day",
+                  "Nick has never had such a bad day",
+                  "Nick never have had such a bad day"
+                ],
+                "correctAnswer": "Nick has never had such a bad day",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Она никогда не совершала такие глупые поступки раньше",
+                "variantsToChose": [
+                  "She has never done such stupid things before",
+                  "She has never did such stupid things before",
+                  "She never done such stupid things before"
+                ],
+                "correctAnswer": "She has never done such stupid things before",
+                "timeout": 10
+              },
+              {
+                "title": "Он никогда раньше не покупал такие дорогие машины",
+                "variantsToChose": [
+                  "He has never bought such expensive cars before",
+                  "He never has bought such expensive cars before",
+                  "He has never bought so expensive cars before"
+                ],
+                "correctAnswer": "He has never bought such expensive cars before",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я никогда раньше не был в Париже",
+                "variantsToChose": [
+                  "I have never been in Paris before",
+                  "I have never been to Paris before",
+                  "I have never was to Paris before"
+                ],
+                "correctAnswer": "I have never been to Paris before",
+                "timeout": 10
+              },
+              {
+                "title": "Он никогда раньше не был в Канаде",
+                "variantsToChose": [
+                  "He had never been to Canada before",
+                  "He has never was to Canada before",
+                  "He has never been to Canada before"
+                ],
+                "correctAnswer": "He has never been to Canada before",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Мы никогда не проводили так хорошо время раньше",
+                "variantsToChose": [
+                  "We never have had such a great time before",
+                  "We never had such a great time before",
+                  "We have never had such a great time before"
+                ],
+                "correctAnswer": "We have never had such a great time before",
+                "timeout": 10
+              },
+              {
+                "title": "У меня никогда не было такого великолепного опыта раньше",
+                "variantsToChose": [
+                  "I have had never such a great experience",
+                  "I had never had such a great experience before",
+                  "I have never had such a great experience before"
+                ],
+                "correctAnswer": "I have never had such a great experience before",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I have",
+                  "done it",
+                  "never",
+                  "before"
+                ],
+                "correctSentence": [
+                  "I have",
+                  "never",
+                  "done it",
+                  "before"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Jane",
+                  "has never",
+                  "before",
+                  "tried it"
+                ],
+                "correctSentence": [
+                  "Jane",
+                  "has never",
+                  "tried it",
+                  "before"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "this before",
+                  "never",
+                  "seen",
+                  "Mike has"
+                ],
+                "correctSentence": [
+                  "Mike has",
+                  "never",
+                  "seen",
+                  "this before"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I have",
+                  "never",
+                  "heard",
+                  "of it"
+                ],
+                "correctSentence": [
+                  "I have",
+                  "never",
+                  "heard",
+                  "of it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mary",
+                  "never",
+                  "seen it",
+                  "has"
+                ],
+                "correctSentence": [
+                  "Mary",
+                  "has",
+                  "never",
+                  "seen it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "been here",
+                  "Nick",
+                  "hasn't",
+                  "before"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "been here",
+                  "before"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "have you",
+                  "ever",
+                  "here",
+                  "been"
+                ],
+                "correctSentence": [
+                  "have you",
+                  "ever",
+                  "been",
+                  "here"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "ever",
+                  "done it",
+                  "before",
+                  "has she"
+                ],
+                "correctSentence": [
+                  "has she",
+                  "ever",
+                  "done it",
+                  "before"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "before",
+                  "bought it",
+                  "has",
+                  "Mary"
+                ],
+                "correctSentence": [
+                  "has",
+                  "Mary",
+                  "bought it",
+                  "before"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "ever",
+                  "met him",
+                  "before",
+                  "has she"
+                ],
+                "correctSentence": [
+                  "has she",
+                  "ever",
+                  "met him",
+                  "before"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "never",
+                  "met her",
+                  "before",
+                  "I've"
+                ],
+                "correctSentence": [
+                  "I've",
+                  "never",
+                  "met her",
+                  "before"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "lately",
+                  "haven't",
+                  "seen her"
+                ],
+                "correctSentence": [
+                  "you",
+                  "haven't",
+                  "seen her",
+                  "lately"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/D_awtRv3qgk",
+                  "sentence": [
+                    "I have never been more ",
+                    null,
+                    "to a woman who",
+                    null,
+                    " like a man",
+                    null,
+                    " my life."
+                  ],
+                  "correctAnswer": [
+                    "attracted",
+                    "sounds",
+                    "in"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "attracted"
+                      },
+                      {
+                        "text": "attract it"
+                      },
+                      {
+                        "text": "attractive"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sound"
+                      },
+                      {
+                        "text": "sound is"
+                      },
+                      {
+                        "text": "sounds"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "at"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Cjgb4ZuGIVY",
+                  "sentence": [
+                    "Probably ",
+                    null,
+                    "first time such a weapon",
+                    null,
+                    "ever been used for constructive",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "the",
+                    "has",
+                    "purposes"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "the"
+                      },
+                      {
+                        "text": "at the"
+                      },
+                      {
+                        "text": "for the"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "have"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "purposes"
+                      },
+                      {
+                        "text": "proposes"
+                      },
+                      {
+                        "text": "possesses"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/jgtwxeQC9No",
+                  "sentence": [
+                    null,
+                    "of your ",
+                    null,
+                    "and wisdom ",
+                    null,
+                    "never been far from my ears."
+                  ],
+                  "correctAnswer": [
+                    "tales",
+                    "courage",
+                    "have"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fairytales"
+                      },
+                      {
+                        "text": "tales"
+                      },
+                      {
+                        "text": "nails"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "courage"
+                      },
+                      {
+                        "text": "encourage "
+                      },
+                      {
+                        "text": "car edge"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "has"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/2VeshrwDKPQ",
+                  "sentence": [
+                    null,
+                    "here has",
+                    null,
+                    " been",
+                    null,
+                    "because they were the teacher's pet?"
+                  ],
+                  "correctAnswer": [
+                    "who",
+                    "ever",
+                    "hurt"
+
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "who is"
+                      },
+                      {
+                        "text": "who"
+                      },
+                      {
+                        "text": "whose"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ever"
+                      },
+                      {
+                        "text": "never"
+                      },
+                      {
+                        "text": "however"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "her it"
+                      },
+                      {
+                        "text": "heard"
+                      },
+                      {
+                        "text": "hurt"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/boGWV1BA_d0",
+                  "sentence": [
+                    "It is like",
+                    null,
+                    "you have",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "nothing",
+                    "ever",
+                    "seen"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "nothing"
+                      },
+                      {
+                        "text": "no thing"
+                      },
+                      {
+                        "text": "no a thing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "never"
+                      },
+                      {
+                        "text": "ever"
+                      },
+                      {
+                        "text": "fever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "seeing"
+                      },
+                      {
+                        "text": "seen"
+                      },
+                      {
+                        "text": "see in"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7LKNFXLvdwI",
+                  "sentence": [
+                    "Let me ",
+                    null,
+                    "you, with our increased",
+                    null,
+                    "Good faith has never",
+                    null,
+                    " safer."
+                  ],
+                  "correctAnswer": [
+                    "assure",
+                    "security",
+                    "been"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "assure"
+                      },
+                      {
+                        "text": "ashore"
+                      },
+                      {
+                        "text": "insure"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "insecurity"
+                      },
+                      {
+                        "text": "security"
+                      },
+                      {
+                        "text": "purity"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "been"
+                      },
+                      {
+                        "text": "being"
+                      },
+                      {
+                        "text": "bing"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

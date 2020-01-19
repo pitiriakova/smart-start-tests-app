@@ -1,0 +1,763 @@
+
+{"lessonTitle": "День 66. Условные предложения",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Если бы у нас было достаточно времени, мы бы пошли в ту галерею",
+                "variantsToChose": [
+                  "If we have enough time, we would go to that gallery",
+                  "If we have enough time, we will go to that gallery",
+                  "If we had enough time, we would go to that gallery"
+                ],
+                "correctAnswer": "If we had enough time, we would go to that gallery",
+                "timeout": 10
+              },
+              {
+                "title": "Если бы у меня было достаточно денег, я бы заплатил за билеты",
+                "variantsToChose": [
+                  "If I have enough money, I would pay for that tickets",
+                  "If I have enough money, I will pay for that tickets",
+                  "If I had enough money, I would pay for that tickets"
+                ],
+                "correctAnswer": "If I had enough money, I would pay for that tickets",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "If you have any interest, __ with you",
+                "variantsToChose": [
+                  "she would go",
+                  "she will go",
+                  "she go"
+                ],
+                "correctAnswer": "she would go",
+                "timeout": 10
+              },
+              {
+                "title": "If you have any knowledge, __ with you",
+                "variantsToChose": [
+                  "she would agree",
+                  "she will agree",
+                  "she agree"
+                ],
+                "correctAnswer": "she would agree",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Если бы я был тобой, я бы не купил эти билеты",
+                "variantsToChose": [
+                  "If I will be you, I wouldn't buy this ticket",
+                  "If I were you, I wouldn't buy this ticket",
+                  "If I were you, I won`t buy this ticket"
+                ],
+                "correctAnswer": "If I were you, I wouldn't buy this ticket",
+                "timeout": 10
+              },
+              {
+                "title": "Если бы я был на его месте, я бы не продавал это фото",
+                "variantsToChose": [
+                  "If I will be him, I wouldn't sell this photo",
+                  "If I were him, I wouldn't sell this photo",
+                  "If I were him, I won`t sell this photo"
+                ],
+                "correctAnswer": "If I were him, I wouldn't sell this photo",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "If I were him, I __ recommend it",
+                "variantsToChose": [
+                  "wouldn't",
+                  "won`t",
+                  "shouldn`t"
+                ],
+                "correctAnswer": "wouldn't",
+                "timeout": 10
+              },
+              {
+                "title": "If I were you, I __ say it",
+                "variantsToChose": [
+                  "wouldn`t",
+                  "won`t",
+                  "shouldn`t"
+                ],
+                "correctAnswer": "wouldn't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Если бы Майкл пошел с нами, он бы увидел статую",
+                "variantsToChose": [
+                  "If Michael went with us, he would see that statue",
+                  "If Michael go with us, he would see that statue",
+                  "If Michael would go with us, he will see that statue"
+                ],
+                "correctAnswer": "If Michael went with us, he would see that statue",
+                "timeout": 10
+              },
+              {
+                "title": "Если бы Марк полетел со мной, он бы смог навестить наших друзей",
+                "variantsToChose": [
+                  "If Mark flew with me, he would visit our friends",
+                  "If Mark fly with me, he would visit our friends",
+                  "If Mark would fly with me, he will visit our friends"
+                ],
+                "correctAnswer": "If Mark flew with me, he would visit our friends",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Если бы мы пошли на тот тур, мы бы были счастливы",
+                "variantsToChose": [
+                  "If we went on that tour, we be happy",
+                  "If we went on that tour, we will be happy",
+                  "If we went on that tour, we would be happy"
+                ],
+                "correctAnswer": "If we went on that tour, we would be happy",
+                "timeout": 10
+              },
+              {
+                "title": "Если бы они пошли на выступление, им бы понравилось",
+                "variantsToChose": [
+                  "If they went on that performance, they like it",
+                  "If they went on that performance, they will like it",
+                  "If they went on that performance, they would like it"
+                ],
+                "correctAnswer": "If they went on that performance, they would like it",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Is",
+                  "he",
+                  "than me",
+                  "happier"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "he",
+                  "happier",
+                  "than me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Is",
+                  "she",
+                  "than him",
+                  "shorter"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "she",
+                  "shorter",
+                  "than him"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "everybody",
+                  "criticizing",
+                  "She`s",
+                  "always"
+                ],
+                "correctSentence": [
+                  "She's",
+                  "always",
+                  "criticizing",
+                  "everybody"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "at me",
+                  "laughing",
+                  "He`s",
+                  "always"
+                ],
+                "correctSentence": [
+                  "He's",
+                  "always",
+                  "laughing",
+                  "at me"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Have",
+                  "you",
+                  "ever",
+                  "cooked it"
+                ],
+                "correctSentence": [
+                  "Have",
+                  "you",
+                  "ever",
+                  "cooked it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Has",
+                  "she",
+                  "ever been",
+                  "to London"
+                ],
+                "correctSentence": [
+                  "Has",
+                  "she",
+                  "ever been",
+                  "to London"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "seen",
+                  "recently",
+                  "I haven`t",
+                  "him"
+                ],
+                "correctSentence": [
+                  "I haven`t",
+                  "seen",
+                  "him",
+                  "recently"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "been",
+                  "recently",
+                  "I haven`t",
+                  "there"
+                ],
+                "correctSentence": [
+                  "I haven`t",
+                  "been",
+                  "there",
+                  "recently"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mike",
+                  "to travel",
+                  "like",
+                  "doesn`t"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "doesn`t",
+                  "like",
+                  "to travel"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Nick",
+                  "to sing",
+                  "like",
+                  "doesn`t"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "doesn`t",
+                  "like",
+                  "to sing"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "should",
+                  "change",
+                  "You",
+                  "your mood"
+                ],
+                "correctSentence": [
+                  "You",
+                  "should",
+                  "change",
+                  "your mood"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "should",
+                  "wear",
+                  "You",
+                  "white shirt"
+                ],
+                "correctSentence": [
+                  "You",
+                  "should",
+                  "wear",
+                  "white shirt"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EUtf-MhOKOk",
+                  "sentence": [
+                    "If I",
+                    null,
+                    "you, I would",
+                    null,
+                    "that we don't",
+                    null,
+                    "again"
+
+                  ],
+                  "correctAnswer": [
+                    "were",
+                    "hope",
+                    "meet"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "were"
+                      },
+                      {
+                        "text": "where"
+                      },
+                      {
+                        "text": "wear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hop"
+                      },
+                      {
+                        "text": "hope"
+                      },
+                      {
+                        "text": "hup"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mit"
+                      },
+                      {
+                        "text": "meet"
+                      },
+                      {
+                        "text": "meat"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/F59Sw_TF3pU",
+                  "sentence": [
+                    "If I were to ask Leslie Winkle",
+                    null,
+                    ", it would",
+                    null,
+                    "be for",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "out",
+                    "just",
+                    "dinner"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "auch"
+                      },
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "ought"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gist"
+                      },
+                      {
+                        "text": "just"
+                      },
+                      {
+                        "text": "jest"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dinner"
+                      },
+                      {
+                        "text": "donor"
+                      },
+                      {
+                        "text": "dimmer"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cwydb5csKc8",
+                  "sentence": [
+                    "If i were in your",
+                    null,
+                    ", I would",
+                    null,
+                    "do",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "situation",
+                    "definitely",
+                    "that"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "satiation"
+                      },
+                      {
+                        "text": "situation"
+                      },
+                      {
+                        "text": "siltation"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "infinitely"
+                      },
+                      {
+                        "text": "defiantly"
+                      },
+                      {
+                        "text": "definitely"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "those"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/kpceMbfRpKw",
+                  "sentence": [
+                    "If I were you, I would",
+                    null,
+                    "your",
+                    null,
+                    "below the",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "keep",
+                    "head",
+                    "windows"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "kean"
+                      },
+                      {
+                        "text": "keep"
+                      },
+                      {
+                        "text": "kip"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hood"
+                      },
+                      {
+                        "text": "had"
+                      },
+                      {
+                        "text": "head"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "windows"
+                      },
+                      {
+                        "text": "wounds"
+                      },
+                      {
+                        "text": "windy"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Wq9IJQRwlLU",
+                  "sentence": [
+                    "And if I did, I would not",
+                    null,
+                    "his",
+                    null,
+                    "with",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "share",
+                    "strategies",
+                    "you"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "share"
+                      },
+                      {
+                        "text": "shear"
+                      },
+                      {
+                        "text": "sheer"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "stratagem"
+                      },
+                      {
+                        "text": "strategize"
+                      },
+                      {
+                        "text": "strategies"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "you're"
+                      },
+                      {
+                        "text": "your"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KkF5mBGG614",
+                  "sentence": [
+                    "Well, you wouldn't be",
+                    null,
+                    "if it was",
+                    null,
+                    "an",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "here",
+                    "just",
+                    "accident"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hair"
+                      },
+                      {
+                        "text": "here"
+                      },
+                      {
+                        "text": "hear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lust"
+                      },
+                      {
+                        "text": "gist"
+                      },
+                      {
+                        "text": "just"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "accident"
+                      },
+                      {
+                        "text": "oxidant"
+                      },
+                      {
+                        "text": "accent"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

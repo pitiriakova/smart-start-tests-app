@@ -1,0 +1,561 @@
+{
+  "lessonTitle": "День 5. Глагол to be. Профессии",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Мой доктор дома",
+                  "variantsToChose": [
+                    "My doctor at home",
+                    "My doctor is at home",
+                    "My doctor is in home"
+                  ],
+                  "correctAnswer": "My doctor is at home",
+                  "timeout": 10
+                },
+                {
+                  "title": "Наш юрист на работе",
+                  "variantsToChose": [
+                    "Our lawyer is work",
+                    "Our lawyer is at work",
+                    "Our lawyer is at the work"
+                  ],
+                  "correctAnswer": "Our lawyer is at work",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "John is a cashier",
+                  "variantsToChose": [
+                    "Джон - кассир",
+                    "Джон - парикмахер",
+                    "Джон - продавец"
+                  ],
+                  "correctAnswer": "Джон - кассир",
+                  "timeout": 10
+                },
+                {
+                  "title": "Mary is a nurse",
+                  "variantsToChose": [
+                    "Мэри - медсестра",
+                    "Мэри - врач",
+                    "Мэри - парикмахер"
+                  ],
+                  "correctAnswer": "Мэри - медсестра",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Their dad is a programmer",
+                  "variantsToChose": [
+                    "наш отец програмист",
+                    "твой отец програмист",
+                    "их отец програмист"
+                  ],
+                  "correctAnswer": "их отец програмист",
+                  "timeout": 10
+                },
+                {
+                  "title": "our mom is a teacher",
+                  "variantsToChose": [
+                    "их мама учительница",
+                    "твоя мама учительница",
+                    "наша мама учительница"
+                  ],
+                  "correctAnswer": "наша мама учительница",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "наш юрист не очень низкий",
+                  "variantsToChose": [
+                    "our lawyer isn't very tall",
+                    "our lawyer is very short",
+                    "our lawyer isn't very short"
+                  ],
+                  "correctAnswer": "our lawyer isn't very short",
+                  "timeout": 10
+                },
+                {
+                  "title": "наш учитель слишком грустный",
+                  "variantsToChose": [
+                    "our teacher is very sad",
+                    "our teacher isn't too sad",
+                    "our teacher is too sad"
+                  ],
+                  "correctAnswer": "our teacher is too sad",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "our driver is so tall",
+                  "variantsToChose": [
+                    "наш водитель такой высокий",
+                    "наш водитель очень высокий",
+                    "наш водитель слишком высокий"
+                  ],
+                  "correctAnswer": "наш водитель такой высокий",
+                  "timeout": 10
+                },
+                {
+                  "title": "their doctor is ill",
+                  "variantsToChose": [
+                    "их врач болеет",
+                    "их врач здоров",
+                    "их врач богат"
+                  ],
+                  "correctAnswer": "их врач болеет",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "He __ a barber",
+                  "variantsToChose": [
+                    "are",
+                    "isn't",
+                    "am"
+                  ],
+                  "correctAnswer": "isn't",
+                  "timeout": 10
+                },
+                {
+                  "title": "You __ a hairdresser",
+                  "variantsToChose": [
+                    "isn't",
+                    "aren't",
+                    "am"
+                  ],
+                  "correctAnswer": "aren't",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "is",
+                    "his",
+                    "a doctor",
+                    "mother"
+                  ],
+                  "correctSentence": [
+                    "his",
+                    "mother",
+                    "is",
+                    "a doctor"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "dad",
+                    "a policeman",
+                    "his",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "his",
+                    "dad",
+                    "is",
+                    "a policeman"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "brother",
+                    "a postman",
+                    "my",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "my",
+                    "brother",
+                    "is",
+                    "a postman"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "your",
+                    "a nurse",
+                    "is",
+                    "sister"
+                  ],
+                  "correctSentence": [
+                    "your",
+                    "sister",
+                    "is",
+                    "a nurse"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "am",
+                    "a cashier",
+                    "I",
+                    "not"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "not",
+                    "a cashier"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "not",
+                    "am",
+                    "a teacher",
+                    "I"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "not",
+                    "a teacher"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "happy",
+                    "teacher",
+                    "is",
+                    "my"
+                  ],
+                  "correctSentence": [
+                    "my",
+                    "teacher",
+                    "is",
+                    "happy"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "your",
+                    "sad",
+                    "is",
+                    "driver"
+                  ],
+                  "correctSentence": [
+                    "your",
+                    "driver",
+                    "is",
+                    "sad"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "doctor",
+                    "is",
+                    "their",
+                    "rich"
+                  ],
+                  "correctSentence": [
+                    "their",
+                    "doctor",
+                    "is",
+                    "rich"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "our",
+                    "poor",
+                    "lawyer",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "our",
+                    "lawyer",
+                    "is",
+                    "poor"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "teacher",
+                    "isn't",
+                    "his",
+                    "at school"
+                  ],
+                  "correctSentence": [
+                    "his",
+                    "teacher",
+                    "isn't",
+                    "at school"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "at the party",
+                    "our",
+                    "hairdresser",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "our",
+                    "hairdresser",
+                    "is",
+                    "at the party"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/154CUedg9Zo",
+                  "sentence": [
+                    "Well, I am a",
+                    null,
+                    "driver"
+                  ],
+                  "correctAnswer": "truck",
+                  "possibleAnswers": [
+                    "truck",
+                    "tram",
+                    "tall"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/vFZanU3hFqI",
+                  "sentence": [
+                    "Teacher, I'm a",
+                    null,
+                    "teacher"
+                  ],
+                  "correctAnswer": "great",
+                  "possibleAnswers": [
+                    "grey",
+                    "great",
+                    "gay"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Dth_y8z0v9c",
+                  "sentence": [
+                    "I am",
+                    null,
+                    "doctor"
+                  ],
+                  "correctAnswer": "the",
+                  "possibleAnswers": [
+                    "zoo",
+                    "a",
+                    "the"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/x-rU5X_dqkU",
+                  "sentence": [
+                    "You can't expect a dog to pass up a policeman on a",
+                    null
+                  ],
+                  "correctAnswer": "bicycle",
+                  "possibleAnswers": [
+                    "bicycle",
+                    "cycle",
+                    "bee cycle"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/MNtQWFBHDqk",
+                  "sentence": [
+                    "I mean, I was an",
+                    null,
+                    ",now I'm a waiter"
+                  ],
+                  "correctAnswer": "actor",
+                  "possibleAnswers": [
+                    "actor",
+                    "Hector",
+                    "not actor"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/wvyKKMdxCiY",
+                  "sentence": [
+                    "I think he's a",
+                    null
+                  ],
+                  "correctAnswer": "lawyer",
+                  "characters": [
+                    "a",
+                    "r",
+                    "y",
+                    "l",
+                    "e",
+                    "w"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ROay0acjses",
+                  "sentence": [
+                    "She is not a",
+                    null
+                  ],
+                  "correctAnswer": "nurse",
+                  "characters": [
+                    "n",
+                    "s",
+                    "u",
+                    "t",
+                    "a",
+                    "r",
+                    "e",
+                    "z"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

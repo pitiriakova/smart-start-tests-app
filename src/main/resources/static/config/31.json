@@ -1,0 +1,756 @@
+
+{"lessonTitle": "День 31. Past Simple",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Он присоединился к этой компании 10 лет назад",
+                "variantsToChose": [
+                  "He is join this company 10 years ago",
+                  "He joined this company ago 10 years",
+                  "He joined this company 10 years ago"
+                ],
+                "correctAnswer": "He joined this company 10 years ago",
+                "timeout": 10
+              },
+              {
+                "title": "Она никогда его не любила",
+                "variantsToChose": [
+                  "She never loved him",
+                  "She never loving him",
+                  "She never to love him"
+                ],
+                "correctAnswer": "She never loved him",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Мой брат жил здесь в 1981?",
+                "variantsToChose": [
+                  "Did my brother live here in 1981?",
+                  "Does my brother live here in 1981?",
+                  "Did my brother lived here in 1981?"
+                ],
+                "correctAnswer": "Did my brother live here in 1981?",
+                "timeout": 10
+              },
+              {
+                "title": "Она умерла 10 лет назад?",
+                "variantsToChose": [
+                  "Did she died 10 years ago?",
+                  "Did she is dying 10 years ago?",
+                  "Did she dying 10 year ago?"
+                ],
+                "correctAnswer": "Did she died 10 years ago?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Майк ненавидил ходить в школу",
+                "variantsToChose": [
+                  "Mike hates to go to school",
+                  "Mike is hating to go to school",
+                  "Mike hated to go to school"
+                ],
+                "correctAnswer": "Mike hated to go to school",
+                "timeout": 10
+              },
+              {
+                "title": "Джек жил там 5 лет назад",
+                "variantsToChose": [
+                  "Jack lives there 5 years ago",
+                  "Jack lived there 5 years ago",
+                  "Jack was lived there 5 years ago"
+                ],
+                "correctAnswer": "Jack lived there 5 years ago",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Почему ты согласился со мной вчера?",
+                "variantsToChose": [
+                  "Why did you to agree with me yesterday?",
+                  "Why did you agreeing with me yesterday?",
+                  "Why did you agree with me yesterday?"
+                ],
+                "correctAnswer": "Why did you agree with me yesterday?",
+                "timeout": 10
+              },
+              {
+                "title": "Мэри не видела вас вчера",
+                "variantsToChose": [
+                  "Mary didn't see you yesterday",
+                  "Mary didn't seeing you yesterday",
+                  "Mary don't see you yesterday"
+                ],
+                "correctAnswer": "Mary didn't see you yesterday",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Она согласилась работать здесь?",
+                "variantsToChose": [
+                  "Did she agree to work here?",
+                  "Did she agreeing to work here",
+                  "Did she agreed to work here?"
+                ],
+                "correctAnswer": "Did she agree to work here?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты жил здесь раньше?",
+                "variantsToChose": [
+                  "Did you living here before?",
+                  "Did you lived here before?",
+                  "Did you live here before?"
+                ],
+                "correctAnswer": "Did you live here before?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Рита тебя любила раньше?",
+                "variantsToChose": [
+                  "Did Rita love you before?",
+                  "Did Rita loving you before?",
+                  "Did Rita is love you before?"
+                ],
+                "correctAnswer": "Did Rita love you before?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты присоединился к ним прошлой ночью?",
+                "variantsToChose": [
+                  "Did you joined them last night?",
+                  "Did you joining them last night?",
+                  "Did you join them last night?"
+                ],
+                "correctAnswer": "Did you join them last night?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "work",
+                  "he",
+                  "does",
+                  "where"
+                ],
+                "correctSentence": [
+                  "where",
+                  "does",
+                  "he",
+                  "work"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "did",
+                  "they join",
+                  "you",
+                  "when"
+                ],
+                "correctSentence": [
+                  "when",
+                  "did",
+                  "they join",
+                  "you"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "did",
+                  "why",
+                  "disagree",
+                  "you"
+                ],
+                "correctSentence": [
+                  "why",
+                  "did",
+                  "you",
+                  "disagree"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "did she",
+                  "who",
+                  "last night",
+                  "join"
+                ],
+                "correctSentence": [
+                  "who",
+                  "did she",
+                  "join",
+                  "last night"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "agree",
+                  "to work",
+                  "when did",
+                  "they"
+                ],
+                "correctSentence": [
+                  "when did",
+                  "they",
+                  "agree",
+                  "to work"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "did",
+                  "why",
+                  "you love",
+                  "her"
+                ],
+                "correctSentence": [
+                  "why",
+                  "did",
+                  "you love",
+                  "her"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "in 1982",
+                  "they",
+                  "lived",
+                  "here"
+                ],
+                "correctSentence": [
+                  "they",
+                  "lived",
+                  "here",
+                  "in 1982"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "die",
+                  "did",
+                  "when"
+                ],
+                "correctSentence": [
+                  "when",
+                  "did",
+                  "she",
+                  "die"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "stop",
+                  "working",
+                  "when",
+                  "did she"
+                ],
+                "correctSentence": [
+                  "when",
+                  "did she",
+                  "stop",
+                  "working"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "hate",
+                  "him",
+                  "why",
+                  "did you"
+                ],
+                "correctSentence": [
+                  "why",
+                  "did you",
+                  "hate",
+                  "him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "with him",
+                  "why",
+                  "did you",
+                  "agree"
+                ],
+                "correctSentence": [
+                  "why",
+                  "did you",
+                  "agree",
+                  "with him"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "who",
+                  "work",
+                  "did you",
+                  "with"
+                ],
+                "correctSentence": [
+                  "who",
+                  "did you",
+                  "work",
+                  "with"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/l-uK74uNPJ0",
+                  "sentence": [
+                    "You’re",
+                    null,
+                    null,
+                    "doctor. ",
+                    null,
+                    "you Dr. House?"
+                  ],
+                  "correctAnswer": [
+                    "not",
+                    "my",
+                    "Are"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "not"
+                      },
+                      {
+                        "text": "no"
+                      },
+                      {
+                        "text": "don't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "me"
+                      },
+                      {
+                        "text": "my"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Do"
+                      },
+                      {
+                        "text": "Are"
+                      },
+                      {
+                        "text": "A"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/k2e7BsesEDU",
+                  "sentence": [
+                    null,
+                    " no. ",
+                    null,
+                    null,
+                    "Chase."
+                  ],
+                  "correctAnswer": [
+                    "Thankfully",
+                    "I'm",
+                    "Doctor"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Thanks, July"
+                      },
+                      {
+                        "text": "Casually"
+                      },
+                      {
+                        "text": "Thankfully"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "I'm"
+                      },
+                      {
+                        "text": "An"
+                      },
+                      {
+                        "text": "I went"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Actor"
+                      },
+                      {
+                        "text": "Doctor"
+                      },
+                      {
+                        "text": "Proper"
+                      }
+                    ]
+                  ],
+
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/x10LGHlq2WQ",
+                  "sentence": [
+                    "Dr. House is",
+                    null,
+                    null,
+                    "diagnostic",
+                    null,
+                    "."
+                  ],
+                  "correctAnswer": [
+                    "the head",
+                    "of",
+                    "medicine"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "a head"
+                      },
+                      {
+                        "text": "the head"
+                      },
+                      {
+                        "text": "the lead"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "of"
+                      },
+                      {
+                        "text": "on"
+                      },
+                      {
+                        "text": "off"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "settle in"
+                      },
+                      {
+                        "text": "medicine"
+                      },
+                      {
+                        "text": "deficit"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/o3nZHEiM48U",
+                  "sentence": [
+                    "He’s very busy, but he",
+                    null,
+                    "a",
+                    null,
+                    "interest in",
+                    null,
+                    "case."
+                  ],
+                  "correctAnswer": [
+                    "has taken",
+                    "keen",
+                    "your"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "was naked"
+                      },
+                      {
+                        "text": "has taken"
+                      },
+                      {
+                        "text": "has take in"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "keen"
+                      },
+                      {
+                        "text": "scene"
+                      },
+                      {
+                        "text": "clean"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "yours"
+                      },
+                      {
+                        "text": "your"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/B0T7QzI2FEE",
+                  "sentence": [
+                    null,
+                    ", whatever’s in your head,",
+                    null,
+                    "like a Christmas",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "Basically",
+                    "lights up",
+                    "tree"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Basically"
+                      },
+                      {
+                        "text": "Gracefully"
+                      },
+                      {
+                        "text": "Thankfully"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rise up"
+                      },
+                      {
+                        "text": "right up"
+                      },
+                      {
+                        "text": "lights up"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "three"
+                      },
+                      {
+                        "text": "tree"
+                      },
+                      {
+                        "text": "free"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/FV1YeFMcTU0",
+                  "sentence": [
+                    "It might",
+                    null,
+                    "you feel",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "make",
+                    "a little",
+                    "light-headed"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "made"
+                      },
+                      {
+                        "text": "take"
+                      },
+                      {
+                        "text": "make"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "a little"
+                      },
+                      {
+                        "text": "a bit"
+                      },
+                      {
+                        "text": "an little"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "white beaded"
+                      },
+                      {
+                        "text": "light-headed"
+                      },
+                      {
+                        "text": "mighty dead"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

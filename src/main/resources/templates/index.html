@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer" />
+    <title>Smart start</title>
+    <!--<link rel="stylesheet" href="../static/libs/jquery-ui.min.css">-->
+    <link rel="stylesheet" href="../static/styles/output.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+    <!-- to use vk api start -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
+    <!-- to use vk api end -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sortable/0.9.13/jquery-sortable-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <!--<script src="../static/libs/jquery-1.7.min.js"></script>-->
+    <!--<script src="../static/libs/jquery-ui.min.js"></script>-->
+    <!--<script src="../static/libs/jquery-sortable-0.9.13.min.js"></script>-->
+    <script src="../static/shared/constants.js"></script>
+    <script src="../static/shared/services.js"></script>
+    <script src="../static/shared/render-config.js"></script>
+    <script src="../static/shared/tester-timeout.js"></script>
+    <script src="../static/shared/progressbar.js"></script>
+    <script src="../static/shared/animations/firework-animation.js"></script>
+    <script src="../static/shared/next-tester.js"></script>
+    <script src="../static/main-page.js"></script>
+    <script src="../static/tester-types/dnd.js"></script>
+    <script src="../static/tester-types/listening-type-1.js"></script>
+    <script src="../static/tester-types/listening-type-2.js"></script>
+    <script src="../static/tester-types/listening-type-3.js"></script>
+    <script src="../static/tester-types/ru-en.js"></script>
+    <script src="../static/index.js"></script>
+</head>
+<body>
+<div class="main-page">
+    <div class="tester-main">
+        <div class="main-menu"></div>
+    </div>
+</div>
+<div class="dnd-tester" style="display: none">
+    <div class="tests-progress"></div>
+    <header class="tester-header dnd-header"></header>
+    <div class="tester-body">
+        <div class="tester-main">
+            <div class="tester-card first-line"></div>
+            <div class="tester-card second-line"></div>
+            <button class="reset-button" tabIndex="-1">&#x21bb;</button>
+        </div>
+    </div>
+    <footer>
+        <div class="tester-progressbar"></div>
+    </footer>
+</div>
+
+<div class="ru-en-tester" style="display: none">
+    <div class="tests-progress"></div>
+    <header class="tester-header ru-en-header"></header>
+    <div class="tester-body">
+        <div class="tester-main">
+            <div class="variants-to-chose">
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="tester-progressbar"></div>
+    </footer>
+</div>
+
+<div class="listening-tester1" style="display: none">
+    <div class="tests-progress"></div>
+    <header class="tester-header listening-header1"></header>
+    <div class="tester-body">
+        <div class="tester-main">
+            <div class="video-container">
+            </div>
+            <div class="sentence-container">
+            </div>
+            <div class="answer-container">
+            </div>
+        </div>
+    </div>
+    <footer style="visibility: hidden">
+        <div class="tester-progressbar"></div>
+    </footer>
+</div>
+
+<div class="listening-tester2" style="display: none">
+    <div class="tests-progress"></div>
+    <header class="tester-header listening-header2"></header>
+    <div class="tester-body">
+        <div class="tester-main">
+            <div class="video-container">
+            </div>
+            <div class="sentence-container">
+                <div class="answer-container">
+                    <input class="listening-input" type="text" style="max-width: 150px;"/>
+                </div>
+            </div>
+            <div class="characters-container"></div>
+        </div>
+    </div>
+    <footer style="visibility: hidden">
+        <div class="tester-progressbar"></div>
+    </footer>
+</div>
+
+<div class="listening-tester3" style="display: none">
+    <div class="tests-progress"></div>
+    <header class="tester-header listening-header3"></header>
+    <div class="tester-body">
+        <div class="tester-main">
+            <div class="video-container"></div>
+            <div class="sentence-container">            </div>
+            <div class="submit-btn-container">
+                <button class="enter-button" id="listening3-submit" tabIndex="-1">Готово</button>
+            </div>
+        </div>
+    </div>
+    <footer style="visibility: hidden">
+        <div class="tester-progressbar"></div>
+    </footer>
+</div>
+
+<div class="final-screen" style="display: none">
+    <div class="result-content">
+        <header>
+            <button onclick="goAgain(event)" class="next-tester-btn"><i class="fas fa-redo icon-for-button"></i>Пройти ещё раз</button>
+            <button onclick="goHome(event)" class="next-tester-btn"><i class="fas fa-home icon-for-button"></i>На главную</button>
+        </header>
+        <div class="result-container"></div>
+
+        <div  class="btn btn-success clearfix share-container">
+            <div class="share-row-1">
+                <span class="share-text">Поделиться</span>
+            </div>
+            <div class="share-row-2">
+                <div id="vk-share-btn">
+                    <a id="vk-share" href="https://vk.com/share.php?url=http://smartstart.today/english-in-90-days/?title=sometitle&image=http://lesson.smartstart.today/static/images/do-you-speak.jpg" target="_blank">
+                        <img src='../static/images/vk-share-icon.png' class='social-icons vk-share-icon'/>
+                    </a>
+                        <img id="shareBtn" class="social-icons fb-share-icon" src="../static/images/Facebook_icon.png">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--<canvas id="c" height="auto"></canvas>-->
+</div>
+
+<audio id="sound-success" src="/static/sounds/good.mp3" ></audio>
+<audio id="sound-fail" src="/static/sounds/bad.mp3" ></audio>
+
+</body>
+</html>

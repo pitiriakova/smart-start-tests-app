@@ -1,0 +1,756 @@
+
+{
+  "lessonTitle": "День 14. Наречия качества",
+  "lessonTasks":[
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "He __ very well",
+                  "variantsToChose": [
+                    "sing",
+                    "sings",
+                    "doesn't"
+                  ],
+                  "correctAnswer": "sings",
+                  "timeout": 10
+                },
+                {
+                  "title": "She __ really fast",
+                  "variantsToChose": [
+                    "run",
+                    "runs",
+                    "doesn't"
+                  ],
+                  "correctAnswer": "runs",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Он быстро плавает",
+                  "variantsToChose": [
+                    "He swim fast",
+                    "He swims fast",
+                    "He swims very fast"
+                  ],
+                  "correctAnswer": "He swims fast",
+                  "timeout": 10
+                },
+                {
+                  "title": "Она хорошо поет",
+                  "variantsToChose": [
+                    "She sing well",
+                    "She sings well",
+                    "She sing very well"
+                  ],
+                  "correctAnswer": "She sings well",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "You play too loudly",
+                  "variantsToChose": [
+                    "ты слишком громко играешь",
+                    "ты громко играешь",
+                    "ты очень громко играешь"
+                  ],
+                  "correctAnswer": "ты слишком громко играешь",
+                  "timeout": 10
+                },
+                {
+                  "title": "They drive too fast",
+                  "variantsToChose": [
+                    "они слишком быстро водят машину",
+                    "они очень быстро водят машину",
+                    "они действительно быстро водят"
+                  ],
+                  "correctAnswer": "они слишком быстро водят машину",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Они не читают слишком тихо",
+                  "variantsToChose": [
+                    "They doesn't read too quietly",
+                    "They don't read too loudly",
+                    "They don't read too quietly"
+                  ],
+                  "correctAnswer": "They don't read too quietly",
+                  "timeout": 10
+                },
+                {
+                  "title": "Я не играю очень хорошо",
+                  "variantsToChose": [
+                    "I doesn't play very well",
+                    "I don't play very badly",
+                    "I don't play very well"
+                  ],
+                  "correctAnswer": "I don't play very well",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Ты говоришь очень быстро",
+                  "variantsToChose": [
+                    "You speak very fast",
+                    "You speak too fast",
+                    "You speak really fast"
+                  ],
+                  "correctAnswer": "You speak very fast",
+                  "timeout": 10
+                },
+                {
+                  "title": "Ты действительно хорошо пишешь",
+                  "variantsToChose": [
+                    "You write really well",
+                    "You write too well",
+                    "You write very well"
+                  ],
+                  "correctAnswer": "You write really well",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "She doesn't run fast",
+                  "variantsToChose": [
+                    "Она не быстро бегает",
+                    "Она не очень быстро бегает",
+                    "Она не слишком быстро бегает"
+                  ],
+                  "correctAnswer": "Она не быстро бегает",
+                  "timeout": 10
+                },
+                {
+                  "title": "He doesn't cry very loudly",
+                  "variantsToChose": [
+                    "Он не громко плачет",
+                    "Он не слишком громко плачет",
+                    "Он не очень громко плачет"
+                  ],
+                  "correctAnswer": "Он не очень громко плачет",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "badly",
+                    "really",
+                    "plays"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "plays",
+                    "really",
+                    "badly"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "runs",
+                    "very",
+                    "slow"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "runs",
+                    "very",
+                    "slow"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "You",
+                    "fast",
+                    "too",
+                    "drive"
+                  ],
+                  "correctSentence": [
+                    "You",
+                    "drive",
+                    "too",
+                    "fast"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "very",
+                    "cook",
+                    "well"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "cook",
+                    "very",
+                    "well"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "they",
+                    "dance",
+                    "well",
+                    "don't"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "don't",
+                    "dance",
+                    "well"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "sing",
+                    "well",
+                    "don't"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "don't",
+                    "sing",
+                    "well"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "read",
+                    "slow",
+                    "doesn't"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "doesn't",
+                    "read",
+                    "slow"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "doesn't",
+                    "she",
+                    "swim",
+                    "fast"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "doesn't",
+                    "swim",
+                    "fast"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "they",
+                    "very",
+                    "argue",
+                    "loudly"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "argue",
+                    "very",
+                    "loudly"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "cries",
+                    "loudly",
+                    "really",
+                    "she"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "cries",
+                    "really",
+                    "loudly"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "works",
+                    "never",
+                    "much"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "never",
+                    "works",
+                    "much"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "often",
+                    "he",
+                    "a lot",
+                    "smokes"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "often",
+                    "smokes",
+                    "a lot"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            }
+
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/gxmwzXAFSF0",
+                  "sentence": [
+                    "Alright, so I'm back in high school, I'm",
+                    null,
+                    "in the middle of the",
+                    null,
+                    "and I",
+                    null,
+                    "I am totally naked."
+                  ],
+                  "correctAnswer": [
+                    "standing",
+                    "cafeteria",
+                    "realize"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "standing"
+                      },
+                      {
+                        "text": "stand"
+                      },
+                      {
+                        "text": "standed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "cafe"
+                      },
+                      {
+                        "text": "cinema"
+                      },
+                      {
+                        "text": "cafeteria"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "realize"
+                      },
+                      {
+                        "text": "notarize"
+                      },
+                      {
+                        "text": "finalize"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/oDFCmAdEUhw",
+                  "sentence": [
+                    "Then I look",
+                    null,
+                    "and I realize there's a",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "down",
+                    "phone",
+                    "there"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "down"
+                      },
+                      {
+                        "text": "own"
+                      },
+                      {
+                        "text": "around"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gone"
+                      },
+                      {
+                        "text": "phone"
+                      },
+                      {
+                        "text": "zone"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "here"
+                      },
+                      {
+                        "text": "mere"
+                      },
+                      {
+                        "text": "there"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/aakloam6Tw0",
+                  "sentence": [
+                    null,
+                    null,
+                    "That's",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "instead",
+                    "of",
+                    "right"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "homestead"
+                      },
+                      {
+                        "text": "instead"
+                      },
+                      {
+                        "text": "stand"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "of"
+                      },
+                      {
+                        "text": "or"
+                      },
+                      {
+                        "text": "nor"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fight"
+                      },
+                      {
+                        "text": "night"
+                      },
+                      {
+                        "text": "right"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/j_z8413Oq0E",
+                  "sentence": [
+                    "All of a",
+                    null,
+                    "the phone",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "sudden",
+                    "starts",
+                    "to ring"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "sudden"
+                      },
+                      {
+                        "text": "sad man"
+                      },
+                      {
+                        "text": "solven"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "start"
+                      },
+                      {
+                        "text": "starts"
+                      },
+                      {
+                        "text": "hearts"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "to wing"
+                      },
+                      {
+                        "text": "torin"
+                      },
+                      {
+                        "text": "to ring"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/J5pjAdXwATE",
+                  "sentence": [
+                    "and it",
+                    null,
+                    null,
+                    null,
+                    "my mother"
+
+
+                  ],
+                  "correctAnswer": [
+                    "turns",
+                    "out",
+                    "it's"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "turn"
+                      },
+                      {
+                        "text": "turned"
+                      },
+                      {
+                        "text": "turns"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "our"
+                      },
+                      {
+                        "text": "out"
+                      },
+                      {
+                        "text": "hour"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fits"
+                      },
+                      {
+                        "text": "meets"
+                      },
+                      {
+                        "text": "it's"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/j_Nyh0xoMls",
+                  "sentence": [
+                    "which is very-very",
+                    null,
+                    "because- she",
+                    null,
+                    null,
+                    "me"
+                  ],
+                  "correctAnswer": [
+                    "weird",
+                    "never",
+                    "calls"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "weird"
+                      },
+                      {
+                        "text": "nerd"
+                      },
+                      {
+                        "text": "weed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "neither"
+                      },
+                      {
+                        "text": "ever"
+                      },
+                      {
+                        "text": "never"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "calls"
+                      },
+                      {
+                        "text": "falls"
+                      },
+                      {
+                        "text": "crowls"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

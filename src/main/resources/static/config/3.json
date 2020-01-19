@@ -1,0 +1,556 @@
+{
+  "lessonTitle": "День 3. Глагол to be. Возраст",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "They are __",
+                  "variantsToChose": [
+                    "ten years",
+                    "ten",
+                    "ten old years"
+                  ],
+                  "correctAnswer": "ten",
+                  "timeout": 10
+                },
+                {
+                  "title": "She is __",
+                  "variantsToChose": [
+                    "24 year old",
+                    "24 years old",
+                    "24 years"
+                  ],
+                  "correctAnswer": "24 years old",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "John is __",
+                  "variantsToChose": [
+                    "twenty one",
+                    "twenty one years",
+                    "twenty one old"
+                  ],
+                  "correctAnswer": "twenty one",
+                  "timeout": 10
+                },
+                {
+                  "title": "Mary is __",
+                  "variantsToChose": [
+                    "eleven years old",
+                    "eleven years",
+                    "eleven old"
+                  ],
+                  "correctAnswer": "eleven years old",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "мне двадать пять",
+                  "variantsToChose": [
+                    "I am twenty five years",
+                    "I am twenty five",
+                    "I am twenty five old"
+                  ],
+                  "correctAnswer": "I am twenty five",
+                  "timeout": 10
+                },
+                {
+                  "title": "Им сорок два года",
+                  "variantsToChose": [
+                    "they are forty two years old",
+                    "they are forty two old",
+                    "they are forty two years"
+                  ],
+                  "correctAnswer": "they are forty two years old",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "им тридцать",
+                  "variantsToChose": [
+                    "we are thirty years",
+                    "we are thirty years old",
+                    "they are thirty"
+                  ],
+                  "correctAnswer": "they are thirty",
+                  "timeout": 10
+                },
+                {
+                  "title": "нам двенадцать",
+                  "variantsToChose": [
+                    "they are twelve",
+                    "we are twelve years",
+                    "we are twelve years old"
+                  ],
+                  "correctAnswer": "we are twelve years old",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Саша права",
+                  "variantsToChose": [
+                    "sasha right",
+                    "sasha isn't right",
+                    "sasha is right"
+                  ],
+                  "correctAnswer": "sasha is right",
+                  "timeout": 10
+                },
+                {
+                  "title": "Марк здоров",
+                  "variantsToChose": [
+                    "mark healthy",
+                    "mark is healthy",
+                    "mark isn't healthy"
+                  ],
+                  "correctAnswer": "mark is healthy",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "её зовут линда",
+                  "variantsToChose": [
+                    "her is linda",
+                    "her name is linda",
+                    "her name are linda"
+                  ],
+                  "correctAnswer": "her name is Linda",
+                  "timeout": 10
+                },
+                {
+                  "title": "его зовут джон",
+                  "variantsToChose": [
+                    "his is john",
+                    "he john",
+                    "his name is john"
+                  ],
+                  "correctAnswer": "his name is john",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "two",
+                    "thirty",
+                    "am"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "thirty",
+                    "two"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "is",
+                    "fifty",
+                    "he",
+                    "eight"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "is",
+                    "fifty",
+                    "eight"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I am",
+                    "old",
+                    "twenty",
+                    "years"
+                  ],
+                  "correctSentence": [
+                    "I am",
+                    "twenty",
+                    "years",
+                    "old"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "years",
+                    "we're",
+                    "old",
+                    "eighteen"
+                  ],
+                  "correctSentence": [
+                    "we're",
+                    "eighteen",
+                    "years",
+                    "old"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "are",
+                    "six",
+                    "they",
+                    "ninety"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "are",
+                    "ninety",
+                    "six"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "three",
+                    "twenty",
+                    "are"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "are",
+                    "twenty",
+                    "three"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "fourteen",
+                    "not",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "is",
+                    "not",
+                    "fourteen"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "not",
+                    "is",
+                    "eleven"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "is",
+                    "not",
+                    "eleven"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you're",
+                    "forty",
+                    "old",
+                    "years"
+                  ],
+                  "correctSentence": [
+                    "you're",
+                    "forty",
+                    "years",
+                    "old"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "years",
+                    "ten",
+                    "you're",
+                    "old"
+                  ],
+                  "correctSentence": [
+                    "you're",
+                    "ten",
+                    "years",
+                    "old"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте числительное",
+                  "firstLineWords": [
+                    "two",
+                    "sixty",
+                    "nineteen"
+                  ],
+                  "correctSentence": [
+                    "nineteen",
+                    "sixty",
+                    "two"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте числительное",
+                  "firstLineWords": [
+                    "four",
+                    "twenty",
+                    "sixteen"
+                  ],
+                  "correctSentence": [
+                    "sixteen",
+                    "twenty",
+                    "four"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/VONZTK9Epwo",
+                  "sentence": [
+                    "we were",
+                    null,
+                    "years old?"
+                  ],
+                  "correctAnswer": "twenty",
+                  "possibleAnswers": [
+                    "twenty",
+                    "ninety",
+                    "twelve"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/2zjBciLIckM",
+                  "sentence": [
+                    "And since you're 150 years old, air travel was",
+                    null
+                  ],
+                  "correctAnswer": "impossible",
+                  "possibleAnswers": [
+                    "possible",
+                    "impossible",
+                    "not possible"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EOOlRY3Sgkc",
+                  "sentence": [
+                    "And Mr. Brown's birth date makes him",
+                    null,
+                    "years old"
+                  ],
+                  "correctAnswer": "seventeen",
+                  "possibleAnswers": [
+                    "seventy",
+                    "sixteen",
+                    "seventeen"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/35WlaoXobAo",
+                  "sentence": [
+                    "The actual patient is",
+                    null
+                  ],
+                  "correctAnswer": "sixteen",
+                  "possibleAnswers": [
+                    "sixteen",
+                    "sixty",
+                    "sixty nine"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Tc8Pfsc-l28",
+                  "sentence": [
+                    null,
+                    "five year old male"
+                  ],
+                  "correctAnswer": "thirty",
+                  "possibleAnswers": [
+                    "thirteen",
+                    "thirty",
+                    "sixty"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/w1haDtwoW0U",
+                  "sentence": [
+                    null,
+                    "months ago, she cancelled a hiking trip"
+                  ],
+                  "correctAnswer": "twelve",
+                  "characters": [
+                    "t",
+                    "v",
+                    "n",
+                    "l",
+                    "e",
+                    "w"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/U-4Pc0rJR_Q",
+                  "sentence": [
+                    "fifty",
+                    null,
+                    "old"
+                  ],
+                  "correctAnswer": "years",
+                  "characters": [
+                    "y",
+                    "s",
+                    "e",
+                    "t",
+                    "a",
+                    "r",
+                    "o",
+                    "z"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

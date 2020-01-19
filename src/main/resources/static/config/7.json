@@ -1,0 +1,539 @@
+{
+  "lessonTitle": "День 7. Глагол to have. Артикль",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "I have __ ice cream",
+                  "variantsToChose": [
+                    "a",
+                    "an",
+                    "__"
+                  ],
+                  "correctAnswer": "an",
+                  "timeout": 10
+                },
+                {
+                  "title": "He has __ umbrella",
+                  "variantsToChose": [
+                    "a",
+                    "an",
+                    "__"
+                  ],
+                  "correctAnswer": "an",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "We have __ chair",
+                  "variantsToChose": [
+                    "a",
+                    "an",
+                    "__"
+                  ],
+                  "correctAnswer": "a",
+                  "timeout": 10
+                },
+                {
+                  "title": "They have __ desk",
+                  "variantsToChose": [
+                    "a",
+                    "an",
+                    "__"
+                  ],
+                  "correctAnswer": "a",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "У него есть утюг",
+                  "variantsToChose": [
+                    "he has a iron",
+                    "he have an iron",
+                    "he has an iron"
+                  ],
+                  "correctAnswer": "he has an iron",
+                  "timeout": 10
+                },
+                {
+                  "title": "У неё есть духовка",
+                  "variantsToChose": [
+                    "she has a oven",
+                    "she have an oven",
+                    "she has an oven"
+                  ],
+                  "correctAnswer": "it is rainy in spring",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "у них есть стол",
+                  "variantsToChose": [
+                    "they has a table",
+                    "they have a table",
+                    "they have table"
+                  ],
+                  "correctAnswer": "they have a table",
+                  "timeout": 10
+                },
+                {
+                  "title": "у нас есть стул",
+                  "variantsToChose": [
+                    "we have chair",
+                    "we have a chair",
+                    "we has chair"
+                  ],
+                  "correctAnswer": "we have a chair",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "I have an ice cream",
+                  "variantsToChose": [
+                    "У меня есть зонт",
+                    "У меня есть утюг",
+                    "у меня есть мороженое"
+                  ],
+                  "correctAnswer": "у меня есть мороженое",
+                  "timeout": 10
+                },
+                {
+                  "title": "She has an umbrella",
+                  "variantsToChose": [
+                    "у нее есть зонт",
+                    "у него есть зонт",
+                    "у меня есть зонт"
+                  ],
+                  "correctAnswer": "у нее есть зонт",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "She has an __",
+                  "variantsToChose": [
+                    "table",
+                    "chair",
+                    "oven"
+                  ],
+                  "correctAnswer": "oven",
+                  "timeout": 10
+                },
+                {
+                  "title": "He has a __",
+                  "variantsToChose": [
+                    "umbrella",
+                    "book",
+                    "ice cream"
+                  ],
+                  "correctAnswer": "book",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "book",
+                    "is",
+                    "the",
+                    "white"
+                  ],
+                  "correctSentence": [
+                    "the",
+                    "book",
+                    "is",
+                    "white"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "blue",
+                    "the",
+                    "iron",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "the",
+                    "iron",
+                    "is",
+                    "blue"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "we",
+                    "an",
+                    "have",
+                    "ice cream"
+                  ],
+                  "correctSentence": [
+                    "we",
+                    "have",
+                    "an",
+                    "ice cream"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "have",
+                    "they",
+                    "umbrella",
+                    "an"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "have",
+                    "an",
+                    "umbrella"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "has",
+                    "a",
+                    "book",
+                    "she"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "has",
+                    "a",
+                    "book"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "desk",
+                    "a",
+                    "has"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "has",
+                    "a",
+                    "desk"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "oven",
+                    "an",
+                    "have"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "have",
+                    "an",
+                    "oven"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "an",
+                    "you",
+                    "have",
+                    "iron"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "have",
+                    "an",
+                    "iron"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "table",
+                    "is",
+                    "grey",
+                    "the"
+                  ],
+                  "correctSentence": [
+                    "the",
+                    "table",
+                    "is",
+                    "grey"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "black",
+                    "chair",
+                    "the",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "the",
+                    "chair",
+                    "is",
+                    "black"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "an",
+                    "have",
+                    "apple"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "an",
+                    "apple"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "a",
+                    "have",
+                    "banana"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "have",
+                    "a",
+                    "banana"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/fCMzgE0J5Lw",
+                  "sentence": [
+                    "Eggs and sausage, warm in the",
+                    null
+                  ],
+                  "correctAnswer": "oven",
+                  "possibleAnswers": [
+                    "our",
+                    "out",
+                    "oven"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/dwKx9hl-hxE",
+                  "sentence": [
+                    "But the",
+                    null,
+                    "is inconsistent with the science"
+                  ],
+                  "correctAnswer": "book",
+                  "possibleAnswers": [
+                    "boom",
+                    "book",
+                    "look"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/PZzJtXtaBBo",
+                  "sentence": [
+                    "I got forms in my",
+                    null
+                  ],
+                  "correctAnswer": "desk",
+                  "possibleAnswers": [
+                    "dad",
+                    "desk",
+                    "task"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/eKmGSKxAVH8",
+                  "sentence": [
+                    "She's got an umbrella in her",
+                    null,
+                    "but it's dry and unused"
+                  ],
+                  "correctAnswer": "pocket",
+                  "possibleAnswers": [
+                    "rocket",
+                    "locker",
+                    "pocket"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/MUrfPDmiJJM",
+                  "sentence": [
+                    " that's",
+                    null,
+                    "and ice cream"
+                  ],
+                  "correctAnswer": "milk",
+                  "possibleAnswers": [
+                    "me",
+                    "Nil",
+                    "milk"
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 1,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/5744PG3ZpF4",
+                  "sentence": [
+                    "None of that",
+                    null,
+                    "stuff tonight, Fink Nottle"
+                  ],
+                  "correctAnswer": "umbrella",
+                  "characters": [
+                    "b",
+                    "u",
+                    "e",
+                    "m",
+                    "e",
+                    "r",
+                    "l",
+                    "a",
+                    "l"
+                  ],
+                  "timeout": 20
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+
+{"lessonTitle": "День 55. Can and could",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "You __ go there, it's too late!",
+                "variantsToChose": [
+                  "can",
+                  "can't",
+                  "can't to"
+                ],
+                "correctAnswer": "can't",
+                "timeout": 10
+              },
+              {
+                "title": "He injured his leg, he __ run",
+                "variantsToChose": [
+                  "can't",
+                  "can",
+                  "can to"
+                ],
+                "correctAnswer": "can't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Он ничего не мог сказать",
+                "variantsToChose": [
+                  "He can't say anything",
+                  "He couldn't say anything",
+                  "He could say anything"
+                ],
+                "correctAnswer": "He couldn't say anything",
+                "timeout": 10
+              },
+              {
+                "title": "Он может говорить на китайском, но не может говорить на русском",
+                "variantsToChose": [
+                  "He can't speak Chinese, but can speak Russian",
+                  "He can speak Chinese, but can't speak Russian",
+                  "He couldn't speak Chinese, but could speak Russian"
+                ],
+                "correctAnswer": "He can speak Chinese, but can't speak Russian",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Я чувствую запах цветов",
+                "variantsToChose": [
+                  "I can smell flowers",
+                  "I could smell flowers",
+                  "I couldn't smell flowers"
+                ],
+                "correctAnswer": "I can smell flowers",
+                "timeout": 10
+              },
+              {
+                "title": "Я не слышу тебя",
+                "variantsToChose": [
+                  "I couldn't hear you",
+                  "I can hear you",
+                  "I can't hear you"
+                ],
+                "correctAnswer": "I can't hear you",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "У Вилла и Сары вдвое меньше друзей, чем у тебя",
+                "variantsToChose": [
+                  "Will and Sara have half many friends as you",
+                  "Will and Sara have as many friends as you",
+                  "Will and Sara have half as many friends as you"
+                ],
+                "correctAnswer": "Will and Sara have half as many friends as you",
+                "timeout": 10
+              },
+              {
+                "title": "Ты не мог говорить с ней!",
+                "variantsToChose": [
+                  "You can't speak to her",
+                  "You couldn't speak to her",
+                  "You could speak to her"
+                ],
+                "correctAnswer": "You couldn't speak to her",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Она говорит на английском очень хорошо",
+                "variantsToChose": [
+                  "She couldn't speak English very well",
+                  "She could speak English very well",
+                  "She can speak English very well"
+                ],
+                "correctAnswer": "She can speak English very well",
+                "timeout": 10
+              },
+              {
+                "title": "Мы могли поиграть вчера",
+                "variantsToChose": [
+                  "We could play yesterday",
+                  "We couldn't play yesterday",
+                  "We could to play yesterday"
+                ],
+                "correctAnswer": "We could play yesterday",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Они не могут бежать быстро",
+                "variantsToChose": [
+                  "They couldn't run fast",
+                  "They can't run fast",
+                  "They can run fast"
+                ],
+                "correctAnswer": "They can't run fast",
+                "timeout": 10
+              },
+              {
+                "title": "Я мог видеть его в торговом центре",
+                "variantsToChose": [
+                  "I could see him in the mall",
+                  "I can see him in the mall",
+                  "I couldn't see him in the mall"
+                ],
+                "correctAnswer": "I could see him in the mall",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Can",
+                  "for me",
+                  "buy it",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Can",
+                  "you",
+                  "buy it",
+                  "for me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Can",
+                  "this",
+                  "remember",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Can",
+                  "you",
+                  "remember",
+                  "this"
+                ],
+                "timeout": 10
+              }
+              ]
+              },
+
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "afford",
+                  "it",
+                  "Could",
+                  "they"
+                ],
+                "correctSentence": [
+                  "Could",
+                  "they",
+                  "afford",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "find",
+                  "a movie",
+                  "Can",
+                  "they"
+                ],
+                "correctSentence": [
+                  "Can",
+                  "they",
+                  "find",
+                  "a movie"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "understand",
+                  "can",
+                  "He",
+                  "you"
+                ],
+                "correctSentence": [
+                  "Can",
+                  "he",
+                  "understand",
+                  "you"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Could",
+                  "it",
+                  "imagine",
+                  "You"
+                ],
+                "correctSentence": [
+                  "Could",
+                  "You",
+                  "imagine",
+                  "it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "find it",
+                  "couldn't",
+                  "faster",
+                  "She"
+                ],
+                "correctSentence": [
+                  "She",
+                  "coudn't",
+                  "find it",
+                  "faster"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "imagine",
+                  "He",
+                  "can't",
+                  "it"
+                ],
+                "correctSentence": [
+                  "He",
+                  "can't",
+                  "imagine",
+                  "it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "I",
+                  "believe",
+                  "him",
+                  "Can"
+                ],
+                "correctSentence": [
+                  "Can",
+                  "I",
+                  "believe",
+                  "him"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "afford",
+                  "Can",
+                  "to buy a car",
+                  "she"
+                ],
+                "correctSentence": [
+                  "Can",
+                  "she",
+                  "afford",
+                  "to buy a car"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "remember",
+                  "can't",
+                  "I",
+                  "it"
+                ],
+                "correctSentence": [
+                  "I",
+                  "can't",
+                  "remember",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "couldn't",
+                  "it",
+                  "accept"
+                ],
+                "correctSentence": [
+                  "she",
+                  "couldn't",
+                  "accept",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SpS4gNOvv7c",
+                  "sentence": [
+                    "I can",
+                    null,
+                    "how",
+                    null,
+                    "this",
+                    null,
+                    "for you"
+
+                  ],
+                  "correctAnswer": [
+                    "imagine",
+                    "painful",
+                    "must be"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "imagine"
+                      },
+                      {
+                        "text": "emotion"
+                      },
+                      {
+                        "text": "emerging"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "pleasureful"
+                      },
+                      {
+                        "text": "painful"
+                      },
+                      {
+                        "text": "powerful"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "might be"
+                      },
+                      {
+                        "text": "may be"
+                      },
+                      {
+                        "text": "must be"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ajL761Fzktg",
+                  "sentence": [
+                    "I",
+                    null,
+                    "they could understand how",
+                    null,
+                    "I",
+                    null,
+                    "this"
+                  ],
+                  "correctAnswer": [
+                    "wish",
+                    "badly",
+                    "need"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "dish"
+                      },
+                      {
+                        "text": "wish"
+                      },
+                      {
+                        "text": "leash"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "badly"
+                      },
+                      {
+                        "text": "broadly"
+                      },
+                      {
+                        "text": "beamly"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lead"
+                      },
+                      {
+                        "text": "neap"
+                      },
+                      {
+                        "text": "need"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/70ArH3Bd_d8",
+                  "sentence": [
+                    "For",
+                    null,
+                    "points let's see if you can",
+                    null,
+                    "his",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "fifty",
+                    "guess",
+                    "specialty"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "filthy"
+                      },
+                      {
+                        "text": "fifty"
+                      },
+                      {
+                        "text": "forty"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "geese"
+                      },
+                      {
+                        "text": "guess"
+                      },
+                      {
+                        "text": "gauss"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "special tea"
+                      },
+                      {
+                        "text": "especially"
+                      },
+                      {
+                        "text": "specialty"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/mXW2pK4ess0",
+                  "sentence": [
+                    "I don't",
+                    null,
+                    "that you",
+                    null,
+                    null,
+                    "John"
+
+                  ],
+                  "correctAnswer": [
+                    "doubt",
+                    "believe",
+                    "that"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "deut"
+                      },
+                      {
+                        "text": "dote"
+                      },
+                      {
+                        "text": "doubt"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "believe"
+                      },
+                      {
+                        "text": "be live"
+                      },
+                      {
+                        "text": "bill eve"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "that"
+                      },
+                      {
+                        "text": "those"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/tPJVBWgY7A0",
+                  "sentence": [
+                    "I",
+                    null,
+                    "see you",
+                    null,
+                    "very",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "can",
+                    "are",
+                    "close"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "could"
+                      },
+                      {
+                        "text": "can"
+                      },
+                      {
+                        "text": "call"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "were"
+                      },
+                      {
+                        "text": "went"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "class"
+                      },
+                      {
+                        "text": "close"
+                      },
+                      {
+                        "text": "clews"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/R9pElOo9boY",
+                  "sentence": [
+                    "I",
+                    null,
+                    "tell you one or two of my",
+                    null,
+                    "if you",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "could",
+                    "adventures",
+                    "like"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "can"
+                      },
+                      {
+                        "text": "could"
+                      },
+                      {
+                        "text": "can't"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "adventures"
+                      },
+                      {
+                        "text": "avengers"
+                      },
+                      {
+                        "text": "advisors"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lick"
+                      },
+                      {
+                        "text": "like"
+                      },
+                      {
+                        "text": "lie"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

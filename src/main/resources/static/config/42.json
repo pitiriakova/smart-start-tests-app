@@ -1,0 +1,762 @@
+
+{"lessonTitle": "День 42. Present Perfect",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "У Анны закончились деньги",
+                "variantsToChose": [
+                  "Ann has run out of money",
+                  "Ann has ran out of money",
+                  "Ann have run out of money"
+                ],
+                "correctAnswer": "Ann has run out of money",
+                "timeout": 10
+              },
+              {
+                "title": "У Ника закончился хлеб",
+                "variantsToChose": [
+                  "Nick has run out of bread",
+                  "Nick have ran out of bread",
+                  "Nick has ran out of bread"
+                ],
+                "correctAnswer": "Nick has run out of bread",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "У нас пока не было проблем с Джоном",
+                "variantsToChose": [
+                  "We hadn't had any problems with John so far",
+                  "We haven't did any problems with John so far",
+                  "We haven't had any problems with John so far"
+                ],
+                "correctAnswer": "We haven't had any problems with John so far",
+                "timeout": 10
+              },
+              {
+                "title": "У меня пока не было много работы",
+                "variantsToChose": [
+                  "I haven't much work so far",
+                  "I had much work so far",
+                  "I haven't had much work so far"
+                ],
+                "correctAnswer": "I haven't had much work so far",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Света наконец-то родила ребенка",
+                "variantsToChose": [
+                  "Sveta has had a baby yet",
+                  "Sveta has had a baby so far",
+                  "Sveta has had a baby at last"
+                ],
+                "correctAnswer": "Sveta has had a baby at last",
+                "timeout": 10
+              },
+              {
+                "title": "Ник наконец-то получил работу",
+                "variantsToChose": [
+                  "Nick has had a job yet",
+                  "Nick has had a job so far",
+                  "Nick has had a job at last"
+                ],
+                "correctAnswer": "Nick has had a job at last",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Сколько раз вы были в Париже?",
+                "variantsToChose": [
+                  "How many times have you been to Paris?",
+                  "How many times you have been to Paris?",
+                  "How many times did you been have to Paris?"
+                ],
+                "correctAnswer": "How many times have you been to Paris?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько экзаменов он уже сдал?",
+                "variantsToChose": [
+                  "How many has he passed exams so far?",
+                  "How many exams has he passed at last?",
+                  "How many exams has he passed so far?"
+                ],
+                "correctAnswer": "How many exams has he passed so far?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я не видел Джона вчера",
+                "variantsToChose": [
+                  "I haven't seen John yesterday",
+                  "I didn't see John yesterday",
+                  "I haven't saw John yesterday"
+                ],
+                "correctAnswer": "I didn't see John yesterday",
+                "timeout": 10
+              },
+              {
+                "title": "Она не купила машину вчера",
+                "variantsToChose": [
+                  "She hasn't bought a car yesterday",
+                  "She didn't buy a car yesterday",
+                  "She had not bought a car yesterday"
+                ],
+                "correctAnswer": "She didn't buy a car yesterday",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я не был в кино на прошлой неделе",
+                "variantsToChose": [
+                  "I haven't been at the movies last week",
+                  "I wasn't at the movies last week",
+                  "I hadn't been at the movies last week"
+                ],
+                "correctAnswer": "I wasn't at the movies last week",
+                "timeout": 10
+              },
+              {
+                "title": "Она не была в школе на прошлой неделе",
+                "variantsToChose": [
+                  "She wasn't at school last week",
+                  "She hasn't been at school last week",
+                  "She not been at school last week"
+                ],
+                "correctAnswer": "She wasn't at school last week",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I haven't",
+                  "so far",
+                  "been",
+                  "here"
+                ],
+                "correctSentence": [
+                  "I haven't",
+                  "been",
+                  "here",
+                  "so far"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Jane",
+                  "hasn't",
+                  "seen me",
+                  "so far"
+                ],
+                "correctSentence": [
+                  "Jane",
+                  "hasn't",
+                  "seen me",
+                  "so far"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she has",
+                  "had",
+                  "at last",
+                  "a baby"
+                ],
+                "correctSentence": [
+                  "she has",
+                  "had",
+                  "a baby",
+                  "at last"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I have",
+                  "met",
+                  "at last",
+                  "Lola"
+                ],
+                "correctSentence": [
+                  "I have",
+                  "met",
+                  "Lola",
+                  "at last"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mary",
+                  "done it",
+                  "so far",
+                  "hasn't"
+                ],
+                "correctSentence": [
+                  "Mary",
+                  "hasn't",
+                  "done it",
+                  "so far"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "met him",
+                  "Jack",
+                  "hasn't",
+                  "so far"
+                ],
+                "correctSentence": [
+                  "Jack",
+                  "hasn't",
+                  "met him",
+                  "so far"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "seen it",
+                  "how many",
+                  "times",
+                  "have you"
+                ],
+                "correctSentence": [
+                  "how many",
+                  "times",
+                  "have you",
+                  "seen it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "received",
+                  "has he",
+                  "letters",
+                  "how many"
+                ],
+                "correctSentence": [
+                  "how many",
+                  "letters",
+                  "has he",
+                  "received"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "of money",
+                  "Tom",
+                  "has",
+                  "run out"
+                ],
+                "correctSentence": [
+                  "has",
+                  "Tom",
+                  "run out",
+                  "of money"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "you",
+                  "run out",
+                  "of time",
+                  "have"
+                ],
+                "correctSentence": [
+                  "have",
+                  "you",
+                  "run out",
+                  "of time"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "visited me",
+                  "lately",
+                  "Nick"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "visited me",
+                  "lately"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "lately",
+                  "haven't",
+                  "seen her"
+                ],
+                "correctSentence": [
+                  "you",
+                  "haven't",
+                  "seen her",
+                  "lately"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/W4SB6Gwnp6Y",
+                  "sentence": [
+                    "You ",
+                    null,
+                    "have",
+                    null,
+                    "him when you",
+                    null,
+                    "a teenager"
+
+                  ],
+                  "correctAnswer": [
+                    "must",
+                    "had",
+                    "were"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "mustn't"
+                      },
+                      {
+                        "text": "must"
+                      },
+                      {
+                        "text": "must it"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "had"
+                      },
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "has"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "was"
+                      },
+                      {
+                        "text": "were"
+                      },
+                      {
+                        "text": "had"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/_6PW4oGDIOM",
+                  "sentence": [
+                    "Dr. McCoy",
+                    null,
+                    "had a great ",
+                    null,
+                    "of experience with radiation",
+                    null,
+                    "onboard the Enterprise"
+                  ],
+                  "correctAnswer": [
+                    "has",
+                    "deal",
+                    "exposure"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "has"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "deal"
+                      },
+                      {
+                        "text": "drill"
+                      },
+                      {
+                        "text": "bill"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "disclosure"
+                      },
+                      {
+                        "text": "exposure"
+                      },
+                      {
+                        "text": "enclosure"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/IeR4TfdvCE8",
+                  "sentence": [
+                    "His mother",
+                    null,
+                    "uncle and best friend all ",
+                    null,
+                    " he hasn't had a date ",
+                    null,
+                    " a year."
+                  ],
+                  "correctAnswer": [
+                    "brother",
+                    "confirm",
+                    "in over"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "other"
+                      },
+                      {
+                        "text": "father"
+                      },
+                      {
+                        "text": "brother"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "confirm it"
+                      },
+                      {
+                        "text": "confirm"
+                      },
+                      {
+                        "text": "confirmed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "in over"
+                      },
+                      {
+                        "text": "all over"
+                      },
+                      {
+                        "text": "over"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/OOiBZKydUPk",
+                  "sentence": [
+                    "I mean, I haven't ",
+                    null,
+                    " that since I was 4 and I",
+                    null,
+                    "my dad's ",
+                    null,
+                    "with rocks."
+                  ],
+                  "correctAnswer": [
+                    "done",
+                    "washed",
+                    "Porsche"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "one"
+                      },
+                      {
+                        "text": "done"
+                      },
+                      {
+                        "text": "do"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "wash it"
+                      },
+                      {
+                        "text": "washed"
+                      },
+                      {
+                        "text": "wash"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Torsche"
+                      },
+                      {
+                        "text": "Borsche"
+                      },
+                      {
+                        "text": "Porsche"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/M10OndiFdSc",
+                  "sentence": [
+                    "And your",
+                    null,
+                    "has ",
+                    null,
+                    "the throne",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "absence",
+                    "left",
+                    "defenseless"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "absence"
+                      },
+                      {
+                        "text": "absent"
+                      },
+                      {
+                        "text": "access"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "leave"
+                      },
+                      {
+                        "text": "left"
+                      },
+                      {
+                        "text": "lest"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "defenseless"
+                      },
+                      {
+                        "text": "sensless"
+                      },
+                      {
+                        "text": "defend less"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/QHc-_BXp6gg",
+                  "sentence": [
+                    "Bernadette, an opportunity has",
+                    null,
+                    "that ",
+                    null,
+                    null,
+                    "of us, and I'd like to discuss it."
+                  ],
+                  "correctAnswer": [
+                    "come up ",
+                    "impacts",
+                    "both"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "come out"
+                      },
+                      {
+                        "text": "come our"
+                      },
+                      {
+                        "text": "come up"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "infacts"
+                      },
+                      {
+                        "text": "impacts"
+                      },
+                      {
+                        "text": "intacts"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "boss"
+                      },
+                      {
+                        "text": "oath"
+                      },
+                      {
+                        "text": "both"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+
+{"lessonTitle": "День 27. Present Continuous",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Население мира увеличивается",
+                "variantsToChose": [
+                  "The population is increasing of the world",
+                  "The population of the world is increasing",
+                  "The population increase of the world"
+                ],
+                "correctAnswer": "The population of the world is increasing",
+                "timeout": 10
+              },
+              {
+                "title": "Каждый год климат меняется",
+                "variantsToChose": [
+                  "The climate is changing every year",
+                  "Every year is changing the climate",
+                  "The climate every year is changing"
+                ],
+                "correctAnswer": "The climate is changing every year",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Is your English improving?",
+                "variantsToChose": [
+                  "Yes, my English improving",
+                  "Yes, my English is improving",
+                  "Yes, improving is my English"
+                ],
+                "correctAnswer": "Yes, my English is improving",
+                "timeout": 10
+              },
+              {
+                "title": "Are you getting better?",
+                "variantsToChose": [
+                  "Yes, better I am getting",
+                  "Yes, I am getting better",
+                  "Yes, I am better getting"
+                ],
+                "correctAnswer": "Yes, I am getting better",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Почему ты сейчас не работаешь?",
+                "variantsToChose": [
+                  "Why are you not working?",
+                  "Why not working are you?",
+                  "Why not working you are?"
+                ],
+                "correctAnswer": "Why are you not working?",
+                "timeout": 10
+              },
+              {
+                "title": "Что ты сейчас учишь?",
+                "variantsToChose": [
+                  "What are you learning now?",
+                  "What learning are you now?",
+                  "What are you now learning?"
+                ],
+                "correctAnswer": "What are you learning now?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Количество людей в мире не уменьшается",
+                "variantsToChose": [
+                  "The number of people is world not decreasing",
+                  "The number of people is not in the world decreasing",
+                  "The number of people in the world is not decreasing"
+                ],
+                "correctAnswer": "The number of people in the world is not decreasing",
+                "timeout": 10
+              },
+              {
+                "title": "В данный момент цена еды увеличивается",
+                "variantsToChose": [
+                  "At the moment the price of food is increasing",
+                  "At the moment food of the price is increasing",
+                  "At the moment the price is increasing of food"
+                ],
+                "correctAnswer": "At the moment the price of food is increasing",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Шоу начинается прямо сейчас",
+                "variantsToChose": [
+                  "Right now the show is starting",
+                  "The show is starting right now",
+                  "The show is right now starting"
+                ],
+                "correctAnswer": "The show is starting right now",
+                "timeout": 10
+              },
+              {
+                "title": "В данный момент инженер не работает",
+                "variantsToChose": [
+                  "Engineer is not working at the moment",
+                  "Not working engineer is at the moment",
+                  "Engineer is not at the moment working"
+                ],
+                "correctAnswer": "Engineer is not working at the moment",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Ваша ситуация становится лучше?",
+                "variantsToChose": [
+                  "Is situation your getting better?",
+                  "Your situation is getting better?",
+                  "Is your situation getting better?"
+                ],
+                "correctAnswer": "Is your situation getting better?",
+                "timeout": 10
+              },
+              {
+                "title": "Студент улучшает свои оценки?",
+                "variantsToChose": [
+                  "Is the student improving his grades?",
+                  "The student is improving his grades?",
+                  "Improving is the student his grades?"
+                ],
+                "correctAnswer": "Is the student improving his grades?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "nothing",
+                  "is",
+                  "better",
+                  "getting"
+                ],
+                "correctSentence": [
+                  "nothing",
+                  "is",
+                  "getting",
+                  "better"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "improving",
+                  "everything",
+                  "now",
+                  "is"
+                ],
+                "correctSentence": [
+                  "everything",
+                  "is",
+                  "improving",
+                  "now"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "worse",
+                  "is getting",
+                  "your",
+                  "Russian"
+                ],
+                "correctSentence": [
+                  "your",
+                  "Russian",
+                  "is getting",
+                  "worse"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "now",
+                  "is",
+                  "temperature",
+                  "increasing"
+                ],
+                "correctSentence": [
+                  "is",
+                  "temperature",
+                  "increasing",
+                  "now"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "changing",
+                  "the nature",
+                  "to start",
+                  "is going"
+                ],
+                "correctSentence": [
+                  "the nature",
+                  "is going",
+                  "to start",
+                  "changing"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "changing",
+                  "the weather",
+                  "is",
+                  "not"
+                ],
+                "correctSentence": [
+                  "the weather",
+                  "is",
+                  "not",
+                  "changing"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "changing",
+                  "planets",
+                  "are",
+                  "not"
+                ],
+                "correctSentence": [
+                  "planets",
+                  "are",
+                  "not",
+                  "changing"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "are",
+                  "the cars",
+                  "improving",
+                  "not"
+                ],
+                "correctSentence": [
+                  "the cars",
+                  "are",
+                  "not",
+                  "improving"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the population",
+                  "why",
+                  "is",
+                  "changing"
+                ],
+                "correctSentence": [
+                  "why",
+                  "is",
+                  "the population",
+                  "changing"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "changing",
+                  "is",
+                  "the nature",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "the nature",
+                  "is",
+                  "changing"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "changing",
+                  "nothing",
+                  "is",
+                  "now"
+                ],
+                "correctSentence": [
+                  "nothing",
+                  "is",
+                  "changing",
+                  "now"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "why",
+                  "complicated",
+                  "is so",
+                  "this job"
+                ],
+                "correctSentence": [
+                  "why",
+                  "this job",
+                  "is so",
+                  "complicated"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/IpE_zpEa0og",
+                  "sentence": [
+                    "Such",
+                    null,
+                    null,
+                    null,
+                    ". Yeah"
+                  ],
+                  "correctAnswer": [
+                    "a",
+                    "romantic",
+                    "atmosphere"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "an"
+                      },
+                      {
+                        "text": "the"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "semantic"
+                      },
+                      {
+                        "text": "romance"
+                      },
+                      {
+                        "text": "romantic"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "atmosphere"
+                      },
+                      {
+                        "text": "almost here"
+                      },
+                      {
+                        "text": "hydrosphere"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Rpd79q_7E5w",
+                  "sentence": [
+                    "That's",
+                    null,
+                    "the Pope",
+                    null,
+                    null
+                   ],
+                  "correctAnswer": [
+                    "why",
+                    "eats",
+                    "here"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "why"
+                      },
+                      {
+                        "text": "by"
+                      },
+                      {
+                        "text": "lie"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "brings"
+                      },
+                      {
+                        "text": "beats"
+                      },
+                      {
+                        "text": "eats"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "near"
+                      },
+                      {
+                        "text": "here"
+                      },
+                      {
+                        "text": "hair"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/dqoM-DgRzhs",
+                  "sentence": [
+                    "Lynda and",
+                    null,
+                    "got a picture of",
+                    null,
+                    "down at the",
+                    null,
+                    "riding a Jet Ski"
+                   ],
+                  "correctAnswer": [
+                    "I",
+                    "him",
+                    "shop"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "I"
+                      },
+                      {
+                        "text": "my"
+                      },
+                      {
+                        "text": "mine"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "him"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "shop"
+                      },
+                      {
+                        "text": "stop"
+                      },
+                      {
+                        "text": "shock"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/nuMobCGQsLI",
+                  "sentence": [
+                    null,
+                    "see, she's",
+                    null,
+                    "and",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "You",
+                    "brainy",
+                    "beautiful"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Yours"
+                      },
+                      {
+                        "text": "Your"
+                      },
+                      {
+                        "text": "You"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Lennie"
+                      },
+                      {
+                        "text": "brainy"
+                      },
+                      {
+                        "text": "many"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "beautiful"
+                      },
+                      {
+                        "text": "immutable"
+                      },
+                      {
+                        "text": "suitable"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/FzGyK_mRDjM",
+                  "sentence": [
+                    "Did you",
+                    null,
+                    null,
+                    "? I ",
+                    null,
+                    "order foreplay."
+
+                   ],
+                  "correctAnswer": [
+                    "order",
+                    "foreplay",
+                    "didn't"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "order"
+                      },
+                      {
+                        "text": "border"
+                      },
+                      {
+                        "text": "sorter"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "for pay"
+                      },
+                      {
+                        "text": "for replay"
+                      },
+                      {
+                        "text": "foreplay"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "needn't"
+                      },
+                      {
+                        "text": "didn't"
+                      },
+                      {
+                        "text": "keep it"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/pDcweWjfuwY",
+                  "sentence": [
+                    "You okay,",
+                    null,
+                    "? ",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "honey",
+                    "You're",
+                    "sweating"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "money"
+                      },
+                      {
+                        "text": "honey"
+                      },
+                      {
+                        "text": "sunny"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Your"
+                      },
+                      {
+                        "text": "You"
+                      },
+                      {
+                        "text": "You're"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sweating"
+                      },
+                      {
+                        "text": "greeting"
+                      },
+                      {
+                        "text": "eating"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+
+{"lessonTitle": "День 54. Twice as much",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я зарабатываю вдвое больше, чем он",
+                "variantsToChose": [
+                  "I earn twice as much than him",
+                  "I earn twice as much as him",
+                  "I earn twice much as him"
+                ],
+                "correctAnswer": "I earn twice as much as him",
+                "timeout": 10
+              },
+              {
+                "title": "Я зарабатываю вдвое меньше, чем он",
+                "variantsToChose": [
+                  "I earn half as much than him",
+                  "I earn half as much as him",
+                  "I earn twice as much as him"
+                ],
+                "correctAnswer": "I earn half as much as him",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "У тебя в два раза больше денег, чем у нее",
+                "variantsToChose": [
+                  "You have twice as much money than her",
+                  "You have twice as money as her",
+                  "You have twice as much money as her"
+                ],
+                "correctAnswer": "You have twice as much money as her",
+                "timeout": 10
+              },
+              {
+                "title": "У нас вдвое меньше денег, чем у них",
+                "variantsToChose": [
+                  "We have half as much money than them",
+                  "We have half as money as them",
+                  "We have half as much money as them"
+                ],
+                "correctAnswer": "We have half as much money as them",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Катя ездит в десять раз быстрее, чем мы",
+                "variantsToChose": [
+                  "Kate drives ten times faster as us",
+                  "Kate drive ten times as fast as us",
+                  "Kate drives ten times faster than us"
+                ],
+                "correctAnswer": "Kate drives ten times faster than us",
+                "timeout": 10
+              },
+              {
+                "title": "Ник ездит в пять раз быстрее, чем они",
+                "variantsToChose": [
+                  "Nick drives five times fast as them",
+                  "Nick drive five times as fast as them",
+                  "Nick drives five times faster than them"
+                ],
+                "correctAnswer": "Nick drives five times faster than them",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "У Вилла и Сары вдвое меньше друзей, чем у тебя",
+                "variantsToChose": [
+                  "Will and Sara have half many friends as you",
+                  "Will and Sara have as many friends as you",
+                  "Will and Sara have half as many friends as you"
+                ],
+                "correctAnswer": "Will and Sara have half as many friends as you",
+                "timeout": 10
+              },
+              {
+                "title": "У Виктора и Елены вдвое меньше яблок, чем у меня",
+                "variantsToChose": [
+                  "Victor and Elena have as many apples as me",
+                  "Victor and Elena have half many apples as me",
+                  "Victor and Elena have half as many apples as me"
+                ],
+                "correctAnswer": "Victor and Elena have half as many apples as me",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "У меня в три раза больше времени, чем у тебя",
+                "variantsToChose": [
+                  "I have three times as many time as you",
+                  "I have three times as much time as you",
+                  "I have three time as many time as you"
+                ],
+                "correctAnswer": "I have three times as much time as you",
+                "timeout": 10
+              },
+              {
+                "title": "У нас в семь раз больше времени, чем у них",
+                "variantsToChose": [
+                  "We have seven times as many time as them",
+                  "We have seven times as much time as them",
+                  "We have seven time as many time as them"
+                ],
+                "correctAnswer": "We have seven times as much time as them",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Он готовит в два раза хуже, чем она",
+                "variantsToChose": [
+                  "He cooks half as good as her",
+                  "He cook half as good as her",
+                  "He cooks half good as her"
+                ],
+                "correctAnswer": "He cooks half as good as her",
+                "timeout": 10
+              },
+              {
+                "title": "Она бегает в два раза хуже, чем он",
+                "variantsToChose": [
+                  "She runs half as good as him",
+                  "She runs half as good as he",
+                  "She runs as good as him"
+                ],
+                "correctAnswer": "She runs half as good as him",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She",
+                  "sleeps",
+                  "twice as much",
+                  "as you"
+                ],
+                "correctSentence": [
+                  "She",
+                  "sleeps",
+                  "twice as much",
+                  "as you"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "better",
+                  "I am",
+                  "than",
+                  "her"
+                ],
+                "correctSentence": [
+                  "I am",
+                  "better",
+                  "than",
+                  "her"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "five times",
+                  "as much as",
+                  "I walk",
+                  "he does"
+                ],
+                "correctSentence": [
+                  "I walk",
+                  "five times",
+                  "as much as",
+                  "he does"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she does",
+                  "as much as",
+                  "You fly",
+                  "ten times"
+                ],
+                "correctSentence": [
+                  "You fly",
+                  "ten times",
+                  "as much as",
+                  "she does"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "as you do",
+                  "as much",
+                  "know half",
+                  "We"
+                ],
+                "correctSentence": [
+                  "We",
+                  "know half",
+                  "as much",
+                  "as you do"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "as we do",
+                  "as much",
+                  "know twice",
+                  "They"
+                ],
+                "correctSentence": [
+                  "They",
+                  "know twice",
+                  "as much",
+                  "as we do"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "visitors as them",
+                  "We have",
+                  "twice",
+                  "as many"
+                ],
+                "correctSentence": [
+                  "We have",
+                  "twice",
+                  "as many",
+                  "visitors as them"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "twice",
+                  "They have",
+                  "books as us",
+                  "as many"
+                ],
+                "correctSentence": [
+                  "They have",
+                  "twice",
+                  "as many",
+                  "books as us"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "as you",
+                  "as much water",
+                  "half",
+                  "I have"
+                ],
+                "correctSentence": [
+                  "I have",
+                  "half",
+                  "as much water",
+                  "as you"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "half",
+                  "as much coffee",
+                  "as him",
+                  "I have"
+                ],
+                "correctSentence": [
+                  "I have",
+                  "half",
+                  "as much coffee",
+                  "as him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "as we do",
+                  "five times",
+                  "as hard",
+                  "They try"
+                ],
+                "correctSentence": [
+                  "They try",
+                  "five times",
+                  "as hard",
+                  "as we do"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "They play",
+                  "as fast",
+                  "three times",
+                  "as we do"
+                ],
+                "correctSentence": [
+                  "They play",
+                  "three times",
+                  "as fast",
+                  "as we do"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/zxxJn9sEbWk",
+                  "sentence": [
+                    "So it is",
+                    null,
+                    "and therefore",
+                    null,
+                    "as",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "wounded",
+                    "twice",
+                    "dangerous"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "wounded"
+                      },
+                      {
+                        "text": "will dead"
+                      },
+                      {
+                        "text": "won dead"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "trice"
+                      },
+                      {
+                        "text": "twice"
+                      },
+                      {
+                        "text": "to ways"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "greater us"
+                      },
+                      {
+                        "text": "injure us"
+                      },
+                      {
+                        "text": "dangerous"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EOrF7P5YVac",
+                  "sentence": [
+                    null,
+                    "times as powerful as",
+                    null,
+                    null,
+                    "today"
+                  ],
+                  "correctAnswer": [
+                    "Three",
+                    "anything",
+                    "available"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Tree"
+                      },
+                      {
+                        "text": "Three"
+                      },
+                      {
+                        "text": "Tear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "all the thing"
+                      },
+                      {
+                        "text": "everything"
+                      },
+                      {
+                        "text": "anything"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "avoidable"
+                      },
+                      {
+                        "text": "saleable"
+                      },
+                      {
+                        "text": "available"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/vTToJJ562sQ",
+                  "sentence": [
+                    "I",
+                    null,
+                    "I",
+                    null,
+                    null,
+                    "times"
+                  ],
+                  "correctAnswer": [
+                    "think",
+                    "lost",
+                    "three"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "sink"
+                      },
+                      {
+                        "text": "think"
+                      },
+                      {
+                        "text": "teen"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lose"
+                      },
+                      {
+                        "text": "lost"
+                      },
+                      {
+                        "text": "list"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "three"
+                      },
+                      {
+                        "text": "tree"
+                      },
+                      {
+                        "text": "tear"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/9Tx1VfET8Y8",
+                  "sentence": [
+                    "Becca, it's not",
+                    null,
+                    "as",
+                    null,
+                    "as it",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "half",
+                    "crazy",
+                    "sounds"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hall"
+                      },
+                      {
+                        "text": "laugh"
+                      },
+                      {
+                        "text": "half"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "crazy"
+                      },
+                      {
+                        "text": "lazy"
+                      },
+                      {
+                        "text": "daisy"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sound"
+                      },
+                      {
+                        "text": "sounds"
+                      },
+                      {
+                        "text": "sounded"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/UJmrlqx8LIU",
+                  "sentence": [
+                    "I hope she is half as",
+                    null,
+                    "and",
+                    null,
+                    "as you",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "lovely",
+                    "amazing",
+                    "are"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "lovely"
+                      },
+                      {
+                        "text": "lively"
+                      },
+                      {
+                        "text": "love me"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "annoying"
+                      },
+                      {
+                        "text": "amazing"
+                      },
+                      {
+                        "text": "amusing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "are"
+                      },
+                      {
+                        "text": "or"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/MEtkHObuBDQ",
+                  "sentence": [
+                    "He is",
+                    null,
+                    "times",
+                    null,
+                    "than me, my",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "ten",
+                    "tougher",
+                    "brother"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "three"
+                      },
+                      {
+                        "text": "ten"
+                      },
+                      {
+                        "text": "the"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "tougher"
+                      },
+                      {
+                        "text": "suffer"
+                      },
+                      {
+                        "text": "taught her"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "boo her"
+                      },
+                      {
+                        "text": "bother"
+                      },
+                      {
+                        "text": "brother"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

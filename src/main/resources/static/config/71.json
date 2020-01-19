@@ -1,0 +1,764 @@
+
+{"lessonTitle": "День 71. Passive",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Игру могут отложить",
+                "variantsToChose": [
+                  "The game may be postponed",
+                  "The game may have been postponed",
+                  "The game may postponed"
+                ],
+                "correctAnswer": "The game may be postponed",
+                "timeout": 10
+              },
+              {
+                "title": "Полет может быть задержан",
+                "variantsToChose": [
+                  "The flight might be delayed",
+                  "The flight might been delayed",
+                  "The flight might have be delayed"
+                ],
+                "correctAnswer": "The flight might be delayed",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Выборы должны быть отменены",
+                "variantsToChose": [
+                  "The elections must have been cancelled",
+                  "The elections must be cancelled",
+                  "The elections must cancelled"
+                ],
+                "correctAnswer": "The elections must be cancelled",
+                "timeout": 10
+              },
+              {
+                "title": "Машина должна быть остановлена",
+                "variantsToChose": [
+                  "The car must have been stopped",
+                  "The car must be stopped",
+                  "The car must have been stopped"
+                ],
+                "correctAnswer": "The car must be stopped",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Ничего нельзя сделать",
+                "variantsToChose": [
+                  "Nothing can done",
+                  "Nothing can be done",
+                  "Nothing can be do"
+                ],
+                "correctAnswer": "Nothing can be done",
+                "timeout": 10
+              },
+              {
+                "title": "Эту болезнь нельзя вылечить",
+                "variantsToChose": [
+                  "This disease mustn't be cured",
+                  "This disease can't be cured",
+                  "This disease shouldn't be cured"
+                ],
+                "correctAnswer": "This disease can't be cured",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Этот контракт стоит подписать",
+                "variantsToChose": [
+                  "This contract should be signed",
+                  "This contract should been signed",
+                  "This contract should signed"
+                ],
+                "correctAnswer": "This contract should be signed",
+                "timeout": 10
+              },
+              {
+                "title": "Эту машину стоит купить",
+                "variantsToChose": [
+                  "This car should be bought",
+                  "This car should bought",
+                  "This car should buy"
+                ],
+                "correctAnswer": "This car should be bought",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Марк должен быть наказан",
+                "variantsToChose": [
+                  "Mark must punish",
+                  "Mark must be punished",
+                  "Mark must been punished"
+                ],
+                "correctAnswer": "Mark must be punished",
+                "timeout": 10
+              },
+              {
+                "title": "Обещания должны исполняться",
+                "variantsToChose": [
+                  "Promises must keep",
+                  "Promises must be kept",
+                  "Promises must been kept"
+                ],
+                "correctAnswer": "Promises must be kept",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Пропаганда должна быть остановлена",
+                "variantsToChose": [
+                  "Propaganda has to been stopped",
+                  "Propaganda is had to be stopped",
+                  "Propaganda has to be stopped"
+                ],
+                "correctAnswer": "Propaganda has to be stopped",
+                "timeout": 10
+              },
+              {
+                "title": "Ошибка должна быть исправлена",
+                "variantsToChose": [
+                  "The mistake is had to be corrected",
+                  "The mistake has to been corrected",
+                  "The mistake has to be corrected"
+                ],
+                "correctAnswer": "The mistake has to be corrected",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "corrected",
+                  "can't",
+                  "be",
+                  "it"
+                ],
+                "correctSentence": [
+                  "it",
+                  "can't",
+                  "be",
+                  "corrected"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "done",
+                  "can't",
+                  "be",
+                  "it"
+                ],
+                "correctSentence": [
+                  "it",
+                  "can't",
+                  "be",
+                  "done"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "this question",
+                  "must",
+                  "be",
+                  "asked"
+                ],
+                "correctSentence": [
+                  "this question",
+                  "must",
+                  "be",
+                  "asked"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "must",
+                  "this man",
+                  "be",
+                  "released"
+                ],
+                "correctSentence": [
+                  "this man",
+                  "must",
+                  "be",
+                  "released"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "should",
+                  "be",
+                  "signed",
+                  "the contract"
+                ],
+                "correctSentence": [
+                  "the contract",
+                  "should",
+                  "be",
+                  "signed"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be",
+                  "should",
+                  "discussed",
+                  "it"
+                ],
+                "correctSentence": [
+                  "it",
+                  "should",
+                  "be",
+                  "discussed"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it",
+                  "to be",
+                  "has",
+                  "done"
+                ],
+                "correctSentence": [
+                  "it",
+                  "has",
+                  "to be",
+                  "done"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "been done",
+                  "it",
+                  "yet"
+                ],
+                "correctSentence": [
+                  "it",
+                  "hasn't",
+                  "been done",
+                  "yet"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be arrested",
+                  "for 5 years",
+                  "Nick",
+                  "may"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "may",
+                  "be arrested",
+                  "for 5 years"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be arrested",
+                  "for 5 years",
+                  "Nick",
+                  "can't"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "can't",
+                  "be arrested",
+                  "for 5 years"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "warned",
+                  "should",
+                  "they",
+                  "be"
+                ],
+                "correctSentence": [
+                  "they",
+                  "should",
+                  "be",
+                  "warned"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "warned",
+                  "have to",
+                  "they",
+                  "be"
+                ],
+                "correctSentence": [
+                  "they",
+                  "have to",
+                  "be",
+                  "warned"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/vZWsLdSrONs",
+                  "sentence": [
+                    "In theory, this",
+                    null,
+                    "can be used to",
+                    null,
+                    "a wide range of brain",
+                    null
+
+
+                  ],
+                  "correctAnswer": [
+                    "therapy",
+                    "treat",
+                    "disorders"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "therapy"
+                      },
+                      {
+                        "text": "theory"
+                      },
+                      {
+                        "text": "thereby"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "trout"
+                      },
+                      {
+                        "text": "trait"
+                      },
+                      {
+                        "text": "treat"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "discords"
+                      },
+                      {
+                        "text": "disorders"
+                      },
+                      {
+                        "text": "decides"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/j_Gk3_6-Aqo",
+                  "sentence": [
+                    "Should we all",
+                    null,
+                    "Christmas",
+                    null,
+                    "that can be",
+                    null,
+                    "from your office?"
+                  ],
+                  "correctAnswer": [
+                    "expect",
+                    "gifts",
+                    "stolen"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "exclude"
+                      },
+                      {
+                        "text": "except"
+                      },
+                      {
+                        "text": "expect"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "gifts"
+                      },
+                      {
+                        "text": "gets"
+                      },
+                      {
+                        "text": "gats"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "stolon"
+                      },
+                      {
+                        "text": "stalion"
+                      },
+                      {
+                        "text": "stolen"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/2Ju_57rD30U",
+                  "sentence": [
+                    "My",
+                    null,
+                    "must be",
+                    null,
+                    "by human",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "chocolate",
+                    "untouched",
+                    "hands"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "checkout"
+                      },
+                      {
+                        "text": "checklist"
+                      },
+                      {
+                        "text": "chocolate"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "untouched"
+                      },
+                      {
+                        "text": "unhitched"
+                      },
+                      {
+                        "text": "untaught"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hinds"
+                      },
+                      {
+                        "text": "hands"
+                      },
+                      {
+                        "text": "hants"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/TS8-wcuRPoc",
+                  "sentence": [
+                    "You know, I",
+                    null,
+                    "something much be",
+                    null,
+                    "in",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "knew",
+                    "rotten",
+                    "Denmark"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "new"
+                      },
+                      {
+                        "text": "knew"
+                      },
+                      {
+                        "text": "nue"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "written"
+                      },
+                      {
+                        "text": "wrote"
+                      },
+                      {
+                        "text": "rotten"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Denmark"
+                      },
+                      {
+                        "text": "Death Mark"
+                      },
+                      {
+                        "text": "Down Quark"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cPX4uHbzL_U",
+                  "sentence": [
+                    "For",
+                    null,
+                    "you have to be lost to find a",
+                    null,
+                    "as can't be",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "certain",
+                    "place",
+                    "found"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "certain"
+                      },
+                      {
+                        "text": "sermon"
+                      },
+                      {
+                        "text": "sudden"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "plates"
+                      },
+                      {
+                        "text": "plays"
+                      },
+                      {
+                        "text": "place"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "found"
+                      },
+                      {
+                        "text": "fawned"
+                      },
+                      {
+                        "text": "phoned"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1xZjDZSF58A",
+                  "sentence": [
+                    "I felt the drug",
+                    null,
+                    "should be",
+                    null,
+                    "as",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "culture",
+                    "represented",
+                    "well"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "culture"
+                      },
+                      {
+                        "text": "color"
+                      },
+                      {
+                        "text": "kilter"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "representing"
+                      },
+                      {
+                        "text": "represents"
+                      },
+                      {
+                        "text": "represented"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "well"
+                      },
+                      {
+                        "text": "vail"
+                      },
+                      {
+                        "text": "while"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

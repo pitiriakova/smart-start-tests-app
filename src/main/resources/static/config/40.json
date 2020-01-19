@@ -1,0 +1,756 @@
+
+{"lessonTitle": "День 40. Present Perfect",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Мы женаты 20 лет",
+                "variantsToChose": [
+                  "We have been married since 20 years",
+                  "We have are married 20 years",
+                  "We have been married for 20 years"
+                ],
+                "correctAnswer": "We have been married for 20 years",
+                "timeout": 10
+              },
+              {
+                "title": "Мы дружим 15 лет",
+                "variantsToChose": [
+                  "We have were friends for 15 years",
+                  "We have been friends since 15 years",
+                  "We have been friends for 15 years"
+                ],
+                "correctAnswer": "We have been friends for 15 years",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Я знаю Джона с 1993",
+                "variantsToChose": [
+                  "I have known John since 1993",
+                  "John has known me since 1993",
+                  "I have known John for 1993"
+                ],
+                "correctAnswer": "I have known John since 1993",
+                "timeout": 10
+              },
+              {
+                "title": "У меня эта машина с 2014",
+                "variantsToChose": [
+                  "I have had this car for 2014",
+                  "I have have this car since 2014",
+                  "I have had this car since 2014"
+                ],
+                "correctAnswer": "I have had this car since 2014",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Он живет в этом доме многие годы",
+                "variantsToChose": [
+                  "He has lived in this house for many years",
+                  "He lived in this house for many years",
+                  "He has lived in this house since many years"
+                ],
+                "correctAnswer": "He has lived in this house for many years",
+                "timeout": 10
+              },
+              {
+                "title": "Ник здесь два дня",
+                "variantsToChose": [
+                  "Nick has been here for two days",
+                  "Nick has was here since two days",
+                  "Nick has been here since two days"
+                ],
+                "correctAnswer": "Nick has been here for two days",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Они живут здесь с сентября",
+                "variantsToChose": [
+                  "They have lived here for September",
+                  "They have lived here since September",
+                  "They have lived here from September"
+                ],
+                "correctAnswer": "They have lived here since September",
+                "timeout": 10
+              },
+              {
+                "title": "Они счастливы с весны",
+                "variantsToChose": [
+                  "They have been happy for spring",
+                  "They have been happy since spring",
+                  "They have been happy from spring"
+                ],
+                "correctAnswer": "They have been happy since spring",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я от тебя давно не получал известий",
+                "variantsToChose": [
+                  "I haven't heard from you since a long time",
+                  "I haven't heard from you for a long time",
+                  "I didn't heard from you for a long time"
+                ],
+                "correctAnswer": "I haven't heard from you for a long time",
+                "timeout": 10
+              },
+              {
+                "title": "Мы не были там три недели",
+                "variantsToChose": [
+                  "We haven't been there since two weeks",
+                  "We haven't been there for two weeks",
+                  "We haven't been there from two weeks"
+                ],
+                "correctAnswer": "We haven't been there for two weeks",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Я был счастлив 2 года назад",
+                "variantsToChose": [
+                  "I was happy two years ago",
+                  "I have been happy for two years",
+                  "I have been happy since two years"
+                ],
+                "correctAnswer": "I was happy two years ago",
+                "timeout": 10
+              },
+              {
+                "title": "Я был богат 3 года назад",
+                "variantsToChose": [
+                  "I was rich 3 years ago",
+                  "I have been rich for 3 years",
+                  "I have been rich since 3 years"
+                ],
+                "correctAnswer": "I was rich 3 years ago",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I haven't",
+                  "Nick",
+                  "seen",
+                  "for 2 years"
+                ],
+                "correctSentence": [
+                  "I haven't",
+                  "seen",
+                  "Nick",
+                  "for 2 years"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Jane",
+                  "hasn't",
+                  "seen me",
+                  "since 1993"
+                ],
+                "correctSentence": [
+                  "Jane",
+                  "hasn't",
+                  "seen me",
+                  "since 1993"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "for 5 years",
+                  "done it",
+                  "hasn't",
+                  "Mike"
+                ],
+                "correctSentence": [
+                  "Mike",
+                  "hasn't",
+                  "done it",
+                  "for 5 years"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "had it",
+                  "for 3 weeks",
+                  "haven't"
+                ],
+                "correctSentence": [
+                  "I",
+                  "haven't",
+                  "had it",
+                  "for 3 weeks"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Mary",
+                  "seen it",
+                  "since 2005",
+                  "hasn't"
+                ],
+                "correctSentence": [
+                  "Mary",
+                  "hasn't",
+                  "seen it",
+                  "since 2005"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "met him",
+                  "Nick",
+                  "hasn't",
+                  "since fall"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "met him",
+                  "since fall"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "seen it",
+                  "lately",
+                  "they",
+                  "have"
+                ],
+                "correctSentence": [
+                  "have",
+                  "they",
+                  "seen it",
+                  "lately"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Nick",
+                  "done it",
+                  "this month",
+                  "has"
+                ],
+                "correctSentence": [
+                  "has",
+                  "Nick",
+                  "done it",
+                  "this month"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "off",
+                  "they",
+                  "have",
+                  "taken"
+                ],
+                "correctSentence": [
+                  "have",
+                  "they",
+                  "taken",
+                  "off"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "has",
+                  "she",
+                  "booked",
+                  "the tickets"
+                ],
+                "correctSentence": [
+                  "has",
+                  "she",
+                  "booked",
+                  "the tickets"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "hasn't",
+                  "visited me",
+                  "lately",
+                  "Nick"
+                ],
+                "correctSentence": [
+                  "Nick",
+                  "hasn't",
+                  "visited me",
+                  "lately"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "lately",
+                  "haven't",
+                  "seen her"
+                ],
+                "correctSentence": [
+                  "you",
+                  "haven't",
+                  "seen her",
+                  "lately"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/3ecP3O7YRKc",
+                  "sentence": [
+                    "Because of my financial",
+                    null,
+                    "I have",
+                    null,
+                    "to",
+                    null,
+                    "all tonight."
+                  ],
+                  "correctAnswer": [
+                    "difficulties",
+                    "decided",
+                    "end it"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "difficult is"
+                      },
+                      {
+                        "text": "difficulties"
+                      },
+                      {
+                        "text": "difficulty"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "decided"
+                      },
+                      {
+                        "text": "devided"
+                      },
+                      {
+                        "text": "decide it"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "ended"
+                      },
+                      {
+                        "text": "sended"
+                      },
+                      {
+                        "text": "end it"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/CAASwEap_OU",
+                  "sentence": [
+                    null,
+                    "but the",
+                    null,
+                    "that I have done what I believe",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "nothing",
+                    "knowledge",
+                    "in"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "anything"
+                      },
+                      {
+                        "text": "no thing"
+                      },
+                      {
+                        "text": "nothing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "know edge"
+                      },
+                      {
+                        "text": "knowledge"
+                      },
+                      {
+                        "text": "no ledge"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "it"
+                      },
+                      {
+                        "text": "ing"
+                      },
+                      {
+                        "text": "in"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/DGyepId9Fmo",
+                  "sentence": [
+                    "Your ",
+                    null,
+                    null,
+                    "my traitor brother",
+                    null,
+                    "done, I had no part."
+                  ],
+                  "correctAnswer": [
+                    "grace",
+                    "whatever",
+                    "has"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "race"
+                      },
+                      {
+                        "text": "grass"
+                      },
+                      {
+                        "text": "grace"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "whatnever"
+                      },
+                      {
+                        "text": "whatever"
+                      },
+                      {
+                        "text": "whatsoever"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "is"
+                      },
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "have"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/MiZT-Iz1RpY",
+                  "sentence": [
+                    "You",
+                    null,
+                    "have got to",
+                    null,
+                    "me some of these incredible",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "simply",
+                    "teach",
+                    "songs"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "simply"
+                      },
+                      {
+                        "text": "are simple"
+                      },
+                      {
+                        "text": "have simply"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "teach"
+                      },
+                      {
+                        "text": "speech"
+                      },
+                      {
+                        "text": "touch"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sons"
+                      },
+                      {
+                        "text": "songs"
+                      },
+                      {
+                        "text": "swans"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/y_yWqYYV0Jc",
+                  "sentence": [
+                    "You have not",
+                    null,
+                    "me how I have",
+                    null,
+                    "my hand since yesterday, which would have been",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "asked",
+                    "hurt",
+                    "polite"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "asked"
+                      },
+                      {
+                        "text": "ask"
+                      },
+                      {
+                        "text": "tasked"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hurt it"
+                      },
+                      {
+                        "text": "hurted"
+                      },
+                      {
+                        "text": "hurt"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "police"
+                      },
+                      {
+                        "text": "pole light"
+                      },
+                      {
+                        "text": "polite"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/LdF4AfSdguw",
+                  "sentence": [
+                    "who ",
+                    null,
+                    null,
+                    "all the magic in the world come true ",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "has",
+                    "seen",
+                    "tonight"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "have"
+                      },
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "his"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "seen"
+                      },
+                      {
+                        "text": "seeing"
+                      },
+                      {
+                        "text": "see"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "two night"
+                      },
+                      {
+                        "text": "tonight"
+                      },
+                      {
+                        "text": "to night"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

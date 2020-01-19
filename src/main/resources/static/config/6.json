@@ -1,0 +1,536 @@
+{
+  "lessonTitle": "День 6. Глагол to be. Погода",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "It is hot __ summer",
+                  "variantsToChose": [
+                    "in",
+                    "at",
+                    "on"
+                  ],
+                  "correctAnswer": "in",
+                  "timeout": 10
+                },
+                {
+                  "title": "It is rainy __ fall",
+                  "variantsToChose": [
+                    "in",
+                    "at",
+                    "on"
+                  ],
+                  "correctAnswer": "in",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "It __ windy today",
+                  "variantsToChose": [
+                    "are",
+                    "am",
+                    "is"
+                  ],
+                  "correctAnswer": "is",
+                  "timeout": 10
+                },
+                {
+                  "title": "It __ snowy today",
+                  "variantsToChose": [
+                    "am",
+                    "are",
+                    "is"
+                  ],
+                  "correctAnswer": "is",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Летом солнечно",
+                  "variantsToChose": [
+                    "It is sunny in fall",
+                    "it is sunny in summer",
+                    "it is sunny in winter"
+                  ],
+                  "correctAnswer": "it is sunny in summer",
+                  "timeout": 10
+                },
+                {
+                  "title": "весной дождливо",
+                  "variantsToChose": [
+                    "it is rainy in summer",
+                    "it is rainy in spring",
+                    "it is rainy in fall"
+                  ],
+                  "correctAnswer": "it is rainy in spring",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "облачно",
+                  "variantsToChose": [
+                    "cloudy",
+                    "it is cloudy",
+                    "it cloudy"
+                  ],
+                  "correctAnswer": "it is cloudy",
+                  "timeout": 10
+                },
+                {
+                  "title": "туманно",
+                  "variantsToChose": [
+                    "foggy",
+                    "it is foggy",
+                    "it foggy"
+                  ],
+                  "correctAnswer": "it is foggy",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "it is cold outside",
+                  "variantsToChose": [
+                    "На улице холодно",
+                    "очень холодно",
+                    "холодно"
+                  ],
+                  "correctAnswer": "На улице холодно",
+                  "timeout": 10
+                },
+                {
+                  "title": "it is too hot",
+                  "variantsToChose": [
+                    "Слишком жарко",
+                    "не жарко",
+                    "очень жарко"
+                  ],
+                  "correctAnswer": "Слишком жарко",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "It is windy __",
+                  "variantsToChose": [
+                    "very",
+                    "so",
+                    "outside"
+                  ],
+                  "correctAnswer": "outside",
+                  "timeout": 10
+                },
+                {
+                  "title": "It is __ rainy",
+                  "variantsToChose": [
+                    "very",
+                    "today",
+                    "outside"
+                  ],
+                  "correctAnswer": "very",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "is",
+                    "it",
+                    "outside",
+                    "rainy"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "rainy",
+                    "outside"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "hot",
+                    "outside",
+                    "is",
+                    "it"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "hot",
+                    "outside"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "it",
+                    "very",
+                    "is",
+                    "cold"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "very",
+                    "cold"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "so",
+                    "it",
+                    "hot",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "so",
+                    "hot"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "in winter",
+                    "is",
+                    "snowy",
+                    "it"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "snowy",
+                    "in winter"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "in spring",
+                    "sunny",
+                    "is",
+                    "it"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "sunny",
+                    "in spring"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "very",
+                    "today",
+                    "it's",
+                    "foggy"
+                  ],
+                  "correctSentence": [
+                    "it's",
+                    "very",
+                    "foggy",
+                    "today"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "very",
+                    "outside",
+                    "cold",
+                    "it's"
+                  ],
+                  "correctSentence": [
+                    "it's",
+                    "very",
+                    "cold",
+                    "outside"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "it's",
+                    "snowy",
+                    "too",
+                    "today"
+                  ],
+                  "correctSentence": [
+                    "it's",
+                    "too",
+                    "snowy",
+                    "today"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "in spring",
+                    "rainy",
+                    "it's",
+                    "very"
+                  ],
+                  "correctSentence": [
+                    "it's",
+                    "very",
+                    "rainy",
+                    "in spring"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "too",
+                    "I",
+                    "cold",
+                    "am"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "too",
+                    "cold"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "is",
+                    "very",
+                    "hot",
+                    "she"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "is",
+                    "very",
+                    "hot"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/f8qyGANE8gg",
+                  "sentence": [
+                    "It's freaking cold",
+                    null,
+                    "here"
+                  ],
+                  "correctAnswer": "out",
+                  "possibleAnswers": [
+                    "our",
+                    "out",
+                    "hour"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/eJ0Di_3v3yw",
+                  "sentence": [
+                    "Domains once glittered like the light on the windy",
+                    null
+                  ],
+                  "correctAnswer": "sea",
+                  "possibleAnswers": [
+                    "sea",
+                    "see",
+                    "she"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/RGkUHdSDZb4",
+                  "sentence": [
+                    "Yeah but it was dull, or foggy, or",
+                    null
+                  ],
+                  "correctAnswer": "grey",
+                  "possibleAnswers": [
+                    "crate",
+                    "grey",
+                    "clay"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NcSF9WD4a98",
+                  "sentence": [
+                    "One of these is warm, and the other is",
+                    null,
+                    "hot"
+                  ],
+                  "correctAnswer": "very",
+                  "possibleAnswers": [
+                    "very",
+                    "yellow",
+                    "waiver"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/xAu3fxSkJVM",
+                  "sentence": [
+                    " By the time anyone's figured out what we've",
+                    null,
+                    ", we'll be in sunny Mexico"
+                  ],
+                  "correctAnswer": "done",
+                  "possibleAnswers": [
+                    "run",
+                    "done",
+                    "drunk"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 1,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/O0fRs7FuWzs",
+                  "sentence": [
+                    "Oh, sure, he made me laugh on a",
+                    null,
+                    "day"
+                  ],
+                  "correctAnswer": "rainy",
+                  "characters": [
+                    "a",
+                    "r",
+                    "n",
+                    "i",
+                    "e",
+                    "y"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

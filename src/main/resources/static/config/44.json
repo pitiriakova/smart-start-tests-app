@@ -1,0 +1,728 @@
+
+{"lessonTitle": "День 44. Future Simple",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Я возможно хорошо проведу время",
+                "variantsToChose": [
+                  "I will probably have a good time",
+                  "I probably be have a good time",
+                  "I will be probably have a good time"
+                ],
+                "correctAnswer": "I will probably have a good time",
+                "timeout": 10
+              },
+              {
+                "title": "У тебя точно будет много друзей",
+                "variantsToChose": [
+                  "You will definitely have a lot of friends",
+                  "You will be definitely have a lot of friends",
+                  "You definitely be have a lot of friends"
+                ],
+                "correctAnswer": "You will definitely have a lot of friends",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "У тебя не будет много возможностей",
+                "variantsToChose": [
+                  "You will have many opportunities",
+                  "You won`t have many opportunities",
+                  "You won't have much opportunities"
+                ],
+                "correctAnswer": "You won`t have many opportunities",
+                "timeout": 10
+              },
+              {
+                "title": "У них не будет много счастья",
+                "variantsToChose": [
+                  "They not have much happiness",
+                  "They won`t have much happiness",
+                  "They will have much happiness"
+                ],
+                "correctAnswer": "They won`t have much happiness",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Сколько домов у нас будет?",
+                "variantsToChose": [
+                  "How many houses we have?",
+                  "How many houses will be we have?",
+                  "How many houses will we have?"
+                ],
+                "correctAnswer": "How many houses will we have?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько машин у него будет?",
+                "variantsToChose": [
+                  "How many cars he have?",
+                  "How many cars will be he have?",
+                  "How many cars will he have?"
+                ],
+                "correctAnswer": "How many cars will he have?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Ей непременно будет весело",
+                "variantsToChose": [
+                  "She will certainly have fun",
+                  "She be will certainly have fun",
+                  "She certainly will fun"
+                ],
+                "correctAnswer": "She will certainly have fun",
+                "timeout": 10
+              },
+              {
+                "title": "У него без сомнения будет много денег",
+                "variantsToChose": [
+                  "He will undoubtedly have a lot of money",
+                  "He be will undoubtedly have a lot of money",
+                  "He undoubtedly will a lot of money"
+                ],
+                "correctAnswer": "He will undoubtedly have a lot of money",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "У меня не будет работы в скором времени",
+                "variantsToChose": [
+                  "I will have a job soon",
+                  "I won`t have a job soon",
+                  "I have won`t a job soon"
+                ],
+                "correctAnswer": "I won`t have a job soon",
+                "timeout": 10
+              },
+              {
+                "title": "У тебя не будет никаких новостей в итоге",
+                "variantsToChose": [
+                  "You will have any news eventually",
+                  "You won`t have any news eventually",
+                  "You have won`t any news eventually"
+                ],
+                "correctAnswer": "You won`t have any news eventually",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Сколько у нее будет детей?",
+                "variantsToChose": [
+                  "How many kids will be she have?",
+                  "How many kids she have?",
+                  "How many kids will she have?"
+                ],
+                "correctAnswer": "How many kids will she have?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько проблем у них будет?",
+                "variantsToChose": [
+                  "How many problems will be they have?",
+                  "How many problems they have?",
+                  "How many problems will they have?"
+                ],
+                "correctAnswer": "How many problems will they have?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I won't",
+                  "tomorrow",
+                  "have",
+                  "any news"
+                ],
+                "correctSentence": [
+                  "I won't",
+                  "have",
+                  "any news",
+                  "tomorrow"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "probably have",
+                  "a good time",
+                  "You",
+                  "will"
+                ],
+                "correctSentence": [
+                  "You",
+                  "will",
+                  "probably have",
+                  "a good time"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "We",
+                  "many",
+                  "opportunities",
+                  "won`t have"
+                ],
+                "correctSentence": [
+                  "We",
+                  "won`t have",
+                  "many",
+                  "opportunities"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "a lot of friends",
+                  "will",
+                  "definitely have",
+                  "They"
+                ],
+                "correctSentence": [
+                  "They",
+                  "will",
+                  "definitely have",
+                  "a lot of friends"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He",
+                  "have",
+                  "won`t",
+                  "much happiness"
+                ],
+                "correctSentence": [
+                  "He",
+                  "won`t",
+                  "have",
+                  "much happiness"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "She",
+                  "have",
+                  "won`t",
+                  "any job"
+                ],
+                "correctSentence": [
+                  "She",
+                  "won`t",
+                  "have",
+                  "any job"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "will",
+                  "How many",
+                  "houses",
+                  "I have"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "houses",
+                  "will",
+                  "I have"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "cars",
+                  "will",
+                  "you have",
+                  "How many"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "cars",
+                  "will",
+                  "you have"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "will we",
+                  "have",
+                  "How many",
+                  "kids"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "kids will",
+                  "we",
+                  "have"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How many",
+                  "will they",
+                  "friends",
+                  "have"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "friends",
+                  "will they",
+                  "have"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "challenges",
+                  "How many",
+                  "will he",
+                  "have"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "challenges",
+                  "will he",
+                  "have"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How many",
+                  "will she",
+                  "problems",
+                  "have"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "problems",
+                  "will she",
+                  "have"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/haUfonmTT0Y",
+                  "sentence": [
+                    "And my next ",null," will probably",null,"to",null
+                  ],
+                  "correctAnswer": [
+                    "idea",
+                    "lead",
+                    "nothing"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "ideal"
+                      },
+                      {
+                        "text": "idea"
+                      },
+                      {
+                        "text": "idiom"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lead"
+                      },
+                      {
+                        "text": "led"
+                      },
+                      {
+                        "text": "lid"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "nosing"
+                      },
+                      {
+                        "text": "nothing"
+                      },
+                      {
+                        "text": "no think"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/arRhmwZsZgU",
+                  "sentence": [
+                    "Well, I guess",null,"chaps will ",null,"have someone else buy",null,"girlfriends presents."
+                  ],
+                  "correctAnswer": [
+                    "those",
+                    "have to",
+                    "their"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "these"
+                      },
+                      {
+                        "text": "whose"
+                      },
+                      {
+                        "text": "those"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "has to"
+                      },
+                      {
+                        "text": "have to"
+                      },
+                      {
+                        "text": "had to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "their"
+                      },
+                      {
+                        "text": "there"
+                      },
+                      {
+                        "text": "they are"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/JdhdV166pFA",
+                  "sentence": [
+                    "Your ",null," will get ",null," from them where",null,"going."
+                  ],
+                  "correctAnswer": [
+                    "brother",
+                    "no help",
+                    "he's"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "brother"
+                      },
+                      {
+                        "text": "mother"
+                      },
+                      {
+                        "text": "father"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "tho' help"
+                      },
+                      {
+                        "text": "to help"
+                      },
+                      {
+                        "text": "no help"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "his"
+                      },
+                      {
+                        "text": "he's"
+                      },
+                      {
+                        "text": "is he"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/AcZVjUYFYp0",
+                  "sentence": [
+                    "All I want",null,"be back where things make sense, where I ",null," have to be afraid",null," the time."
+                  ],
+                  "correctAnswer": [
+                    "is to",
+                    "won't",
+                    "all"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "it"
+                      },
+                      {
+                        "text": "is to"
+                      },
+                      {
+                        "text": "is not"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "want it"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "of"
+                      },
+                      {
+                        "text": "of all"
+                      },
+                      {
+                        "text": "all"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/V0nO_0mbUhY",
+                  "sentence": [
+                    "Do you think that if Leonard and I keep ",null,", ",null," ",null," get bored with me?"
+                  ],
+                  "correctAnswer": [
+                    "dating",
+                    "he'll",
+                    "eventually"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "doting"
+                      },
+                      {
+                        "text": "dieting"
+                      },
+                      {
+                        "text": "dating"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "he is"
+                      },
+                      {
+                        "text": "he'll"
+                      },
+                      {
+                        "text": "he has"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "essentially"
+                      },
+                      {
+                        "text": "sensually"
+                      },
+                      {
+                        "text": "eventually"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/g2poJN0iYYg",
+                  "sentence": [
+                    "But just the fact that you ",null,"",null,"have fun with you guys, ",null, " so sweet."
+
+                  ],
+                  "correctAnswer": [
+                    "want",
+                    "me to",
+                    "that's"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "want"
+                      },
+                      {
+                        "text": "won't"
+                      },
+                      {
+                        "text": "wanted"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "me to"
+                      },
+                      {
+                        "text": "me"
+                      },
+                      {
+                        "text": "to"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "that's"
+                      },
+                      {
+                        "text": "it's"
+                      },
+                      {
+                        "text": "this is"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

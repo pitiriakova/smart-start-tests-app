@@ -1,0 +1,764 @@
+
+{"lessonTitle": "День 72. Passive",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Говорят, что игру могут отложить",
+                "variantsToChose": [
+                  "It is said, that the game may be postponed",
+                  "It is said, that the game may have been postponed",
+                  "It is said, that the game may postponed"
+                ],
+                "correctAnswer": "It is said, that the game may be postponed",
+                "timeout": 10
+              },
+              {
+                "title": "Говорят, что полет может быть задержан",
+                "variantsToChose": [
+                  "It is said, that the flight might be delayed",
+                  "It is said, that the flight might been delayed",
+                  "It is said, that the flight might have be delayed"
+                ],
+                "correctAnswer": "It is said, that the flight might be delayed",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Ожидается, что выборы будут отменены",
+                "variantsToChose": [
+                  "It is expected that the elections must have been cancelled",
+                  "It is expected that the elections must be cancelled",
+                  "It is expected that the elections will be cancelled"
+                ],
+                "correctAnswer": "It is expected that the elections will be cancelled",
+                "timeout": 10
+              },
+              {
+                "title": "Ожидается, что погода будет хорошей",
+                "variantsToChose": [
+                  "It is expected that the weather will be good",
+                  "It is expected that the can be good",
+                  "It expects that the weather will be good"
+                ],
+                "correctAnswer": "It is expected that the weather will be good",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Считается, что ничего нельзя сделать",
+                "variantsToChose": [
+                  "It is considered that nothing can done",
+                  "It is considered that nothing can be done",
+                  "It is considered that nothing can be do"
+                ],
+                "correctAnswer": "It is considered that nothing can be done",
+                "timeout": 10
+              },
+              {
+                "title": "Считается, что эту болезнь нельзя вылечить",
+                "variantsToChose": [
+                  "It is considered that this disease mustn't be cured",
+                  "It is considered that this disease can't be cured",
+                  "It is considered that this disease shouldn't be cured"
+                ],
+                "correctAnswer": "It is considered that this disease can't be cured",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Известно, что Земля вращается вокруг Солнца",
+                "variantsToChose": [
+                  "It is known that the Earth rotates around the Sun",
+                  "It is known that the Earth is rotating around the Sun",
+                  "It knows that the Earth rotates around the Sun"
+                ],
+                "correctAnswer": "It is known that the Earth rotates around the Sun",
+                "timeout": 10
+              },
+              {
+                "title": "Известно, что он родился в 1983",
+                "variantsToChose": [
+                  "It is known that he was born in 1983",
+                  "It knows that he was born in 1983",
+                  "It is knows that he is born in 1983"
+                ],
+                "correctAnswer": "It is known that he was born in 1983",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Считается, что Диана была убита",
+                "variantsToChose": [
+                  "It believed that Diana was killed",
+                  "It is believed that Diana is killed",
+                  "It is believed that Diana was killed"
+                ],
+                "correctAnswer": "It is believed that Diana was killed",
+                "timeout": 10
+              },
+              {
+                "title": "Считается, что на Марсе нет признаков жизни",
+                "variantsToChose": [
+                  "It believes that there are no signs of life on Mars",
+                  "It is believed that there were no signs of life on Mars",
+                  "It is believed that there are no signs of life on Mars"
+                ],
+                "correctAnswer": "It is believed that there are no signs of life on Mars",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Сообщается, что в происшетсвии не было жертв",
+                "variantsToChose": [
+                  "It reports that there are no casualties in the accident",
+                  "It is reported that there are no casualties in the accident",
+                  "It is reported that there were no casualties in the accident"
+                ],
+                "correctAnswer": "It is reported that there were no casualties in the accident",
+                "timeout": 10
+              },
+              {
+                "title": "Сообщается, что ошибка будет исправлена",
+                "variantsToChose": [
+                  "It is reported that the mistake is had to be corrected",
+                  "It is reported that the mistake will be corrected",
+                  "It is reported that the mistake has to be corrected"
+                ],
+                "correctAnswer": "It is reported that the mistake will be corrected",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "believed",
+                  "that",
+                  "he was happy",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "believed",
+                  "that",
+                  "he was happy"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "believed",
+                  "that",
+                  "she was rich",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "believed",
+                  "that",
+                  "she was rich"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "was killed",
+                  "reported",
+                  "it is",
+                  "that Nick"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "reported",
+                  "that Nick",
+                  "was killed"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "was arrested",
+                  "reported",
+                  "it is",
+                  "that Ann"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "reported",
+                  "that Ann",
+                  "was arrested"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is a criminal",
+                  "that Jack",
+                  "known",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "known",
+                  "that Jack",
+                  "is a criminal"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "is unhappy",
+                  "that Kate",
+                  "known",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "known",
+                  "that Kate",
+                  "is unhappy"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it is",
+                  "said that",
+                  "John",
+                  "was fired"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "said that",
+                  "John",
+                  "was fired"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "it is",
+                  "said that",
+                  "the prices",
+                  "will increase"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "said that",
+                  "the prices",
+                  "will increase"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "be fired",
+                  "that we'll",
+                  "it is",
+                  "expected"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "expected",
+                  "that we'll",
+                  "be fired"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "expected",
+                  "it is",
+                  "get married",
+                  "that they'll"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "expected",
+                  "that they'll",
+                  "get married"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "considered",
+                  "that he's",
+                  "the best actor",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "considered",
+                  "that he's",
+                  "the best actor"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "considered",
+                  "that she's",
+                  "the best actor",
+                  "it is"
+                ],
+                "correctSentence": [
+                  "it is",
+                  "considered",
+                  "that she's",
+                  "the best actor"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/re5vT4Fq_9I",
+                  "sentence": [
+                    "Well, then I'm",
+                    null,
+                    "as to why the",
+                    null,
+                    "was never",
+                    null
+
+
+                  ],
+                  "correctAnswer": [
+                    "curious",
+                    "theft",
+                    "reported"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "carious"
+                      },
+                      {
+                        "text": "curious"
+                      },
+                      {
+                        "text": "curates"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fact"
+                      },
+                      {
+                        "text": "theft"
+                      },
+                      {
+                        "text": "thrift"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "resorted"
+                      },
+                      {
+                        "text": "rewarded"
+                      },
+                      {
+                        "text": "reported"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/OqAh6_maNQw",
+                  "sentence": [
+                    "It was",
+                    null,
+                    "of me, as it will be of you if you ever",
+                    null,
+                    "Joffrey's",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "expected",
+                    "become",
+                    "queen"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "exported"
+                      },
+                      {
+                        "text": "aspected"
+                      },
+                      {
+                        "text": "expected"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "become"
+                      },
+                      {
+                        "text": "became"
+                      },
+                      {
+                        "text": "begun"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "clean"
+                      },
+                      {
+                        "text": "quan"
+                      },
+                      {
+                        "text": "queen"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/4fu2g7XOj-M",
+                  "sentence": [
+                    "I'd make",
+                    null,
+                    "it's",
+                    null,
+                    "the company's in",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "sure",
+                    "known",
+                    "business"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "share"
+                      },
+                      {
+                        "text": "sure"
+                      },
+                      {
+                        "text": "chur"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "now in"
+                      },
+                      {
+                        "text": "known"
+                      },
+                      {
+                        "text": "no one"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bigness"
+                      },
+                      {
+                        "text": "baseness"
+                      },
+                      {
+                        "text": "business"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/OX_bDhnJUrw",
+                  "sentence": [
+                    "It is",
+                    null,
+                    "that",
+                    null,
+                    "is thicker than",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "said",
+                    "blood",
+                    "water"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "set"
+                      },
+                      {
+                        "text": "said"
+                      },
+                      {
+                        "text": "seed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "blade"
+                      },
+                      {
+                        "text": "blood"
+                      },
+                      {
+                        "text": "bud"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "warmer"
+                      },
+                      {
+                        "text": "whether"
+                      },
+                      {
+                        "text": "water"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/kJsHalpZqYM",
+                  "sentence": [
+                    "It was",
+                    null,
+                    "a",
+                    null,
+                    "form of",
+                    null,
+                    "in ancient times"
+                  ],
+                  "correctAnswer": [
+                    "considered",
+                    "merciful",
+                    "execution"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "concise"
+                      },
+                      {
+                        "text": "considered"
+                      },
+                      {
+                        "text": "coincide"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "missile"
+                      },
+                      {
+                        "text": "mersial"
+                      },
+                      {
+                        "text": "merciful"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "elocution"
+                      },
+                      {
+                        "text": "execration"
+                      },
+                      {
+                        "text": "execution"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/7Ue5D8YTsyM",
+                  "sentence": [
+                    "It's been",
+                    null,
+                    "that you go to this",
+                    null,
+                    "on Friday",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "alleged",
+                    "club",
+                    "nights"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "allege"
+                      },
+                      {
+                        "text": "obliged"
+                      },
+                      {
+                        "text": "alleged"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "club"
+                      },
+                      {
+                        "text": "cup"
+                      },
+                      {
+                        "text": "curb"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "knights"
+                      },
+                      {
+                        "text": "nights"
+                      },
+                      {
+                        "text": "knits"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+
+{"lessonTitle": "День 21. Общие вопросы ч.3",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Do you want to go there?",
+                "variantsToChose": [
+                  "yes, I am",
+                  "yes, I do",
+                  "yes, I don't"
+                ],
+                "correctAnswer": "yes, I do",
+                "timeout": 10
+              },
+              {
+                "title": "Do you like to travel?",
+                "variantsToChose": [
+                  "no, I don't",
+                  "no, I am not",
+                  "no, I aren't"
+                ],
+                "correctAnswer": "no, I don't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Are you happy?",
+                "variantsToChose": [
+                  "no, I don't",
+                  "no, I am not",
+                  "no, I aren't"
+                ],
+                "correctAnswer": "no, I am not",
+                "timeout": 10
+              },
+              {
+                "title": "Are you hungry",
+                "variantsToChose": [
+                  "no, I don't",
+                  "no, I am not",
+                  "no, I aren't"
+                ],
+                "correctAnswer": "no, I am not",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Он много работает?",
+                "variantsToChose": [
+                  "Does he work much?",
+                  "Does he work a lot?",
+                  "Does he work many?"
+                ],
+                "correctAnswer": "Does he work much?",
+                "timeout": 10
+              },
+              {
+                "title": "Она много зарабатывает?",
+                "variantsToChose": [
+                  "Does she earn a lot?",
+                  "Does she earn many?",
+                  "Does she earn much?"
+                ],
+                "correctAnswer": "Does she earn much?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Ты любишь плавать?",
+                "variantsToChose": [
+                  "Do you like swim?",
+                  "Do you like to swim?",
+                  "Are you like to swim?"
+                ],
+                "correctAnswer": "Do you like to swim?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты хочешь поиграть?",
+                "variantsToChose": [
+                  "Are you want to play?",
+                  "Do you want play?",
+                  "Do you want to play?"
+                ],
+                "correctAnswer": "Do you want to play?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Они много тратят?",
+                "variantsToChose": [
+                  "Do they spend a lot?",
+                  "Do they spend much?",
+                  "Do they spend many?"
+                ],
+                "correctAnswer": "Do they spend much?",
+                "timeout": 10
+              },
+              {
+                "title": "Они много знают?",
+                "variantsToChose": [
+                  "Do they know a lot?",
+                  "Do they know much?",
+                  "Do they know many?"
+                ],
+                "correctAnswer": "Do they know much?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Хочу ли я жить здесь?",
+                "variantsToChose": [
+                  "Does I want to live here?",
+                  "Do I want to live here?",
+                  "Do I want live here?"
+                ],
+                "correctAnswer": "Do I want to live here?",
+                "timeout": 10
+              },
+              {
+                "title": "Хочу ли я здесь работать?",
+                "variantsToChose": [
+                  "Do I want to work here?",
+                  "Do I want work here?",
+                  "Does I want to work here? "
+                ],
+                "correctAnswer": "Do I want to work here?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "much",
+                  "he",
+                  "does",
+                  "study"
+                ],
+                "correctSentence": [
+                  "does",
+                  "he",
+                  "study",
+                  "much"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "she",
+                  "earn",
+                  "much",
+                  "does"
+                ],
+                "correctSentence": [
+                  "does",
+                  "she",
+                  "earn",
+                  "much"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "they",
+                  "do",
+                  "know",
+                  "much"
+                ],
+                "correctSentence": [
+                  "do",
+                  "they",
+                  "know",
+                  "much"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "sleep",
+                  "they",
+                  "do",
+                  "much"
+                ],
+                "correctSentence": [
+                  "do",
+                  "they",
+                  "sleep",
+                  "much"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do you",
+                  "to",
+                  "want",
+                  "go"
+                ],
+                "correctSentence": [
+                  "do you",
+                  "want",
+                  "to",
+                  "go"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "like",
+                  "do you",
+                  "teach",
+                  "to"
+                ],
+                "correctSentence": [
+                  "do you",
+                  "like",
+                  "to",
+                  "teach"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "do",
+                  "you",
+                  "want",
+                  "it"
+                ],
+                "correctSentence": [
+                  "do",
+                  "you",
+                  "want",
+                  "it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "like",
+                  "do",
+                  "it",
+                  "you"
+                ],
+                "correctSentence": [
+                  "do",
+                  "you",
+                  "like",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "like",
+                  "does he",
+                  "work",
+                  "to"
+                ],
+                "correctSentence": [
+                  "does he",
+                  "like",
+                  "to",
+                  "work"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "want",
+                  "study",
+                  "does she",
+                  "to"
+                ],
+                "correctSentence": [
+                  "does she",
+                  "want",
+                  "to",
+                  "study"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте ответ",
+                "firstLineWords": [
+                  "don't",
+                  "I",
+                  "no"
+                ],
+                "correctSentence": [
+                  "no",
+                  "I",
+                  "don't"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте ответ",
+                "firstLineWords": [
+                  "does",
+                  "she",
+                  "yes"
+                ],
+                "correctSentence": [
+                  "yes",
+                  "she",
+                  "does"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/zQ8nhqaV3fA",
+                  "sentence": [
+                    "How would you feel about me using your",
+                    null,
+                    null,
+                    null,
+                    "for plastic surgery?"
+                  ],
+                  "correctAnswer": [
+                    "child",
+                    "support",
+                    "payments"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "mild"
+                      },
+                      {
+                        "text": "charge"
+                      },
+                      {
+                        "text": "child"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "support"
+                      },
+                      {
+                        "text": "portable"
+                      },
+                      {
+                        "text": "supportive"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "layments"
+                      },
+                      {
+                        "text": "payments"
+                      },
+                      {
+                        "text": "perkins"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1RoyMcTewws",
+                  "sentence": [
+                    "Stop being so",
+                    null,
+                    "you’re just asking him out to",
+                    null,
+                    "It’s no big",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "nervous",
+                    "dinner",
+                    "deal"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "never"
+                      },
+                      {
+                        "text": "ordious"
+                      },
+                      {
+                        "text": "nervous"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "inner"
+                      },
+                      {
+                        "text": "dinner"
+                      },
+                      {
+                        "text": "owner"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "deal"
+                      },
+                      {
+                        "text": "kill"
+                      },
+                      {
+                        "text": "dean"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/M4OUrI_KJKg",
+                  "sentence": [
+                    "You’re right. So, is",
+                    null,
+                    null,
+                    null,
+                    "for school?"
+                  ],
+                  "correctAnswer": [
+                    "that",
+                    "your",
+                    "project"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "then"
+                      },
+                      {
+                        "text": "that"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "your"
+                      },
+                      {
+                        "text": "you"
+                      },
+                      {
+                        "text": "year"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "proverb"
+                      },
+                      {
+                        "text": "program"
+                      },
+                      {
+                        "text": "project"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/A69GhtroV3U",
+                  "sentence": [
+                    "You know in",
+                    null,
+                    "grade I",
+                    null,
+                    "the white house",
+                    null,
+                    "sugar cubes."
+                  ],
+                  "correctAnswer": [
+                    "fifth",
+                    "made",
+                    "out of"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "kids"
+                      },
+                      {
+                        "text": "fifth"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "make"
+                      },
+                      {
+                        "text": "made"
+                      },
+                      {
+                        "text": "main"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "aloof"
+                      },
+                      {
+                        "text": "of"
+                      },
+                      {
+                        "text": "out of"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/lTwKM5FIzqY",
+                  "sentence": [
+                    "Stop",
+                    null,
+                    "and go. Before Mike",
+                    null,
+                    null,
+                    "he can do better"
+                  ],
+                  "correctAnswer": [
+                    "stalling",
+                    "figures",
+                    "out"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "strolling"
+                      },
+                      {
+                        "text": "stalling"
+                      },
+                      {
+                        "text": "snoring"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "figure"
+                      },
+                      {
+                        "text": "figures"
+                      },
+                      {
+                        "text": "rigorous"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "our"
+                      },
+                      {
+                        "text": "out"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/46YvIdXsaeQ",
+                  "sentence": [
+                    "Tell me again why I",
+                    null,
+                    null,
+                    null,
+                    "of you?"
+                  ],
+                  "correctAnswer": [
+                    "fought",
+                    "for",
+                    "custody"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fought"
+                      },
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "floor"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fought"
+                      },
+                      {
+                        "text": "for"
+                      },
+                      {
+                        "text": "floor"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "custody"
+                      },
+                      {
+                        "text": "cluster"
+                      },
+                      {
+                        "text": "cap sturdy"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,757 @@
+
+{"lessonTitle": "День 13. Глаголы. Начало",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "He always drinks __",
+                "variantsToChose": [
+                  "much",
+                  "a lot",
+                  "a few"
+                ],
+                "correctAnswer": "a lot",
+                "timeout": 10
+              },
+              {
+                "title": "She often smokes __",
+                "variantsToChose": [
+                  "a lot",
+                  "much",
+                  "a few"
+                ],
+                "correctAnswer": "a lot",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "We don't earn __",
+                "variantsToChose": [
+                  "many",
+                  "a lot",
+                  "much"
+                ],
+                "correctAnswer": "much",
+                "timeout": 10
+              },
+              {
+                "title": "They don't work __",
+                "variantsToChose": [
+                  "a lot",
+                  "many",
+                  "much"
+                ],
+                "correctAnswer": "much",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "She __ drive",
+                "variantsToChose": [
+                  "__",
+                  "don't",
+                  "doesn't"
+                ],
+                "correctAnswer": "doesn't",
+                "timeout": 10
+              },
+              {
+                "title": "He __ work",
+                "variantsToChose": [
+                  "__",
+                  "don't",
+                  "doesn't"
+                ],
+                "correctAnswer": "doesn't",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Она много не тратит",
+                "variantsToChose": [
+                  "She doesn't spend a lot",
+                  "She doesn't spend much",
+                  "She doesn't spend many"
+                ],
+                "correctAnswer": "She doesn't spend much",
+                "timeout": 10
+              },
+              {
+                "title": "Он не пьет много",
+                "variantsToChose": [
+                  "He doesn't drink a lot",
+                  "He doesn't drink many",
+                  "He doesn't drink much"
+                ],
+                "correctAnswer": "He doesn't drink much",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Ты не знаешь много",
+                "variantsToChose": [
+                  "You don't know many",
+                  "You don't know much",
+                  "You don't know a lot"
+                ],
+                "correctAnswer": "You don't know much",
+                "timeout": 10
+              },
+              {
+                "title": "Ты много не работаешь",
+                "variantsToChose": [
+                  "You don't work much",
+                  "You don't work many",
+                  "You don't work a lot"
+                ],
+                "correctAnswer": "You don't work much",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Она много спит",
+                "variantsToChose": [
+                  "She sleeps much",
+                  "She sleep a lot",
+                  "She sleeps a lot"
+                ],
+                "correctAnswer": "She sleeps a lot",
+                "timeout": 10
+              },
+              {
+                "title": "Она много плачет",
+                "variantsToChose": [
+                  "She cry a lot",
+                  "She cry much",
+                  "She cries a lot"
+                ],
+                "correctAnswer": "She cries a lot",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "a",
+                  "earns",
+                  "lot"
+                ],
+                "correctSentence": [
+                  "she",
+                  "earns",
+                  "a",
+                  "lot"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "lot",
+                  "a",
+                  "drives"
+                ],
+                "correctSentence": [
+                  "she",
+                  "drives",
+                  "a",
+                  "lot"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "much",
+                  "don't",
+                  "earn"
+                ],
+                "correctSentence": [
+                  "I",
+                  "don't",
+                  "earn",
+                  "much"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "sleep",
+                  "don't",
+                  "much"
+                ],
+                "correctSentence": [
+                  "you",
+                  "don't",
+                  "sleep",
+                  "much"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "they",
+                  "don't",
+                  "know",
+                  "much"
+                ],
+                "correctSentence": [
+                  "they",
+                  "don't",
+                  "know",
+                  "much"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "we",
+                  "walk",
+                  "much",
+                  "don't"
+                ],
+                "correctSentence": [
+                  "we",
+                  "don't",
+                  "walk",
+                  "much"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "much",
+                  "eat",
+                  "doesn't"
+                ],
+                "correctSentence": [
+                  "he",
+                  "doesn't",
+                  "eat",
+                  "much"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "doesn't",
+                  "she",
+                  "smoke",
+                  "much"
+                ],
+                "correctSentence": [
+                  "she",
+                  "doesn't",
+                  "smoke",
+                  "much"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "work",
+                  "I",
+                  "often",
+                  "a lot"
+                ],
+                "correctSentence": [
+                  "I",
+                  "often",
+                  "work",
+                  "a lot"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "always",
+                  "a lot",
+                  "sleeps",
+                  "he"
+                ],
+                "correctSentence": [
+                  "he",
+                  "always",
+                  "sleeps",
+                  "a lot"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "they",
+                  "work",
+                  "never",
+                  "much"
+                ],
+                "correctSentence": [
+                  "they",
+                  "never",
+                  "work",
+                  "much"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "often",
+                  "he",
+                  "a lot",
+                  "smokes"
+                ],
+                "correctSentence": [
+                  "he",
+                  "often",
+                  "smokes",
+                  "a lot"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+  {
+    "taskId": 1,
+    "title": "аудирование",
+    "testers": {
+      "listening3": {
+        "numberOfTestersToPick": 6,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://youtube.com/embed/yORh7ZTIh-c",
+                "sentence": [
+                  "There's nothing to",
+                  null,
+                  "! He's just",
+                  null,
+                  "guy I",
+                  null,
+                  "with!"
+                ],
+                "correctAnswer": [
+                  "tell",
+                  "some",
+                  "work"
+                ],
+                "possibleAnswers": [
+                  [
+                    {
+                      "text": "fall"
+                    },
+                    {
+                      "text": "hell"
+                    },
+                    {
+                      "text": "tell"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "mom"
+                    },
+                    {
+                      "text": "some"
+                    },
+                    {
+                      "text": "a"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "walk"
+                    },
+                    {
+                      "text": "rock"
+                    },
+                    {
+                      "text": "work"
+                    }
+                  ]
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/rr28j-XLbVg",
+                "sentence": [
+                  "C'mon, you're",
+                  null,
+                  null,
+                  "with the",
+                  null
+                ],
+                "correctAnswer": [
+                  "going",
+                  "out",
+                  "guy"
+                ],
+                "possibleAnswers": [
+                  [
+                    {
+                      "text": "go"
+                    },
+                    {
+                      "text": "getting"
+                    },
+                    {
+                      "text": "going"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "out"
+                    },
+                    {
+                      "text": "our"
+                    },
+                    {
+                      "text": "ant"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "fly"
+                    },
+                    {
+                      "text": "guy"
+                    },
+                    {
+                      "text": "there"
+                    }
+                  ]
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/hVdfi3S5fEk",
+                "sentence": [
+                  "So",
+                  null,
+                  "he",
+                  null,
+                  "a hump? A hump and a",
+                  null
+                ],
+                "correctAnswer": [
+                  "does",
+                  "have",
+                  "hairpiece"
+                ],
+                "possibleAnswers": [
+                  [
+                    {
+                      "text": "does"
+                    },
+                    {
+                      "text": "do"
+                    },
+                    {
+                      "text": "fast"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "had"
+                    },
+                    {
+                      "text": "have"
+                    },
+                    {
+                      "text": "has"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "hairdresser"
+                    },
+                    {
+                      "text": "hair"
+                    },
+                    {
+                      "text": "hairpiece"
+                    }
+                  ]
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/_b198-ZmNck",
+                "sentence": [
+                  null,
+                  "does he",
+                  null,
+                  null
+                ],
+                "correctAnswer": [
+                  "wait",
+                  "eat",
+                  "chalk"
+                ],
+                "possibleAnswers": [
+                  [
+                    {
+                      "text": "hey"
+                    },
+                    {
+                      "text": "height"
+                    },
+                    {
+                      "text": "wait"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "it"
+                    },
+                    {
+                      "text": "eat"
+                    },
+                    {
+                      "text": "eats"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "hulk"
+                    },
+                    {
+                      "text": "chalk"
+                    },
+                    {
+                      "text": "talk"
+                    }
+                  ]
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/kjY1zuYdFVo",
+                "sentence": [
+                  "Just, 'cause, I don't",
+                  null,
+                  "her to go",
+                  null,
+                  "what I",
+                  null,
+                  "through with Carl"
+                ],
+                "correctAnswer": [
+                  "want",
+                  "through",
+                  "went"
+                ],
+                "possibleAnswers": [
+                  [
+                    {
+                      "text": "long"
+                    },
+                    {
+                      "text": "wanna"
+                    },
+                    {
+                      "text": "want"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "through"
+                    },
+                    {
+                      "text": "true"
+                    },
+                    {
+                      "text": "though"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "wimp"
+                    },
+                    {
+                      "text": "went"
+                    },
+                    {
+                      "text": "had"
+                    }
+                  ]
+                ],
+                "timeout": 15
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Listen and choose word correctly",
+                "videoUrl": "https://www.youtube.com/embed/SH_6WWgH1Cw",
+                "sentence": [
+                  "It's",
+                  null,
+                  "two people going out to",
+                  null,
+                  "and- not",
+                  null,
+                  "sex"
+                ],
+                "correctAnswer": [
+                  "just",
+                  "dinner",
+                  "having"
+                ],
+                "possibleAnswers": [
+                  [
+                    {
+                      "text": "just"
+                    },
+                    {
+                      "text": "us"
+                    },
+                    {
+                      "text": "rust"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "dare"
+                    },
+                    {
+                      "text": "dine"
+                    },
+                    {
+                      "text": "dinner"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "hovering"
+                    },
+                    {
+                      "text": "hair"
+                    },
+                    {
+                      "text": "having"
+                    }
+                  ]
+                ],
+                "timeout": 15
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
+}

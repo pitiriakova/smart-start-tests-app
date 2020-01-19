@@ -1,0 +1,558 @@
+{
+  "lessonTitle": "День 2. Глагол to be. Имена",
+  "lessonTasks": [
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Her name is Sasha",
+                  "variantsToChose": [
+                    "его зовут Саша",
+                    "её зовут Саша",
+                    "меня зовут Саша"
+                  ],
+                  "correctAnswer": "её зовут Саша",
+                  "timeout": 10
+                },
+                {
+                  "title": "Her name is not Linda",
+                  "variantsToChose": [
+                    "её зовут Линда",
+                    "её зовут не Линда",
+                    "тебя зовут Линда"
+                  ],
+                  "correctAnswer": "её зовут не Линда",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "His name is John Smith",
+                  "variantsToChose": [
+                    "меня зовут Джон Смит",
+                    "тебя зовут Джон Смит",
+                    "его зовут Джон Смит"
+                  ],
+                  "correctAnswer": "его зовут Джон Смит",
+                  "timeout": 10
+                },
+                {
+                  "title": "His name isn't Kevin James",
+                  "variantsToChose": [
+                    "его зовут Кевин Джеймс",
+                    "я Кевин Джеймс",
+                    "его зовут не Кевин Джеймс"
+                  ],
+                  "correctAnswer": "его зовут не Кевин Джеймс",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "тебя зовут Давид",
+                  "variantsToChose": [
+                    "Your name isn't David",
+                    "You are David",
+                    "His name is David"
+                  ],
+                  "correctAnswer": "You are David",
+                  "timeout": 10
+                },
+                {
+                  "title": "Его зовут Саша",
+                  "variantsToChose": [
+                    "Her name is Sasha",
+                    "His name is Sasha",
+                    "Your name is Sasha"
+                  ],
+                  "correctAnswer": "His name is Sasha",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "You aren't Andrew",
+                  "variantsToChose": [
+                    "Ты Эндрю",
+                    "он не эндрю",
+                    "ты не Эндрю"
+                  ],
+                  "correctAnswer": "ты не Эндрю",
+                  "timeout": 10
+                },
+                {
+                  "title": "They aren't the Rodriguezes",
+                  "variantsToChose": [
+                    "мы не Родригисы",
+                    "они Родригесы",
+                    "они не Родригесы"
+                  ],
+                  "correctAnswer": "они не Родригесы",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Your name __ Steve",
+                  "variantsToChose": [
+                    "are",
+                    "am",
+                    "is"
+                  ],
+                  "correctAnswer": "is",
+                  "timeout": 10
+                },
+                {
+                  "title": "Her name __ Mary",
+                  "variantsToChose": [
+                    "am",
+                    "is",
+                    "are"
+                  ],
+                  "correctAnswer": "is",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "The Smiths are rich",
+                  "variantsToChose": [
+                    "Смиты известны",
+                    "Смиты счастливы",
+                    "Смиты богаты"
+                  ],
+                  "correctAnswer": "Смиты богаты",
+                  "timeout": 10
+                },
+                {
+                  "title": "The Joneses are weak",
+                  "variantsToChose": [
+                    "Джонсы слабы",
+                    "Джонсы мудры",
+                    "Джонсы стары"
+                  ],
+                  "correctAnswer": "Джонсы слабы",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "his name",
+                    "is",
+                    "John",
+                    "not"
+                  ],
+                  "correctSentence": [
+                    "his name",
+                    "is",
+                    "not",
+                    "John"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "not",
+                    "her name",
+                    "Mary",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "her name",
+                    "is",
+                    "not",
+                    "Mary"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "Black",
+                    "are",
+                    "John"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "are",
+                    "John",
+                    "Black"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "you",
+                    "Rodriguez",
+                    "are",
+                    "Mary"
+                  ],
+                  "correctSentence": [
+                    "you",
+                    "are",
+                    "Mary",
+                    "Rodriguez"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "Joe",
+                    "am"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "am",
+                    "Joe"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "name",
+                    "Joe",
+                    "is",
+                    "my"
+                  ],
+                  "correctSentence": [
+                    "my",
+                    "name",
+                    "is",
+                    "joe"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "John",
+                    "Black",
+                    "is",
+                    "it"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "John",
+                    "Black"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "it",
+                    "gray",
+                    "masha",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "it",
+                    "is",
+                    "masha",
+                    "gray"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "Linda",
+                    "clever",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "Linda",
+                    "is",
+                    "clever"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "silly",
+                    "John",
+                    "not",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "John",
+                    "is",
+                    "not",
+                    "silly"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "John",
+                    "strong",
+                    "Black",
+                    "is"
+                  ],
+                  "correctSentence": [
+                    "John",
+                    "Black",
+                    "is",
+                    "strong"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "Masha",
+                    "is",
+                    "Gray",
+                    "young"
+                  ],
+                  "correctSentence": [
+                    "Masha",
+                    "Gray",
+                    "is",
+                    "young"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening1": {
+          "numberOfTestersToPick": 5,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/tG27F6Kvqes",
+                  "sentence": [
+                    "what",
+                    null,
+                    "my mom?"
+                  ],
+                  "correctAnswer": "about",
+                  "possibleAnswers": [
+                    "above",
+                    "about",
+                    "bite"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/5jJK7QLaRDE",
+                  "sentence": [
+                    "Your sister is",
+                    null
+                  ],
+                  "correctAnswer": "crazy",
+                  "possibleAnswers": [
+                    "candy",
+                    "crazy",
+                    "razor"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/cg2BdSF0KsM",
+                  "sentence": [
+                    null,
+                    "brother is a killer"
+                  ],
+                  "correctAnswer": "your",
+                  "possibleAnswers": [
+                    "your",
+                    "you",
+                    "her"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/lYaA7jhwKhs",
+                  "sentence": [
+                    "Tell him that his",
+                    null,
+                    "his jack in the box surprise, gangster daddy, paid us a visit"
+                  ],
+                  "correctAnswer": "dad",
+                  "possibleAnswers": [
+                    "sad",
+                    "dan",
+                    "dad"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/Ul6vbKZTOx8",
+                  "sentence": [
+                    "Yes,",
+                    null,
+                    "name is Rebecca"
+                  ],
+                  "correctAnswer": "her",
+                  "possibleAnswers": [
+                    "her",
+                    "his",
+                    "or"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        },
+        "listening2": {
+          "numberOfTestersToPick": 2,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/hV3BlRmBIIo",
+                  "sentence": [
+                    "Your",
+                    null,
+                    "is Natalie, isn't it?"
+                  ],
+                  "correctAnswer": "name",
+                  "characters": [
+                    "a",
+                    "r",
+                    "n",
+                    "i",
+                    "e",
+                    "m"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and type word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/aGBsjtiLG7w",
+                  "sentence": [
+                    "Her",
+                    null,
+                    "'s name is Mommy"
+                  ],
+                  "correctAnswer": "mother",
+                  "characters": [
+                    "h",
+                    "m",
+                    "e",
+                    "t",
+                    "d",
+                    "r",
+                    "o",
+                    "z"
+                  ],
+                  "timeout": 200
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+
+{"lessonTitle": "День 32. Past Simple",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Ник всегда был доволен своей работой",
+                "variantsToChose": [
+                  "Nick was always satisfied by his job",
+                  "Nick was always satisfied with his job",
+                  "Nick was always with his job satisfied"
+                ],
+                "correctAnswer": "Nick was always satisfied with his job",
+                "timeout": 10
+              },
+              {
+                "title": "Мэри была пьяна на прошлых выходных",
+                "variantsToChose": [
+                  "Mary was drunk last weekend",
+                  "Mary was drink last weekend",
+                  "Mary were drunk last weekend"
+                ],
+                "correctAnswer": "Mary was drunk last weekend",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Джек был виновен?",
+                "variantsToChose": [
+                  "Was Jack guilty?",
+                  "Were Jack guilting?",
+                  "Were Jack guilty?"
+                ],
+                "correctAnswer": "Was Jack guilty?",
+                "timeout": 10
+              },
+              {
+                "title": "Они когда-либо были трезвы?",
+                "variantsToChose": [
+                  "Were they ever sober?",
+                  "Were they ever sobered?",
+                  "Was they ever sobered?"
+                ],
+                "correctAnswer": "Were they ever sober?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Мы были невинны и спокойны",
+                "variantsToChose": [
+                  "We was innocent and calm",
+                  "We were innocent and calm",
+                  "We were been innocent and calm"
+                ],
+                "correctAnswer": "We were innocent and calm",
+                "timeout": 10
+              },
+              {
+                "title": "Родители всегда были неудовлетвореными",
+                "variantsToChose": [
+                  "Parents were always unsatisfied",
+                  "Parents was always unsatisfied",
+                  "Parents weren't always unsatisfied"
+                ],
+                "correctAnswer": "Parents were always unsatisfied",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Почему ты был таким нервным?",
+                "variantsToChose": [
+                  "Why was you so nervous?",
+                  "Why were you so nervousing?",
+                  "Why were you so nervous?"
+                ],
+                "correctAnswer": "Why were you so nervous?",
+                "timeout": 10
+              },
+              {
+                "title": "Она была спокойна во время выступления?",
+                "variantsToChose": [
+                  "Was she calm during the performance?",
+                  "Was she calmed during the performance?",
+                  "Was she calm during the performing?"
+                ],
+                "correctAnswer": "Was she calm during the performance?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Я не был доволен твоей речью",
+                "variantsToChose": [
+                  "I wasn't satisfied with your speech",
+                  "I wasn't unsatisfied with your speech",
+                  "I wan't satisfying with your speech"
+                ],
+                "correctAnswer": "I wasn't satisfied with your speech",
+                "timeout": 10
+              },
+              {
+                "title": "Она не была пьяна неделю назад",
+                "variantsToChose": [
+                  "She wasn't drunk a week ago",
+                  "She wasn't drunking a week ago",
+                  "She weren't drunk a week ago"
+                ],
+                "correctAnswer": "She wasn't drunk a week ago",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Они не были виновны в этой трагедии",
+                "variantsToChose": [
+                  "They weren't guilty in this tragedy",
+                  "They weren't guiltying in this tragedy",
+                  "They wasn't guilty in this tragedy"
+                ],
+                "correctAnswer": "They weren't guilty in this tragedy",
+                "timeout": 10
+              },
+              {
+                "title": "Мы не были удовлетворены едой",
+                "variantsToChose": [
+                  "We weren't satisfy with the food",
+                  "We weren't satisfing with the food",
+                  "We weren't satisfied with the food"
+                ],
+                "correctAnswer": "We weren't satisfied with the food",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "was",
+                  "he",
+                  "last night",
+                  "sober"
+                ],
+                "correctSentence": [
+                  "he",
+                  "was",
+                  "sober",
+                  "last night"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "she",
+                  "was",
+                  "not",
+                  "satisfied"
+                ],
+                "correctSentence": [
+                  "she",
+                  "was",
+                  "not",
+                  "satisfied"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "why",
+                  "about it",
+                  "nervous",
+                  "were you"
+                ],
+                "correctSentence": [
+                  "why",
+                  "were you",
+                  "nervous",
+                  "about it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "I",
+                  "was",
+                  "yesterday",
+                  "drunk"
+                ],
+                "correctSentence": [
+                  "was",
+                  "I",
+                  "drunk",
+                  "yesterday"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "always",
+                  "they",
+                  "rich",
+                  "were"
+                ],
+                "correctSentence": [
+                  "they",
+                  "were",
+                  "always",
+                  "rich"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "calm",
+                  "she",
+                  "often",
+                  "was"
+                ],
+                "correctSentence": [
+                  "she",
+                  "was",
+                  "often",
+                  "calm"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "you",
+                  "were",
+                  "yesterday",
+                  "satisfied"
+                ],
+                "correctSentence": [
+                  "you",
+                  "were",
+                  "satisfied",
+                  "yesterday"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "happy",
+                  "she",
+                  "was",
+                  "why"
+                ],
+                "correctSentence": [
+                  "why",
+                  "was",
+                  "she",
+                  "happy"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "they",
+                  "sober",
+                  "when",
+                  "were"
+                ],
+                "correctSentence": [
+                  "when",
+                  "were",
+                  "they",
+                  "sober"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "he",
+                  "innocent",
+                  "why",
+                  "was"
+                ],
+                "correctSentence": [
+                  "why",
+                  "was",
+                  "he",
+                  "innocent"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "with me",
+                  "she",
+                  "wasn't",
+                  "satisfied"
+                ],
+                "correctSentence": [
+                  "she",
+                  "wasn't",
+                  "satisfied",
+                  "with me"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "he",
+                  "wasn't",
+                  "drunk",
+                  "on Monday"
+                ],
+                "correctSentence": [
+                  "he",
+                  "wasn't",
+                  "drunk",
+                  "on Monday"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/ZZnW5l72bIg",
+                  "sentence": [
+                    "You",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "pulled",
+                    "my",
+                    "authorization"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "fulled"
+                      },
+                      {
+                        "text": "pulled"
+                      },
+                      {
+                        "text": "should"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "my"
+                      },
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "mi"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "authorization"
+                      },
+                      {
+                        "text": "mason"
+                      },
+                      {
+                        "text": "occasion"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/NIpFntwHEW8",
+                  "sentence": [
+                    "Yes,",
+                    null,
+                    null,
+                    "you",
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "why",
+                    "are",
+                    "yelling"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "what"
+                      },
+                      {
+                        "text": "where"
+                      },
+                      {
+                        "text": "why"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "a"
+                      },
+                      {
+                        "text": "bar"
+                      },
+                      {
+                        "text": "are"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "swearing"
+                      },
+                      {
+                        "text": "begging"
+                      },
+                      {
+                        "text": "yelling"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/L2Tc-tHrCWQ",
+                  "sentence": [
+                    "No MRIs, no",
+                    null,
+                    null,
+                    "no",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "imaging",
+                    "studies",
+                    "labs"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "finishing"
+                      },
+                      {
+                        "text": "interesting"
+                      },
+                      {
+                        "text": "imaging"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "bodies"
+                      },
+                      {
+                        "text": "studies"
+                      },
+                      {
+                        "text": "dummies"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "flags"
+                      },
+                      {
+                        "text": "has"
+                      },
+                      {
+                        "text": "labs"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/b14ohTx69PE",
+                  "sentence": [
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "I",
+                    "am",
+                    "angry"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hi"
+                      },
+                      {
+                        "text": "I"
+                      },
+                      {
+                        "text": "my"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mad"
+                      },
+                      {
+                        "text": "and"
+                      },
+                      {
+                        "text": "am"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "angry"
+                      },
+                      {
+                        "text": "hungry"
+                      },
+                      {
+                        "text": "amber"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/6jLIwf_Dxfo",
+                  "sentence": [
+                    "You’re",
+                    null,
+                    "a",
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "risking",
+                    "patient’s",
+                    "life"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "whiskey"
+                      },
+                      {
+                        "text": "bringing"
+                      },
+                      {
+                        "text": "risking"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "panties"
+                      },
+                      {
+                        "text": "pork"
+                      },
+                      {
+                        "text": "patient’s"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "life"
+                      },
+                      {
+                        "text": "live"
+                      },
+                      {
+                        "text": "leave"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/whqTdpxOhlk",
+                  "sentence": [
+                    "I",
+                    null,
+                    null,
+                    "are two",
+                    null,
+                    "points."
+                  ],
+                  "correctAnswer": [
+                    "assume",
+                    "those",
+                    "separate"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "assume"
+                      },
+                      {
+                        "text": "abuse"
+                      },
+                      {
+                        "text": "accuse"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "whose"
+                      },
+                      {
+                        "text": "those"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "step of rate"
+                      },
+                      {
+                        "text": "afraid"
+                      },
+                      {
+                        "text": "separate"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

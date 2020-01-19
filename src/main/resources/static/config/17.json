@@ -1,0 +1,760 @@
+
+{"lessonTitle": "День 17. Инфинитив",
+  "lessonTasks":[
+    {
+      "title": "грамматика",
+      "taskId": 0,
+      "testers": {
+        "ru-en": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Он хочет быть доктором",
+                  "variantsToChose": [
+                    "he wants to is a doctor",
+                    "he want to be a doctor",
+                    "he wants to be a doctor"
+                  ],
+                  "correctAnswer": "he wants to be a doctor",
+                  "timeout": 10
+                },
+                {
+                  "title": "Она хочет быть учителем",
+                  "variantsToChose": [
+                    "she wants to is a teacher",
+                    "she want to be a teacher",
+                    "she wants to be a teacher"
+                  ],
+                  "correctAnswer": "she wants to be a teacher",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "He plans __ a lot of fruit",
+                  "variantsToChose": [
+                    "have",
+                    "to has",
+                    "to have"
+                  ],
+                  "correctAnswer": "to have",
+                  "timeout": 10
+                },
+                {
+                  "title": "She deserves __ a friend",
+                  "variantsToChose": [
+                    "to have",
+                    "to has",
+                    "have"
+                  ],
+                  "correctAnswer": "to have",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "I hope __ stay",
+                  "variantsToChose": [
+                    "to",
+                    "to be",
+                    "to have"
+                  ],
+                  "correctAnswer": "to",
+                  "timeout": 10
+                },
+                {
+                  "title": "I hope __ leave",
+                  "variantsToChose": [
+                    "to",
+                    "to be",
+                    "to have"
+                  ],
+                  "correctAnswer": "to",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Ему не нужно быть там",
+                  "variantsToChose": [
+                    "He doesn't need to be there",
+                    "He doesn't need be there",
+                    "He doesn't needs to there"
+                  ],
+                  "correctAnswer": "He doesn't need to be there",
+                  "timeout": 10
+                },
+                {
+                  "title": "Мне не нужно путешествовать",
+                  "variantsToChose": [
+                    "I don't need to be travel",
+                    "I don't need travel",
+                    "I don't need to travel"
+                  ],
+                  "correctAnswer": "I don't need to travel",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "I don't deserve __ rich",
+                  "variantsToChose": [
+                    "to",
+                    "for",
+                    "to be"
+                  ],
+                  "correctAnswer": "to be",
+                  "timeout": 10
+                },
+                {
+                  "title": "She doesn't deserve __ happy",
+                  "variantsToChose": [
+                    "to",
+                    "for",
+                    "to be"
+                  ],
+                  "correctAnswer": "to be",
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "He doesn't want to _ me",
+                  "variantsToChose": [
+                    "apologizes to",
+                    "apologize to",
+                    "apologize for"
+                  ],
+                  "correctAnswer": "apologize to",
+                  "timeout": 10
+                },
+                {
+                  "title": "He doesn't want to __ me",
+                  "variantsToChose": [
+                    "talks to",
+                    "talk",
+                    "talk to"
+                  ],
+                  "correctAnswer": "talk to",
+                  "timeout": 10
+                }
+              ]
+            }
+          ]
+        },
+        "dnd": {
+          "numberOfTestersToPick": 4,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "want",
+                    "I",
+                    "happy",
+                    "to be"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "want",
+                    "to be",
+                    "happy"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "she",
+                    "rich",
+                    "to be",
+                    "wants"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "wants",
+                    "to be",
+                    "rich"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "he",
+                    "travel",
+                    "to",
+                    "likes"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "likes",
+                    "to",
+                    "travel"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "likes",
+                    "to",
+                    "cook",
+                    "she"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "likes",
+                    "to",
+                    "cook"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "I",
+                    "to have",
+                    "deserve",
+                    "a friend"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "deserve",
+                    "to have",
+                    "a friend"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "deserves",
+                    "she",
+                    "fun",
+                    "to have"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "deserves",
+                    "to have",
+                    "fun"
+                  ],
+                  "timeout": 10
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "to be",
+                    "promise",
+                    "a policeman",
+                    "I"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "promise",
+                    "to be",
+                    "a policeman"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "promise",
+                    "to be",
+                    "happy",
+                    "I"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "promise",
+                    "to be",
+                    "happy"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "want",
+                    "I",
+                    "swim",
+                    "to"
+                  ],
+                  "correctSentence": [
+                    "I",
+                    "want",
+                    "to",
+                    "swim"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "wants",
+                    "to",
+                    "he",
+                    "cook"
+                  ],
+                  "correctSentence": [
+                    "he",
+                    "wants",
+                    "to",
+                    "cook"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "they",
+                    "to be",
+                    "hope",
+                    "rich"
+                  ],
+                  "correctSentence": [
+                    "they",
+                    "hope",
+                    "to be",
+                    "rich"
+                  ],
+                  "timeout": 10
+                },
+                {
+                  "title": "Составьте предложение",
+                  "firstLineWords": [
+                    "to be",
+                    "she",
+                    "hates",
+                    "sick"
+                  ],
+                  "correctSentence": [
+                    "she",
+                    "hates",
+                    "to be",
+                    "sick"
+                  ],
+                  "timeout": 10
+                }
+
+              ]
+            }
+
+          ]
+        }
+      }
+    },
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/nj5ALegqvaE",
+                  "sentence": [
+                    "Can I",
+                    null,
+                    "you",
+                    null,
+                    "coffee?",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "get",
+                    "some",
+                    "decaff"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "give"
+                      },
+                      {
+                        "text": "get"
+                      },
+                      {
+                        "text": "said"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "some"
+                      },
+                      {
+                        "text": "madam"
+                      },
+                      {
+                        "text": "ma'am"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "decaff"
+                      },
+                      {
+                        "text": "two cups"
+                      },
+                      {
+                        "text": "nocaff"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/nzBLGNqSopI",
+                  "sentence": [
+                    "Okay, everybody, this is Rachel,",
+                    null,
+                    null,
+                    "High",
+                    null,
+                    "This is everybody"
+
+                  ],
+                  "correctAnswer": [
+                    "another",
+                    "lincoln",
+                    "survivor"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "the other"
+                      },
+                      {
+                        "text": "that other"
+                      },
+                      {
+                        "text": "another"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "milton"
+                      },
+                      {
+                        "text": "lincoln"
+                      },
+                      {
+                        "text": "lanton"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "lighter"
+                      },
+                      {
+                        "text": "rider"
+                      },
+                      {
+                        "text": "survivor"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/zoj6oGwEI1E",
+                  "sentence": [
+                    "So you",
+                    null,
+                    null,
+                    "us now, or are we",
+                    null,
+                    "for four wet bridesmaids?"
+                  ],
+                  "correctAnswer": [
+                    "wanna",
+                    "tell",
+                    "waiting"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "want to"
+                      },
+                      {
+                        "text": "wanna"
+                      },
+                      {
+                        "text": "want"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "tell"
+                      },
+                      {
+                        "text": "smell"
+                      },
+                      {
+                        "text": "hell"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "meeting"
+                      },
+                      {
+                        "text": "dating"
+                      },
+                      {
+                        "text": "waiting"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/nh6SMEg6EVU",
+                  "sentence": [
+                    "Oh God!",
+                    null,
+                    "it started about a",
+                    null,
+                    null,
+                    "before the wedding."
+
+                  ],
+                  "correctAnswer": [
+                    "well",
+                    "half",
+                    "hour"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "hell"
+                      },
+                      {
+                        "text": "smell"
+                      },
+                      {
+                        "text": "well"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "everyone"
+                      },
+                      {
+                        "text": "half"
+                      },
+                      {
+                        "text": "everybody"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hour"
+                      },
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "hear"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/1zUHdPPN4ZI",
+                  "sentence": [
+                    "I was in the",
+                    null,
+                    "where we were",
+                    null,
+                    "all the",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "room",
+                    "keeping",
+                    "presents"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "room"
+                      },
+                      {
+                        "text": "groom"
+                      },
+                      {
+                        "text": "loom"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "keeping"
+                      },
+                      {
+                        "text": "reeping"
+                      },
+                      {
+                        "text": "freaking"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "legends"
+                      },
+                      {
+                        "text": "sweats"
+                      },
+                      {
+                        "text": "presents"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/EpRtiBeb_PQ",
+                  "sentence": [
+                    "and I was looking at this",
+                    null,
+                    null,
+                    "This really gorgeous Lamauge",
+                    null,
+                    "boat"
+
+                  ],
+                  "correctAnswer": [
+                    "gravy",
+                    "boat",
+                    "gravy"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "navy"
+                      },
+                      {
+                        "text": "gravy"
+                      },
+                      {
+                        "text": "madly"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "goat"
+                      },
+                      {
+                        "text": "float"
+                      },
+                      {
+                        "text": "boat"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "navy"
+                      },
+                      {
+                        "text": "gravy"
+                      },
+                      {
+                        "text": "madly"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+
+{"lessonTitle": "День 49. There is, there are",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "В спальне стул",
+                "variantsToChose": [
+                  "There is a chair in the bedroom",
+                  "Is there a chair in the bedroom",
+                  "The chair in the bedroom"
+                ],
+                "correctAnswer": "There is a chair in the bedroom",
+                "timeout": 10
+              },
+              {
+                "title": "В комнате диван",
+                "variantsToChose": [
+                  "There is a sofa in the room",
+                  "Is there a sofa in the room",
+                  "A sofa in the room"
+                ],
+                "correctAnswer": "There is a sofa in the room",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "В моем офисе много оборудования",
+                "variantsToChose": [
+                  "There a lot of equipment in my office",
+                  "There is a lot of equipment in my office",
+                  "There are a lot of equipment in my office"
+                ],
+                "correctAnswer": "There is a lot of equipment in my office",
+                "timeout": 10
+              },
+              {
+                "title": "В гардеробе несколько коробок",
+                "variantsToChose": [
+                  "There a few boxes in the closet",
+                  "There is a few boxes in the closet",
+                  "There are a few boxes in the closet"
+                ],
+                "correctAnswer": "There are a few boxes in the closet",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Там нет мебели",
+                "variantsToChose": [
+                  "There is't any furniture there",
+                  "There aren't any furniture there",
+                  "There are furniture there"
+                ],
+                "correctAnswer": "There is't any furniture there",
+                "timeout": 10
+              },
+              {
+                "title": "В апартаментах нет мебели",
+                "variantsToChose": [
+                  "There isn't any furniture in the apartment",
+                  "There aren't any furniture in the apartment",
+                  "There aren't any furniture in the apartment"
+                ],
+                "correctAnswer": "There isn't any furniture in the apartment",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "В твоей комнате есть стул?",
+                "variantsToChose": [
+                  "Is there a chair in your room?",
+                  "There is a chair in your room?",
+                  "Are there a chair in your room?"
+                ],
+                "correctAnswer": "Is there a chair in your room?",
+                "timeout": 10
+              },
+              {
+                "title": "В его кухне много оборудования?",
+                "variantsToChose": [
+                  "Is there much equipment in his kitchen?",
+                  "Are there much equipment in his kitchen?",
+                  "There is much equipment in his kitchen?"
+                ],
+                "correctAnswer": "Is there much equipment in his kitchen?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "В аудитории есть столы?",
+                "variantsToChose": [
+                  "There is any desks in the classroom?",
+                  "There are any desks in the classroom?",
+                  "Are there any desks in the classroom?"
+                ],
+                "correctAnswer": "Are there any desks in the classroom?",
+                "timeout": 10
+              },
+              {
+                "title": "В больнице есть стулья?",
+                "variantsToChose": [
+                  "There is any chairs in the hospital?",
+                  "There are any chairs in the hospital?",
+                  "Are there any chairs in the hospital?"
+                ],
+                "correctAnswer": "Are there any chairs in the hospital?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Сколько там спален?",
+                "variantsToChose": [
+                  "How many bedrooms are there?",
+                  "How many bedrooms there are?",
+                  "How many bedrooms is there?"
+                ],
+                "correctAnswer": "How many bedrooms are there?",
+                "timeout": 10
+              },
+              {
+                "title": "Сколько там диванов?",
+                "variantsToChose": [
+                  "How many sofas are there?",
+                  "How many sofas there are?",
+                  "How many sofas is there?"
+                ],
+                "correctAnswer": "How many sofas are there?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There are",
+                  "bookcases",
+                  "a lot of",
+                  "in the library"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "a lot of",
+                  "bookcases",
+                  "in the library"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "There are",
+                  "tables",
+                  "a few",
+                  "in the kitchen"
+                ],
+                "correctSentence": [
+                  "There are",
+                  "a few",
+                  "tables",
+                  "in the kitchen"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "a closet",
+                  "in his apartment",
+                  "Is"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a closet",
+                  "in his apartment"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "is",
+                  "a chair",
+                  "in his office"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "there",
+                  "a chair",
+                  "in his office"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "in that room",
+                  "Are there",
+                  "any",
+                  "bookcases"
+                ],
+                "correctSentence": [
+                  "Are there",
+                  "any",
+                  "bookcases",
+                  "in that room"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "in her room",
+                  "Are there",
+                  "tables",
+                  "any"
+                ],
+                "correctSentence": [
+                  "Are there",
+                  "any",
+                  "tables",
+                  "in her room"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "in Nick's house",
+                  "much",
+                  "Is there",
+                  "furniture"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "much",
+                  "furniture",
+                  "in Nick's house"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "equipment",
+                  "in Sara's garage",
+                  "Is there",
+                  "much"
+                ],
+                "correctSentence": [
+                  "Is there",
+                  "much",
+                  "equipment",
+                  "in Sara's garage"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "there",
+                  "How many",
+                  "tables",
+                  "are"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "tables",
+                  "are",
+                  "there"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How many",
+                  "are",
+                  "there",
+                  "windows"
+                ],
+                "correctSentence": [
+                  "How many",
+                  "windows",
+                  "are",
+                  "there"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How much",
+                  "soap",
+                  "there",
+                  "is"
+                ],
+                "correctSentence": [
+                  "How much",
+                  "soap",
+                  "is",
+                  "there"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "How much",
+                  "shampoo",
+                  "there",
+                  "is"
+                ],
+                "correctSentence": [
+                  "How much",
+                  "shampoo",
+                  "is",
+                  "there"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/VmQEL2RSCeY",
+                  "sentence": [
+                    null,
+                    "is a",
+                    null,
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "There",
+                    "pregnant",
+                    "man"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Here"
+                      },
+                      {
+                        "text": "They are"
+                      },
+                      {
+                        "text": "There"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "pregnant"
+                      },
+                      {
+                        "text": "arrogant"
+                      },
+                      {
+                        "text": "poison"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fan"
+                      },
+                      {
+                        "text": "man"
+                      },
+                      {
+                        "text": "dan"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/fX1jysjbc2A",
+                  "sentence": [
+                    null,
+                    "is",
+                    null,
+                    null,
+                    "us, May"
+                  ],
+                  "correctAnswer": [
+                    "There",
+                    "nothing",
+                    "between"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Their"
+                      },
+                      {
+                        "text": "There"
+                      },
+                      {
+                        "text": "They"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "nothing"
+                      },
+                      {
+                        "text": "something"
+                      },
+                      {
+                        "text": "anything"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "button"
+                      },
+                      {
+                        "text": "bitten"
+                      },
+                      {
+                        "text": "between"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/3L2k5qCAh-I",
+                  "sentence": [
+                    null,
+                    null,
+                    "is",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "The",
+                    "apartment",
+                    "okay"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "He"
+                      },
+                      {
+                        "text": "The"
+                      },
+                      {
+                        "text": "We"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "apartment"
+                      },
+                      {
+                        "text": "compartment"
+                      },
+                      {
+                        "text": "department"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "hockey"
+                      },
+                      {
+                        "text": "okay"
+                      },
+                      {
+                        "text": "echo"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KpIuTMsMtPc",
+                  "sentence": [
+                    "I just",
+                    null,
+                    "you don't",
+                    null,
+                    "sleeping on the",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "hope",
+                    "mind",
+                    "sofa"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "lope"
+                      },
+                      {
+                        "text": "dope"
+                      },
+                      {
+                        "text": "hope"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mind"
+                      },
+                      {
+                        "text": "climb"
+                      },
+                      {
+                        "text": "running"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "loaf"
+                      },
+                      {
+                        "text": "sofa"
+                      },
+                      {
+                        "text": "so far"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/TmllfFEMHCY",
+                  "sentence": [
+                    "This",
+                    null,
+                    null,
+                    "is very",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "living",
+                    "room",
+                    "dramatic"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "living"
+                      },
+                      {
+                        "text": "loving"
+                      },
+                      {
+                        "text": "leaving"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "rune"
+                      },
+                      {
+                        "text": "roam"
+                      },
+                      {
+                        "text": "room"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "dogmatic"
+                      },
+                      {
+                        "text": "traumatic"
+                      },
+                      {
+                        "text": "dramatic"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/BCIXeQ336tU",
+                  "sentence": [
+                    null,
+                    "is",
+                    null,
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "Where",
+                    "my",
+                    "furniture"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Where"
+                      },
+                      {
+                        "text": "We are"
+                      },
+                      {
+                        "text": "Wear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mine"
+                      },
+                      {
+                        "text": "my"
+                      },
+                      {
+                        "text": "maine"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "furniture"
+                      },
+                      {
+                        "text": "armature"
+                      },
+                      {
+                        "text": "finisher"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+
+{"lessonTitle": "День 52. THE BEST DAY",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Это лучший компьютер",
+                "variantsToChose": [
+                  "This is the best computer",
+                  "This are the best computer",
+                  "These are the best computer"
+                ],
+                "correctAnswer": "This is the best computer",
+                "timeout": 10
+              },
+              {
+                "title": "Это худший знак",
+                "variantsToChose": [
+                  "This is the worst sign",
+                  "This are the worst sign",
+                  "These are the worst sign"
+                ],
+                "correctAnswer": "This is the worst sign",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Это самое быстрое животное",
+                "variantsToChose": [
+                  "This is a faster animal",
+                  "This the fastest animal",
+                  "This is the fastest animal"
+                ],
+                "correctAnswer": "This is the fastest animal",
+                "timeout": 10
+              },
+              {
+                "title": "Это самая медленная рыба",
+                "variantsToChose": [
+                  "This is a slower fish",
+                  "This is the slowest fish",
+                  "This the slowest fish"
+                ],
+                "correctAnswer": "This is the slowest fish",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Это самые оживленные аэропорты",
+                "variantsToChose": [
+                  "This is the busiest airports",
+                  "This are the busiest airports",
+                  "These are the busiest airports"
+                ],
+                "correctAnswer": "These are the busiest airports",
+                "timeout": 10
+              },
+              {
+                "title": "Это самые большие здания",
+                "variantsToChose": [
+                  "This is the biggest buildings",
+                  "Those are the biggest buildings",
+                  "These are the biggest buildings"
+                ],
+                "correctAnswer": "These are the biggest buildings",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "То самые умные студенты",
+                "variantsToChose": [
+                  "Those are the smartest students",
+                  "This is the smartest students",
+                  "These are the smartest students"
+                ],
+                "correctAnswer": "Those are the smartest students",
+                "timeout": 10
+              },
+              {
+                "title": "То самые счастливые семьи",
+                "variantsToChose": [
+                  "Those are the happiest families",
+                  "This is the happiest families",
+                  "These are the happiest families"
+                ],
+                "correctAnswer": "Those are the happiest families",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Это самый интересный фильм?",
+                "variantsToChose": [
+                  "This is the most interesting movie?",
+                  "Is those the most interesting movie?",
+                  "Is this the most interesting movie?"
+                ],
+                "correctAnswer": "Is this the most interesting movie?",
+                "timeout": 10
+              },
+              {
+                "title": "Это самый скучный урок?",
+                "variantsToChose": [
+                  "This is the most boring lesson?",
+                  "Is those the most boring lesson?",
+                  "Is this the most boring lesson?"
+                ],
+                "correctAnswer": "Is this the most boring lesson?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Это самые щедрые люди?",
+                "variantsToChose": [
+                  "Are this the most generous people?",
+                  "Are these the most generous people?",
+                  "Are that the most generous people?"
+                ],
+                "correctAnswer": "Are these the most generous people?",
+                "timeout": 10
+              },
+              {
+                "title": "Это самые полезные задания?",
+                "variantsToChose": [
+                  "Are this the most rewarding task?",
+                  "Are these the most rewarding tasks?",
+                  "Are that the most rewarding tasks?"
+                ],
+                "correctAnswer": "Are these the most rewarding tasks?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "street",
+                  "This is",
+                  "the",
+                  "busiest"
+                ],
+                "correctSentence": [
+                  "This is",
+                  "the",
+                  "busiest",
+                  "street"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "worst",
+                  "place",
+                  "This is",
+                  "the"
+                ],
+                "correctSentence": [
+                  "This is",
+                  "the",
+                  "worst",
+                  "place"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "interesting subject",
+                  "the most",
+                  "that",
+                  "Is"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "that",
+                  "the most",
+                  "interesting subject"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Is",
+                  "the most",
+                  "that",
+                  "important thing"
+                ],
+                "correctSentence": [
+                  "Is",
+                  "that",
+                  "the most",
+                  "important thing"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the",
+                  "cats",
+                  "smartest",
+                  "Those are"
+                ],
+                "correctSentence": [
+                  "Those are",
+                  "the",
+                  "smartest",
+                  "cats"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "the",
+                  "Those are",
+                  "teachers",
+                  "best"
+                ],
+                "correctSentence": [
+                  "Those are",
+                  "the",
+                  "best",
+                  "teachers"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "responsible",
+                  "the most",
+                  "Are these",
+                  "kids"
+                ],
+                "correctSentence": [
+                  "Are these",
+                  "the most",
+                  "responsible",
+                  "kids"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Are these",
+                  "people",
+                  "the most",
+                  "reliable"
+                ],
+                "correctSentence": [
+                  "Are these",
+                  "the most",
+                  "reliable",
+                  "people"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Is that",
+                  "the",
+                  "most",
+                  "wonderful day"
+                ],
+                "correctSentence": [
+                  "Is that",
+                  "the",
+                  "most",
+                  "wonderful day"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте вопрос",
+                "firstLineWords": [
+                  "Is that",
+                  "the",
+                  "most",
+                  "dangerous area"
+                ],
+                "correctSentence": [
+                  "Is that",
+                  "the",
+                  "most",
+                  "dangerous area"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "This",
+                  "is the",
+                  "player",
+                  "slowest"
+                ],
+                "correctSentence": [
+                  "This",
+                  "is the",
+                  "slowest",
+                  "player"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "This",
+                  "is the",
+                  "picture",
+                  "cutest"
+                ],
+                "correctSentence": [
+                  "This",
+                  "is the",
+                  "cutest",
+                  "picture"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/e0cv5ZaYM-w",
+                  "sentence": [
+                    "You are the most",
+                    null,
+                    null,
+                    "I've ever",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "perfect",
+                    "man",
+                    "known"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "protect"
+                      },
+                      {
+                        "text": "prefect"
+                      },
+                      {
+                        "text": "perfect"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "mean"
+                      },
+                      {
+                        "text": "men"
+                      },
+                      {
+                        "text": "man"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "known"
+                      },
+                      {
+                        "text": "now"
+                      },
+                      {
+                        "text": "no"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/z3B8QX9KeGQ",
+                  "sentence": [
+                    "The",
+                    null,
+                    "kind of",
+                    null,
+                    "is a",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "best",
+                    "prize",
+                    "surprise"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "lest"
+                      },
+                      {
+                        "text": "best"
+                      },
+                      {
+                        "text": "beast"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "prize"
+                      },
+                      {
+                        "text": "price"
+                      },
+                      {
+                        "text": "pries"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "supreme"
+                      },
+                      {
+                        "text": "suppress"
+                      },
+                      {
+                        "text": "surprise"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/-bzzDrU8ieM",
+                  "sentence": [
+                    "The most",
+                    null,
+                    null,
+                    null
+                  ],
+                  "correctAnswer": [
+                    "beautiful",
+                    "baby",
+                    "ever"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "beautified"
+                      },
+                      {
+                        "text": "beautiful"
+                      },
+                      {
+                        "text": "beautifying"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "baby"
+                      },
+                      {
+                        "text": "bebe"
+                      },
+                      {
+                        "text": "boby"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "over"
+                      },
+                      {
+                        "text": "a wear"
+                      },
+                      {
+                        "text": "ever"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/6VsDQv_pIMs",
+                  "sentence": [
+                    "I",
+                    null,
+                    "have the slowest boat in the",
+                    null,
+                    "and I'd",
+                    null
+
+                  ],
+                  "correctAnswer": [
+                    "could",
+                    "fleet",
+                    "win"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "would"
+                      },
+                      {
+                        "text": "could"
+                      },
+                      {
+                        "text": "come"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "fleet"
+                      },
+                      {
+                        "text": "feat"
+                      },
+                      {
+                        "text": "feet"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "green"
+                      },
+                      {
+                        "text": "mean"
+                      },
+                      {
+                        "text": "win"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/3m091B_E8BE",
+                  "sentence": [
+                    null,
+                    "are all",
+                    null,
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "Who",
+                    "these",
+                    "people"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "Who"
+                      },
+                      {
+                        "text": "Woo"
+                      },
+                      {
+                        "text": "Whoa"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "these"
+                      },
+                      {
+                        "text": "thees"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "pee pal"
+                      },
+                      {
+                        "text": "people"
+                      },
+                      {
+                        "text": "pee ball"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/MiC-rwZWfbI",
+                  "sentence": [
+                    "What",
+                    null,
+                    null,
+                    null,
+                    "?"
+                  ],
+                  "correctAnswer": [
+                    "killed",
+                    "those",
+                    "men"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "willed"
+                      },
+                      {
+                        "text": "killed"
+                      },
+                      {
+                        "text": "kleened"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "those"
+                      },
+                      {
+                        "text": "this"
+                      },
+                      {
+                        "text": "these"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "man"
+                      },
+                      {
+                        "text": "mad"
+                      },
+                      {
+                        "text": "men"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

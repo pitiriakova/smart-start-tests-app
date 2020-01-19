@@ -1,0 +1,757 @@
+
+{"lessonTitle": "День 60. Able to and Have to",
+  "lessonTasks":[
+  {
+    "title": "грамматика",
+    "taskId": 0,
+    "testers": {
+      "ru-en": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "I __ go to school everyday",
+                "variantsToChose": [
+                  "am able",
+                  "can to",
+                  "have to"
+                ],
+                "correctAnswer": "have to",
+                "timeout": 10
+              },
+              {
+                "title": "I __ work five days per week",
+                "variantsToChose": [
+                  "can to",
+                  "am able",
+                  "have to"
+                ],
+                "correctAnswer": "have to",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Why __ she try that?",
+                "variantsToChose": [
+                  "wouldn`t",
+                  "has to",
+                  "wouldn`t not"
+                ],
+                "correctAnswer": "wouldn`t",
+                "timeout": 10
+              },
+              {
+                "title": "Why __ them go to his birthday?",
+                "variantsToChose": [
+                  "wouldn`t",
+                  "couldn`t",
+                  "wouldn`t not"
+                ],
+                "correctAnswer": "wouldn`t",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Она не должна это обьяснять",
+                "variantsToChose": [
+                  "She must not explain it",
+                  "She has not to explain it",
+                  "She doesn`t have to explain it"
+                ],
+                "correctAnswer": "She doesn`t have to explain it",
+                "timeout": 10
+              },
+              {
+                "title": "Она не должна водить машину",
+                "variantsToChose": [
+                  "She must not drive a car",
+                  "She has not to drive a car",
+                  "She doesn`t have to drive a car"
+                ],
+                "correctAnswer": "She doesn`t have to drive a car",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Мы сможем предоставить информацию",
+                "variantsToChose": [
+                  "We will can to provide the information",
+                  "We will be able to provide the information",
+                  "We be able to provide the information"
+                ],
+                "correctAnswer": "We will be able to provide the information",
+                "timeout": 10
+              },
+              {
+                "title": "Мы сможем связаться с офисом",
+                "variantsToChose": [
+                  "We will can to contact the office",
+                  "We will be able to contact the office",
+                  "We be able to contact the office"
+                ],
+                "correctAnswer": "We will be able to contact the office",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Ты должен сохранять все документы?",
+                "variantsToChose": [
+                  "Do you have save all the documents?",
+                  "Do you has to save all the documents?",
+                  "Do you have to save all the documents?"
+                ],
+                "correctAnswer": "Do you have to save all the documents?",
+                "timeout": 10
+              },
+              {
+                "title": "Ты должен отменять все встречи?",
+                "variantsToChose": [
+                  "Do you have cancel all the meetings?",
+                  "Do you has to cancel all the meetings?",
+                  "Do you have to cancel all the meetings?"
+                ],
+                "correctAnswer": "Do you have to cancel all the meetings?",
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Она должна быть врачем?",
+                "variantsToChose": [
+                  "Does she have to be a doctor?",
+                  "Do she have to be a doctor?",
+                  "Does she has to be a doctor?"
+                ],
+                "correctAnswer": "Does she have to be a doctor?",
+                "timeout": 10
+              },
+              {
+                "title": "Она должна быть учителем?",
+                "variantsToChose": [
+                  "Does she have to be a teacher?",
+                  "Do she have to be a teacher?",
+                  "Does she has to be a teacher?"
+                ],
+                "correctAnswer": "Does she have to be a teacher?",
+                "timeout": 10
+              }
+            ]
+          }
+        ]
+      },
+      "dnd": {
+        "numberOfTestersToPick": 4,
+        "testers": [
+          {
+            "concreteTesterIdOfType": 0,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "home",
+                  "has to",
+                  "She",
+                  "go"
+                ],
+                "correctSentence": [
+                  "She",
+                  "has to",
+                  "go",
+                  "home"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "sister",
+                  "has to",
+                  "She",
+                  "visit"
+                ],
+                "correctSentence": [
+                  "She",
+                  "has to",
+                  "visit",
+                  "sister"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 1,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "don`t",
+                  "run",
+                  "have to"
+                ],
+                "correctSentence": [
+                  "I",
+                  "don`t",
+                  "have to",
+                  "run"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "I",
+                  "don`t",
+                  "swim",
+                  "have to"
+                ],
+                "correctSentence": [
+                  "I",
+                  "don`t",
+                  "have to",
+                  "swim"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 2,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "report it",
+                  "able to",
+                  "will be",
+                  "They"
+                ],
+                "correctSentence": [
+                  "They",
+                  "will be",
+                  "able to",
+                  "report it"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "notice it",
+                  "able to",
+                  "will be",
+                  "They"
+                ],
+                "correctSentence": [
+                  "They",
+                  "will be",
+                  "able to",
+                  "notice it"
+                ],
+                "timeout": 10
+              }
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 3,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "weren`t",
+                  "able to",
+                  "pay the bills",
+                  "They"
+                ],
+                "correctSentence": [
+                  "They",
+                  "weren`t",
+                  "able to",
+                  "pay the bills"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "They",
+                  "able to",
+                  "weren`t",
+                  "stop him"
+                ],
+                "correctSentence": [
+                  "They",
+                  "weren`t",
+                  "able to",
+                  "stop him"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 4,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "He was",
+                  "not able",
+                  "the team",
+                  "to persuade"
+                ],
+                "correctSentence": [
+                  "He was",
+                  "not able",
+                  "to persuade",
+                  "the team"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "to promise",
+                  "He was",
+                  "not able",
+                  "it"
+                ],
+                "correctSentence": [
+                  "He was",
+                  "not able",
+                  "to promise",
+                  "it"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          },
+          {
+            "concreteTesterIdOfType": 5,
+            "alternatives": [
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Does she",
+                  "have to",
+                  "a swimsuit",
+                  "wear"
+                ],
+                "correctSentence": [
+                  "Does she",
+                  "have to",
+                  "wear",
+                  "a swimsuit"
+                ],
+                "timeout": 10
+              },
+              {
+                "title": "Составьте предложение",
+                "firstLineWords": [
+                  "Does she",
+                  "persuade",
+                  "students",
+                  "have to"
+                ],
+                "correctSentence": [
+                  "Does she",
+                  "have to",
+                  "persuade",
+                  "students"
+                ],
+                "timeout": 10
+              }
+
+            ]
+          }
+
+        ]
+      }
+    }
+  },
+
+
+    {
+      "taskId": 1,
+      "title": "аудирование",
+      "testers": {
+        "listening3": {
+          "numberOfTestersToPick": 6,
+          "testers": [
+            {
+              "concreteTesterIdOfType": 0,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/C65RjvA98ac",
+                  "sentence": [
+                    "You're able to do",
+                    null,
+                    "during the day and then still",
+                    null,
+                    ", still do your",
+                    null,
+                    "?"
+
+                  ],
+                  "correctAnswer": [
+                    "drugs",
+                    "function",
+                    "job"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "ducks"
+                      },
+                      {
+                        "text": "drugs"
+                      },
+                      {
+                        "text": "drums"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "function"
+                      },
+                      {
+                        "text": "furcation"
+                      },
+                      {
+                        "text": "fiction"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "jam"
+                      },
+                      {
+                        "text": "bob"
+                      },
+                      {
+                        "text": "job"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 1,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/pSry-0m8jc8",
+                  "sentence": [
+                    "This is how Tyler and i",
+                    null,
+                    "able to have Fight",
+                    null,
+                    "every night of the",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "were",
+                    "Club",
+                    "week"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "went"
+                      },
+                      {
+                        "text": "were"
+                      },
+                      {
+                        "text": "wear"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "Clot"
+                      },
+                      {
+                        "text": "Clan"
+                      },
+                      {
+                        "text": "Club"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "weak"
+                      },
+                      {
+                        "text": "week"
+                      },
+                      {
+                        "text": "which"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 2,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/lSkVCkT_S6o",
+                  "sentence": [
+                    "I'm not going to be able to continue this conversation"
+                  ],
+                  "correctAnswer": [
+                    "able",
+                    "continue",
+                    "conversation"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "able"
+                      },
+                      {
+                        "text": "table"
+                      },
+                      {
+                        "text": "label"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "continual"
+                      },
+                      {
+                        "text": "continue"
+                      },
+                      {
+                        "text": "continuum"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "confirmation"
+                      },
+                      {
+                        "text": "conformation"
+                      },
+                      {
+                        "text": "conversation"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 3,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/KF05eJv9ZRY",
+                  "sentence": [
+                    "Next time we",
+                    null,
+                    ", I'll",
+                    null,
+                    "have to",
+                    null,
+                    "you"
+                  ],
+                  "correctAnswer": [
+                    "meet",
+                    "probably",
+                    "salute"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "meat"
+                      },
+                      {
+                        "text": "meet"
+                      },
+                      {
+                        "text": "mit"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "probably"
+                      },
+                      {
+                        "text": "properly"
+                      },
+                      {
+                        "text": "promptly"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "solute"
+                      },
+                      {
+                        "text": "salute"
+                      },
+                      {
+                        "text": "salad"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 4,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/SgS7X2j8KY8",
+                  "sentence": [
+                    "That's",
+                    null,
+                    "you have to",
+                    null,
+                    "it a",
+                    null
+                  ],
+                  "correctAnswer": [
+                    "why",
+                    "keep",
+                    "secret"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "why"
+                      },
+                      {
+                        "text": "by"
+                      },
+                      {
+                        "text": "wait"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "kept"
+                      },
+                      {
+                        "text": "whip"
+                      },
+                      {
+                        "text": "keep"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "sea creat"
+                      },
+                      {
+                        "text": "socket"
+                      },
+                      {
+                        "text": "secret"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            },
+            {
+              "concreteTesterIdOfType": 5,
+              "alternatives": [
+                {
+                  "title": "Listen and choose word correctly",
+                  "videoUrl": "https://www.youtube.com/embed/6V95DwfCkgs",
+                  "sentence": [
+                    "And there's",
+                    null,
+                    null,
+                    "I have to say to you",
+                    null,
+                    "away"
+                  ],
+                  "correctAnswer": [
+                    "something",
+                    "important",
+                    "right"
+                  ],
+                  "possibleAnswers": [
+                    [
+                      {
+                        "text": "something"
+                      },
+                      {
+                        "text": "anything"
+                      },
+                      {
+                        "text": "all the thing"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "imported"
+                      },
+                      {
+                        "text": "important"
+                      },
+                      {
+                        "text": "imputed"
+                      }
+                    ],
+                    [
+                      {
+                        "text": "right"
+                      },
+                      {
+                        "text": "light"
+                      },
+                      {
+                        "text": "bite"
+                      }
+                    ]
+                  ],
+                  "timeout": 15
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
